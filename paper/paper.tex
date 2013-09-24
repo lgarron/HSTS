@@ -1,0 +1,131 @@
+% Template appropriated from another paper. May contain lots of legacy commands.
+
+%\documentclass[times,10pt,twocolumn]{article} 
+\documentclass[conference]{./IEEEtran}
+%\documentclass{./IEEEtran}
+\usepackage{amsmath, amsthm, amssymb, latexsym}
+%\usepackage{latex8}
+%\usepackage{times}
+
+\usepackage[hyphens]{url}
+\usepackage{pgfplots}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{subfigure}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{graphicx}
+\usepackage{tkz-graph}
+\usepackage{bookmark}
+%\usepackage[pdfstartview=FitH,colorlinks,linkcolor=blue,citecolor=blue]{hyperref}
+
+\newcommand{\mysubsection}[1]{%
+  \medskip
+  \refstepcounter{subsection}%
+    \everypar={%
+      {\setbox0=\lastbox}% Remove the indentation
+      \addcontentsline{toc}{subsection}{#1}%
+      \textbf{{#1}.}
+      \everypar={}%
+    }%
+  \ignorespaces
+  % Dummy text in case there is no following text line (e.g. if the next thing is an itemize)
+  %{\ }
+  % TODO: MAKE SURE NO LINES ARE SWALLOWED BY THIS COMMAND.
+}
+
+\renewenvironment{leftbar}[1][\hsize]
+{%
+    \def\FrameCommand
+    {%
+        {\color{black}\vrule width 1pt}%
+        \hspace{0pt}%must no space.
+        \fboxsep=\FrameSep%
+    }%
+    \MakeFramed{\hsize#1\advance\hsize-\width\FrameRestore}%
+}
+{\endMakeFramed}
+
+
+\newcommand{\algorithm}[2]{
+%\begin{left bar}
+\medskip
+{\large \sc {#1}}
+\medskip
+\hrule
+\smallskip
+{#2}
+\smallskip
+\hrule
+\medskip
+%\end{leftbar}
+}
+
+
+\newcommand{\todo}[1]{\textcolor{red}{\textbf{[TODO: #1]}}}
+\newcommand{\td}[2]{\textcolor{red}{\textbf{[TODO: {\it{#1}} #2]}}}
+
+
+% Display all indices for development.
+\newcommand{\draftonly}[1]{{\textcolor{orange}{#1}}}
+%\renewcommand{\draftonly}[1]{}
+
+% Theorem definitions
+\theoremstyle{plain} 
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}{Definition} 
+
+% For dev: page numbers with date.
+\usepackage{fancyhdr}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{Page \thepage\draftonly{\ -- Version: \today}}
+\pagestyle{fancy}
+
+\begin{document}
+
+
+\title{The State of HSTS Deployment}
+
+\author{}
+
+% \author{
+% Roy Frostig, Dan Boneh \\
+% Stanford University \\
+% \{rf,dabo\}@cs.stanford.edu \\
+% \and
+% Nicko van Someren \\
+% Good Technology Inc. \\
+% nicko@good.com
+% }
+
+\maketitle
+
+% Page numbers on first page.
+\thispagestyle{fancy}
+
+\begin{abstract}
+
+\end{abstract}
+
+\section{Introduction}
+\label{sec:intro}
+
+\section{An Overview HSTS}
+
+\section{Current Deployment by Top Sites}
+
+\section{Common Deployment Patterns}
+
+\section{Common Mistakes}
+
+\section{Correct Practices}
+
+\section{Browser Considerations}
+
+\section{Conclusion}
+
+
+\bibliographystyle{./IEEEtran}
+\bibliography{paper}
+
+\end{document}
