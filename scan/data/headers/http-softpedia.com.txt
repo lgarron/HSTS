@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 00:43:36 GMT
+Date: Wed, 25 Sep 2013 05:06:21 GMT
 Server: Apache
 Location: http://www.softpedia.com/
 Content-Type: text/html; charset=iso-8859-1
-
+

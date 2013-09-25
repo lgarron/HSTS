@@ -1,6 +1,6 @@
 HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 02:09:19 GMT
+Date: Wed, 25 Sep 2013 05:23:03 GMT
 Server: Apache
 Location: http://e.nikkei.com/
 Content-Type: text/html; charset=iso-8859-1
-
+

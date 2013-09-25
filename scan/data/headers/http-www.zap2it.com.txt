@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache-Coyote/1.1
-x-Instance-Name: i2latisrapp20
-Content-Type: text/html;charset=ISO-8859-1
-Cache-Control: private, max-age=43
-Date: Wed, 25 Sep 2013 03:20:57 GMT
-Connection: keep-alive
-

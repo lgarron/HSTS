@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 05:19:25 GMT
+Server: Apache
+P3P: policyref="http://www.advfn.com/w3c/p3p.xml", CP="OTI DSP COR ADM DEV TAI PSD IVA IVD CON HIS OUR DEL UNR IND LOC"
+Location: http://www.advfn.com
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

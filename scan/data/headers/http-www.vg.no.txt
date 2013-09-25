@@ -1,17 +1,17 @@
 HTTP/1.1 200 OK
 Server: Apache/2.2.15 (CentOS)
 X-VG-WebServer: vgfront-web-01, vgfront-web-01
-Last-Modified: Wed, 25 Sep 2013 03:16:21 GMT
+Last-Modified: Wed, 25 Sep 2013 05:05:35 GMT
 Cache-Control: must-revalidate
 Content-Type: text/html; charset=UTF-8
 X-VG-SolveMe: uggc://jjj.it.ab/ynxfrgngg.ugzy
 X-HashTwo: VGFront
 X-VG-Phoenix: Identical Urls, I'm not a mobile so i should be at the old solution, FRONT
-Date: Wed, 25 Sep 2013 03:24:13 GMT
-Age: 471
+Date: Wed, 25 Sep 2013 05:15:30 GMT
+Age: 594
 Connection: keep-alive
-X-Cache: HIT:2275
+X-Cache: HIT:5081
 Vary: Accept-Encoding,User-Agent
-X-VG-WebCache: m323-varnish-01
-X-Age: 471
-
+X-VG-WebCache: m323-varnish-02
+X-Age: 594
+

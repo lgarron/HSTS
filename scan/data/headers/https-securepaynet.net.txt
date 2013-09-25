@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 146
-Location: https://www.securepaynet.net/
-Server: Microsoft-IIS/7.0
-P3P: policyref="/w3c/p3p.xml", CP="COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR OUR IND"
-Date: Wed, 25 Sep 2013 03:23:58 GMT
-

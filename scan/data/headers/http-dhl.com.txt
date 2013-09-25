@@ -1,8 +1,6 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:36:54 GMT
+Date: Wed, 25 Sep 2013 05:15:07 GMT
 Location: http://www.dhl.com/
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: TSe9b671=29795199574263e1c85087235b0aa96dfe3e68a5a612f09352425a56; Path=/
-Transfer-Encoding: chunked
-
+

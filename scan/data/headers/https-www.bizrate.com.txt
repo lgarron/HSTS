@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.1.19
+Date: Wed, 25 Sep 2013 05:21:27 GMT
+Content-Length: 0
+Connection: keep-alive
+Location: http://www.bizrate.com/
+

@@ -1,4 +1,4 @@
 HTTP/1.1 302 Found
-Set-Cookie: cl_b=QDpUhH8l4xGOFrGQGxukuAp5zz4;path=/;domain=.craigslist.org;expires=Fri, 01-Jan-2038 00:00:00 GMT
+Set-Cookie: cl_b=qj5QOKIl4xGUJafGvoNQkwtgG5Y;path=/;domain=.craigslist.org;expires=Fri, 01-Jan-2038 00:00:00 GMT
 Location: http://geo.craigslist.org/
-
+

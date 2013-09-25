@@ -1,6 +1,10 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 01:28:57 GMT
-Server: Apache/2.2.14 (Unix) PHP/5.2.12
+Date: Wed, 25 Sep 2013 05:16:02 GMT
+Server: Apache
+Last-Modified: Wed, 25 Sep 2013 05:16:01 GMT
+ETag: "fd5d47-20c2f-4e72e5962c640"
 Accept-Ranges: bytes
+Content-Length: 134191
+Vary: Accept-Encoding
 Content-Type: text/html
-
+

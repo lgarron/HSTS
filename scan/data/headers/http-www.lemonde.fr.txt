@@ -1,17 +1,15 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:40:17 GMT
+Date: Wed, 25 Sep 2013 05:08:17 GMT
 Content-Type: text/html
 Connection: keep-alive
 Server: Apache
+Last-Modified: Wed, 25 Sep 2013 05:06:22 GMT
 Vary: Accept-Encoding
-X-Server: metal
+X-Server: front8
 Cache-Control: max-age=60
-X-Varnish: 569419445 569419384
+X-Varnish: 72906805 72906760
+Age: 2
 Via: 1.1 varnish
 X-Varnish-Cache: HIT
-X-Varnish-Server: metal.lemonde.fr
-Age: 21
-Last-Modified: Wed, 25 Sep 2013 00:38:23 GMT
-Expires: Wed, 25 Sep 2013 00:40:56 GMT
-Content-Length: 0
-
+X-Varnish-Server: front8.lemonde.fr
+

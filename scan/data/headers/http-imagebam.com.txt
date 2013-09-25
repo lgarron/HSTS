@@ -1,7 +1,8 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 00:51:35 GMT
+Date: Wed, 25 Sep 2013 05:12:50 GMT
 Server: Apache/2.2.22 (Ubuntu)
 Location: http://www.imagebam.com/
 Vary: Accept-Encoding
+Connection: close
 Content-Type: text/html; charset=iso-8859-1
-
+

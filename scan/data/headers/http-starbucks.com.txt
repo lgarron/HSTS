@@ -4,6 +4,6 @@ Content-Type: text/html; charset=UTF-8
 Location: http://www.starbucks.com/
 Server: Microsoft-IIS/7.0
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 02:36:37 GMT
-Set-Cookie: bbbbbbbbbbbbbbb=LAJKMHAGAAAAAAAAHAFBCOAAAAAAAAAAEADAGLCCNNCCAAAADAAAJEEFAEEFAAAA; HttpOnly
-
+Date: Wed, 25 Sep 2013 05:18:20 GMT
+Set-Cookie: bbbbbbbbbbbbbbb=PHOMOHAEAAAAAAAACFLFCOAAAAAAAAAAEADAOBCCFCCCAAAADAAAHHEFPHEFAAAA; HttpOnly
+

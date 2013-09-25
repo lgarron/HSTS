@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Content-Length: 86352
+Content-Length: 86543
 Content-Type: text/html
-Content-Location: http://kakaku.com/index.html
-Last-Modified: Wed, 25 Sep 2013 01:30:14 GMT
+Last-Modified: Wed, 25 Sep 2013 05:10:13 GMT
 Accept-Ranges: bytes
-ETag: "65a85c88eb9ce1:0"
-Server: Microsoft-IIS/6.0
+ETag: "d14acf83adb9ce1:0"
+Server: Microsoft-IIS/7.5
+X-FRAME-OPTIONS: SAMEORIGIN
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 01:37:14 GMT
-
+Date: Wed, 25 Sep 2013 05:19:56 GMT
+

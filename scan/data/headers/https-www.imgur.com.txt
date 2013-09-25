@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Server: cloudflare-nginx
-Date: Wed, 25 Sep 2013 00:44:19 GMT
+Date: Wed, 25 Sep 2013 05:11:18 GMT
 Content-Type: text/html
 Connection: keep-alive
-Set-Cookie: __cfduid=d0cdc171871774bbb173316e44722f8e71380069859250; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.imgur.com
-Set-Cookie: __cfduid=d0cdc171871774bbb173316e44722f8e71380069859250; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.imgur.com
+Set-Cookie: __cfduid=d68792351fd2c42aba0808ef1a5c496e91380085878405; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.imgur.com
+Set-Cookie: __cfduid=d68792351fd2c42aba0808ef1a5c496e91380085878405; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.imgur.com
 Location: http://imgur.com/
 X-Imgur-Cached: 0
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-CF-RAY: b33af6c5130071f
-
+CF-RAY: b35368403870701
+

@@ -1,15 +1,15 @@
 HTTP/1.1 200 OK
 Server: nginx/1.4.2
-Date: Wed, 25 Sep 2013 00:43:57 GMT
+Date: Wed, 25 Sep 2013 05:07:48 GMT
 Content-Type: text/html; charset=utf-8
 Connection: close
 Status: 200 OK
 CS-Page-Type: LoggedOutHomepage
-X-Request-Id: f41589399aaf0f672fa6799718f854fc
+X-Request-Id: ced137af5f40029e84241c133b210b27
 X-UA-Compatible: IE=Edge,chrome=1
-ETag: "1094dabc43b6fa9001e49cde14652125"
+ETag: "abac60fbbd4ca1435039a1f8ba6d7205"
 Cache-Control: max-age=0, private, must-revalidate
-Set-Cookie: csid=BAhJIhg3MjEtODM1MDQzOS0zMzcxNDMzBjoGRVQ%3D--7986bec7b3adebd40be5ccb46843b3aafa2e634d; path=/; expires=Sun, 25-Sep-2033 00:43:57 GMT
-Set-Cookie: _session_id2=1063a3816fd26c8fa82a3bdc1d4f6519; path=/; expires=Wed, 25-Sep-2013 06:43:57 GMT; HttpOnly
-X-Runtime: 0.172754
-
+Set-Cookie: csid=BAhJIhg3MTgtMzY1NDcyNC00NjIyNjExBjoGRVQ%3D--6799742f1a6ca50795feb4e204bcae07c28f4ace; path=/; expires=Sun, 25-Sep-2033 05:07:48 GMT
+Set-Cookie: _session_id2=0c8026219ada1b314f038f180b17088e; path=/; expires=Wed, 25-Sep-2013 11:07:48 GMT; HttpOnly
+X-Runtime: 0.168205
+

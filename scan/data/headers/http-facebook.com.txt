@@ -1,8 +1,11 @@
-HTTP/1.1 302 Found
-Location: http://www.facebook.com/unsupportedbrowser
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Location: http://www.facebook.com/
+Pragma: no-cache
 Content-Type: text/html; charset=utf-8
-X-FB-Debug: BCuIRanXIgRli1pWDS5zncO1oEV0fi56JyEhWkHf9N8=
-Date: Wed, 25 Sep 2013 00:43:38 GMT
+X-FB-Debug: F2izgf/aDR8WljeV49J5o+/RWpL/GSWwhrb7mhn9GRo=
+Date: Wed, 25 Sep 2013 05:06:21 GMT
 Connection: keep-alive
 Content-Length: 0
-
+

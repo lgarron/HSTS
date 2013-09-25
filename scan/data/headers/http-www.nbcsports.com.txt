@@ -2,18 +2,18 @@ HTTP/1.1 200 OK
 Server: nginx
 Content-Type: text/html; charset=utf-8
 X-Drupal-Cache: HIT
-ETag: "1380075078-1"
+ETag: "1380086627-1"
 Content-Language: en
 X-Generator: Drupal 7 (http://drupal.org)
 Link: <http://www.nbcsports.com/>; rel="canonical"
-Last-Modified: Wed, 25 Sep 2013 02:11:18 GMT
+Last-Modified: Wed, 25 Sep 2013 05:23:47 GMT
 X-AH-Environment: prod
-X-Varnish: 723534310 723518613
-X-Cache-Hits: 346
-X-Age: 173
-Cache-Control: public, max-age=109
-Expires: Wed, 25 Sep 2013 02:19:01 GMT
-Date: Wed, 25 Sep 2013 02:17:12 GMT
+X-Varnish: 724435591 724433611
+X-Cache-Hits: 28
+X-Age: 30
+Cache-Control: public, max-age=120
+Expires: Wed, 25 Sep 2013 05:27:18 GMT
+Date: Wed, 25 Sep 2013 05:25:18 GMT
 Connection: keep-alive
 Vary: Cookie
-
+

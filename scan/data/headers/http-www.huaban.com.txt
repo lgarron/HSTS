@@ -1,10 +1,10 @@
 HTTP/1.1 200 OK
 Server: nginx/403
-Date: Wed, 25 Sep 2013 03:20:08 GMT
+Date: Wed, 25 Sep 2013 05:12:57 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 Cache-Control: no-store
 Pragma: no-cache
-Content-Length: 40391
-Set-Cookie: sid=UvHaSo81g6julVXilIi5mxzx.bGzhsUolFFSAMLGs5jOOlbEVbENCGxgLPzpDFlhkITw; domain=huaban.com; path=/; expires=Wed, 25 Sep 2013 07:30:08 GMT; httpOnly
-
+Content-Length: 41867
+Set-Cookie: sid=RzBPbraJrEddYq1zLU7KDes0.26UmdnI4vYSJM%2Bpyz4RRSqsH8ms9fcK5G3h7N1YJ3XM; domain=huaban.com; path=/; expires=Wed, 25 Sep 2013 09:22:57 GMT; httpOnly
+

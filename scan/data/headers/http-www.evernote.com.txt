@@ -1,9 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Set-Cookie: JSESSIONID=AC36B0BCFA2FF902AA7880C89636EB99; Path=/
-Location: http://evernote.com/
-Content-Type: text/html;charset=UTF-8
-Content-Language: en
-Content-Length: 0
-Date: Wed, 25 Sep 2013 00:40:07 GMT
-Server: Evernote/1.0
-

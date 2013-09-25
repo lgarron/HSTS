@@ -1,3 +1,3 @@
 HTTP/1.1 301 MOVED PERMANENTLY
 Location: HTTP://www.eltiempo.com/
-
+

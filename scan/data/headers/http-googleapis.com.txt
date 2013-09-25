@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Location: http://www.google.com/
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Wed, 25 Sep 2013 05:22:15 GMT
+Server: sffe
+Content-Length: 219
+X-XSS-Protection: 1; mode=block
+Alternate-Protocol: 80:quic
+

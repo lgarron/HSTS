@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
 Server: dhgatenginx/1.0.5
-Date: Wed, 25 Sep 2013 00:43:39 GMT
+Date: Wed, 25 Sep 2013 05:06:40 GMT
 Content-Type: text/html
 Connection: keep-alive
 Accept-Ranges: bytes
 Vary: Accept-Encoding,User-Agent
 Content-Length: 70022
 Content-Language: en-US
-srv_id: 172.16.20.21:80
-Set-Cookie: vid=rBAUbFJCMbsFkysVAxu8Ag==; expires=Tue, 21-Jun-16 00:43:39 GMT; domain=dhgate.com; path=/
-
+srv_id: 172.21.20.13:80
+Set-Cookie: vid=rBAUZlJCb2AvIzQvAywwAg==; expires=Tue, 21-Jun-16 05:06:40 GMT; domain=dhgate.com; path=/
+

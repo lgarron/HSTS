@@ -2,11 +2,11 @@ HTTP/1.1 200 OK
 Cache-Control: no-cache
 Pragma: No-Cache
 Content-Type: text/html; Charset=GB2312
-Expires: Tue, 24 Sep 2013 02:07:32 GMT
+Expires: Tue, 24 Sep 2013 05:21:24 GMT
 Server: Microsoft-IIS/7.0
-Set-Cookie: kd%5Fsessionid=91ed4d83ff910c2f676a35757ac60c49; expires=Fri, 25-Oct-2013 16:00:00 GMT; domain=.kdnet.net; path=/
-Set-Cookie: ASPSESSIONIDSAARSBBB=GAOMAIPAFGNPHJFIJJDEIBPO; path=/
+Set-Cookie: kd%5Fsessionid=56ef062b69a531a07f82de23969cbd09; expires=Fri, 25-Oct-2013 16:00:00 GMT; domain=.kdnet.net; path=/
+Set-Cookie: ASPSESSIONIDSAARSBBB=NIJCBIPAEIHOJHPGDDBMOALJ; path=/
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 02:07:32 GMT
+Date: Wed, 25 Sep 2013 05:21:23 GMT
 Connection: close
-
+

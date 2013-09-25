@@ -1,13 +1,14 @@
 HTTP/1.0 200 OK
-Content-Length: 408127
-Date: Wed, 25 Sep 2013 00:46:00 GMT
+Content-Length: 402074
+Date: Wed, 25 Sep 2013 05:00:55 GMT
 Content-Type: text/html; charset=gb2312
-ETag: "6da45bc787b9ce1:0"
+ETag: "5121981aacb9ce1:0"
 Server: Microsoft-IIS/7.5
-Last-Modified: Wed, 25 Sep 2013 00:40:05 GMT
+Last-Modified: Wed, 25 Sep 2013 05:00:07 GMT
 Accept-Ranges: bytes
-Age: 544
 Powered-By-ChinaCache: HIT from 060010D3C8
-Powered-By-ChinaCache: MISS from 06001043S6
+Expires: Wed, 25 Sep 2013 05:15:55 GMT
+Age: 740
+Powered-By-ChinaCache: HIT from 06043343SI
 Connection: close
-
+

@@ -4,9 +4,9 @@ Content-Length: 147
 Content-Type: text/html; charset=UTF-8
 Location: http://www.t-mobile.com/
 Server: Microsoft-IIS/7.5
-Set-Cookie: TLTSID=E9861B5E4E0A0EDBD20217A8AB01A773; Path=/
-Set-Cookie: TLTUID=E9861B5E4E0A0EDBD20217A8AB01A773; Path=/; expires=Wed, 25-Oct-2023 03:25:40 GMT
-hostname: 17tmoprod
+Set-Cookie: TLTSID=4B83BC334C46117215F98489FE3EA07A; Path=/
+Set-Cookie: TLTUID=4B83BC334C46117215F98489FE3EA07A; Path=/; expires=Wed, 25-Oct-2023 05:12:17 GMT
+hostname: 02tmoprod
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 03:25:39 GMT
-
+Date: Wed, 25 Sep 2013 05:12:16 GMT
+

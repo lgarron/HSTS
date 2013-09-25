@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:28:19 GMT
+Date: Wed, 25 Sep 2013 05:12:17 GMT
 Server: Microsoft-IIS/6.0
 X-Powered-By: ASP.NET
 X-AspNet-Version: 2.0.50727
-Set-Cookie: ASP.NET_SessionId=v5qi2g45kmevo455zqs1aqjf; path=/; HttpOnly
+Set-Cookie: ASP.NET_SessionId=ozmume450eiiwc452cmzlw45; path=/; HttpOnly
 Set-Cookie: UserLocation=IpAddress=128.12.244.4&Country=US&City=STANFORD&Provider=STANFORD UNIVERSITY; path=/
-Set-Cookie: MasrawyHPPrayTimesCountryIDCityID=1~15; expires=Sat, 05-Oct-2013 03:28:19 GMT; path=/
+Set-Cookie: MasrawyHPPrayTimesCountryIDCityID=1~15; expires=Sat, 05-Oct-2013 05:12:17 GMT; path=/
 Cache-Control: private
 Content-Type: text/html; charset=utf-8
-Content-Length: 163208
-Set-Cookie: presist=Dq8Tdo2aNlDe/ThCzB8so7BlV5C1HFv18u4RQYHK1AyrczGTxZD0vaCwUGZtN/hqXKXagLKJJo1L+eM=; path=/
-
+Content-Length: 163263
+Set-Cookie: presist=NMxLof6QptmFrbdCzB8so7BlV5C1HD82eHPC4jjUlA7RQCdmpjM/hSRESN24+Oxml1840aK8JAXZxPs=; path=/
+

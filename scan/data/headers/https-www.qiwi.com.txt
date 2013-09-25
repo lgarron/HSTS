@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 02:36:19 GMT
-Server: Apache
-Location: https://www.qiwi.com/main.action
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-

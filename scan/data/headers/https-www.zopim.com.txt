@@ -1,9 +1,9 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 03:26:58 GMT
+Date: Wed, 25 Sep 2013 05:20:21 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 Vary: Cookie, Accept-Language
 Content-Language: en-us
-Set-Cookie: csrftoken=LQhoDPngxE4R0wh6qzZqS5PCMhwbmzsA; expires=Wed, 24-Sep-2014 03:26:58 GMT; Max-Age=31449600; Path=/; secure
-
+Set-Cookie: csrftoken=LM4dx9OdBLrlcG279JI0T8F8G9E1qmUO; expires=Wed, 24-Sep-2014 05:20:21 GMT; Max-Age=31449600; Path=/; secure
+

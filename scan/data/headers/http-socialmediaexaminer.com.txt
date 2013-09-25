@@ -7,15 +7,15 @@ Set-Cookie: bp-message=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
 Set-Cookie: bp-message-type=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
 Location: http://www.socialmediaexaminer.com/
 Cache-Control: max-age=3600
-Expires: Wed, 25 Sep 2013 04:26:27 GMT
+Expires: Wed, 25 Sep 2013 06:13:34 GMT
 Vary: Accept-Encoding,User-Agent
 Content-Type: text/html; charset=UTF-8
 X-Cache-ttl: 3600.000
 X-Cookie-Debug: Request cookie: 
-Date: Wed, 25 Sep 2013 03:26:40 GMT
-X-Varnish: 197006408
+Date: Wed, 25 Sep 2013 05:13:35 GMT
+X-Varnish: 197095047
 Age: 0
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: MISS
-
+

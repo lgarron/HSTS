@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 02:36:08 GMT
-Content-Type: text/html
-Content-Length: 232179
-Last-Modified: Wed, 25 Sep 2013 02:34:11 GMT
-Accept-Ranges: bytes
-Set-Cookie: SID=g4-4; path=/
-

@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 03:21:04 GMT
+Date: Wed, 25 Sep 2013 05:07:48 GMT
 Content-Type: text/html
-Content-Length: 142077
-Last-Modified: Wed, 25 Sep 2013 03:18:07 GMT
+Content-Length: 143009
+Last-Modified: Wed, 25 Sep 2013 05:06:10 GMT
 Connection: keep-alive
-ETag: "524255ef-22afd"
+ETag: "52426f42-22ea1"
 Content-Control: private, max-age=0, must-revalidate
 X-XRDS-Location: http://www.sbnation.com/openid/yadis.xrdf
 P3P: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA"
 Accept-Ranges: bytes
-
+

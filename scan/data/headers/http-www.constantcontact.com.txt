@@ -1,9 +1,9 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:22:53 GMT
+Date: Wed, 25 Sep 2013 05:18:08 GMT
 Server: Apache
 Location: http://www.constantcontact.com/index.jsp
 Cache-Control: max-age=0
-Expires: Wed, 25 Sep 2013 01:22:53 GMT
+Expires: Wed, 25 Sep 2013 05:18:08 GMT
 Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: BIGipServerProdLP=2219185162.20480.0000; path=/
-
+Set-Cookie: BIGipServerProdLP=2202407946.20480.0000; path=/
+

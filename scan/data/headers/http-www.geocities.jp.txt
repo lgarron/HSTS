@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:21:22 GMT
-Location: http://geocities.yahoo.co.jp/
-Vary: Accept-Encoding
-Connection: close
-Content-Type: text/html
-Cache-Control: private
-

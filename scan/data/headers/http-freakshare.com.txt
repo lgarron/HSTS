@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 03:29:03 GMT
+Date: Wed, 25 Sep 2013 05:17:55 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 Keep-Alive: timeout=5
-Set-Cookie: PHPSESSID=3e2cfac5999beab0c098604d818b6345; path=/
+Set-Cookie: PHPSESSID=5239a827cb66d873a4befcdca6faed3e; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
 Vary: Accept-Encoding
-
+

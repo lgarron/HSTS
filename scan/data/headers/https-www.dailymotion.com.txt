@@ -1,17 +1,17 @@
 HTTP/1.1 302 Found
 Server: DMS/1.0.42
-X-DM-BackNode: web-005.adm.dailymotion.com:80
+X-DM-BackNode: web-013.adm.dailymotion.com:80
 Vary: Accept-Encoding
 Cache-Control: private, max-age=900, no-transform
 Content-Type: text/html; charset=utf-8
 P3p: policyref="http://www.dailymotion.com/w3c/p3p.xml", CP="IDC DSP CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-Date: Wed, 25 Sep 2013 01:31:47 GMT
+Date: Wed, 25 Sep 2013 05:20:45 GMT
 Location: /us
-Keep-Alive: timeout=60, max=4993
+Keep-Alive: timeout=60, max=4997
 X-DM-LB: 188.65.120.135
 Transfer-Encoding: chunked
 Connection: Keep-Alive
-Set-Cookie: tg=538292; expires=Mon, 25-Sep-2023 01:31:47 GMT; path=/
-Set-Cookie: dmvk=52423d0341387; path=/; domain=.dailymotion.com
+Set-Cookie: tg=47689; expires=Mon, 25-Sep-2023 05:20:45 GMT; path=/
+Set-Cookie: dmvk=524272ad4c340; path=/; domain=.dailymotion.com
 X-Dm-Page: us.html.home
-
+

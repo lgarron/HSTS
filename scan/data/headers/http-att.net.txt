@@ -1,7 +1,7 @@
 HTTP/1.0 302 Moved Temporarily
 Server: ""
-Date: Wed, 25 Sep 2013 02:37:17 GMT
+Date: Wed, 25 Sep 2013 05:07:47 GMT
 Location: http://www.att.net/s/context.dll?type=page&id=10000&name=home.page.attyahoo.redirect&redirecturl=http://att.yahoo.com
 Content-length: 0
 Connection: close
-
+

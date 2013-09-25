@@ -1,11 +1,12 @@
 HTTP/1.0 200 OK
 Server: RMW
 Content-Type: text/html
-Last-Modified: Wed, 25 Sep 2013 00:48:12 GMT
+Last-Modified: Wed, 25 Sep 2013 04:12:41 GMT
 Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 01:19:57 GMT
-Age: 1620
+Date: Wed, 25 Sep 2013 05:15:15 GMT
 Powered-By-ChinaCache: MISS from 060010D3BA
-Powered-By-ChinaCache: MISS from 26030513b1
+Age: 2170
+Content-Length: 0
+Powered-By-ChinaCache: HIT from 26071413i4
 Connection: close
-
+

@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Cache-Control: private
-Content-Length: 70445
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 70522
 Content-Type: text/html; charset=utf-8
+Expires: -1
 Server: Microsoft-IIS/7.5
-Set-Cookie: .-1421739772=US; expires=Thu, 26-Sep-2013 00:56:52 GMT; path=/
-Set-Cookie: .c=USD; expires=Thu, 25-Sep-2014 00:56:52 GMT; path=/
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 00:56:51 GMT
-
+Date: Wed, 25 Sep 2013 05:17:23 GMT
+

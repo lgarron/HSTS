@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 00:47:58 GMT
-Server: Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/1.0.0c
-Location: http://www.meetup.com/
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

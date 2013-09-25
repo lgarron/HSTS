@@ -3,8 +3,8 @@ Server: Apache
 Cache-Control: private
 Content-Type: text/html
 P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR CURa OUR STP"
-Date: Wed, 25 Sep 2013 01:00:39 GMT
+Date: Wed, 25 Sep 2013 05:20:36 GMT
 Transfer-Encoding: chunked
 Connection: Keep-Alive
-Set-Cookie: userinfo=__0487e0bb7c254bcd0332%3B%7B%22username%22%3A%22%22%2C%22uniqueid%22%3A%22e20166485e05fd97cf67c741c264a94c%22%2C%22vd%22%3A%221380070839%2C1380070839%2C1380070839%2C1%2C0%2C0%2C1%2C0%2C1%2C1380070839%2C1380070839%2C1%2C1%2C0%2C1380070839%2C3%22%7D; expires=Fri, 25-Oct-2013 01:00:39 GMT; path=/; domain=.deviantart.com
-
+Set-Cookie: userinfo=__ee1d9dd00da444efc990%3B%7B%22username%22%3A%22%22%2C%22uniqueid%22%3A%22a6c4900ab2553fb7c0234ce8f09b5af7%22%2C%22vd%22%3A%221380086436%2C1380086436%2C1380086436%2C1%2C0%2C0%2C1%2C0%2C1%2C1380086436%2C1380086436%2C1%2C1%2C0%2C1380086436%2C3%22%7D; expires=Fri, 25-Oct-2013 05:20:36 GMT; path=/; domain=.deviantart.com
+

@@ -1,5 +1,10 @@
-HTTP/1.1 301 Moved Permanently
+HTTP/1.1 301 Redirect
+Date: Wed, 25 Sep 2013 05:20:31 GMT
+Server: ATS/3.2.4
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Connection: close
 Location: http://www.comcast.net/
-Content-Length: 0
-Content-Type: text/html; charset=UTF-8
-
+Content-Length: 326
+

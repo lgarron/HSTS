@@ -4,14 +4,14 @@ Content-Type: text/html; charset=utf-8
 X-ZFC-Metadata: KiMIExILCgNuaWQSBDU5NjQSEgoGbGF5b3V0Eghob21lcGFnZQ==
 X-Powered-By: Ponies!
 X-Varnish-TTL: 60m
-X-Varnish: 149892745 149866718
-X-Cache-Hits: 298
+X-Varnish: 149969644 149961304
+X-Cache-Hits: 180
 X-Varnish-Host: varnish04.zappos.net
 X-Varnish-ID: drupal
-X-Core-Value: 1. Deliver WOW Through Service
+X-Core-Value: 9. Be Passionate and Determined
 X-Recruiting: If you're reading this, maybe you should be working at Zappos instead.  Check out jobs.zappos.com
-X-UUID: 986253ca-2582-11e3-8f40-00145e157f03
-Cache-Control: max-age=1964
-Date: Wed, 25 Sep 2013 02:02:16 GMT
+X-UUID: 11147226-25a1-11e3-ba0d-0010184bda34
+Cache-Control: max-age=3296
+Date: Wed, 25 Sep 2013 05:17:17 GMT
 Connection: keep-alive
-
+

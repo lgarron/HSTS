@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.2.6
+Date: Wed, 25 Sep 2013 05:13:42 GMT
+Content-Type: text/html
+Content-Length: 184
+Connection: keep-alive
+Location: http://www.azlyrics.com/
+

@@ -1,6 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: nginx
-Date: Wed, 25 Sep 2013 01:13:55 GMT
-Content-Type: text/html
-Location: https://www.fhserve.com/www/admin/index.php
-

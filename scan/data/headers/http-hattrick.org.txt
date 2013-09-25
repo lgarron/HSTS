@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache-Coyote/1.1
+Location: http://www.hattrick.org
+Content-Length: 0
+Date: Wed, 25 Sep 2013 05:21:24 GMT
+

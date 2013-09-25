@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
-Server: nginx/1.0.11
-Date: Wed, 25 Sep 2013 03:37:08 GMT
+Server: nginx/1.2.7
+Date: Wed, 25 Sep 2013 05:22:36 GMT
 Content-Type: text/html
 Connection: close
-Set-Cookie: PHPSESSID=k6dalhnqkf8qsq9ck4aunp49n6; path=/
+Set-Cookie: PHPSESSID=6n10d3pv1t73p3vrrk7css4no6; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: cookies=1; expires=Thu, 26-Sep-2013 03:37:08 GMT; path=/
-Set-Cookie: lolwtf=1; expires=Wed, 25-Sep-2013 11:37:08 GMT
-Set-Cookie: BACKEND=a2; path=/
-
+Set-Cookie: cookies=1; expires=Thu, 26-Sep-2013 05:22:36 GMT; path=/
+Set-Cookie: lolwtf=1; expires=Wed, 25-Sep-2013 13:22:36 GMT
+Set-Cookie: BACKEND=a1; path=/
+

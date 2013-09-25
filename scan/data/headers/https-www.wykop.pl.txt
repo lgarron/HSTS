@@ -1,16 +1,16 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 02:36:02 GMT
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 05:07:46 GMT
 Server: Apache
 H1: wykop-10
-Set-Cookie: PHPSESSID=pdq5f57kk3hdofdh8rr8v6c284; path=/; domain=.wykop.pl; HttpOnly
+Set-Cookie: PHPSESSID=lhi59i984li5bav4aghmjodpn4; path=/; domain=.wykop.pl; HttpOnly
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: PHPSESSID=rtk04ahduai4mq8la0gdmu8rm2; path=/; domain=.wykop.pl; HttpOnly
-Set-Cookie: lastVisitDate=2013-09-25+04%3A36%3A02; expires=Thu, 25-Sep-2014 02:36:02 GMT; path=/; domain=.wykop.pl
-Location: http://www.wykop.pl/
+Set-Cookie: PHPSESSID=rg2lmmdvbt77fvkuqg6udsfpv5; path=/; domain=.wykop.pl; HttpOnly
+Set-Cookie: lastVisitDate=2013-09-25+07%3A07%3A46; expires=Thu, 25-Sep-2014 05:07:46 GMT; path=/; domain=.wykop.pl
+X-Utime: 0
 Vary: Accept-Encoding
 Connection: close
 Content-Type: text/html; charset=UTF-8
 Set-Cookie: JSESSIONIDN=server10; path=/; domain=.wykop.pl
-
+

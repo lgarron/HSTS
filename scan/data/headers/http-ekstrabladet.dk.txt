@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
 Server: Apache-Coyote/1.1
-X-Src-Appserver: tantalum
+X-Src-Appserver: cadmium
 Content-Type: text/html;charset=UTF-8
 Content-Language: da-DK
 X-Src-Webcache: uranium.eb-prod.lp.jppol.dk
-Date: Wed, 25 Sep 2013 03:29:07 GMT
-X-Varnish: 1743748675 1743740896
-Age: 16
+Date: Wed, 25 Sep 2013 05:22:25 GMT
+X-Varnish: 1751735792 1751710302
+Age: 14
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: HIT - uranium.eb-prod.lp.jppol.dk
-
+

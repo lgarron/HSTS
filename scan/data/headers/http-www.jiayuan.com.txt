@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 02:35:12 GMT
-Content-Type: text/html; charset=UTF-8
-Content-Length: 105407
-Last-Modified: Wed, 25 Sep 2013 02:31:01 GMT
-Connection: keep-alive
-Accept-Ranges: bytes
-

@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.21
+Last-Modified: Wed, 25 Sep 2013 04:43:01 +0000
+ETag: "1380084181"
+Content-Language: en
+Link: </node/1024776>; rel="canonical",</node/1024776>; rel="shortlink"
+X-App: p6tyr1
+Content-Type: text/html; charset=utf-8
+X-Varnish: 1476922657 1476922618
+X-CacheTyr-Server: p6tyr1
+X-Varnish: 2116699150 2116698470
+X-CacheKyte-Server: p6kyte2
+X-CacheKyte: HIT
+X-CacheKyte-Hits: 1
+Cache-Control: public, must-revalidate, max-age=1252
+Date: Wed, 25 Sep 2013 05:22:26 GMT
+Connection: keep-alive
+

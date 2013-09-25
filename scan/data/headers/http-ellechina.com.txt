@@ -1,11 +1,11 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 00:44:26 GMT
+Date: Wed, 25 Sep 2013 05:08:09 GMT
 Server: Apache
 Location: http://www.ellechina.com/
 Cache-Control: max-age=300
-Expires: Wed, 25 Sep 2013 00:49:26 GMT
+Expires: Wed, 25 Sep 2013 05:13:09 GMT
 Vary: Accept-Encoding
 Connection: close
 Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: BIGipServerpool_cmsweb=1225465354.20480.0000; path=/
-
+Set-Cookie: BIGipServerpool_cmsweb=1242242570.20480.0000; path=/
+

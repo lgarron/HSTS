@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 01:23:03 GMT
+Date: Wed, 25 Sep 2013 05:20:24 GMT
 Server: Apache
-Set-Cookie: plk=F; path=/; domain=www.pagesjaunes.fr; expires=Wed, 25-Sep-2013 01:53:03 GMT
-Content-Length: 136520
+Set-Cookie: plk=G; path=/; domain=www.pagesjaunes.fr; expires=Wed, 25-Sep-2013 05:50:24 GMT
+Content-Length: 136790
 Vary: Accept-Encoding
-Set-Cookie: PJSESSIONID=4302E718DD8A81072083F7298F671873.yas64f; Path=/; HttpOnly
-Set-Cookie: cookieILOSEO=4302E718DD8A81072083F7298F671873.yas64f; Path=/
-Set-Cookie: VisitorID=204138007218306223; Expires=Sat, 23-Sep-2023 01:23:03 GMT; Path=/
-Set-Cookie: IdPage=2041380072183062231380072183062; Path=/
+Set-Cookie: PJSESSIONID=60203D0E3380A7DB9715A28B813BBB56.yas62g; Path=/; HttpOnly
+Set-Cookie: cookieILOSEO=60203D0E3380A7DB9715A28B813BBB56.yas62g; Path=/
+Set-Cookie: VisitorID=090138008663234856; Expires=Sat, 23-Sep-2023 05:23:52 GMT; Path=/
+Set-Cookie: IdPage=0901380086632348561380086632348; Path=/
 Set-Cookie: IdPagePrecedent=0; Path=/
 Content-Type: text/html;charset=UTF-8
-
+

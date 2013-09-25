@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:45:13 GMT
+Date: Wed, 25 Sep 2013 05:08:10 GMT
 Server: Apache
 Pragma: no-cache
 Cache-Control: private
 Vary: User-Agent,Accept-Encoding
 Content-Type: text/html; charset=EUC-JP
-Set-Cookie: Apache=171.65.249.4.1380069913406729; path=/; expires=Thu, 25-Sep-14 00:45:13 GMT
-Set-Cookie: wPzd=lng%3DNA%3Acnt%3DJP; expires=Thu, 25-Sep-2014 00:45:13 GMT; path=/; domain=www.rakuten.co.jp
+Set-Cookie: Apache=128.12.244.4.1380085690942648; path=/; expires=Thu, 25-Sep-14 05:08:10 GMT
+Set-Cookie: wPzd=lng%3DNA%3Acnt%3DJP; expires=Thu, 25-Sep-2014 05:08:10 GMT; path=/; domain=www.rakuten.co.jp
 Connection: close
-
+

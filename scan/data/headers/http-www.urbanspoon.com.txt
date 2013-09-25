@@ -1,18 +1,18 @@
 HTTP/1.1 302 Found
 Server: nginx/1.2.0
-Date: Wed, 25 Sep 2013 03:35:33 GMT
+Date: Wed, 25 Sep 2013 05:14:27 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 Status: 302 Found
-X-Spoon: usapp2
-X-Version: a06d730
+X-Spoon: usapp1
+X-Version: 5d3808e
 Location: http://www.urbanspoon.com/c/6/SF-Bay-Area-restaurants.html
 X-UA-Compatible: IE=Edge,chrome=1
 Cache-Control: no-cache
-Set-Cookie: city_id=6; path=/; expires=Mon, 25-Sep-2023 03:35:33 GMT
-Set-Cookie: _urbanspoon_session=BAh7CUkiD3Nlc3Npb25faWQGOgZFRkkiJTYzM2Y1MDhkYThjZDliNDljZmJjMzJlMDA1NTcyZTNjBjsAVEkiCnNwbGl0BjsARnsASSIYZ2FfY3VzdG9tX3ZhcmlhYmxlcwY7AEZbBzB7CToJc2xvdGkGOgluYW1lSSIHaWQGOwBGOgp2YWx1ZUAHOgpzY29wZWkGSSIScmVjZW50X2NpdGllcwY7AEZbBmkL--d3db79e70fec1d6f41562feffd5d20c93d1f2d1f; path=/; expires=Mon, 25-Sep-2023 03:35:33 GMT; HttpOnly
-X-Request-Id: c36dc55f2b9a044a5691610fe3d01aa6
-X-Runtime: 0.043455
+Set-Cookie: city_id=6; path=/; expires=Mon, 25-Sep-2023 05:14:27 GMT
+Set-Cookie: _urbanspoon_session=BAh7CUkiD3Nlc3Npb25faWQGOgZFRkkiJTdiNTczMGI3NmRiMTc4YzAyN2I4MThkMmZmNjgwMzFhBjsAVEkiCnNwbGl0BjsARnsGSSISZ3NsX3Jlb3JkZXI6MQY7AFRJIgZhBjsAVEkiGGdhX2N1c3RvbV92YXJpYWJsZXMGOwBGWwcwewk6CXNsb3RpBjoJbmFtZUkiB2lkBjsARjoKdmFsdWVABzoKc2NvcGVpBkkiEnJlY2VudF9jaXRpZXMGOwBGWwZpCw%3D%3D--faf455dca33b3cf205edf5597efb435b14d3020f; path=/; expires=Mon, 25-Sep-2023 05:14:27 GMT; HttpOnly
+X-Request-Id: 399aeb045f0cb29d2753a250e0671a9e
+X-Runtime: 0.028188
 X-Rack-Cache: miss
 Set-Cookie: branch=urbanspoon;Max-Age=3600000;Path=/
-
+

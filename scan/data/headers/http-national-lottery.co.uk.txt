@@ -3,4 +3,4 @@ location: http://national-lottery.co.uk/player/p/home.ftl
 Server: BigIP
 Connection: Keep-Alive
 Content-Length: 0
-
+

@@ -1,14 +1,12 @@
 HTTP/1.1 200 OK
-ETag: "cb79e8213ca0f7bac93031ff6da86ee01380069162"
+ETag: "59e9bfbdf674a0e6ce72fb738a6686391380086086"
 Accept-Ranges: bytes
-Set-Cookie: locale=fr_FR; path=/; domain=skyrock.com
-Set-Cookie: plocale=fr_FR; expires=Thu, 25-Sep-2014 00:51:25 GMT; path=/; domain=skyrock.com
 Set-Cookie: tz=America%2FLos_Angeles; path=/; domain=skyrock.com
 Cache-Control: must-revalidate
-Date: Wed, 25 Sep 2013 00:51:25 GMT
-X-Webserver: df162
-Last-Modified: Tue, 24 Sep 2013 17:32:42 PDT
+Date: Wed, 25 Sep 2013 05:14:46 GMT
+X-Webserver: df42
+Last-Modified: Tue, 24 Sep 2013 22:14:46 PDT
 Server: Apache
 Content-Type: text/html
-X-Skycache: from cache
-
+X-Skycache: stored
+

@@ -1,17 +1,17 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:28:44 GMT
+Date: Wed, 25 Sep 2013 05:11:24 GMT
 Server: Apache
 Vary: X-Forwarded-Protocol,Host
-Set-Cookie: JSESSIONID=6D196FB370FF50019F8CCBA4BAD63F01.jvm_http32_p0121; Path=/; Secure; HttpOnly
-Set-Cookie: PESSIONID=zpfnroh39yyp9-z20n932uo4ry4b-1110nlo; Domain=.zalando.de; Expires=Fri, 25-Oct-2013 03:28:44 GMT; Path=/; HttpOnly
+Set-Cookie: JSESSIONID=DCA215B4918CDA537D7CEAE41B3C1E97.jvm_http11_p0120; Path=/; Secure; HttpOnly
+Set-Cookie: PESSIONID=8mtfg3rxgkfj-z29x62u00y68c0-z12k5g6x; Domain=.zalando.de; Expires=Fri, 25-Oct-2013 05:11:24 GMT; Path=/; HttpOnly
 X-FRAME-OPTIONS: SAMEORIGIN
 Expires: Thu, 01 Jan 1970 00:00:00 GMT
 Cache-control: no-store, no-cache, must-revalidate
 Pragma: no-cache
-Set-Cookie: CUSTOMER=SLAkgrqVyWVuMRH60/wlHiXRF384FjEzasITmDGdq7FUd5k1QghDVV4nY0EC6900iGSFP40GLp7Burw283lSGYnn/mKoWjnc1uIn9pWyVjr7vudEvWeJD5bDHbHXXxDsBrP/S0K/yw3faGcD6MpdKRfmkxRD9zSSFSZvGzAz+61RyqU22FPFEA==; Domain=.zalando.de; Expires=Sat, 23-Sep-2023 03:28:44 GMT; Path=/; HttpOnly
+Set-Cookie: CUSTOMER=SLAkgrqVyWVuMRH60/wlHiXRF384FjEzasITmDGdq7FUd5k1QghDVV4nY0EC6900csog/XuP7NahmLxJQ7SNlIwRgppfjUCbCg8w0nUgB2nI9UVeFlrlSxTXgbDHEn9aBrP/S0K/yw3faGcD6MpdKRfmkxRD9zSSFSZvGzAz+61RyqU22FPFEA==; Domain=.zalando.de; Expires=Sat, 23-Sep-2023 05:11:24 GMT; Path=/; HttpOnly
 Location: http://www.zalando.de/
 Content-Language: de-DE
 Connection: close
 Content-Type: text/plain
-Set-Cookie: BIGipServerzalando_http=539049994.20480.0000; path=/
-
+Set-Cookie: BIGipServerzalando_http=186728458.20480.0000; path=/
+

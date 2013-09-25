@@ -1,11 +1,11 @@
 HTTP/1.1 301 Moved Permanently
 Location: http://www.terra.com.br/
 Cache-Control: max-age=300
-Expires: Wed, 25 Sep 2013 02:11:34 GMT
+Expires: Wed, 25 Sep 2013 05:22:22 GMT
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
 Content-Length: 232
-Date: Wed, 25 Sep 2013 02:07:28 GMT
-Age: 55
+Date: Wed, 25 Sep 2013 05:22:03 GMT
+Age: 274
 Connection: keep-alive
-
+

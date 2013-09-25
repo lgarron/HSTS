@@ -1,25 +1,25 @@
 HTTP/1.1 200 OK
 Cache-Control: private
-Content-Length: 135577
+Content-Length: 133658
 Content-Type: text/html; charset=utf-8
 Server: Microsoft-IIS/7.5
 X-AspNet-Version: 2.0.50727
 COMMERCE-SERVER-SOFTWARE: Microsoft Commerce Server, Enterprise Edition
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 02:36:35 GMT
+Date: Wed, 25 Sep 2013 05:17:40 GMT
 Connection: keep-alive
-Set-Cookie: LocaleCookie=en-us; expires=Mon, 25-Sep-2023 02:36:34 GMT; path=/
-Set-Cookie: MobileDetectRedirect=; expires=Sun, 25-Sep-1983 02:36:34 GMT; path=/; secure
-Set-Cookie: MobileDetectRedirect=; expires=Sun, 25-Sep-1983 02:36:34 GMT; path=/; secure
-Set-Cookie: MobileDetectRedirect=; expires=Sun, 25-Sep-1983 02:36:34 GMT; path=/; secure
+Set-Cookie: LocaleCookie=en-us; expires=Mon, 25-Sep-2023 05:17:39 GMT; path=/
+Set-Cookie: MobileDetectRedirect=; expires=Sun, 25-Sep-1983 05:17:39 GMT; path=/; secure
+Set-Cookie: MobileDetectRedirect=; expires=Sun, 25-Sep-1983 05:17:39 GMT; path=/; secure
+Set-Cookie: MobileDetectRedirect=; expires=Sun, 25-Sep-1983 05:17:39 GMT; path=/; secure
 Set-Cookie: MobileDetectRedirect=UserDeviceAndPreference=NonMobile; domain=gamestop.com; path=/; HttpOnly
 Set-Cookie: SearchCount=; path=/
 Set-Cookie: selected_header=~/Controls/Shared/GameStopDotCom/Headers/HeaderDefault.ascx; path=/
 Set-Cookie: CookieStateV1=; path=/
 Set-Cookie: LandingUrl=http://www.gamestop.com/default.aspx; path=/
-Set-Cookie: CampaignHistory=9134,8315,8491,8315,8313,9990,9989,9757,9856,9985,9822,8728,9858,9894,9046,9704,9707,9870,9965,8982,9814,9798,9806,9912,9980,10013,8314,9480,9556,9428,9906; path=/
+Set-Cookie: CampaignHistory=9134,8315,8491,8315,8313,9757,9990,9856,9989,9985,8728,9822,9046,9704,9860,9283,9858,9870,10013,9814,9965,8982,9798,9806,8314,9480,9556,9428,9906; path=/
 Set-Cookie: SearchResCount=resCount=12; path=/
 Set-Cookie: CactusState=V=1; path=/
 Set-Cookie: CertonaArray=; path=/
-Set-Cookie: akamai-cookie=3955889324.20480.0000; path=/
-
+Set-Cookie: akamai-cookie=634000556.20480.0000; path=/
+

@@ -5,11 +5,11 @@ Vary: Accept-Encoding
 Cache-Control: max-age=0, must-revalidate
 Pragma: no-cache
 Expires: Thu, 01 Jan 1970 00:00:00 GMT
-X-20M-WebServer: frontal-07
-Date: Wed, 25 Sep 2013 03:28:25 GMT
-X-Varnish: 1075687331 1075686659
-Age: 5
+X-20M-WebServer: frontal-05
+Date: Wed, 25 Sep 2013 05:10:40 GMT
+X-Varnish: 1918508361 1918506782
+Age: 12
 Via: 1.1 varnish
 Connection: keep-alive
-X-20M-Cache: 02
-
+X-20M-Cache: 01
+

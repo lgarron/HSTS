@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:35:35 GMT
-Server: Microsoft-IIS/6.0
-X-Powered-By: ASP.NET
-Content-Length: 56200
-Content-Type: text/html; Charset=ISO-8859-1
-Set-Cookie: ASPSESSIONIDQCBTDBBB=KCCEFBKAIMOLFMAOLGDKMPIJ; path=/
-Cache-control: private
-

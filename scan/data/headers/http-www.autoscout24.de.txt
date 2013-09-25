@@ -1,17 +1,15 @@
 HTTP/1.1 200 OK
 Cache-Control: private
-Content-Length: 69340
+Content-Length: 69345
 Content-Type: text/html; charset=utf-8
 Server: Microsoft-IIS/7.5
-dynaTrace: PT=9019048;PA=-1607051719;RS=AutoScout24 - Live/20130924212647_0.session;SP=AutoScout24 - Live;PS=-2052362619
-Set-Cookie: GUID=ec5d2e5c-5635-4306-9796-3de4f04cb265; domain=.autoscout24.de; path=/; HttpOnly
-Set-Cookie: as24Visitor=ec5d2e5c-5635-4306-9796-3de4f04cb265; domain=.autoscout24.de; expires=Thu, 25-Sep-2014 03:26:26 GMT; path=/
+Set-Cookie: GUID=560fbb93-2cb9-448a-a5a2-6d1e6cf5e3c4; domain=.autoscout24.de; path=/; HttpOnly
+Set-Cookie: as24Visitor=560fbb93-2cb9-448a-a5a2-6d1e6cf5e3c4; domain=.autoscout24.de; expires=Thu, 25-Sep-2014 05:11:56 GMT; path=/
 X-AspNetMvc-Version: 3.0
 X-AspNet-Version: 4.0.30319
 Set-Cookie: OmnitureVisitedSearch=Home; domain=.autoscout24.de; path=/
-Set-Cookie: ServiceBox=; domain=.autoscout24.de; expires=Sun, 24-Nov-2013 04:26:26 GMT; path=/
-SID: LWEBDEV012
+Set-Cookie: ServiceBox=; domain=.autoscout24.de; expires=Sun, 24-Nov-2013 06:11:56 GMT; path=/
+SID: LWEBDEV042
 X-Powered-By: ASP.NET
-X-dynaTrace: PT=9019048;PA=-1607051719;RS=AutoScout24 - Live/20130924212647_0.session;SP=AutoScout24 - Live;PS=-2052362619
-Date: Wed, 25 Sep 2013 03:26:26 GMT
-
+Date: Wed, 25 Sep 2013 05:11:55 GMT
+

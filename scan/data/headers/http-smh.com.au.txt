@@ -4,13 +4,13 @@ Location: http://www.smh.com.au/
 Content-Type: text/html; charset=iso-8859-1
 Content-Length: 230
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 01:39:55 GMT
+Date: Wed, 25 Sep 2013 05:21:13 GMT
 Connection: keep-alive
 X-Cache: HIT
-X-Cache-Hits: 246
-X-Age: 291
-X-FXJ-ID: 842219301 842120628
+X-Cache-Hits: 214
+X-Age: 272
+X-FXJ-ID: 1324863393 1324778158
 X-FXJ-C: HIT
-X-FXJ-CH: 246
+X-FXJ-CH: 214
 X-FXJ-EO: 1
-
+

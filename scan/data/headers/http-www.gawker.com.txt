@@ -2,13 +2,13 @@ HTTP/1.1 301 Moved Permanently
 Location: http://gawker.com/
 Content-Length: 0
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 00:56:56 GMT
+Date: Wed, 25 Sep 2013 05:18:09 GMT
 Via: 1.1 varnish
 Age: 0
 Connection: keep-alive
-X-Served-By: cache-sv62-SJC3
+X-Served-By: cache-sv61-SJC3
 X-Cache: MISS
 X-Cache-Hits: 0
-X-Timer: S1380070616.477387428,VS0,VE141
+X-Timer: S1380086289.622634649,VS0,VE167
 x-cdn-view: mantle-root
-
+

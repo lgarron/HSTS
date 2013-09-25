@@ -1,8 +1,8 @@
 HTTP/1.1 302 Moved Temporarily
-Date: Wed, 25 Sep 2013 00:47:58 GMT
+Date: Wed, 25 Sep 2013 05:10:42 GMT
 Server: Apache-Coyote/1.1
 P3P: CP="CAO DSP LAW CUR DEVa TAIa PSAi PSDi OTPi OUR IND UNI NAV DEM STA LOC OTC"
-X-Meetup-server: app14.int.meetup.com
+X-Meetup-server: app8.int.meetup.com
 X-Frame-Options: sameorigin
 Pragma: No-cache
 Cache-Control: no-cache
@@ -10,11 +10,11 @@ Expires: 0
 Location: http://www.meetup.com/find
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
-Set-Cookie: MEETUP_MEMBER=id=0&status=1&timestamp=1380070079&bs=0&tz=US%2FEastern&zip=&country=us&city=&state=&lat=0.0&lon=0.0&domain=&dc=&s=d1302ef5a0764ce48ef887e191791dfa1add012b; Domain=.meetup.com; Path=/
-Set-Cookie: MEETUP_AFFIL=affil=meetup; Domain=.meetup.com; Expires=Sat, 09-Nov-2013 00:47:59 GMT; Path=/
+Set-Cookie: MEETUP_MEMBER=id=0&status=1&timestamp=1380085843&bs=0&tz=US%2FEastern&zip=&country=us&city=&state=&lat=0.0&lon=0.0&domain=&dc=&s=3ca5f84f4ac7fce888f59d51e55dcdb3767253d9; Domain=.meetup.com; Path=/
+Set-Cookie: MEETUP_AFFIL=affil=meetup; Domain=.meetup.com; Expires=Sat, 09-Nov-2013 05:10:43 GMT; Path=/
 Set-Cookie: MEETUP_LANGUAGE=language=en&country=US; Domain=.meetup.com; Path=/
-Set-Cookie: MEETUP_TRACK=id=6f96fb19-26aa-4bfc-97ac-01c7122af522&l=0&s=afceaf7d68dd19cc726a9f67fbcc2a2b2b28ced3; Domain=.meetup.com; Path=/
-Set-Cookie: MEETUP_CSRF=d3e9ff2f-82ee-4d96-83b6-7258acfd2a0b; Domain=.meetup.com; Expires=Fri, 25-Oct-2013 00:47:59 GMT; Path=/
+Set-Cookie: MEETUP_TRACK=id=a505be71-3fb4-4462-be61-0d3391a23548&l=0&s=ed9908a19f1deb7ff7bf9a74812eb702050f7843; Domain=.meetup.com; Path=/
+Set-Cookie: MEETUP_CSRF=7f32eaa0-afe1-4bc8-85f4-a4e535a6b395; Domain=.meetup.com; Expires=Fri, 25-Oct-2013 05:10:43 GMT; Path=/
 Vary: Accept-Encoding,User-Agent
 Connection: close
-
+

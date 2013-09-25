@@ -1,8 +1,8 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:31:42 GMT
+Date: Wed, 25 Sep 2013 05:13:07 GMT
 Server: Apache
-Set-Cookie: cart_id=name.com-1380079902.1604b69b9125e2-web2l3den.internal; path=/
+Set-Cookie: cart_id=name.com-1380085987.24151b9dab34b6-web3l3den.internal; path=/
 Set-Cookie: cart_totals=0.0.00; path=/
 Vary: Accept-Encoding,User-Agent
 Content-Type: text/html; charset=UTF-8
-
+

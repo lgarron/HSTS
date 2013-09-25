@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
 Cache-Control: public, max-age=60
-Date: Wed, 25 Sep 2013 03:24:42 GMT
-Content-Length: 168567
+Content-Length: 168424
 Content-Type: text/html
-Expires: Wed, 25 Sep 2013 03:25:18 GMT
+Expires: Wed, 25 Sep 2013 05:22:08 GMT
 Server: Microsoft-IIS/6.0
 Generator: Al Jazeera ORYX CMS
 Publisher: Al Jazeera IT
+Date: Wed, 25 Sep 2013 05:21:08 GMT
 Connection: keep-alive
-
+

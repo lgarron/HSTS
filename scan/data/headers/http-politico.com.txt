@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:21:26 GMT
-Server: Apache/2.2.15 (CentOS)
-Location: http://www.politico.com/
-Cache-Control: max-age=300
-Expires: Wed, 25 Sep 2013 03:26:26 GMT
-Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: Coyote-2-a053472=a05340e:0; path=/
-

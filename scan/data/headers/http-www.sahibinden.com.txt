@@ -2,11 +2,11 @@ HTTP/1.1 200 OK
 X-Proxy: 115
 Cache-Control: no-cache, must-revalidate
 Set-Cookie: language=tr; path=/; domain=.sahibinden.com
-Set-Cookie: vid=866; expires=Fri, 25-Oct-2013 00:40:14 GMT; path=/; domain=.sahibinden.com
-Set-Cookie: bid=a66ba6022349d172a552c69e2b3f4fcf-3165734a7bcfc91c041cbba6bc7662c396b7c85a6aa5485bc6057d0fa1789393; expires=Mon, 24-Mar-2014 00:40:14 GMT; path=/; domain=.sahibinden.com
-Set-Cookie: auction_session=6f02e6455cd309a9823ad733379c6329; path=/; domain=.sahibinden.com
+Set-Cookie: vid=776; expires=Fri, 25-Oct-2013 05:08:07 GMT; path=/; domain=.sahibinden.com
+Set-Cookie: bid=89e8b9a8add6f19abd94d544f653303b-b9acad27990bc0f42d8c169fba643ba77dd3c8fa2b10161217398f57afa43be3; expires=Mon, 24-Mar-2014 05:08:07 GMT; path=/; domain=.sahibinden.com
+Set-Cookie: auction_session=4c4a721e00302566540c8128d765e9ff; path=/; domain=.sahibinden.com
 Content-type: text/html; charset=utf-8
-Date: Wed, 25 Sep 2013 00:40:14 GMT
+Date: Wed, 25 Sep 2013 05:08:07 GMT
 Server: Sahibinden Web Servers
-X-Proxy: gytp-204 9,80
-
+X-Proxy: gytp-204 67,80
+

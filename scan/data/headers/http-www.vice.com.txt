@@ -1,8 +1,8 @@
 HTTP/1.1 301 Moved Permanently
 Content-length: 0
 Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 00:59:42 GMT
+Date: Wed, 25 Sep 2013 05:23:03 GMT
 Location: http://www.vice.com/en_us
 Server: nginx
 Connection: keep-alive
-
+

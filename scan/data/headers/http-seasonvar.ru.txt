@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 05:20:52 GMT
+Content-Type: text/html; charset=utf8
+Connection: keep-alive
+Set-Cookie: svd=1380086456; expires=Fri, 25-Oct-2013 05:20:56 GMT; path=/
+Set-Cookie: brand=casino.09.2; expires=Thu, 26-Sep-2013 05:20:56 GMT; path=/; domain=.seasonvar.ru
+

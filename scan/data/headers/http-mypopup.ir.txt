@@ -1,6 +1,11 @@
-HTTP/1.1 406 Not Acceptable
-Date: Wed, 25 Sep 2013 03:28:11 GMT
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 05:09:41 GMT
 Server: LiteSpeed
-Connection: Keep-Alive
-Keep-Alive: timeout=5, max=100
-
+Connection: close
+Last-Modified: Wed, 25 Sep 2013 05:09:41 GMT
+Set-Cookie: PHPSESSID=ff31afdc1fcd7386ac78bc2e7707dd5f; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html
+

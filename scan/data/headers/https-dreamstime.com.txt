@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 01:35:52 GMT
+Date: Wed, 25 Sep 2013 05:19:08 GMT
 Content-Type: text/html
 Connection: keep-alive
-Set-Cookie: PHPSESSID=4go600n9k4j9rn4gb8142vlid4; path=/; domain=.dreamstime.com
+Set-Cookie: PHPSESSID=ks1ipheec3h9cc9h2posunl576; path=/; domain=.dreamstime.com
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: firstvisit=1380072952; expires=Tue, 16-Sep-2014 01:35:52 GMT; path=/; domain=.dreamstime.com
+Set-Cookie: firstvisit=1380086348; expires=Tue, 16-Sep-2014 05:19:08 GMT; path=/; domain=.dreamstime.com
 Location: http://www.dreamstime.com/
-
+

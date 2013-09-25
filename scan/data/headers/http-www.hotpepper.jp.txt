@@ -1,8 +1,8 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:32:22 GMT
-Set-Cookie: GalileoCookie=UkJZRqwQNggAAEIfjl0AAACf; path=/; expires=Sun, 22-Sep-24 03:32:22 GMT
+Date: Wed, 25 Sep 2013 05:13:41 GMT
+Set-Cookie: GalileoCookie=UkJxBawQNgkAABf0wXIAAAEA; path=/; expires=Sun, 22-Sep-24 05:13:41 GMT
 Content-Type: text/html;charset=UTF-8
 Content-Length: 76912
 P3P: CP="NON DSP COR CURa ADMa DEVa TAIa PSDo OUR BUS UNI COM NAV STA"
 Vary: Accept-Encoding,User-Agent
-
+

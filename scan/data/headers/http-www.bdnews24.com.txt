@@ -2,14 +2,14 @@ HTTP/1.1 301 Moved Temporarily
 Accept-Ranges: bytes
 Age: 0
 Cache-Control: public, max-age=300
-Date: Wed, 25 Sep 2013 03:21:54 GMT
+Date: Wed, 25 Sep 2013 05:09:18 GMT
 Location: http://bdnews24.com/
 Server: Varnish
 Vary: Accept-Encoding,User-Agent
 Via: 1.1 varnish
 X-Cache-Backend: webdirector
-X-Cache-Host: pres5
+X-Cache-Host: pres2
 X-UA: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; VOSA 1.0)
-X-Varnish: 253300802
+X-Varnish: 1100913594
 Connection: keep-alive
-
+

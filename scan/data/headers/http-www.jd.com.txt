@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
 Server: JDWS
-Date: Wed, 25 Sep 2013 01:15:50 GMT
+Date: Wed, 25 Sep 2013 05:12:48 GMT
 Content-Type: text/html; charset=gb2312
 Vary: Accept-Encoding
 Cache-Control: max-age=120
-Content-Length: 355284
+Content-Length: 355140
 Content-Location: http://www.jd.com/index.htm
-Last-Modified: Wed, 25 Sep 2013 01:12:56 GMT
-X-Cache: HIT from BJ-NX-131106.360buy.com
-Age: 0
-Via: http/1.1 HY-BGP-114.360buy.com ( [cMsSf ]), http/1.1 BJ-BGP-T-JCS-165 ( [cMsSf ])
-
+Last-Modified: Wed, 25 Sep 2013 05:11:16 GMT
+X-Cache: HIT from BJ-NX-13192.360buy.com
+Age: 51
+Via: http/1.1 TJ-BGP-H-JCS-117 ( [cMsSfW]), http/1.1 BJ-BGP-T-JCS-165 ( [cHs f ])
+

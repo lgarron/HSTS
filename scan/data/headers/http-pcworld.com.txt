@@ -1,7 +1,7 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:23:13 GMT
+Date: Wed, 25 Sep 2013 05:08:54 GMT
 Server: Apache
 Location: http://www.pcworld.com/
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-
+

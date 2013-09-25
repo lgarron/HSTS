@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 01:11:05 GMT
+Date: Wed, 25 Sep 2013 05:19:31 GMT
 Content-Type: text/html;charset=utf-8
 Connection: keep-alive
-Set-Cookie: DW977f8fe5c3af4e1243c74fdb2a8cea74=deleted; expires=Tue, 25-Sep-2012 01:11:04 GMT; path=/inhalt/
+Set-Cookie: DW977f8fe5c3af4e1243c74fdb2a8cea74=deleted; expires=Tue, 25-Sep-2012 05:19:30 GMT; path=/inhalt/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
 X-Frame-Options: SAMEORIGIN
-
+

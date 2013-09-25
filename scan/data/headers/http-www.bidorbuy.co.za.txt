@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 02:35:40 GMT
+Date: Wed, 25 Sep 2013 05:06:44 GMT
 Server: Apache
-Set-Cookie: bobeprod=171.65.239.131.1380076540500663; path=/; max-age=600; domain=.bidorbuy.co.za
-Last-Modified: Wed, 25 Sep 2013 02:31:43 GMT
+Set-Cookie: bobeprod=128.12.244.4.1380085604629633; path=/; max-age=600; domain=.bidorbuy.co.za
+Last-Modified: Wed, 25 Sep 2013 05:01:44 GMT
 Accept-Ranges: bytes
-Content-Length: 148395
+Content-Length: 148759
 Vary: Accept-Encoding,User-Agent
 Cache-Control: max-age=300
 Content-Type: text/html; charset=UTF-8
-
+

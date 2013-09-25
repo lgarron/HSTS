@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 01:31:45 GMT
+Date: Wed, 25 Sep 2013 05:13:06 GMT
 Content-Type: text/html; charset=utf-8
 Status: 301 Moved Permanently
 Location: http://dribbble.com/
 X-UA-Compatible: IE=Edge,chrome=1
 Cache-Control: no-cache
-X-Request-Id: 474cab5a00fa87f263d07d3ff1242a30
-X-Runtime: 0.010331
+X-Request-Id: 1142f434c4d144d5ba8a79f20d65ebe8
+X-Runtime: 0.006669
 X-Rack-Cache: miss
-
+

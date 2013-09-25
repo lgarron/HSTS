@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 02:37:50 GMT
+Date: Wed, 25 Sep 2013 05:07:28 GMT
 Server: Apache
-Set-Cookie: s=171.65.239.131.1380076670787268; path=/
+Set-Cookie: s=128.12.244.4.1380085648295960; path=/
 Pragma: No-cache
 Cache-Control: no-cache
 Expires: Thu, 01 Jan 1970 09:00:00 JST
-Set-Cookie: JSESSIONID=CE91B5C82121F4CF7FE594DAF281B6DD; Path=/
+Set-Cookie: JSESSIONID=DE9BDD996436FAD156F15DCDC1EC853A; Path=/
 Vary: Host,User-Agent,Accept-Encoding
 Content-Type: text/html;charset=UTF-8
-
+

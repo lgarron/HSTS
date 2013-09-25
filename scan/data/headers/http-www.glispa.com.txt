@@ -8,8 +8,8 @@ X-Powered-By: PHP/5.2.9
 X-Pingback: http://www.glispa.com/xmlrpc.php
 Cache-Control: max-age=86400
 Expires: Wed, 25 Sep 2013 17:22:09 GMT
-Age: 28120
-Via: 1.0 dac6748f3b37696f23e09a9c9b599059.cloudfront.net (CloudFront)
+Age: 42987
+Via: 1.0 ea961b1c94972f8feffbb14a32ffee07.cloudfront.net (CloudFront)
 X-Cache: Hit from cloudfront
-X-Amz-Cf-Id: XJ0u8QnrMaQsgCanuFJKmmUluAYsuWe9b4YvI4UWpNqbWhUt3AlY2g==
-
+X-Amz-Cf-Id: IcyMgoma_A8hCPBxN28I41xSGFQPMiPvxCxH_Al7dkFqF83MKFdZWw==
+

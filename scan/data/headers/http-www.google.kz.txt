@@ -1,14 +1,14 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:54:25 GMT
-Expires: -1
-Cache-Control: private, max-age=0
+HTTP/1.1 302 Found
+Location: https://www.google.kz/
+Cache-Control: private
 Content-Type: text/html; charset=UTF-8
-Set-Cookie: PREF=ID=1e839680bbe0b301:FF=0:TM=1380070465:LM=1380070465:S=frS2wvEacLYtb1z5; expires=Fri, 25-Sep-2015 00:54:25 GMT; path=/; domain=.google.kz
-Set-Cookie: NID=67=J7_C7_eLZZLyDb_9SiHJ-cfRKdTPE36MjYxvn1PDsLpCC27iKgUFRlFyLEO5NtONqfDyy6Bt-CPD6MKA9wiMnc-gLlVSIxm3QguZvci1oa9FBsmpV84TX1B3bwGIuWr4; expires=Thu, 27-Mar-2014 00:54:25 GMT; path=/; domain=.google.kz; HttpOnly
+Set-Cookie: PREF=ID=40fcac76e53fdef5:FF=0:TM=1380086216:LM=1380086216:S=cQrzfIHC4QgahQ3d; expires=Fri, 25-Sep-2015 05:16:56 GMT; path=/; domain=.google.kz
+Set-Cookie: NID=67=WHxtgvUk6ctHBfZLGpoZ-TLKFdO_0cKPuXnxw6umMbbvCw37WE03rYrjmwKX-GhBHdoif916zq2vfbh-k2N0R-CyQHkdw7YMi9svOi4c0qPaQqP0nGvq088LR6lOSVKU; expires=Thu, 27-Mar-2014 05:16:56 GMT; path=/; domain=.google.kz; HttpOnly
 P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Date: Wed, 25 Sep 2013 05:16:56 GMT
 Server: gws
+Content-Length: 219
 X-XSS-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
 Alternate-Protocol: 80:quic
-Transfer-Encoding: chunked
-
+

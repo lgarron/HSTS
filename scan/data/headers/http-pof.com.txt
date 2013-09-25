@@ -1,8 +1,0 @@
-HTTP/1.1 302 Redirect
-Content-Length: 141
-Content-Type: text/html; charset=UTF-8
-Location: http://www.pof.com
-Server: Microsoft-IIS/8.0
-X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 01:18:41 GMT
-

@@ -2,9 +2,9 @@ HTTP/1.1 302 Moved Temporarily
 Cache-control: no-cache="set-cookie"
 Content-length: 169
 Content-Type: text/html
-Date: Wed, 25 Sep 2013 02:02:10 GMT
+Date: Wed, 25 Sep 2013 05:18:03 GMT
 Location: https://tutsplus.com/
 Server: nginx/1.2.6 (Ubuntu)
 Set-Cookie: AWSELB=FDAF85D30201E09CDA7727A6377B53153B5282335F59E40955ADA77E406E081685760EEF8C4E2AB8F8886C0BB7C5DB9C16B705E41FBE55EAE3640F907CE0E51093C8504B9A;PATH=/;MAX-AGE=2592000
 Connection: keep-alive
-
+

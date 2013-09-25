@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 05:22:00 GMT
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=10
+Status: 301 Moved Permanently
+X-Powered-By: PHP/5.4.20
+Set-Cookie: SESSION_ID=c2749a9ca78374b98a4cdeba37514a30; path=/; domain=.sulit.com.ph
+Location: http://www.sulit.com.ph/
+

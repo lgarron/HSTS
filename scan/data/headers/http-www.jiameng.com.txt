@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
 Server: Tengine
-Date: Wed, 25 Sep 2013 03:29:53 GMT
+Date: Wed, 25 Sep 2013 05:12:02 GMT
 Content-Type: text/html
 Connection: keep-alive
 Vary: Accept-Encoding
-Set-Cookie: PHPSESSID=l16qdcuojtkmjej3l14l92n7d3; path=/; domain=.jiameng.com
+Set-Cookie: PHPSESSID=toj1v6k4n806ahraihap0ie7q5; path=/; domain=.jiameng.com
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: JIAMENGID=l16qdcuojtkmjej3l14l92n7d3; expires=Wed, 26-Mar-2014 15:28:05 GMT; path=/; domain=.jiameng.com
-
+Set-Cookie: JIAMENGID=toj1v6k4n806ahraihap0ie7q5; expires=Wed, 26-Mar-2014 17:15:25 GMT; path=/; domain=.jiameng.com
+

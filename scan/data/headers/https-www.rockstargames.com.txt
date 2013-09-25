@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: EdgePrismSSL
-Date: Wed, 25 Sep 2013 03:35:38 GMT
-Content-Type: text/html; charset=iso-8859-1
-Connection: keep-alive
-Location: http://www.rockstargames.com/
-Set-Cookie: X-Mapping-dbdccgpf=7D74B6EF732FF979BE715811ADC308CA; path=/
-Set-Cookie: X-Mapping-dbdccgpf=7D74B6EF732FF979BE715811ADC308CA; path=/
-

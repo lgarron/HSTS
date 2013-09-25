@@ -3,9 +3,7 @@ Server: Apache/2.2.15 (Scientific Linux)
 X-Powered-By: PHP/5.3.3
 Content-Type: text/html; charset=UTF-8
 Cache-Control: max-age=300
-Content-Length: 99738
-Accept-Ranges: bytes
-X-Varnish: 523626463 523617809
-Date: Wed, 25 Sep 2013 03:25:44 GMT
+X-Varnish: 1372046136 1372035368
+Date: Wed, 25 Sep 2013 05:12:27 GMT
 Connection: keep-alive
-
+

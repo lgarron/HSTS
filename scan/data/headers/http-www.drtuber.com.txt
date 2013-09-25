@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx/1.0.8
+Date: Wed, 25 Sep 2013 05:21:19 GMT
+Content-Type: text/html
+Connection: keep-alive
+X-Powered-By: PHP/5.3.27
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Set-Cookie: no_popups=1; expires=Wed, 02-Oct-2013 05:21:19 GMT; path=/; domain=.drtuber.com
+Set-Cookie: no_ads=1; expires=Wed, 02-Oct-2013 05:21:19 GMT; path=/; domain=.drtuber.com
+Vary: Accept-Encoding,User-Agent
+

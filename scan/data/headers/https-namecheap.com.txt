@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Tue, 24 Sep 2013 16:52:45 GMT
+Date: Tue, 24 Sep 2013 21:13:27 GMT
 Content-Type: text/html; charset=UTF-8
 Content-Length: 148
 Connection: keep-alive
 Keep-Alive: timeout=10
 Location: http://www.namecheap.com/
 X-Powered-By: ASP.NET
-
+

@@ -4,9 +4,9 @@ Set-Cookie: TI_PREFS=default; path=/; domain=.people.com
 Location: http://www.people.com/
 Content-Type: text/html; charset=iso-8859-1
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 01:22:14 GMT
-X-Varnish: 1709366255
+Date: Wed, 25 Sep 2013 05:17:21 GMT
+X-Varnish: 1826298095
 Age: 0
 Via: 1.1 varnish
 Connection: keep-alive
-
+

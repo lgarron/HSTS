@@ -1,16 +1,6 @@
-HTTP/1.1 200 OK
+HTTP/1.1 204 No Content
 Server: nginx/0.7.61
-Date: Wed, 25 Sep 2013 02:02:11 GMT
-Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 05:18:22 GMT
 Connection: keep-alive
 Keep-Alive: timeout=20
-Last-Modified: Wed, 25 Sep 2013 01:59:31 GMT
-Expires: Wed, 25 Sep 2013 02:17:12 GMT
-Vary: Cookie
-Cache-Control: max-age=900
-Set-Cookie: organicRef=othr; Path=/
-Set-Cookie: tzs=4600248|1380074531; expires=Sat, 23-Sep-23 02:02:11 GMT; Path=/
-Set-Cookie: isMarketing=; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
-Set-Cookie: pv=1; expires=Sat, 23-Sep-23 02:02:11 GMT; Path=/
-Set-Cookie: pzs=VLamavoC1YR; expires=Sat, 23-Sep-23 02:02:11 GMT; Path=/
-
+

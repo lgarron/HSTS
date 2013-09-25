@@ -1,4 +1,4 @@
 HTTP/1.1 301 Moved Permanently
 Location: http://www.skype.com/domain/redirect/skype.com/
 Connection: close
-
+

@@ -1,8 +1,17 @@
-HTTP/1.1 503 Service Temporarily Unavailable
+HTTP/1.1 200 OK
 Server: nginx/1.4.2
-Date: Wed, 25 Sep 2013 02:37:05 GMT
-Content-Type: text/html
-Content-Length: 1278
+Content-Type: text/html; charset=utf-8
+Content-Length: 32506
 Connection: keep-alive
-ETag: "5238fc33-4fe"
-
+Content-Language: en
+Vary: Accept-Language, Cookie
+X-Django-Request-Time: 0.029254s
+Date: Wed, 25 Sep 2013 05:16:58 GMT
+Set-Cookie: skybar_sess_False=1; Domain=.dubizzle.com; expires=Thu, 26 Sep 2013 05:16:58 GMT; Path=/
+Set-Cookie: sid=e3788bb95fe11812f0eea02fa302cfd2; Domain=.dubizzle.com; expires=Wed, 02-Oct-2013 05:16:58 GMT; Max-Age=604800; Path=/
+Set-Cookie: l=; Domain=.dubizzle.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+Set-Cookie: paabar_sess=; Domain=.dubizzle.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+Expires: Wed, 25 Sep 2013 05:16:57 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+

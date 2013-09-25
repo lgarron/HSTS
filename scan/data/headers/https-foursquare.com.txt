@@ -1,16 +1,16 @@
 HTTP/1.1 200 OK
 Cache-Control: no-cache, private, no-store
 Content-Type: text/html; charset=utf-8
-Date: Wed, 25 Sep 2013 00:58:13 GMT
-Expires: Wed, 25 Sep 2013 00:58:13 GMT
+Date: Wed, 25 Sep 2013 05:21:45 GMT
+Expires: Wed, 25 Sep 2013 05:21:44 GMT
 Pragma: no-cache
 Server: nginx/1.4.1
-Set-Cookie: XSESSIONID=fsag38084~fiklku3l25m1mum43rch2ib7;Path=/;Secure;HttpOnly
-Set-Cookie: bbhive=ROSRISRA0MT3CIQYF0AZZ13SQ1CDOS%3A%3A1380070693; Expires=Sat, 24-Sep-2016 00:58:13 GMT; Path=/; Domain=.foursquare.com
+Set-Cookie: XSESSIONID=fsae18085~392rn8zz323rhglylbsabbpo;Path=/;Secure;HttpOnly
+Set-Cookie: bbhive=L45VO54LW2UH0DKGYCWHPKGYILOMP2%3A%3A1380086505; Expires=Sat, 24-Sep-2016 05:21:45 GMT; Path=/; Domain=.foursquare.com
 Strict-Transport-Security: max-age=864000
 Vary: Accept-Encoding,User-Agent,Accept-Language
-X-Drag-Hostname: frontend-1
+X-Drag-Hostname: frontend-5
 X-Frame-Options: SAMEORIGIN
 X-XSS-Protection: 1; mode=block
 Connection: keep-alive
-
+

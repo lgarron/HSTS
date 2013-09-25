@@ -1,14 +1,14 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:09:53 GMT
+Date: Wed, 25 Sep 2013 05:25:15 GMT
 Server: Apache
-Set-Cookie: MCSESSION_PRODUCTION=c8i4m0fu9t938a4d42vvut86b4; expires=Fri, 25-Oct-2013 01:09:53 GMT; path=/; domain=.miniclip.com; HttpOnly
+Set-Cookie: MCSESSION_PRODUCTION=f2iiq2iu7mjh99vdlej0sjr404; expires=Fri, 25-Oct-2013 05:25:15 GMT; path=/; domain=.miniclip.com; HttpOnly
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: country_code=US; expires=Thu, 25-Sep-2014 06:58:39 GMT; path=/
-Set-Cookie: mc_abc39=2; expires=Wed, 02-Oct-2013 01:09:53 GMT; path=/
+Set-Cookie: country_code=US; expires=Thu, 25-Sep-2014 11:14:01 GMT; path=/
+Set-Cookie: mc_abc39=2; expires=Wed, 02-Oct-2013 05:25:15 GMT; path=/
 X-UA-Compatible: IE=edge, Chrome=1
 Location: /games/en/
 Vary: User-Agent
 Content-Type: text/html; charset=UTF-8
-
+

@@ -1,6 +1,8 @@
 HTTP/1.1 200 OK
 X-Powered-By: Express
-Content-Type: text/html
-Content-Length: 33139
-Date: Wed, 25 Sep 2013 02:35:14 GMT
-
+Set-Cookie: sup=1; Path=/; Expires=Thu, 25 Sep 2014 05:16:15 GMT
+Content-Type: text/html; charset=UTF-8
+ETag: cf7442bf118efdd4d1fd13114acbf508
+Content-Length: 128474
+Date: Wed, 25 Sep 2013 05:16:15 GMT
+

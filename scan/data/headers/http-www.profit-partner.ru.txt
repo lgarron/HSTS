@@ -1,15 +1,15 @@
 HTTP/1.1 200 OK
 Server: nginx/1.2.4
-Date: Wed, 25 Sep 2013 03:22:34 GMT
+Date: Wed, 25 Sep 2013 05:11:57 GMT
 Content-Type: text/html; charset="utf-8"
 Connection: keep-alive
 Keep-Alive: timeout=20
 X-Powered-By: PHP/5.3.18
-Set-Cookie: profit=7bgj5j419tfiip2b8hoktrudm2; expires=Wed, 25-Sep-2013 07:22:34 GMT; path=/; domain=.profit-partner.ru
+Set-Cookie: profit=ghdosap4v0l7dg7bnhf4nibto5; expires=Wed, 25-Sep-2013 09:11:57 GMT; path=/; domain=.profit-partner.ru
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
 Set-Cookie: ppc_refpage=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
-Set-Cookie: ppc_ourpage=profit-partner.ru%2Fhome%2F; expires=Thu, 25-Sep-2014 03:22:34 GMT; path=/
-Set-Cookie: uid=ToyN3FJCVvpQeUmjG9xdAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/
-
+Set-Cookie: ppc_ourpage=profit-partner.ru%2Fhome%2F; expires=Thu, 25-Sep-2014 05:11:57 GMT; path=/
+Set-Cookie: uid=ToyN3FJCcJ1Qe0mkHBNyAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/
+

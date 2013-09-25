@@ -1,16 +1,25 @@
-HTTP/1.1 403 Forbidden
-Server: AkamaiGHost
-Mime-Version: 1.0
-Content-Type: text/html
-Content-Length: 262
-Expires: Wed, 25 Sep 2013 03:22:07 GMT
+HTTP/1.1 302 Moved Temporarily
+Location: http://www.kohls.com/;jsessionid=4PlQSCyDsmCNlQP6W4GLwfthm61hJRwXkLBxBccfznhLQs297BVw!1152064008!1289663275
+X-ATG-Version: version=QVRHUGxhdGZvcm0vMTAuMS4x
+X-Powered-By: Servlet/2.5 JSP/2.1
+Content-Length: 1
+X-Origin-CC: 
+X-Origin-TTL: 
+X-K-DEBUG: X-K-P=ATG;ATG;X-K-P=ATG
+Expires: Wed, 25 Sep 2013 05:17:55 GMT
 Cache-Control: max-age=0, no-cache, no-store, private
 Pragma: no-cache
-Date: Wed, 25 Sep 2013 03:22:07 GMT
-Connection: close
-Set-Cookie: K_SOFT=a1; expires=Wed, 29-Jan-2014 03:22:07 GMT; path=/
-Set-Cookie: c_atg_akaau=1380080227~id=9202cffa7bf98703cfb4714f7ec1f1c4; path=/
+Date: Wed, 25 Sep 2013 05:17:55 GMT
+Connection: keep-alive
+Set-Cookie: JSESSIONID=4PlQSCyDsmCNlQP6W4GLwfthm61hJRwXkLBxBccfznhLQs297BVw!1152064008!1289663275; path=/; HttpOnly
+Set-Cookie: kohls_klbc_cookie=2802108938.23323.0000; path=/
+Set-Cookie: BIGipServerprod_asm_www-origin-pky-prod.kohls.com_pool_80=187970220.20480.0000; path=/
+Set-Cookie: TSada7dd=b4e23a3167fc0de13e5f7f28d38b46bd7d079d14760d01c85242720260ac0ec5d1294dfb9f5f5d1c4afedbffaac33fda83cb3597; Path=/
+Set-Cookie: kohls_klbd_cookie=187445932.20480.0000; path=/
+Set-Cookie: dcroute=pkyp;path=/;domain=kohls.com;
+Set-Cookie: K_SOFT=a1; expires=Wed, 29-Jan-2014 05:17:55 GMT; path=/
+Set-Cookie: c_atg_akaau=1380087175~id=9e6f551661aff9230fb301195dbe4182; path=/
 X-Origin-CC: 
-X-Origin-TTL: Wed, 25 Sep 2013 03:22:07 GMT
-X-K-DEBUG: ;ATG
-
+X-Origin-TTL: 
+X-K-DEBUG: ;ATG;X-K-P=ATG
+

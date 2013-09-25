@@ -5,9 +5,9 @@ Content-Type: text/html; charset=utf-8
 Location: /en/index.aspx
 Server: Microsoft-IIS/7.5
 X-Powered-By: UrlRewriter.NET 2.0.0
-Set-Cookie: ASP.NET_SessionId=zxddbe0h4yavl1dvy1luzhcv; path=/; HttpOnly
+Set-Cookie: ASP.NET_SessionId=qab4wbontbbkgj4flbswcbo3; path=/; HttpOnly
 X-AspNet-Version: 4.0.30319
 Set-Cookie: shortCountry=US; path=/
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 03:19:52 GMT
-
+Date: Wed, 25 Sep 2013 05:09:47 GMT
+

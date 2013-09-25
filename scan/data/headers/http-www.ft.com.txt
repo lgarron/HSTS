@@ -3,9 +3,9 @@ Server: Apache/2.2.17 (Unix) mod_jk/1.2.30
 Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 Content-Type: text/html; charset=iso-8859-1
 Location: http://www.ft.com/home/uk
-Expires: Wed, 25 Sep 2013 03:31:07 GMT
+Expires: Wed, 25 Sep 2013 05:20:39 GMT
 Pragma: no-cache
-Date: Wed, 25 Sep 2013 03:31:07 GMT
+Date: Wed, 25 Sep 2013 05:20:40 GMT
 Connection: keep-alive
-Set-Cookie: FT_M=D=D|F=|R=0; expires=Thu, 25-Sep-2014 03:31:07 GMT; path=/; domain=.ft.com
-
+Set-Cookie: FT_M=D=D|F=|R=0; expires=Thu, 25-Sep-2014 05:20:40 GMT; path=/; domain=.ft.com
+

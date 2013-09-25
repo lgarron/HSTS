@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 01:34:33 GMT
-Content-Type: text/html;charset=utf-8
-Set-Cookie: uid=ce97740060e646ee0e7dd70873b4b968
-Set-Cookie: cookies=1; path=/
-

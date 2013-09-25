@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 05:23:26 GMT
+Server: Apache/2.2.3 (Red Hat)
+Content-Location: index.html
+Vary: negotiate
+TCN: choice
+Last-Modified: Mon, 26 Aug 2013 13:19:20 GMT
+ETag: "6f9-1ecf-4e4d99a9f2600"
+Accept-Ranges: bytes
+Content-Length: 7887
+Connection: close
+Content-Type: text/html; charset=utf-8
+

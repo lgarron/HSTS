@@ -1,11 +1,11 @@
 HTTP/1.0 200 OK
-Content-Length: 135714
-Content-Type: text/html
-X-UA-Compatible: IE=EmulateIE7
+Date: Wed, 25 Sep 2013 05:13:25 GMT
+Server: Microsoft-IIS/6.0
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 00:45:44 GMT
-Expires: Wed, 25 Sep 2013 00:55:44 GMT
-Age: 592
-Powered-By-ChinaCache: HIT from 26098213T7
+Content-Length: 137330
+Content-Type: text/html
+Expires: Wed, 25 Sep 2013 05:23:25 GMT
+Age: 305
+Powered-By-ChinaCache: HIT from 26071413iA
 Connection: close
-
+

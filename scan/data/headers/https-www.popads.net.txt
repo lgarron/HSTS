@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 01:16:19 GMT
-Connection: Keep-Alive
-Keep-Alive: timeout=5, max=100
-X-PopAds-Node: wb5
-Set-Cookie: PHPSESSID=d66a9d84fc1acc729d122fd89bc05213; path=/; secure
-P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
-Content-Type: text/html; charset=UTF-8
-

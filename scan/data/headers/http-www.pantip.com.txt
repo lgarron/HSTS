@@ -5,10 +5,10 @@ X-Powered-By: PHP/5.3.10
 Location: http://pantip.com/
 Content-Length: 0
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 03:34:16 GMT
-X-Varnish: 3118065841 3117765752
-Age: 207
+Date: Wed, 25 Sep 2013 05:08:08 GMT
+X-Varnish: 3786662402 3786614877
+Age: 34
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: HIT
-
+

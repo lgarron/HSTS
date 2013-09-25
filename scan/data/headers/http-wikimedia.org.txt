@@ -1,5 +1,5 @@
 HTTP/1.0 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:00:26 GMT
+Date: Wed, 25 Sep 2013 05:18:58 GMT
 Server: Apache
 Location: http://www.wikimedia.org/
 Content-Type: text/html; charset=iso-8859-1
@@ -8,4 +8,4 @@ X-Cache-Lookup: MISS from sq78.wikimedia.org:3128
 X-Cache: MISS from sq74.wikimedia.org
 X-Cache-Lookup: MISS from sq74.wikimedia.org:80
 Connection: close
-
+

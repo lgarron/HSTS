@@ -1,12 +1,12 @@
 HTTP/1.1 302 Moved Temporarily
 Server: nginx
-Date: Wed, 25 Sep 2013 01:34:43 GMT
+Date: Wed, 25 Sep 2013 05:21:37 GMT
 Content-Type: text/html
 Connection: keep-alive
 Expires: Mon, 26 Jul 1997 05:00:00 GMT
-Last-Modified: Wed, 25 Sep 2013 01:34:43 GMT
+Last-Modified: Wed, 25 Sep 2013 05:21:37 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: xid=db4b52af648c1c8dae7ce7a051c9a7e9; expires=Wed, 25-Sep-2013 01:44:43 GMT; path=/; domain=.myntra.com; httponly
-Location: http://www.myntra.com/?xid=db4b52af648c1c8dae7ce7a051c9a7e9
-
+Set-Cookie: xid=c32584e4ddc729ff424b71c12fc0936b; expires=Wed, 25-Sep-2013 05:31:37 GMT; path=/; domain=.myntra.com; httponly
+Location: http://www.myntra.com/?xid=c32584e4ddc729ff424b71c12fc0936b
+

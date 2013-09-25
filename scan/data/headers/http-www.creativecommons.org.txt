@@ -3,9 +3,9 @@ Server: Apache/2.2.16 (Debian)
 Location: http://creativecommons.org/
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 03:35:34 GMT
-X-Varnish: 606505851
-Age: 0
+Date: Wed, 25 Sep 2013 05:14:25 GMT
+X-Varnish: 606829535 606825672
+Age: 73
 Via: 1.1 varnish
 Connection: keep-alive
-
+

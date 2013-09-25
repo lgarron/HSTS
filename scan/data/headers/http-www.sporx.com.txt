@@ -1,13 +1,13 @@
 HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 00:51:22 GMT
+Date: Wed, 25 Sep 2013 05:13:52 GMT
 Server: Apache
 X-Powered-By: PHP/5.4.11
-Set-Cookie: PHPSESSID=e0np85d590dticvejl6sqjm1l5; path=/
+Set-Cookie: PHPSESSID=nj1kl4nc5lqqbn0u94gmf839h3; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: public, max-age=60
 Pragma: no-cache
 Location: http://www2.sporx.com/
 LVS: SRV109
 Content-Type: text/html
-Set-Cookie: BIGipServersporxf_pool=2030807232.20480.0000; path=/
-
+Set-Cookie: BIGipServersporxf_pool=2047584448.20480.0000; path=/
+

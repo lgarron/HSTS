@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 01:03:19 GMT
-Vary: Accept-Encoding,User-Agent
-Content-Type: text/html
-Set-Cookie: cookie_aweber_referrer_id=99; expires=Fri, 26-Sep-2014 01:03:19 GMT; path=/; domain=.aweber.com
-Set-Cookie: TS8fba11=2bf0ad42562be97c1ada0768f8a1446c49bfcd3dbb4a355852423657; Path=/
-Transfer-Encoding: chunked
-

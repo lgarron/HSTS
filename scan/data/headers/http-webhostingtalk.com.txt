@@ -4,11 +4,11 @@ Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
 Server: Varnish
 Content-Length: 238
-Date: Wed, 25 Sep 2013 01:24:48 GMT
-X-Varnish: 823326429 823325822
-Age: 32
+Date: Wed, 25 Sep 2013 05:16:23 GMT
+X-Varnish: 823554116 823553789
+Age: 16
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: HIT
-X-Cache-Hits: 5
-
+X-Cache-Hits: 2
+

@@ -1,10 +1,10 @@
 HTTP/1.1 302 Found
 Server: Tengine
-Date: Wed, 25 Sep 2013 01:12:12 GMT
+Date: Wed, 25 Sep 2013 05:19:52 GMT
 Content-Type: text/html
 Content-Length: 260
 Connection: keep-alive
 Location: http://www.tmall.com/
-Expires: Thu, 26 Sep 2013 01:12:12 GMT
+Expires: Thu, 26 Sep 2013 05:19:52 GMT
 Cache-Control: max-age=86400
-
+

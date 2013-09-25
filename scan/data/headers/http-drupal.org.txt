@@ -1,15 +1,19 @@
-HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
 Server: Apache
-Location: https://drupal.org/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-Content-Length: 287
-Date: Wed, 25 Sep 2013 03:21:27 GMT
-X-Varnish: 1780587814 1780406572
-Age: 2252
+X-Powered-By: PHP/5.3.27
+Cache-Control: public, max-age=60
+Last-Modified: Wed, 25 Sep 2013 04:44:30 +0000
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+ETag: "1380084270"
+Content-Type: text/html; charset=utf-8
+Content-Length: 32664
+Date: Wed, 25 Sep 2013 05:07:00 GMT
+X-Varnish: 1794708577 1794607123
+Age: 1349
 Via: 1.1 varnish
 Connection: keep-alive
-X-Cache-Svr: www6.drupal.org
+X-Cache-Svr: www1.drupal.org
 X-Cache: HIT
-X-Cache-Hits: 177
-
+X-Cache-Hits: 75
+

@@ -2,9 +2,9 @@ HTTP/1.1 301 Moved Permanently
 Server: Apache/2.2.3 (CentOS)
 Location: http://slashdot.org/
 Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 03:26:39 GMT
-X-Varnish: 595018475
+Date: Wed, 25 Sep 2013 05:23:09 GMT
+X-Varnish: 253189236
 Age: 0
 Connection: keep-alive
 Vary: Accept-Encoding
-
+

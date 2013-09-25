@@ -4,9 +4,9 @@ Content-Type: text/html; charset=UTF-8
 X-Powered-By: PHP/5.3.5
 X-Pingback: http://www.egotastic.com/xmlrpc.php
 Link: <http://wp.me/1tOdg>; rel=shortlink
-X-Varnish: 1775943999 1775938936
-X-Served-By: buzz-wp-varnish01.reliam.com:80
-X-Cache-Hits: 10
-Date: Wed, 25 Sep 2013 02:36:03 GMT
+X-Varnish: 2120148454 2120140504
+X-Served-By: buzz-wp-varnish02.reliam.com:80
+X-Cache-Hits: 33
+Date: Wed, 25 Sep 2013 05:08:06 GMT
 Connection: keep-alive
-
+

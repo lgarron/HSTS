@@ -5,14 +5,14 @@ Pragma: No-cache
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Cache-Control: no-cache, no-store
-Expires: Wed, 25 Sep 2013 00:43:35 GMT
-RTSS: 1-1-19
-X-EdgeConnect-MidMile-RTT: 11
-X-EdgeConnect-Origin-MEX-Latency: 38
-Date: Wed, 25 Sep 2013 00:43:35 GMT
+Expires: Wed, 25 Sep 2013 05:06:20 GMT
+RTSS: 1-1-60
+X-EdgeConnect-MidMile-RTT: 9
+X-EdgeConnect-Origin-MEX-Latency: 39
+Date: Wed, 25 Sep 2013 05:06:20 GMT
 Connection: keep-alive
-Set-Cookie: testGroupNameCookie=L; expires=Fri, 25-Sep-2015 00:43:35 GMT; path=/; domain=.target.com
-Set-Cookie: TealeafAkaUID=1A5215FB4965976F8554FDCFEEAA4DAF; expires=Mon, 28-Sep-2020 00:43:35 GMT; path=/; domain=.target.com
-Set-Cookie: TealeafAkaSid=C3B4B56555EC94822FD9DD2998E62AD4; path=/; domain=.target.com
-Set-Cookie: akaau=1380070715~id=315c079840f7b35ceed101d28bc79636; domain=.target.com; path=/
-
+Set-Cookie: testGroupNameCookie=A; expires=Fri, 25-Sep-2015 05:06:20 GMT; path=/; domain=.target.com
+Set-Cookie: TealeafAkaUID=B917C4B4A22FECC38F494FD691794DF7; expires=Mon, 28-Sep-2020 05:06:20 GMT; path=/; domain=.target.com
+Set-Cookie: TealeafAkaSid=F89D9238F950F634A8623D935277C189; path=/; domain=.target.com
+Set-Cookie: akaau=1380086480~id=44083fe9110dbaf997ccb01f59f03be8; domain=.target.com; path=/
+

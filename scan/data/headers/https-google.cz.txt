@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Location: https://www.google.cz/
 Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 01:18:43 GMT
-Expires: Fri, 25 Oct 2013 01:18:43 GMT
+Date: Wed, 25 Sep 2013 05:11:13 GMT
+Expires: Fri, 25 Oct 2013 05:11:13 GMT
 Cache-Control: public, max-age=2592000
 Server: gws
 Content-Length: 219
 X-XSS-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
 Alternate-Protocol: 443:quic
-
+

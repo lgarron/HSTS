@@ -1,11 +1,11 @@
 HTTP/1.1 302 Found
 Server: unknown
-Date: Wed, 25 Sep 2013 00:43:53 GMT
+Date: Wed, 25 Sep 2013 05:06:58 GMT
 Content-Type: text/html; charset=utf-8
 Connection: close
 P3P: CP="CAO PSA OUR"
 Set-Cookie: originalNode=uslax; path=/; domain=.livejasmin.com
-Set-Cookie: jasminsite=YToxOntzOjc6InNpdGVfaWQiO2k6Mjt9; expires=Thu, 25-Sep-2014 00:43:53 GMT; path=/; domain=.livejasmin.com
+Set-Cookie: jasminsite=YToxOntzOjc6InNpdGVfaWQiO2k6Mjt9; expires=Thu, 25-Sep-2014 05:06:58 GMT; path=/; domain=.livejasmin.com
 Location: http://new.livejasmin.com/
 Vary: Accept-Encoding
-
+

@@ -7,9 +7,9 @@ Server: ch-sc-shield1
 Cache-Control: max-age=3600
 Content-Length: 0
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 03:36:11 GMT
-X-Varnish: 420662777 420623378
-Age: 2552
+Date: Wed, 25 Sep 2013 05:27:05 GMT
+X-Varnish: 420758978 420733896
+Age: 1964
 Via: 1.1 varnish
 Connection: keep-alive
-
+

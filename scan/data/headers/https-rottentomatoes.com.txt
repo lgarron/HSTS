@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:52:33 GMT
-Set-Cookie: ServerID=1211; Path=/
-Set-Cookie: JSESSIONID=7AE4D1CCD0D6CCDDA72EAE5AF4B6913E.localhost; Path=/; Secure
+Date: Wed, 25 Sep 2013 05:11:01 GMT
+Set-Cookie: ServerID=1209; Path=/
+Set-Cookie: JSESSIONID=1CE751384B02553AE5AC343A7C561F57.localhost; Path=/; Secure
 Cache-Control: must-revalidate
 Expires: -1
-Set-Cookie: homepageTestBucket=9; Expires=Fri, 25-Oct-2013 00:52:33 GMT; Path=/
+Set-Cookie: homepageTestBucket=9; Expires=Fri, 25-Oct-2013 05:11:01 GMT; Path=/
 Content-Type: text/html;charset=ISO-8859-1
 Content-Language: en-US
-Content-Length: 273008
+Content-Length: 272892
 Vary: User-Agent,Accept-Encoding
-
+

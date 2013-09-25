@@ -1,9 +1,8 @@
-HTTP/1.0 403 Forbidden
-Date: Wed, 25 Sep 2013 02:29:33 GMT
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 05:26:28 GMT
 Server: Apache
 Cache-Control: max-age=604800
-Expires: Wed, 02 Oct 2013 02:29:33 GMT
+Expires: Wed, 02 Oct 2013 05:26:28 GMT
 Vary: Accept-Encoding
-Connection: close
 Content-Type: text/html
-
+

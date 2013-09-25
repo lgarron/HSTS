@@ -1,14 +1,14 @@
 HTTP/1.1 302 Moved Temporarily
-Date: Wed, 25 Sep 2013 01:15:26 GMT
+Date: Wed, 25 Sep 2013 05:13:04 GMT
 Server: Apache
 Vary: Host,Accept-Encoding
-Set-Cookie: SITESERVER=ID=e63aee200000014151a815ec189d009d; Domain=.priceline.com; Expires=Fri, 18-Sep-2043 01:15:26 GMT; Path=/
-Set-Cookie: JSessionKey=544a200a464a200a20130925011526b74021575401; Domain=.priceline.com; Path=/
-Set-Cookie: vid=v20130925011526b7402157; Domain=.priceline.com; Path=/
-Set-Cookie: JSESSIONID=7DE8AE3BE3296689208429C3416ACDF4; Path=/landing; Secure
+Set-Cookie: SITESERVER=ID=59c2c82f000001415367b55292d700a2; Domain=.priceline.com; Expires=Fri, 18-Sep-2043 05:13:04 GMT; Path=/
+Set-Cookie: JSessionKey=464a200a544a200a20130925051304f78021624522; Domain=.priceline.com; Path=/
+Set-Cookie: vid=v20130925051304f7802162; Domain=.priceline.com; Path=/
+Set-Cookie: JSESSIONID=5216EA089609DF24639AFEC548031009; Path=/landing; Secure
 Location: http://www.priceline.com/landing/home.htm?&lrdr=secure
 Content-Language: en-US
-WSHeader: ws=h322 D=211446 NT=216
+WSHeader: ws=h331 D=54266 NT=57
 P3P: policyref="http://www.priceline.com/w3c/p3p_default_policy.xml",CP="CAO DSP COR CURa ADMa DEVo TAIo PSAa PSDa OUR OTRa IND ONL PUR NAV INT CNT STA PRE"
 Content-Type: text/html;charset=ISO-8859-1
-
+

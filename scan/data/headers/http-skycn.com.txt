@@ -1,6 +1,0 @@
-HTTP/1.1 302 Found
-Location: http://www.skycn.com
-Content-Length: 0
-Date: Wed, 25 Sep 2013 02:37:46 GMT
-Server: BWS/1.0
-

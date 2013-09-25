@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 146
-Content-Type: text/html; charset=UTF-8
-Location: http://www.betfair.com/
-Date: Wed, 25 Sep 2013 03:23:58 GMT
-Set-Cookie: NSC_mc-80-dpoufou.sfejsfdu=ffffffff0920970345525d5f4f58455e445a4a4229a0;path=/;httponly
-

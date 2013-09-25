@@ -1,13 +1,16 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:40:14 GMT
+Date: Wed, 25 Sep 2013 05:08:29 GMT
 Server: Server
-Set-Cookie: skin=noskin; path=/; domain=.amazon.co.jp; expires=Wed, 25-Sep-2013 00:40:14 GMT
+Set-Cookie: skin=noskin; path=/; domain=.amazon.co.jp; expires=Wed, 25-Sep-2013 05:08:29 GMT
 pragma: no-cache
-x-amz-id-1: 15HR0PWQFK2G8ZY76DPA
+x-amz-id-1: 15SHMEJ0P60XQ6SRGZRR
 cache-control: no-cache
 expires: -1
-x-amz-id-2: 8G33gdoA2J+wOXV1VFpEewZoYaJox1cKkmIqD77pqqhjfVctaJuBhiu4kndY87WN
+x-amz-id-2: Ja1DB+MTKv5FULsjkRGZnS4/7ro5vGRqSsE1XZbvnY50qCUj9pDjMFQ+wAVPNqZH
 Vary: Accept-Encoding,User-Agent
 nnCoection: close
 Content-Type: text/html; charset=Shift_JIS
-
+Set-cookie: x-wl-uid=1JHxMRbPc9V0GhRL/eToAlqa3t38y1Ahbb0eLjqGJIo+pRRtnQU7zyFef4ETOBgspNjq38k9pZXU=; path=/; domain=.amazon.co.jp; expires=Mon, 31-Dec-2035 15:00:01 GMT
+Set-cookie: session-id-time=2082726001l; path=/; domain=.amazon.co.jp; expires=Mon, 31-Dec-2035 15:00:01 GMT
+Set-cookie: session-id=375-9552374-8961429; path=/; domain=.amazon.co.jp; expires=Mon, 31-Dec-2035 15:00:01 GMT
+

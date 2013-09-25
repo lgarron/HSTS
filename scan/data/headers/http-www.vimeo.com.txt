@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 00:48:08 GMT
+Date: Wed, 25 Sep 2013 05:11:25 GMT
 Server: Apache
 Location: https://vimeo.com
 Cache-Control: max-age=315360000
-Expires: Sat, 23 Sep 2023 00:48:08 GMT
+Expires: Sat, 23 Sep 2023 05:11:25 GMT
 Vary: Accept-Encoding
 Connection: close
 Content-Type: text/html; charset=iso-8859-1
-
+

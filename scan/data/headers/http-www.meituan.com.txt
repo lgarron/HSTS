@@ -1,16 +1,16 @@
 HTTP/1.1 200 OK
 Server: Tengine
-Date: Wed, 25 Sep 2013 03:38:08 GMT
+Date: Wed, 25 Sep 2013 05:16:21 GMT
 Content-Type: text/html
 Connection: keep-alive
-Set-Cookie: uuid=b1dacfe6be203725b872.1380080288.0.0.0; expires=Fri, 18-Sep-2043 03:38:08 GMT; path=/; domain=.meituan.com
+Set-Cookie: uuid=c348b2b188688556f33c.1380086181.0.0.0; expires=Fri, 18-Sep-2043 05:16:21 GMT; path=/; domain=.meituan.com
 Expires: Sat, 01 Jan 2000 00:00:00 GMT
-Last-Modified: Wed, 25 Sep 2013 03:38:08 GMT
+Last-Modified: Wed, 25 Sep 2013 05:16:21 GMT
 Cache-Control: no-cache, no-store, private, must-revalidate, proxy-revalidate
 Pragma: no-cache
-Set-Cookie: SID=t8p8icrvjqnrinopmro1c4emu2; path=/; domain=.meituan.com; HttpOnly
-Set-Cookie: ci=1; expires=Fri, 18-Sep-2043 03:38:08 GMT; path=/; domain=.meituan.com
-Set-Cookie: abt=1380080288.1380556800%7CBDF; expires=Fri, 18-Sep-2043 03:38:08 GMT; path=/; domain=.meituan.com
-Set-Cookie: rvct=1; expires=Fri, 18-Sep-2043 03:38:08 GMT; path=/; domain=.meituan.com
+Set-Cookie: SID=rdpv14u3gfp4lc46ges6gp73c1; path=/; domain=.meituan.com; HttpOnly
+Set-Cookie: ci=1; expires=Fri, 18-Sep-2043 05:16:21 GMT; path=/; domain=.meituan.com
+Set-Cookie: abt=1380086181.1380556800%7CADE; expires=Fri, 18-Sep-2043 05:16:21 GMT; path=/; domain=.meituan.com
+Set-Cookie: rvct=1; expires=Fri, 18-Sep-2043 05:16:21 GMT; path=/; domain=.meituan.com
 Vary: Accept-Encoding
-
+

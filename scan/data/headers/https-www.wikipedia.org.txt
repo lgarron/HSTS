@@ -1,6 +1,6 @@
 HTTP/1.1 200 OK
 Server: nginx/1.1.19
-Date: Wed, 25 Sep 2013 00:45:14 GMT
+Date: Wed, 25 Sep 2013 05:07:47 GMT
 Content-Type: text/html; charset=utf-8
 Content-Length: 49268
 Connection: keep-alive
@@ -8,9 +8,9 @@ X-Content-Type-Options: nosniff
 Cache-Control: s-maxage=3600, must-revalidate, max-age=0
 Last-Modified: Thu, 19 Sep 2013 06:37:41 GMT
 Vary: Accept-Encoding
-X-Cache: MISS from cp1019.eqiad.wmnet
+X-Cache: HIT from cp1019.eqiad.wmnet
 X-Cache-Lookup: HIT from cp1019.eqiad.wmnet:3128
-Age: 9
-X-Cache: HIT from cp1017.eqiad.wmnet
-X-Cache-Lookup: HIT from cp1017.eqiad.wmnet:80
-
+Age: 3
+X-Cache: HIT from cp1010.eqiad.wmnet
+X-Cache-Lookup: HIT from cp1010.eqiad.wmnet:80
+

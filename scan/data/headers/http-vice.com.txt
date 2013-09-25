@@ -1,9 +1,9 @@
 HTTP/1.0 301 Moved Permanently
 Server: squid/3.1.10
-Date: Wed, 25 Sep 2013 00:59:47 GMT
+Date: Wed, 25 Sep 2013 05:23:07 GMT
 Content-Length: 0
 Location: http://www.vice.com/
 X-Cache: MISS from vmpmg1
 X-Cache-Lookup: MISS from vmpmg1:80
 Connection: keep-alive
-
+

@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: JuanNiuX/12.11.18
+Date: Wed, 25 Sep 2013 05:20:06 GMT
+Content-Type: text/html
+Content-Length: 190
+Connection: keep-alive
+Location: http://www.mogujie.com/
+Z-Proxy: juanniu104
+

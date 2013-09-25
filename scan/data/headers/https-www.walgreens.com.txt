@@ -3,10 +3,10 @@ Server: Apache
 Location: http://www.walgreens.com/
 Content-Type: httpd/unix-directory
 Content-Length: 0
-Date: Wed, 25 Sep 2013 02:35:39 GMT
+Date: Wed, 25 Sep 2013 05:06:43 GMT
 Connection: keep-alive
-Set-Cookie: JSESSIONID=+cjjvl9YNVmr91e-kiGddA**.p_dotcom57; Domain=.walgreens.com; Path=/
-Set-Cookie: wag_sc_ss_id=-2879226590333992791; Domain=.walgreens.com; Path=/; Secure;  HttpOnly
+Set-Cookie: JSESSIONID=+d-Y-VFfqbRopTDbqyACGQ**.p_dotcom24; Domain=.walgreens.com; Path=/
+Set-Cookie: wag_sc_ss_id=-728513597571055022; Domain=.walgreens.com; Path=/; Secure;  HttpOnly
 Set-Cookie: stop_mobi=yes; path=/; domain=walgreens.com
-Set-Cookie: akaau=1380077439~id=a09a8db96e1b18b5b73ceb90cf2a88a6; path=/
-
+Set-Cookie: akaau=1380086503~id=46bc1d119af5797ee72f6b8f5ef66f93; path=/
+

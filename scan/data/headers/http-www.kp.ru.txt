@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 02:36:05 GMT
-Content-Type: text/html; charset=utf-8
-Connection: close
-Expires: Thu, 01 Jan 1970 00:00:01 GMT
-Cache-Control: no-cache
-

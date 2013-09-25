@@ -1,22 +1,17 @@
 HTTP/1.1 200 OK
 Server: Apache/2.2.22 (Ubuntu)
 X-Powered-By: PHP/5.3.10-1ubuntu3.5
-Vary: Accept-Encoding,Cookie
-Cache-Control: max-age=3, must-revalidate
-WP-Super-Cache: Served supercache file from PHP
+X-Pingback: http://www.rantsports.com/xmlrpc.php
+Vary: Accept-Encoding
 Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 03:29:44 GMT
-X-Varnish: 1896260837
-Age: 0
+Date: Wed, 25 Sep 2013 05:25:34 GMT
+X-Varnish: 1897395182 1897389016
+Age: 50
 Via: 1.1 varnish
 Connection: keep-alive
-X-Cache: MISS
-Set-Cookie: incap_ses_32_52399=gi4AKLeY+Hp4DwUbLbBxAPpXQlIAAAAAHCoQ8GVH452hpYuGwkkNcA==; path=/; Domain=.rantsports.com
-Set-Cookie: ___utmvmBBuaIsB=NrFmJNOvQTj; path=/; Max-Age=900
-Set-Cookie: ___utmvaBBuaIsB=zuIGutN; path=/; Max-Age=900
-Set-Cookie: ___utmvbBBuaIsB=eZl
-    XUeOvali: Atq; path=/; Max-Age=900
-Set-Cookie: visid_incap_52399=F/tfHbxDQPC5yp2qjwFUMvpXQlIAAAAAQUIPAAAAAACk6Tp65xGwT2Vyr6+/zklf; expires=Thu, 24 Sep 2015 07:29:40 GMT; path=/; Domain=.rantsports.com
-X-Iinfo: 1-15218887-15218371 PNNY RT(1380079610005 1) q(0 0 0 57) r(1 1) U6
+X-Cache: HIT
+Set-Cookie: incap_ses_32_52399=6l2+Ua783HUOTlobLbBxAB9zQlIAAAAAWpPoJHRWS2tQ93EmkybCYg==; path=/; Domain=.rantsports.com
+Set-Cookie: visid_incap_52399=Vzm3YrCLSb6gzBgGds8QJx9zQlIAAAAAQUIPAAAAAABqAWt075lmigpt8/xJunm5; expires=Thu, 24 Sep 2015 07:19:55 GMT; path=/; Domain=.rantsports.com
+X-Iinfo: 7-79094405-79094248 PNNY RT(1380086559395 1) q(0 0 0 1) r(1 1) U6
 X-CDN: Incapsula
-
+

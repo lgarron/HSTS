@@ -1,14 +1,14 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:28:18 GMT
-Expires: -1
-Cache-Control: private, max-age=0
-Content-Type: text/html; charset=windows-1256
-Set-Cookie: PREF=ID=19610a3ef7e3e03b:FF=0:TM=1380079698:LM=1380079698:S=HWvT_CkJvQVW8TPe; expires=Fri, 25-Sep-2015 03:28:18 GMT; path=/; domain=.google.iq
-Set-Cookie: NID=67=sNlfUrrfrq3E0wiZNidMb7-rEjoEh0ICkQ8j8kUchvzDQIkEAfrSLW2lMeEHWkWeWpSOMXK7nU5eOvY4eIY1dahBKaoYAn52MIjl14t890ydzLnSU9ChEi_ckNOa1tVG; expires=Thu, 27-Mar-2014 03:28:18 GMT; path=/; domain=.google.iq; HttpOnly
+HTTP/1.1 302 Found
+Location: https://www.google.iq/
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PREF=ID=087ea9888492f838:FF=0:TM=1380086307:LM=1380086307:S=faB8jNsAB8vxN83B; expires=Fri, 25-Sep-2015 05:18:27 GMT; path=/; domain=.google.iq
+Set-Cookie: NID=67=Gy3KC_2SiY0TRmqE_rdIFZiF8AFMMWGg94RD-UL1Wt1-nitvehS-V0WVrYw2Qs4UsG2iOqUMouhw07j72MnIkqWFxuK76PYKhTCjeyBnggyYtH7qYqddRupGDXG8j_HM; expires=Thu, 27-Mar-2014 05:18:27 GMT; path=/; domain=.google.iq; HttpOnly
 P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Date: Wed, 25 Sep 2013 05:18:27 GMT
 Server: gws
+Content-Length: 219
 X-XSS-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
 Alternate-Protocol: 80:quic
-Transfer-Encoding: chunked
-
+

@@ -1,8 +1,8 @@
 HTTP/1.1 301 Moved Permanently
-Server: nginx/1.4.2
-Date: Wed, 25 Sep 2013 03:24:37 GMT
+Server: nginx/0.8.40
+Date: Wed, 25 Sep 2013 05:20:15 GMT
 Content-Type: text/html
-Content-Length: 184
+Content-Length: 185
 Connection: close
 Location: http://elcomercio.pe/
-
+

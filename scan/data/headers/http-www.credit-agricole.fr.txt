@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 02:35:39 GMT
-Server: Apache
-Vary: Cookie,Accept-Encoding
-Composed-By: SPIP @ www.spip.net
-Last-Modified: Wed, 25 Sep 2013 02:35:39 GMT
-Content-Type: text/html; charset=utf-8
-X-Cache: MISS from www.credit-agricole.fr
-

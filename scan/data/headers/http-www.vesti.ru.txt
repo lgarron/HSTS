@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 03:21:00 GMT
+Date: Wed, 25 Sep 2013 05:08:10 GMT
 Content-Type: text/html; charset=windows-1251
 Connection: close
-X-Backend: maat
+X-Backend: apache0
 Cache-Control: max-age=600
-Expires: Wed, 25 Sep 2013 03:22:43 GMT
+Expires: Wed, 25 Sep 2013 05:18:10 GMT
 X-Powered-By: PHP/4.0.4pl1
 X-Frontend: nginx5.srv.rfn.ru
-X-Request-ID: e96793e0c96ed073f38438ed3c243515
-Set-Cookie: ngx_uid=wKgJ2VJCVpxxg0JVA6PsAg==; path=/
-
+X-Request-ID: b643029e840fbdc9645aeccfe0b4d14e
+Set-Cookie: ngx_uid=wKgJ2VJCb7pwxkJUBAsgAg==; path=/
+

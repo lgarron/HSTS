@@ -1,8 +1,8 @@
 HTTP/1.1 301 Moved Permanently
 Server: Apache/2.2.9 (Unix) mod_jk/1.2.30
 Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 03:31:06 GMT
+Date: Wed, 25 Sep 2013 05:20:27 GMT
 Location: http://www.ft.com/
 Transfer-Encoding: chunked
 Connection: Keep-Alive
-
+

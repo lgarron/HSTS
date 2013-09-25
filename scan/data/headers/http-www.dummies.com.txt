@@ -1,14 +1,14 @@
 HTTP/1.0 200 OK
-Date: Wed, 25 Sep 2013 03:25:14 GMT
+Date: Wed, 25 Sep 2013 05:11:56 GMT
 Server: Apache
 X-Powered-By: SPA
 Content-Length: 49152
-Instance: p2, p1
+Instance: p1, p2
 Vary: Accept-Encoding
 Content-Type: text/html;charset=UTF-8
-Set-Cookie: JSESSIONID=7F3EF35385013AEFD3901098AE20871F; Path=/
+Set-Cookie: JSESSIONID=2ECEBB1FE5E545E8CDD6AB4B97D42C8B; Path=/
 Set-Cookie: dummies.com.SPA.country=US; Domain=.dummies.com; Path=/
 Set-Cookie: dummies.com.SPA.isCountryConfirmed=false; Domain=.dummies.com; Path=/
-Set-Cookie: dummies.com.SPA.isPreLaunchAccess=false; Domain=.dummies.com; Expires=Sat, 23-Sep-2023 03:25:14 GMT; Path=/
+Set-Cookie: dummies.com.SPA.isPreLaunchAccess=false; Domain=.dummies.com; Expires=Sat, 23-Sep-2023 05:11:56 GMT; Path=/
 Connection: close
-
+

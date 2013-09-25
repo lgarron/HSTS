@@ -1,8 +1,8 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:03:22 GMT
+Date: Wed, 25 Sep 2013 05:22:22 GMT
 Server: Apache
 Set-Cookie: partner=www; domain=(null); path=/; Version="1";
 Set-Cookie: partner_url=(null); domain=(null); path=/; Version="1";
 Location: http://www.weather.com/
 Content-Type: text/html; charset=iso-8859-1
-
+

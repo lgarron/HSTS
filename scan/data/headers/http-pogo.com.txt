@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Expires: 0
 Cache-Control: max-age=0, private
-Set-Cookie: prod.JID=683351FC1E0922E9E6D2FDCCFB1836FD.000211; Domain=.pogo.com; Path=/
+Set-Cookie: prod.JID=061AC3ECDC13911904E16D353D07B511.000304; Domain=.pogo.com; Path=/
 Content-Language: en-US
-Set-Cookie: com.pogo.unid=6700290715771179; Domain=.pogo.com; Expires=Mon, 24-Sep-2018 03:20:52 GMT; Path=/
+Set-Cookie: com.pogo.unid=6700088852316844; Domain=.pogo.com; Expires=Mon, 24-Sep-2018 05:10:47 GMT; Path=/
 Location: http://www.pogo.com/
 Content-Type: text/html;charset=UTF-8
 Transfer-Encoding: chunked
-Date: Wed, 25 Sep 2013 03:20:52 GMT
+Date: Wed, 25 Sep 2013 05:10:46 GMT
 Server: Apache-Coyote/1.1
-
+

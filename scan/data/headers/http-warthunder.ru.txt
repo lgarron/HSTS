@@ -1,9 +1,9 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 03:30:02 GMT
+Date: Wed, 25 Sep 2013 05:22:20 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 X-Frame-Options: DENY
-Last-Modified: Wed, 25 Sep 2013 03:17:39 GMT
-Set-Cookie: wt_conntrack=vH/1gVJCWLqDMAcxBbEuAg==; domain=warthunder.ru; path=/
-
+Last-Modified: Wed, 25 Sep 2013 05:11:09 GMT
+Set-Cookie: wt_conntrack=vH/1gVJCcwyCSwccBaLUAg==; domain=warthunder.ru; path=/
+

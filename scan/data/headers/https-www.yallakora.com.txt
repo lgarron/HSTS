@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 05:24:06 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d685d2144051864f3b8d950d7fd1168241380086646346; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.yallakora.com
+Set-Cookie: __cfduid=d685d2144051864f3b8d950d7fd1168241380086646346; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.yallakora.com
+Location: http://www.yallakora.com/
+CF-RAY: b354943a8ff070d
+

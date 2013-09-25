@@ -2,4 +2,4 @@ HTTP/1.1 302 Found
 Location: http://www.1mall.com/
 Content-Length: 0
 Content-Type: text/html; charset=UTF-8
-
+

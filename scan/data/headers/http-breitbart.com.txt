@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Accept-Ranges: bytes
-Age: 30
-Date: Wed, 25 Sep 2013 03:31:13 GMT
+Age: 3010
+Date: Wed, 25 Sep 2013 05:21:05 GMT
 Location: http://www.breitbart.com/
 Server: ch-sc-bb-shield1
 Via: 1.1 varnish
 X-Backend: local1
 X-ttl: 3600
-X-Varnish: 2185015947 2185015015
+X-Varnish: 2185185724 2185118163
 Content-Length: 0
-
+

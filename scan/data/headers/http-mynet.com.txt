@@ -4,6 +4,6 @@ Content-Type: text/html; charset=UTF-8
 Location: http://www.mynet.com/
 Server: Microsoft-IIS/7.5
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 01:11:13 GMT
-Set-Cookie: NSC_xxx.nzofu.dpn_dt_efofnf_2013=ffffffffc3a037f345525d5f4f58455e445a4a423660;path=/;httponly
-
+Date: Wed, 25 Sep 2013 05:19:52 GMT
+Set-Cookie: NSC_xxx.nzofu.dpn_dt_efofnf_2013=ffffffffc3a0378445525d5f4f58455e445a4a423660;path=/;httponly
+

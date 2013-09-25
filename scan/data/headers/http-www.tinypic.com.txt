@@ -4,11 +4,11 @@ Location: http://tinypic.com/index.php
 Content-Type: text/html; charset=iso-8859-1
 Content-Length: 236
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 00:55:47 GMT
-X-Varnish: 1243929290
-Age: 0
+Date: Wed, 25 Sep 2013 05:21:02 GMT
+X-Varnish: 1527634168 1527624929
+Age: 57
 Via: 1.1 varnish
 Connection: keep-alive
-X-Varnish-Server: den2tpv11
-X-Cache: MISS
-
+X-Varnish-Server: den2tpv08
+X-Cache: HIT
+

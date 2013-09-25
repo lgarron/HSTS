@@ -1,9 +1,10 @@
 HTTP/1.1 301 Moved Permanently
 Location: http://www.dhl.com/en.html
 Content-Type: text/html; charset=iso-8859-1
-Expires: Wed, 25 Sep 2013 03:36:55 GMT
+Expires: Wed, 25 Sep 2013 05:15:07 GMT
 Cache-Control: max-age=0, no-cache, no-store
 Pragma: no-cache
-Date: Wed, 25 Sep 2013 03:36:55 GMT
+Date: Wed, 25 Sep 2013 05:15:07 GMT
 Connection: keep-alive
-
+Set-Cookie: TSe9b671=936739da7964751f711578e8fe8c2e0f01e1b26cbb20836f5242715b; Path=/
+

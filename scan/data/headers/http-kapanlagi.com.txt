@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 03:28:22 GMT
+Date: Wed, 25 Sep 2013 05:21:33 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
@@ -8,4 +8,4 @@ Keep-Alive: timeout=5
 Location: http://www.kapanlagi.com/
 X-XSS-Protection: 1;mode=block
 X-Content-Type-Options: nosniff
-
+

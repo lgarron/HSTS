@@ -1,8 +1,8 @@
 HTTP/1.1 301 Moved Permanently
-Server: nginx/1.4.1
-Date: Wed, 25 Sep 2013 00:43:58 GMT
+Server: nginx/1.4.2
+Date: Wed, 25 Sep 2013 05:07:47 GMT
 Content-Type: text/html
 Content-Length: 184
 Connection: close
 Location: http://www.goodreads.com/
-
+

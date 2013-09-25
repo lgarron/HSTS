@@ -6,7 +6,7 @@ X-AspNet-Version: 2.0.50727
 Server-Info: I-2
 website-Info: 1, global, , , /, /, , https://www.asus.com, ,,
 X-Powered-By: ASP.NET
-Cache-Control: public, max-age=41096
-Date: Wed, 25 Sep 2013 03:31:06 GMT
+Cache-Control: public, max-age=34937
+Date: Wed, 25 Sep 2013 05:13:45 GMT
 Connection: keep-alive
-
+

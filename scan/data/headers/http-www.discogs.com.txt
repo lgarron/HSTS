@@ -1,1 +1,10 @@
-500 Internal Server Error
+HTTP/1.1 200 OK
+Reproxy-Status: yes
+Access-Control-Allow-Origin: *
+Content-Type: text/html; charset=utf-8
+Set-Cookie: language=en; Domain=.discogs.com; Path=/
+Set-Cookie: sid=013c4cd33fef8cb00607f94d599896a8; Domain=.discogs.com; expires=Sat, 23-Sep-2023 05:10:06 GMT; Path=/
+Content-Length: 431962
+Date: Wed, 25 Sep 2013 05:10:07 GMT
+Server: lighttpd
+

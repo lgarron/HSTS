@@ -1,7 +1,7 @@
 HTTP/1.1 302 Moved Temporarily
 Location: http://www.payoneer.com/
 Content-Length: 0
-Date: Wed, 25 Sep 2013 01:15:45 GMT
+Date: Wed, 25 Sep 2013 05:07:02 GMT
 Connection: keep-alive
 X-Cdn: Served-By-Akamai
-
+

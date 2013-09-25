@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
 Expires: 0
 Cache-Control: max-age=0, private
-Set-Cookie: prod.JID=301CB4CE2B078F712E356406FD899858.000176; Domain=.pogo.com; Path=/
+Set-Cookie: prod.JID=A8E1E337D7E4975CDF827EC8B75CC805.000163; Domain=.pogo.com; Path=/
 Content-Language: en-US
-Set-Cookie: com.pogo.unid=6699990068067052; Domain=.pogo.com; Expires=Mon, 24-Sep-2018 03:20:52 GMT; Path=/
+Set-Cookie: com.pogo.unid=6700269240949615; Domain=.pogo.com; Expires=Mon, 24-Sep-2018 05:10:48 GMT; Path=/
 Set-Cookie: com.pogo.supressGiftLayer=; Domain=.pogo.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/home
 Content-Type: text/html;charset=UTF-8
-Content-Length: 119645
-Date: Wed, 25 Sep 2013 03:20:52 GMT
+Content-Length: 121440
+Date: Wed, 25 Sep 2013 05:10:48 GMT
 Server: Apache-Coyote/1.1
-
+

@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 01:25:43 GMT
-Server: Apache-Coyote/rtm-sfrfr1
+Date: Wed, 25 Sep 2013 05:24:45 GMT
+Server: Apache-Coyote/rtm-sfrfr3
 Pragma: no-cache
 Cache-Control: private
 Expires: Wed, 31 Dec 1969 23:59:59 GMT
 Content-Type: text/html;charset=UTF-8
 Transfer-Encoding: chunked
 Via: 1.1 www.sfr.fr
-Via: http2
+Via: http3
 Connection: close
-
+

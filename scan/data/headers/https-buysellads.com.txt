@@ -1,9 +1,9 @@
 HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 03:23:08 GMT
+Date: Wed, 25 Sep 2013 05:07:48 GMT
 Server: Apache/2.2.3 (Red Hat) PHP/5.3.27 DAV/2 mod_ssl/2.2.3 OpenSSL/0.9.8e-fips-rhel5
 X-Powered-By: PHP/5.3.27
-Set-Cookie: csrftoken=7e584ea72f8e381ead2eb2dd53900711; path=/
+Set-Cookie: csrftoken=15dab48ee58e14127654a2385a866e4b; path=/
 Location: http://buysellads.com/
 Vary: Accept-Encoding,User-Agent
 Content-Type: text/html
-
+

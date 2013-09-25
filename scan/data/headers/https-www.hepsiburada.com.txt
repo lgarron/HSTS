@@ -1,10 +1,13 @@
-HTTP/1.1 200 OK
-Cache-Control: public, max-age=120
-Content-Length: 154413
+HTTP/1.1 302 Found
+Cache-Control: public, max-age=300
+Content-Length: 156
 Content-Type: text/html; charset=utf-8
-Expires: Wed, 25 Sep 2013 03:23:24 GMT
-Last-Modified: Wed, 25 Sep 2013 03:18:24 GMT
+Expires: Wed, 25 Sep 2013 05:23:33 GMT
+Last-Modified: Wed, 25 Sep 2013 05:18:33 GMT
+Location: http://www.hepsiburada.com/default.aspx
 Vary: *
-X-HBS: PS-20
-Date: Wed, 25 Sep 2013 03:21:22 GMT
-
+Set-Cookie: Commerce2002_TestPersistentCookie=TestCookie; expires=Thu, 26-Sep-2013 05:18:33 GMT; path=/;HttpOnly
+Set-Cookie: Commerce2002_TestSessionCookie=TestCookie; path=/;HttpOnly
+X-HBS: PS-19
+Date: Wed, 25 Sep 2013 05:18:33 GMT
+

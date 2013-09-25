@@ -2,28 +2,28 @@ HTTP/1.1 302 Moved Temporarily
 Server: nginx/1.2.9
 Content-Type: text/html; charset=utf-8
 Content-Length: 89
-X-Runtime: 18
 Location: http://www.groupon.com/
 Status: 302
+X-Runtime: 15
 X-UA-Compatible: chrome=IE8
 X-Origin-Cache: MISS
 X-Origin-Cache-Key: https/www.groupon.com/?
-X-Grout-Id: 34a07ec6-2581-11e3-9d2e-ae328ba74633
+X-Grout-Id: 6992a7ec-25a1-11e3-a0ab-c43c6bd800a4
 X-Grout-App: pwa
 Vary: Accept-Encoding
-Expires: Wed, 25 Sep 2013 01:24:21 GMT
+Expires: Wed, 25 Sep 2013 05:14:54 GMT
 Cache-Control: max-age=0, no-cache, no-store
 Pragma: no-cache
-Date: Wed, 25 Sep 2013 01:24:21 GMT
+Date: Wed, 25 Sep 2013 05:14:54 GMT
 Connection: keep-alive
-Set-Cookie: locale=en_US; Max-Age=31536000; Expires=Thu, 25-Sep-2014 1:24:21 GMT; Domain=.; Path=/;
-Set-Cookie: s=34a08c9a-2581-11e3-9d2e-ae328ba74633; Domain=.; Path=/;
-Set-Cookie: division=san-jose; path=/; expires=Fri, 25-Oct-2013 01:24:21 GMT
-Set-Cookie: b=fa5ba5a5-e851-0ba8-0fb8-b80142572b1d; domain=.groupon.com; path=/; expires=Mon, 25-Sep-2023 01:24:21 GMT
-Set-Cookie: s=34a08c9a-2581-11e3-9d2e-ae328ba74633; domain=.groupon.com; path=/; expires=Wed, 25-Sep-2013 01:54:21 GMT
-Set-Cookie: _thepoint=618eb1802557181faf826b6d5d777476; domain=.groupon.com; path=/; expires=Thu, 26 Sep 2013 01:24:21 GMT; HttpOnly
-Set-Cookie: b=fa5ba5a5-e851-0ba8-0fb8-b80142572b1d; expires=Sat, 23-Sep-2023 01:24:21 GMT; path=/; domain=.groupon.com
-Set-Cookie: bucket=594; expires=Sat, 23-Sep-2023 01:24:21 GMT; path=/; domain=.groupon.com
+Set-Cookie: locale=en_US; Max-Age=31536000; Expires=Thu, 25-Sep-2014 5:14:54 GMT; Domain=.; Path=/;
+Set-Cookie: s=6992b430-25a1-11e3-a0ab-c43c6bd800a4; Domain=.; Path=/;
+Set-Cookie: division=san-jose; path=/; expires=Fri, 25-Oct-2013 05:14:54 GMT
+Set-Cookie: b=0ce93c1f-af58-808a-844d-4eb642b4ac51; domain=.groupon.com; path=/; expires=Mon, 25-Sep-2023 05:14:54 GMT
+Set-Cookie: s=6992b430-25a1-11e3-a0ab-c43c6bd800a4; domain=.groupon.com; path=/; expires=Wed, 25-Sep-2013 05:44:54 GMT
+Set-Cookie: _thepoint=3f6da89f8d9cdcbbffab65ae6eae5a7c; domain=.groupon.com; path=/; expires=Thu, 26 Sep 2013 05:14:54 GMT; HttpOnly
+Set-Cookie: b=0ce93c1f-af58-808a-844d-4eb642b4ac51; expires=Sat, 23-Sep-2023 05:14:54 GMT; path=/; domain=.groupon.com
+Set-Cookie: bucket=705; expires=Sat, 23-Sep-2023 05:14:54 GMT; path=/; domain=.groupon.com
 X-Treatment-Name: OUT
-X-Bucket-Value: 594
-
+X-Bucket-Value: 705
+

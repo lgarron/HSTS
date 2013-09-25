@@ -1,12 +1,12 @@
 HTTP/1.1 521 Origin Down
 Server: cloudflare-nginx
-Date: Wed, 25 Sep 2013 03:38:05 GMT
+Date: Wed, 25 Sep 2013 05:17:59 GMT
 Content-Type: text/html; charset=UTF-8
 Connection: keep-alive
-Set-Cookie: __cfduid=d67d830cbda41026e0e357a46c2c40b791380080285934; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.ck101.com
-Set-Cookie: __cfduid=d67d830cbda41026e0e357a46c2c40b791380080285934; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.ck101.com
+Set-Cookie: __cfduid=da8cdccb3633bf8a9a78f2790dc88eddc1380086279937; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.ck101.com
+Set-Cookie: __cfduid=da8cdccb3633bf8a9a78f2790dc88eddc1380086279937; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.ck101.com
 Expires: Thu, 01 Jan 1970 00:00:01 GM
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-CF-RAY: b34adfb11140663
-
+CF-RAY: b354051934b0663
+

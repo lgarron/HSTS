@@ -2,9 +2,9 @@ HTTP/1.1 301 Moved Permanently
 Server: Varnish
 Retry-After: 0
 Location: http://www.washingtontimes.com/
-Date: Wed, 25 Sep 2013 03:32:07 GMT
-X-Varnish: 634213458
+Date: Wed, 25 Sep 2013 05:21:41 GMT
+X-Varnish: 872397300
 Age: 0
 Via: 1.1 varnish
 Connection: close
-
+

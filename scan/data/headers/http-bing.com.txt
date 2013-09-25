@@ -4,8 +4,8 @@ Content-Length: 0
 Location: http://www.bing.com/
 Server: Microsoft-IIS/8.0
 P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
-Set-Cookie: _HOP=I=1&TS=1380070464; domain=bing.com; path=/
+Set-Cookie: _HOP=I=1&TS=1380085910; domain=bing.com; path=/
 Edge-control: no-store
-X-MSEdge-Ref: Ref A: 6FD10237F197419F9175B0F6FAD22A21 Ref B: 1A36A43A6670F0D4302E807F1B2122D1 Ref C: Tue Sep 24 17:54:24 2013 PST
-Date: Wed, 25 Sep 2013 00:54:24 GMT
-
+X-MSEdge-Ref: Ref A: 097043EA62AC419DAF1B01F74E397947 Ref B: CE4FD6E1C0E4A1D9D37F71D7DC38E7B9 Ref C: Tue Sep 24 22:11:50 2013 PST
+Date: Wed, 25 Sep 2013 05:11:50 GMT
+

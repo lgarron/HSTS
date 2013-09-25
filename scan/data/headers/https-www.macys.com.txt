@@ -2,15 +2,15 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: http://www1.macys.com/
-Date: Wed, 25 Sep 2013 00:48:47 GMT
+Date: Wed, 25 Sep 2013 05:11:15 GMT
 Connection: keep-alive
 Set-Cookie: shippingCountry=US; path=/; domain=.macys.com
 Set-Cookie: SignedIn=0; path=/; domain=.macys.com
 Set-Cookie: PPP=24; path=/; domain=.macys.com
 Set-Cookie: BypassAkamai=false; path=/; domain=.macys.com
 Set-Cookie: GCs=CartItem1_92_03_87_UserName1_92_4_02_; path=/; domain=.macys.com
-Set-Cookie: PlatformName=WI; path=/; domain=.macys.com
-Set-Cookie: BrowserName=OT; path=/; domain=.macys.com
-Set-Cookie: BrowserVersion=OT; path=/; domain=.macys.com
+Set-Cookie: PlatformName=MA; path=/; domain=.macys.com
+Set-Cookie: BrowserName=SF; path=/; domain=.macys.com
+Set-Cookie: BrowserVersion=6X; path=/; domain=.macys.com
 X-Macys-Device: PC
-
+

@@ -1,14 +1,14 @@
 HTTP/1.0 302 Moved Temporarily
-Date: Wed, 25 Sep 2013 03:24:27 GMT
+Date: Wed, 25 Sep 2013 05:19:15 GMT
 Server: Apache
-Set-Cookie: cookielanguage=us; expires=Thu, 23-Jan-2014 03:24:27 GMT; path=/; domain=.sedo.com
+Set-Cookie: cookielanguage=us; expires=Thu, 23-Jan-2014 05:19:15 GMT; path=/; domain=.sedo.com
 Location: /us/home/getting-started/?tracked=&partnerid=&language=us
-Set-Cookie: session=1b99ec53f96dae6b71f6e19031bd8c94; path=/; domain=.sedo.com
+Set-Cookie: session=9364e0dd00728eb97a0b6a4ff342229f; path=/; domain=.sedo.com
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
 Vary: User-Agent,Accept-Encoding
 Content-Type: text/html
-X-Cache: MISS from 728297
+X-Cache: MISS from 764428
 Connection: close
-
+

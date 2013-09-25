@@ -1,13 +1,9 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:53:48 GMT
-Server: Apache/2.2.14 (Ubuntu)
-Vary: User-Agent,Accept-Encoding
-Set-Cookie: ID=171.65.249.4.1380070428960058; path=/; expires=Tue, 20-Sep-33 00:53:48 GMT
-Last-Modified: Fri, 03 Sep 2010 13:21:25 GMT
-ETag: "2c6e7d-f1-48f5aceba7f40"
-Accept-Ranges: bytes
-Content-Length: 241
-Cache-Control: no-cache, must-revalidate, proxy-revalidate, max-age=0, s-maxage=0
+Date: Wed, 25 Sep 2013 05:15:04 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Set-Cookie: ID=128.12.244.4.1380086104419421; path=/; expires=Tue, 20-Sep-33 05:15:04 GMT
+Vary: Accept-Encoding,User-Agent
 Connection: close
 Content-Type: text/html
-
+X-Pad: avoid browser bug
+

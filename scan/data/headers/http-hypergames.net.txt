@@ -1,7 +1,9 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:55:34 GMT
-Server: Apache/2.2.3 (CentOS)
+Date: Wed, 25 Sep 2013 05:19:38 GMT
+Server: Apache/2.2.3 (Red Hat)
 X-Powered-By: PHP/5.3.21
+Set-Cookie: vsid=905vr1276319785809356; expires=Mon, 24-Sep-2018 05:19:38 GMT; path=/; domain=hypergames.net; httponly
+X-Frame-Options: DENY
 Vary: Accept-Encoding,User-Agent
 Content-Type: text/html; charset=UTF-8
-
+

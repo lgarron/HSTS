@@ -1,8 +1,8 @@
 HTTP/1.1 200 OK
 Cache-Control: private
-Content-Length: 70640
+Content-Length: 73993
 Content-Type: text/html; charset=utf-8
-Set-Cookie: SessionGUID=8620d585-cbf7-4c65-b769-55ce83065042; path=/
-Set-Cookie: SessionGUID=8620d585-cbf7-4c65-b769-55ce83065042; path=/
-Date: Wed, 25 Sep 2013 02:35:37 GMT
-
+Set-Cookie: SessionGUID=7bb7ca95-b7ba-4c1c-8d10-bcd01e16a370; path=/
+Set-Cookie: SessionGUID=7bb7ca95-b7ba-4c1c-8d10-bcd01e16a370; path=/
+Date: Wed, 25 Sep 2013 05:06:43 GMT
+

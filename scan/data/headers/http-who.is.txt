@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:51:20 GMT
+Date: Wed, 25 Sep 2013 05:12:03 GMT
 Server: Apache
-Set-Cookie: PHPSESSID=et66jla9qbmaonrcaeb56j0a03; path=/
+Set-Cookie: PHPSESSID=esf36a036c6it78qhq40rnrta2; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
 Vary: Accept-Encoding,User-Agent
 Connection: close
 Content-Type: text/html; charset=utf-8
-
+

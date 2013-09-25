@@ -1,15 +1,15 @@
 HTTP/1.1 200 OK
-RlogId: t6e%60cckjkb9%3Fuk%601d72f%2Bd4f3-14152b7211f-0x2daad
+RlogId: t6e%60cckjkb9%3Fvo%7B2d71f%2Bc6%606-14153892b21-0x44d48
 Content-Type: text/html;charset=utf-8
 Content-Language: en-US
 Content-Length: 0
 Server: eBay Server
-Date: Wed, 25 Sep 2013 01:23:55 GMT
+Date: Wed, 25 Sep 2013 05:13:20 GMT
 Connection: keep-alive
-Set-Cookie: JSESSIONID=174D4003B39CC217FBF1A9D6B0B65F5D; Path=/
+Set-Cookie: JSESSIONID=509244703983AD5F0AEF2A9F0B6B4D5C; Path=/
 Set-Cookie: ebay=%5Esbf%3D%23%5E;Domain=.ebay.com.au;Path=/ 
-Set-Cookie: dp1=bu1p/QEBfX0BAX19AQA**54236eab^;Domain=.ebay.com.au;Expires=Fri, 25-Sep-2015 01:23:55 GMT;Path=/ 
-Set-Cookie: s=CgAD4ACBSQ4yrNTJiNzIxMWUxNDEwYTVlZGMyMjU0MTU1ZmY4ZDYzOGOx9xUH;Domain=.ebay.com.au;Path=/; HttpOnly 
-Set-Cookie: nonsession=CgADLAAFSQkIzMQDKACBbqDyrNTJiNzIxMWUxNDEwYTVlZGMyMjU0MTU1ZmY4ZDYzOGMrzuZH;Domain=.ebay.com.au;Expires=Thu, 25-Sep-2014 01:23:55 GMT;Path=/ 
-Set-Cookie: lucky9=8899374;Domain=.ebay.com.au;Expires=Mon, 24-Sep-2018 01:23:55 GMT;Path=/ 
-
+Set-Cookie: dp1=bu1p/QEBfX0BAX19AQA**5423a470^;Domain=.ebay.com.au;Expires=Fri, 25-Sep-2015 05:13:20 GMT;Path=/ 
+Set-Cookie: s=CgAD4ACBSQ8JwNTM4OTJhZjAxNDEwYTU2YTIzNTA4YmMwZmY4OTE3OTABSgAYUkPCcDUyNDI3MGYwLjE1LjEuMS4zNi44LjAuMRnSPZ4*;Domain=.ebay.com.au;Path=/; HttpOnly 
+Set-Cookie: nonsession=CgADLAAFSQnf4MQDKACBbqHJwNTM4OTJhZjAxNDEwYTU2YTIzNTA4YmMwZmY4OTE3OTABTAAYVCOkcDUyNDI3MGYwLjE1LjEuMC4zNS41LjAuMV/t7sM*;Domain=.ebay.com.au;Expires=Thu, 25-Sep-2014 05:13:20 GMT;Path=/ 
+Set-Cookie: lucky9=5992265;Domain=.ebay.com.au;Expires=Mon, 24-Sep-2018 05:13:20 GMT;Path=/ 
+

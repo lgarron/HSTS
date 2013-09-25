@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Location: https://www.google.co.ma/
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PREF=ID=32096f8fc5b6ceb1:FF=0:TM=1380086274:LM=1380086274:S=kMxxi-lA0wKRLJJb; expires=Fri, 25-Sep-2015 05:17:54 GMT; path=/; domain=.google.co.ma
+Set-Cookie: NID=67=LR4sB1R_gf0SAD51wPlIIQ_YtSYyRaTa_13om6RdO1olTva-zV3OBVy9IRxay0utb6jG4OKjydFeenGUHgK-toXjK6svIrBJ_DrgeRVJSUZJCKGsLgNDXz98BDYu_PUZ; expires=Thu, 27-Mar-2014 05:17:54 GMT; path=/; domain=.google.co.ma; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Date: Wed, 25 Sep 2013 05:17:54 GMT
+Server: gws
+Content-Length: 222
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+

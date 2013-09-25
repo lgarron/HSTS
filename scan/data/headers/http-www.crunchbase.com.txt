@@ -4,9 +4,9 @@ Connection: close
 Set-Cookie: _crunchbase_session_id=BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7AA%253D%253D--228fc38f2277f6b933e79aa1e48a4b0b4be95882; path=/
 Status: 200 OK
 X-Powered-By: 
-ETag: "3a52eb1d26d7ab9c194ba13c7050dc1d"
-X-Runtime: 0.00063
-Content-Length: 33944
+ETag: "ed3854a4ae6e796dd899ab4fbeab4a49"
+X-Runtime: 0.03250
+Content-Length: 33265
 Cache-Control: private, max-age=0, must-revalidate
 Server: nginx/1.0.10 + Phusion Passenger 3.0.11 (mod_rails/mod_rack)
-
+

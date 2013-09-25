@@ -1,17 +1,17 @@
 HTTP/1.1 302 Moved Temporarily
 Server: Microsoft-IIS/6.0
-X-SV: MIA01A
+X-SV: MIA04B
 X-Powered-By: ASP.NET
 Location: http://www.tigerdirect.com/indexus.asp?
-Content-Length: 160
 Content-Type: text/html
 Cache-Control: private
-Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 03:23:40 GMT
+RTSS: 7-9
+Date: Wed, 25 Sep 2013 05:18:01 GMT
 Connection: keep-alive
-Set-Cookie: SRVR=WEBX11%2D10A; path=/
+Set-Cookie: SRVR=WEBX11%2D04B; path=/
 Set-Cookie: Cart=Landing=http%3A%2F%2Fwww%2Etigerdirect%2Ecom%2Findexus%2Easp&Referer=; path=/
-Set-Cookie: SessionId=1359452720130924231912128122444; expires=Wed, 24-Sep-2014 04:00:00 GMT; path=/
-Set-Cookie: SRCCODE=WEB1309; expires=Thu, 24-Oct-2013 04:00:00 GMT; path=/
+Set-Cookie: SessionId=3019732320130925011521128122444; expires=Thu, 25-Sep-2014 04:00:00 GMT; path=/
+Set-Cookie: SRCCODE=WEB1309; expires=Fri, 25-Oct-2013 04:00:00 GMT; path=/
 Set-Cookie: SSLB=0; path=/; domain=.tigerdirect.com
-
+Set-Cookie: SSLB=0; path=/; domain=.tigerdirect.com
+

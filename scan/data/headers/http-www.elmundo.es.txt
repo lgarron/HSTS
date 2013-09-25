@@ -1,9 +1,9 @@
 HTTP/1.1 200 OK
 Server: nginx/1.2.7
-Date: Wed, 25 Sep 2013 01:34:39 GMT
+Date: Wed, 25 Sep 2013 05:18:28 GMT
 Content-Type: text/html
 Connection: keep-alive
 Cache-Control: no-cache
 X-Accel-Cache-Control: no-cache
-Set-Cookie: ELMUNDO_idusr=UkI9r8CoFBgAAB1lZyQ-b0bd72d581431f5a3f2ceddb7fd701ec; expires=Sat, 24 Sep 2016 01:34:39 GMT; path=/; domain=.elmundo.es
-
+Set-Cookie: ELMUNDO_idusr=UkJyJMCoFCsAAHPuhl0-0a8c2e0ecd290a0343a19ab1673ae614; expires=Sat, 24 Sep 2016 05:18:28 GMT; path=/; domain=.elmundo.es
+

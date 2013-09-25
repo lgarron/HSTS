@@ -1,7 +1,7 @@
 HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 03:35:33 GMT
+Date: Wed, 25 Sep 2013 05:13:01 GMT
 Server: Apache/2.2.15 (Red Hat)
 Location: http://www.weather.gov/
 Connection: close
 Content-Type: text/html; charset=iso-8859-1
-
+

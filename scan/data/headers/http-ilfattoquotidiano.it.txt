@@ -1,14 +1,14 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 03:34:48 GMT
+Date: Wed, 25 Sep 2013 05:14:05 GMT
 Content-Type: text/html; charset=UTF-8
 Content-Length: 0
 Connection: close
-Set-Cookie: PHPSESSID=14cf9cdb3b8afaf1f333ac545698fbf9; path=/
+Set-Cookie: PHPSESSID=dd488d66b603c74d927a08bc537ebc8d; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
 X-Pingback: http://www.ilfattoquotidiano.it/xmlrpc.php
 Location: http://www.ilfattoquotidiano.it/
 Vary: Accept-Encoding,User-Agent
-
+

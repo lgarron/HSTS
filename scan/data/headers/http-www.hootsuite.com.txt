@@ -1,8 +1,8 @@
 HTTP/1.1 301 Moved Permanently
-Server: nginx/1.2.7
-Date: Wed, 25 Sep 2013 00:54:29 GMT
+Server: nginx/1.4.1
+Date: Wed, 25 Sep 2013 05:17:51 GMT
 Content-Type: text/html
 Content-Length: 184
 Connection: keep-alive
 Location: https://www.hootsuite.com/
-
+

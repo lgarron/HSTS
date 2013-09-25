@@ -1,19 +1,19 @@
 HTTP/1.1 200 OK
-server: Apache-Coyote/1.1
-set-cookie: JSESSIONID=430EBD36C30FC66F; Path=/
-set-cookie: logging=430EBD36C30FC66F||egapp6154p.prod.orbitz.net; Domain=.orbitz.com; Path=/
-set-cookie: curr=USD; Expires=Mon, 13-Oct-2081 06:43:45 GMT; Path=/
-set-cookie: BetaGroup="09/24/2013 22:29:38|C|A|A|C|A|H|B|P|A"; Version=1; Max-Age=1209600; Expires=Wed, 09-Oct-2013 03:29:38 GMT; Path=/
-set-cookie: TrafficGroup="09/24/2013 22:29:38|P"; Version=1; Domain=orbitz.com; Max-Age=630720000; Expires=Tue, 20-Sep-2033 03:29:38 GMT; Path=/
-set-cookie: anon=3a390ab5-da45-4248-8a69-a9bbc8625a35; Domain=.orbitz.com; Expires=Tue, 20-Sep-2033 03:29:38 GMT; Path=/
-expires: Thu, 01 Jan 1970 00:00:00 GMT
-cache-control: no-cache
-p3p: CP="CAO DSP CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONi OUR DELi SAMi OTRi BUS PHY ONL UNI PUR COM NAV INT DEM STA POL HEA PRE GOV"
-pragma: no-cache
-content-type: text/html;charset=UTF-8
-content-length: 0
-date: Wed, 25 Sep 2013 03:29:38 GMT
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=23AB38D9AE0D6689; Path=/
+Set-Cookie: logging=23AB38D9AE0D6689||egapp6206p.prod.orbitz.net; Domain=.orbitz.com; Path=/
+Set-Cookie: curr=USD; Expires=Mon, 13-Oct-2081 08:39:02 GMT; Path=/
+Set-Cookie: BetaGroup="09/25/2013 00:24:55|B|A|A|C|A|H|B|P|A"; Version=1; Max-Age=1209600; Expires=Wed, 09-Oct-2013 05:24:55 GMT; Path=/
+Set-Cookie: TrafficGroup="09/25/2013 00:24:55|P"; Version=1; Domain=orbitz.com; Max-Age=630720000; Expires=Tue, 20-Sep-2033 05:24:55 GMT; Path=/
+Set-Cookie: anon=b927584a-bc13-4fb0-9c7d-f752d90f77eb; Domain=.orbitz.com; Expires=Tue, 20-Sep-2033 05:24:55 GMT; Path=/
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+P3P: CP="CAO DSP CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONi OUR DELi SAMi OTRi BUS PHY ONL UNI PUR COM NAV INT DEM STA POL HEA PRE GOV"
+Pragma: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 0
+Date: Wed, 25 Sep 2013 05:24:55 GMT
 Connection: keep-alive
-Set-Cookie: NSC_JOu2s3r4deikrvveb50lfpcjwwizbbq=ffffffff09e35ac745525d5f4f58455e445a4a4221f0;path=/
+Set-Cookie: NSC_JOu2s3r4deikrvveb50lfpcjwwizbbq=ffffffff09e35ab345525d5f4f58455e445a4a4221f0;path=/
 Set-Cookie: NSC_xxx.pscjua.dpn.80_gxe=ffffffff09e3087545525d5f4f58455e445a4a423660;path=/;httponly
-
+

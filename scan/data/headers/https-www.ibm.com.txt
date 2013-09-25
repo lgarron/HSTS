@@ -1,6 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 00:45:18 GMT
-Server: IBM_HTTP_Server
-Location: http://www.ibm.com/
-Content-Type: text/html
-

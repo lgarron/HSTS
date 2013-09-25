@@ -4,6 +4,6 @@ Content-Type: text/html; charset=UTF-8
 Location: http://new.elfagr.org//
 Server: Microsoft-IIS/7.5
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 02:37:57 GMT
-Set-Cookie: presist=9h2GnKktV1MAwVrJ3CbeWDcWXUJl6djGIP2Mf3Isj1AQi72Z5my9aTuNeOsL4sNay6uK73u/gWvbKIs=; path=/
-
+Date: Wed, 25 Sep 2013 05:07:37 GMT
+Set-Cookie: presist=Iy30iho4N7+2hy3J3CbeWDcWXUJl6YbpZtpmKl5KZjZCSaem+FoSIVgTTGO3sx6ufrkmWtyt3h6x1qM=; path=/
+

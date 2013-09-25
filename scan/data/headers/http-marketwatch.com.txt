@@ -4,6 +4,6 @@ Content-Type: text/html; charset=UTF-8
 Location: http://www.marketwatch.com/
 Server: Microsoft-IIS/7.5
 X-Powered-By: ASP.NET
-X-MACHINE: secdfpswebp01
-Date: Wed, 25 Sep 2013 00:44:55 GMT
-
+X-MACHINE: secdfinwebp01
+Date: Wed, 25 Sep 2013 05:06:41 GMT
+

@@ -4,7 +4,7 @@ Content-Length: 0
 Content-Type: text/html
 Location: /anasayfa/
 Server: Microsoft-IIS/7.5
-Set-Cookie: ASPSESSIONIDQSTQRDCT=FAOKMDBBOCCIHGHKAJIFPDFF; path=/
+Set-Cookie: ASPSESSIONIDQCRTCQAR=MOEFAEBBEENIHJCAFEDIIPGE; path=/
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 00:58:50 GMT
-
+Date: Wed, 25 Sep 2013 05:18:27 GMT
+

@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Cache-control: no-cache="set-cookie"
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 05:22:35 GMT
+Location: http://www.rollingstone.com/
+Server: Apache/2.2.23 (CentOS)
+Set-Cookie: AWSELB=ABC347731A8CB953FB3D05E2A8CAD47C0AE2E69F531FCAD17555D82167A479EC2049ED506C8E7372830CFC3B9834A6F7E2AC9A36F13D56404C3A3773CA651E68FA31063D81;PATH=/
+Connection: keep-alive
+

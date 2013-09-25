@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
-Server: nginx/1.2.7
-Date: Wed, 25 Sep 2013 00:55:03 GMT
+Server: nginx/1.4.1
+Date: Wed, 25 Sep 2013 05:18:01 GMT
 Content-Type: text/html; charset=iso-8859-1
 Connection: keep-alive
 Location: http://hootsuite.com/
 Cache-Control: max-age=120
-Expires: Wed, 25 Sep 2013 00:57:03 GMT
+Expires: Wed, 25 Sep 2013 05:20:01 GMT
 Vary: Accept-Encoding
-
+

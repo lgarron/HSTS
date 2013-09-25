@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx/1.1.12
-Date: Wed, 25 Sep 2013 03:30:37 GMT
-Content-Type: text/html
-Content-Length: 185
-Connection: keep-alive
-Location: http://www.vancl.com/
-

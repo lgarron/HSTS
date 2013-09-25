@@ -1,17 +1,17 @@
 HTTP/1.1 302 Moved Temporarily
 Server: nginx
-Date: Wed, 25 Sep 2013 00:55:09 GMT
+Date: Wed, 25 Sep 2013 05:18:26 GMT
 Content-Type: application/octet-stream
 Content-Length: 0
 Connection: keep-alive
-Set-Cookie: _d2id=46d23e22-e7ae-45b4-b3e2-9fa51750fe03-n; Path=/; Domain=mercadolibre.com.ve; Expires=Thu, 25 Sep 2014 00:55:09 GMT
+Set-Cookie: _d2id=aafbc756-2eb8-41b6-8eff-eb2d85e38b60-n; Path=/; Domain=mercadolibre.com.ve; Expires=Thu, 25 Sep 2014 05:18:26 GMT
 Vary: Accept-Encoding
-X-Echelon-Lid: e-000012a667824171121380070509736
+X-Echelon-Lid: e-000012a668848761201380086306377
 Location: http://mercadolibre.com.ve/
-X-Nginx-Host: e-0000250d
+X-Nginx-Host: e-00001519
 X-Nginx-Pool: homes-frontend-web-mlv_roca
-X-Nginx-UpstreamHost: 172.16.77.191:8080
+X-Nginx-UpstreamHost: 172.16.147.61:8080
 X-Upstream-Server: Apache-Coyote/1.1
-X-Request-Id: 46d23e22-e7ae-45b4-b3e2-9fa51750fe03
-X-D2id: 46d23e22-e7ae-45b4-b3e2-9fa51750fe03
-
+X-Request-Id: aafbc756-2eb8-41b6-8eff-eb2d85e38b60
+X-D2id: aafbc756-2eb8-41b6-8eff-eb2d85e38b60
+

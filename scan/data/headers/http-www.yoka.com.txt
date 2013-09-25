@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Expires: Wed, 25 Sep 2013 02:17:38 GMT
-Date: Wed, 25 Sep 2013 02:07:38 GMT
+Expires: Wed, 25 Sep 2013 05:33:02 GMT
+Date: Wed, 25 Sep 2013 05:23:02 GMT
 Server: YOKA2.0
 Content-Type: text/html
 Transfer-Encoding: chunked
 Cache-Control: max-age=600
-Age: 184
+Age: 44
 X-Via: 1.1 yfdx29:75 (Cdn Cache Server V2.0)
 Connection: keep-alive
-
+

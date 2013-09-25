@@ -1,15 +1,15 @@
 HTTP/1.1 302 Found
 Server: nginx/1.1.19
-Date: Wed, 25 Sep 2013 03:44:06 GMT
+Date: Wed, 25 Sep 2013 05:14:52 GMT
 Content-Type: text/html
 Connection: keep-alive
 X-Powered-By: PHP/5.3.10-1ubuntu3.8
-Set-Cookie: PHPSESSID=fo30j295ne8ubs67ea0ondgt47; path=/; domain=.wowhead.com; HttpOnly
+Set-Cookie: PHPSESSID=n4gdmd97ji2muoku3pfe996m97; path=/; domain=.wowhead.com; HttpOnly
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: WOWHEADCACHE=1380167104; expires=Thu, 26-Sep-2013 03:45:04 GMT; path=/; domain=.wowhead.com
+Set-Cookie: WOWHEADCACHE=1380172464; expires=Thu, 26-Sep-2013 05:14:24 GMT; path=/; domain=.wowhead.com
 Set-Cookie: WOWHEADNOCACHE=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.wowhead.com; httponly
 Location: http://www.wowhead.com/
 Vary: Accept-Encoding
-
+

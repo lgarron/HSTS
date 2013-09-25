@@ -4,8 +4,8 @@ Location: http://www.independent.co.uk/
 Content-Type: text/html; charset=iso-8859-1
 X-Pad: avoid browser bug
 Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 00:43:35 GMT
-Age: 595
+Date: Wed, 25 Sep 2013 05:06:20 GMT
+Age: 334
 Via: 1.1 varnish
 Connection: keep-alive
-
+

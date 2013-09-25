@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 05:20:03 GMT
+Server: Apache/2.2.21 (Unix)
+Location: http://www.askmen.com/
+Content-Type: text/html; charset=iso-8859-1
+

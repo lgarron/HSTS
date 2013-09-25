@@ -1,11 +1,11 @@
 HTTP/1.1 301 Moved Permanently
 Location: /portal/
 Cache-Control: max-age=300
-Expires: Wed, 25 Sep 2013 02:09:01 GMT
+Expires: Wed, 25 Sep 2013 05:22:13 GMT
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
 Content-Length: 216
-Date: Wed, 25 Sep 2013 02:07:22 GMT
-Age: 203
+Date: Wed, 25 Sep 2013 05:22:24 GMT
+Age: 277
 Connection: keep-alive
-
+

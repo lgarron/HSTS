@@ -6,14 +6,14 @@ Content-Type: text/html; charset=utf-8
 Expires: -1
 Location: https://www.securepaynet.net/default404.aspx
 Server: Microsoft-IIS/7.0
-Set-Cookie: ATL.SID.SALES=inrERtarjaFhD6kHfRUhE8mcPe2KXUSmr5ioz%2fI3jf0%3d; path=/; HttpOnly
+Set-Cookie: ATL.SID.SALES=w%2fGVq3a9XetE2Zut6TP6MtYjoC8yMhG8.ciKT6Q22qY%3d; path=/; HttpOnly
 Set-Cookie: gdCassCluster.sePQKXdv2U=2; path=/
-Set-Cookie: ATL.SID.SALES=inrERtarjaFhD6kHfRUhE8mcPe2KXUSmr5ioz%2fI3jf0%3d; path=/; HttpOnly
+Set-Cookie: ATL.SID.SALES=w%2fGVq3a9XetE2Zut6TP6MtYjoC8yMhG8.ciKT6Q22qY%3d; path=/; HttpOnly
 Set-Cookie: gdCassCluster.sePQKXdv2U=2; path=/
 Set-Cookie: mobile.redirect.browser=0; path=/
 Set-Cookie: preferences0=_sid=&countryFlag=us&gdshop_currencyType=USD; domain=securepaynet.net; path=/
-Set-Cookie: flag0=cflag=us; domain=securepaynet.net; expires=Thu, 25-Sep-2014 03:23:59 GMT; path=/
-Set-Cookie: currency0=potableSourceStr=USD; domain=securepaynet.net; expires=Thu, 25-Sep-2014 03:23:59 GMT; path=/
+Set-Cookie: flag0=cflag=us; domain=securepaynet.net; expires=Thu, 25-Sep-2014 05:11:23 GMT; path=/
+Set-Cookie: currency0=potableSourceStr=USD; domain=securepaynet.net; expires=Thu, 25-Sep-2014 05:11:23 GMT; path=/
 P3P: policyref="/w3c/p3p.xml", CP="COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR OUR IND"
-Date: Wed, 25 Sep 2013 03:23:59 GMT
-
+Date: Wed, 25 Sep 2013 05:11:23 GMT
+

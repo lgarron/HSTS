@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: PasteWSGIServer/0.5 Python/2.7.2
-Date: Wed, 25 Sep 2013 01:24:00 GMT
-Location: http://www.quora.com/
-Cache-Control: public, max-age=2592000
-Expires: Fri, 25-Oct-2013 01:24:00 GMT
-

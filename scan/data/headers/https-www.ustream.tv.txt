@@ -1,6 +1,6 @@
 HTTP/1.1 302 Found
 Server: nginx
-Date: Wed, 25 Sep 2013 03:31:08 GMT
+Date: Wed, 25 Sep 2013 05:14:38 GMT
 Content-Type: text/html; charset=UTF-8
 Content-Length: 0
 Connection: keep-alive
@@ -9,11 +9,11 @@ Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
 Location: http://www.ustream.tv/
-Set-Cookie: ustream-guest=48jnuhfSDIl3dq1D80XkWHOiHZdsGyPs2gk%252FV3W1Lt2axC0D3T7ywApsr%252BjiBMYOVVMX1ySz9dVe2KZFvOBjpFhpuuEcubj0oT9NfNDNuEpBIB%252B8x5Em4rIlzHhIN4vJu6Qw2BOQ6%252BC%252F0CgmiOB2gbbzg5ZlLIa73y3xvyJ%252BnxmOs4UOsm72DefMz0uiy1zXoUKv9%252FNeYAqj6LBD5b5bRNteJO7AEpiVb53ZbQ%253D%253D; path=/; httponly
-X-RSRC: sjc-web004
+Set-Cookie: ustream-guest=SkArh9cF%252B7ZKZwJn0A4BDZPn7rDaLVbI0ap9J53itn4rPydrkGaoO9SbsRVVzK778bDvQETsyMcInnwc2wI9g1oAaH%252FXMtkVNX70xKCTT2m8p8o5J5BmCLL6%252BB6RYPBq2k65dnpX2EgeJOhBZh7EseO0MPg2TVd29FtKS%252BG1Z4Y3%252FbZtafCi58Uboc4MMQ2Oi0gVAZOT2Ck5vDqWtNfXLvyE4fBmGaMbBUYYCQ%253D%253D; path=/; httponly
+X-RSRC: sjc-web040
 Accept-Ranges: bytes
 Age: 0
 X-Cache-Info: 0 (-1)
 X-Domain: www.ustream.tv
 X-Cache: MISS
-
+

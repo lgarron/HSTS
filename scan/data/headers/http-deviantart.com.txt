@@ -1,8 +1,0 @@
-HTTP/1.1 302 Found
-Server: Apache
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 01:00:36 GMT
-Location: http://www.deviantart.com/
-Transfer-Encoding: chunked
-Connection: Keep-Alive
-

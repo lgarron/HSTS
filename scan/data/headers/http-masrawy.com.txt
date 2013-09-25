@@ -1,5 +1,0 @@
-HTTP/1.0 302 Found
-Location: http://www.masrawy.com/
-Connection: Keep-Alive
-Content-Length: 0
-

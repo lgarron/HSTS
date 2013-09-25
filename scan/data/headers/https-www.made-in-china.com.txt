@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 05:18:12 GMT
+Content-Type: text/html; charset=GBK
+Connection: keep-alive
+Content-Language: zh-CN
+Cache-Control: no-store
+Pragrma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: pid=TI4LjEyLjI0NC40MjAxMzA5MjUxMzE4MTI3MzU5NTc3NzgwMwM; domain=.made-in-china.com; path=/; expires=Mon, 08-Sep-2081 05:18:12 GMT
+Set-Cookie: cid=jAxMzA5MjUxMzE4MTI3MzUwMDA6MDA0NTc3MzI2NDU1MjU1NjQ5M; domain=.made-in-china.com; path=/
+Set-Cookie: sid=zAzNjIyNjUyODc1NDY1NTU6OjEyOC4xMi4yNDQuNAM; domain=.made-in-china.com; path=/
+Set-Cookie: cbid=null; domain=.made-in-china.com; path=/; expires=Thu, 01-Dec-1994 16:00:00 GMT
+Set-Cookie: inquiry_id=zAzNjIyNjUyODc2MDk1NTU6OjEyOC4xMi4yNDQuNAM; domain=.made-in-china.com; path=/; expires=Fri, 25-Oct-2013 05:18:12 GMT
+Set-Cookie: refsh=null; path=/; expires=Thu, 01-Dec-1994 16:00:00 GMT
+Set-Cookie: JSESSIONID=abcQY65UGtw4X638zJtfu; path=/
+Vary: Accept-Encoding,User-Agent
+

@@ -1,11 +1,11 @@
 HTTP/1.1 301 Redirect
-Date: Wed, 25 Sep 2013 00:43:40 GMT
+Date: Wed, 25 Sep 2013 05:06:42 GMT
 Connection: close
-Via: HTTP/1.1 ir12.fp.gq1.yahoo.com (YahooTrafficServer/1.20.13 [c s f ])
+Via: HTTP/1.1 ir9.fp.ne1.yahoo.com (YahooTrafficServer/1.20.13 [c s f ])
 Server: YTS/1.20.13
 Cache-Control: no-store
 Content-Type: text/html
 Content-Language: en
 Location: http://www.yahoo.com/
 Content-Length: 211
-
+

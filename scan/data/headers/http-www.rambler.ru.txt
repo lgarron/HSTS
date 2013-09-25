@@ -1,18 +1,18 @@
 HTTP/1.1 200 OK
 Server: nginx/1.3.7
-Date: Wed, 25 Sep 2013 01:14:53 GMT
+Date: Wed, 25 Sep 2013 05:09:33 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 Keep-Alive: timeout=50
-Set-Cookie: last_visit=1380071693; Path=/
+Set-Cookie: last_visit=1380085773; Path=/
 Cache-Control: private, no-cache, must-revalidate
 X-Frame-Options: SAMEORIGIN
-Set-Cookie: ruid=vAsAAAw5QlIMWoltAeplAAB=; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rambler.ru; path=/
+Set-Cookie: ruid=vAsAAA1wQlLhgBN0AaCAAAB=; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rambler.ru; path=/
 P3P: CP="NON DSP NID ADMa DEVa TAIa PSAa PSDa OUR IND UNI COM NAV"
-Set-Cookie: dv=gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:1380071693; path=/; expires=Thu, 31-Dec-37 23:55:55 GMT
-Set-Cookie: dvr=gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:1380071693; domain=.rambler.ru; path=/; expires=Thu, 31-Dec-37 23:55:55 GMT
-Set-Cookie: lv=1380071693; path=/; expires=Thu, 31-Dec-37 23:55:55 GMT
-Set-Cookie: lvr=1380071693; domain=.rambler.ru; path=/; expires=Thu, 31-Dec-37 23:55:55 GMT
-Set-Cookie: ruid=AQAAAAw5QlJJd9GrASS8CwB=; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rambler.ru; path=/
+Set-Cookie: dv=gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:1380085773; path=/; expires=Thu, 31-Dec-37 23:55:55 GMT
+Set-Cookie: dvr=gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:1380085773; domain=.rambler.ru; path=/; expires=Thu, 31-Dec-37 23:55:55 GMT
+Set-Cookie: lv=1380085773; path=/; expires=Thu, 31-Dec-37 23:55:55 GMT
+Set-Cookie: lvr=1380085773; domain=.rambler.ru; path=/; expires=Thu, 31-Dec-37 23:55:55 GMT
+Set-Cookie: ruid=AQAAAA1wQlJJd9GrAVX7CwB=; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rambler.ru; path=/
 P3P: CP="NON DSP NID ADMa DEVa TAIa PSAa PSDa OUR IND UNI COM NAV"
-
+

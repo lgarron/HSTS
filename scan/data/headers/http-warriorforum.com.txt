@@ -1,6 +1,7 @@
-HTTP/1.1 403 Forbidden
-Date: Wed, 25 Sep 2013 01:18:57 GMT
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 05:18:18 GMT
 Server: LiteSpeed
 Connection: Keep-Alive
 Keep-Alive: timeout=5, max=100
-
+Location: http://www.warriorforum.com/
+

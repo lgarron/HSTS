@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 02:24:45 GMT
+Date: Wed, 25 Sep 2013 05:25:34 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
 Location: https://www.jabong.com/
-X-Server: jade-web1
-Set-Cookie: NSC_kbef_iuuq=ffffffffc3a0470145525d5f4f58455e445a4a42366b;expires=Tue, 24-Sep-2013 19:28:13 GMT;path=/;secure;httponly
-
+X-Server: jade-web7
+Set-Cookie: NSC_kbef_iuuq=ffffffffc3a0472745525d5f4f58455e445a4a42366b;expires=Tue, 24-Sep-2013 22:29:02 GMT;path=/;secure;httponly
+

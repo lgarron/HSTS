@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
 Cache-Control: max-age=60
 Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 00:45:15 GMT
-Expires: Wed, 25 Sep 2013 00:46:12 GMT
-Last-Modified: Wed, 25 Sep 2013 00:22:21 GMT
+Date: Wed, 25 Sep 2013 05:08:24 GMT
+Expires: Wed, 25 Sep 2013 05:08:51 GMT
+Last-Modified: Wed, 25 Sep 2013 03:19:53 GMT
 Vary: Accept-Encoding
-X-Age: 3
+X-Age: 32
 X-Cache: HIT
 X-XRDS-Location: https://login.ig.com.br/discovery
 Connection: keep-alive
-
+

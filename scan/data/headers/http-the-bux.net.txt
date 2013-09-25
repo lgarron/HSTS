@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
 Server: cloudflare-nginx
-Date: Wed, 25 Sep 2013 02:35:12 GMT
+Date: Wed, 25 Sep 2013 05:06:20 GMT
 Content-Type: text/html
 Connection: keep-alive
-Set-Cookie: __cfduid=d03c9503d02a1ccde325aacfde297ce641380076511939; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
-Set-Cookie: __cfduid=d03c9503d02a1ccde325aacfde297ce641380076511939; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
+Set-Cookie: __cfduid=ddc1b479bab328d4f1a71f8b7ea9e051e1380085580153; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
+Set-Cookie: __cfduid=ddc1b479bab328d4f1a71f8b7ea9e051e1380085580153; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
 Location: http://www.the-bux.net/
-CF-RAY: b3451d79a0d0292
-
+CF-RAY: b352f3bf3cb0292
+

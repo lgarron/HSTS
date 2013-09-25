@@ -2,13 +2,13 @@ HTTP/1.1 200 OK
 Server: nginx
 Content-Type: text/html; charset=UTF-8
 Cache-Control: public, s-maxage=60
-Date: Wed, 25 Sep 2013 01:37:10 GMT
-X-Varnish: 885581112 885544850
-Age: 43
+Date: Wed, 25 Sep 2013 05:22:34 GMT
+X-Varnish: 3110094802 3110091058
+Age: 3
 Via: 1.1 varnish
 Connection: close
-Set-Cookie: sid=4031932706345707520; path=/; expires=Tue, 31-Dec-2030 12:00:00 GMT; domain=.youporn.com
+Set-Cookie: sid=684178897544243072; path=/; expires=Tue, 31-Dec-2030 12:00:00 GMT; domain=.youporn.com
 Set-Cookie: is_pc=1; path=/; expires=Tue, 31-Dec-2030 12:00:00 GMT; domain=.youporn.com
 Set-Cookie: region=CA; path=/; domain=.youporn.com
 Set-Cookie: country=US; path=/; domain=.youporn.com
-
+

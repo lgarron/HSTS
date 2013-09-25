@@ -1,8 +1,11 @@
-HTTP/1.1 301 Moved Permanently
+HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 02:35:12 GMT
-Content-Type: text/html
-Content-Length: 178
+Date: Wed, 25 Sep 2013 05:18:11 GMT
+Content-Type: text/html;charset=utf-8
 Connection: keep-alive
-Location: http://www.dojki.com/
-
+Status: 200 OK
+Cache-Control: public, max-age=559
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: sameorigin
+Set-Cookie: lastVisited=20130925; expires=Fri, 25 Oct 2013 09:18:11 +0400; path=/
+

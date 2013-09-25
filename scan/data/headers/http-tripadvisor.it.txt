@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:21:05 GMT
+Date: Wed, 25 Sep 2013 05:17:37 GMT
 Server: Apache
 Content-Language: it
 pragma: no-cache
 cache-control: no-cache,no-store,must-revalidate
 expires: 0
-Set-Cookie: TAUnique=%1%enc%3Ai8vcvhvJ%2FkLf9m%2BX2nIkyjuLB4ud2jEBA4Ce2bh0Bo3T5BsMYvhPlw%3D%3D; Domain=.tripadvisor.it; Path=/; Expires=Sat, 23 Sep 2023 03:21:05 GMT; HttpOnly
-Content-Length: 106661
+Set-Cookie: TAUnique=%1%enc%3AC3WQ20Pl5cHf9m%2BX2nIkyjuLB4ud2jEBrUUGHGYy6iTT5BsMYvhPlw%3D%3D; Domain=.tripadvisor.it; Path=/; Expires=Sat, 23 Sep 2023 05:17:37 GMT; HttpOnly
+Content-Length: 105334
 Vary: Accept-Encoding
 Content-Type: text/html;charset=UTF-8
-
+

@@ -1,21 +1,21 @@
 HTTP/1.1 302 Moved Temporarily
 Server: nginx
 Content-Type: application/octet-stream
-Set-Cookie: _d2id=ee068afb-256b-47b9-b1af-93032ef00c97-n; Path=/; Domain=mercadolivre.com.br; Expires=Thu, 25 Sep 2014 00:36:01 GMT
+Set-Cookie: _d2id=ca6f7cee-7191-4028-9f23-efe38e3176f2-n; Path=/; Domain=mercadolivre.com.br; Expires=Thu, 25 Sep 2014 04:52:16 GMT
 Vary: Accept-Encoding
-X-Echelon-Lid: i-00000033-psm92387701321380069361583
+X-Echelon-Lid: e-00001ba293422811111380084736045
 Cache-Control: max-age=3600
 Location: http://www.mercadolivre.com.br/
-X-Nginx-Host: e-000017fb
+X-Nginx-Host: e-00001357
 X-Nginx-Pool: homes-frontend-web-mlb-pool
 X-Nginx-UpstreamHost: 172.16.174.62:8080
 X-Upstream-Server: Apache-Coyote/1.1
-X-Request-Id: ee068afb-256b-47b9-b1af-93032ef00c97
-X-D2id: ee068afb-256b-47b9-b1af-93032ef00c97
+X-Request-Id: ca6f7cee-7191-4028-9f23-efe38e3176f2
+X-D2id: ca6f7cee-7191-4028-9f23-efe38e3176f2
 Content-Length: 0
-Date: Wed, 25 Sep 2013 02:15:49 GMT
-X-Varnish: 271454977 271274811
-Age: 457
+Date: Wed, 25 Sep 2013 05:06:41 GMT
+X-Varnish: 1362050597 1361921170
+Age: 865
 Connection: keep-alive
-via: 1.1 Varnish (dblvarnish9)
-
+via: 1.1 Varnish (yblvarnish9)
+

@@ -1,16 +1,16 @@
 HTTP/1.1 405 MethodNotAllowed
-Date: Wed, 25 Sep 2013 01:59:43 GMT
+Date: Wed, 25 Sep 2013 05:23:31 GMT
 Server: Server
-Set-Cookie: session-id=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:43 GMT
-Set-Cookie: session-id-time=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:43 GMT
-Set-Cookie: session-token=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:43 GMT
-Set-Cookie: ubid-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:43 GMT
-Set-Cookie: at-main=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:43 GMT
-Set-Cookie: x-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:43 GMT
-Set-Cookie: UserPref=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:43 GMT
-x-amz-id-1: 0SZ4J20FCYJ7NHZDCBWS
+Set-Cookie: session-id=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 05:23:31 GMT
+Set-Cookie: session-id-time=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 05:23:31 GMT
+Set-Cookie: session-token=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 05:23:31 GMT
+Set-Cookie: ubid-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 05:23:31 GMT
+Set-Cookie: at-main=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 05:23:31 GMT
+Set-Cookie: x-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 05:23:31 GMT
+Set-Cookie: UserPref=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 05:23:31 GMT
+x-amz-id-1: 0FAD6D8M8F2MH1DPYFJ9
 allow: POST, GET
-x-amz-id-2: HvrByCIfFBe4dQIDrniQVIVqM4faY61H/D9A2+A3UXk=
+x-amz-id-2: 6S3roY5rQH5twx5U9uhgUEWyUgBsZZDoYIESKxdRxi0=
 Vary: Accept-Encoding,User-Agent
 Content-Type: text/html; charset=UTF-8
-
+

@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 00:55:31 GMT
-Server: Apache
-Location: http://www.ixxx.com/
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:13:52 GMT
+Date: Wed, 25 Sep 2013 05:10:15 GMT
 Server: Apache
-X-CI-SRV: sjc-prd-web21.sc5
+X-CI-SRV: vWeb46.sc5
 Location: http://www.coupons.com/
 Vary: Accept-Encoding
 Content-Type: text/html
-CI_SVR_ID: 3:10/196
-Set-Cookie: NSC_MC-IUUQ-XFC-JOUFSOBM=ffffffff091614d545525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 01:33:52 GMT;path=/;secure;httponly
-
+CI_SVR_ID: 3:10/158
+Set-Cookie: NSC_MC-IUUQ-XFC-JOUFSOBM=ffffffff0916148f45525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 05:30:15 GMT;path=/;secure;httponly
+

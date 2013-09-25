@@ -1,8 +1,8 @@
 HTTP/1.1 200 OK
-X-Seen-By: sputnik6.aus_dsp
-X-Seen-By: s24.aus_pp
-Date: Wed, 25 Sep 2013 00:43:42 GMT
-Server: public.apu8.aus.wixpress.com
+X-Seen-By: sputnik3.aus_dsp
+X-Seen-By: s8.aus_pp
+Date: Wed, 25 Sep 2013 05:06:45 GMT
+Server: public.app34.aus.wixpress.com
 Expires: Thu, 01 Jan 1970 00:00:00 GMT
 Expires: -1
 Cache-Control: max-age=604800
@@ -13,8 +13,8 @@ Content-Language: en
 Content-Type: text/html;charset=UTF-8
 Vary: User-Agent,Accept-Encoding
 Content-Length: 49152
-Set-Cookie: _wixUIDX=null-user-id;Path=/;Domain=.wix.com;Expires=Mon, 24-Mar-2014 00:43:42 GMT
-Set-Cookie: _wixCIDX=56817d48-41c4-4738-b1b9-063ea9e5d148;Path=/;Domain=.wix.com;Expires=Mon, 24-Mar-2014 00:43:42 GMT
-Set-Cookie: _wix_browser_sess=27283019-dda5-4fb3-9488-26a892ed8d77;Path=/;Domain=.wix.com
+Set-Cookie: _wixUIDX=null-user-id;Path=/;Domain=.wix.com;Expires=Mon, 24-Mar-2014 05:06:45 GMT
+Set-Cookie: _wixCIDX=eba33191-d1bb-4d16-ad48-a035bb986045;Path=/;Domain=.wix.com;Expires=Mon, 24-Mar-2014 05:06:45 GMT
+Set-Cookie: _wix_browser_sess=6810b1ff-c8a7-4402-b350-ce864ccfad40;Path=/;Domain=.wix.com
 Via: 1.0 wix.com
-
+

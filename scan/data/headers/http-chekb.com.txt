@@ -1,7 +1,7 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:25:34 GMT
+Date: Wed, 25 Sep 2013 05:16:12 GMT
 Server: Apache/2.2.21 (Unix) mod_fastcgi/2.4.6 PHP/5.2.17p1
 Location: http://www.chekb.com/
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-
+

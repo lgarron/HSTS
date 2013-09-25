@@ -1,9 +1,9 @@
 HTTP/1.1 401 Unauthorized
 Content-Type: text/html
-Date: Wed, 25 Sep 2013 03:21:05 GMT
-Server: nginx/1.2.5
+Date: Wed, 25 Sep 2013 05:07:46 GMT
+Server: nginx/1.0.15
 Vary: User-Agent
 WWW-Authenticate: Basic realm="Please Enter Your Password"
-X-Powered-By: PHP/5.3.19
+X-Powered-By: PHP/5.3.15
 Connection: keep-alive
-
+

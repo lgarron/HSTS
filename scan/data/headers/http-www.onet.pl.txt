@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-server: edgeserver
-content-length: 121214
-content-type: text/html; charset=utf-8
-cache-control: private
-pragma: no-cache
-Connection: keep-alive
-

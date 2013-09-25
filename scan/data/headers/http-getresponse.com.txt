@@ -1,9 +1,9 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 00:49:12 GMT
+Date: Wed, 25 Sep 2013 05:12:43 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
 Location: http://www.getresponse.com/
-Set-Cookie: Coyote-2-cf08c608=c0a80051:0; path=/
-
+Set-Cookie: Coyote-2-cf08c608=c0a80050:0; path=/
+

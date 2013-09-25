@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
 Server: 24h.com.vn
-Date: Wed, 25 Sep 2013 00:48:33 GMT
+Date: Wed, 25 Sep 2013 05:09:09 GMT
 Content-Type: text/html
 Content-Length: 191
 Connection: keep-alive
@@ -8,4 +8,4 @@ Location: http://us.24h.com.vn/
 Expires: Thu, 01 Jan 1970 00:00:01 GMT
 Cache-Control: no-cache
 Pragma: no-cache
-
+

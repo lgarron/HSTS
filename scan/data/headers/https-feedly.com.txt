@@ -1,14 +1,15 @@
 HTTP/1.1 200 OK
 Server: nginx/1.2.7
-Date: Wed, 25 Sep 2013 01:16:05 GMT
+Date: Wed, 25 Sep 2013 05:09:25 GMT
 Content-Type: text/html
+Content-Length: 1357
 Connection: keep-alive
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Headers: Authorization, X-Feedly-Access-Token, Content-Type
 Access-Control-Max-Age: 86400
-ETag: W/"1357-1379457778000"
-Last-Modified: Tue, 17 Sep 2013 22:42:58 GMT
-Content-Encoding: gzip
+Accept-Ranges: bytes
+ETag: W/"1357-1379457878000"
+Last-Modified: Tue, 17 Sep 2013 22:44:38 GMT
 Vary: Accept-Encoding
 Front-End-Https: on
-
+

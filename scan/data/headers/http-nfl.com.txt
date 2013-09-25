@@ -3,7 +3,7 @@ Server: AkamaiGHost
 Content-Length: 0
 Location: http://www.nfl.com/
 Cache-Control: max-age=0
-Expires: Wed, 25 Sep 2013 00:56:42 GMT
-Date: Wed, 25 Sep 2013 00:56:42 GMT
+Expires: Wed, 25 Sep 2013 05:14:48 GMT
+Date: Wed, 25 Sep 2013 05:14:48 GMT
 Connection: keep-alive
-
+

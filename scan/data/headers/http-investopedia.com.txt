@@ -3,11 +3,11 @@ Server: Apache
 Location: http://www.investopedia.com/
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: NSC_WDJOW-esvqbm-80-IUUQ=ffffffff09181d1c45525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 03:18:50 GMT;path=/;httponly
-Date: Wed, 25 Sep 2013 03:22:25 GMT
-X-Varnish: 623660484 623640083
-Age: 335
+Set-Cookie: NSC_WDJOW-esvqbm-80-IUUQ=ffffffff09181d1d45525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 05:07:25 GMT;path=/;httponly
+Date: Wed, 25 Sep 2013 05:08:17 GMT
+X-Varnish: 623969904 623961660
+Age: 172
 Via: 1.1 varnish
 Connection: keep-alive
-Set-Cookie: NSC_WDJOW-xxx.jowftupqfejb-IUUQ=ffffffff09181d0e45525d5f4f58455e445a4a4229a0;expires=Wed, 25-Sep-2013 03:24:25 GMT;path=/;httponly
-
+Set-Cookie: NSC_WDJOW-xxx.jowftupqfejb-IUUQ=ffffffff09181d0e45525d5f4f58455e445a4a4229a0;expires=Wed, 25-Sep-2013 05:10:17 GMT;path=/;httponly
+

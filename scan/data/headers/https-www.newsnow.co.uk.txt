@@ -1,7 +1,7 @@
 HTTP/1.1 401 Authorization Required
-Date: Wed, 25 Sep 2013 03:29:15 GMT
+Date: Wed, 25 Sep 2013 05:23:01 GMT
 Server: Apache
 WWW-Authenticate: Basic realm="NewsNow Extranet"
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-
+

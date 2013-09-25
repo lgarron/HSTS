@@ -1,5 +1,5 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:24:38 GMT
+Date: Wed, 25 Sep 2013 05:20:35 GMT
 Server: Apache/2.2.25 (FreeBSD) mod_jk/1.2.37 mod_ssl/2.2.25 OpenSSL/0.9.8y
 Cache-Control: no-store
 Pragma: no-cache
@@ -9,4 +9,4 @@ Connection: close
 Location: http://www.clickbank.com/network_abuse.html
 Vary: Accept-Encoding
 Content-Type: text/html;charset=UTF-8
-
+

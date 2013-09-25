@@ -4,15 +4,15 @@ Vary: Accept-Encoding,User-Agent
 Cache-Control: no-store, no-cache, must-revalidate
 Cache-Control: post-check=0, pre-check=0
 Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 01:23:17 GMT
+Date: Wed, 25 Sep 2013 05:20:00 GMT
 Expires: mon, 06-may-96 04:57:00 gmt
 Pragma: no-cache
 Transfer-Encoding: chunked
 Connection: Keep-Alive
-Set-Cookie: Libero=171.65.249.4.1380072197864655; path=/; expires=Wed, 13-Jan-16 01:23:17 GMT; domain=.libero.it
-Set-Cookie: bs_hp=4; expires=Mon, 29-Oct-2012 23:00:00 GMT; path=/; domain=.libero.it
-Set-Cookie: TPhp=1; expires=Wed, 25-Sep-2013 02:00:00 GMT
-Set-Cookie: TP2hp=1; expires=Wed, 25-Sep-2013 02:00:00 GMT
-Set-Cookie: TP3hp=2; expires=Wed, 25-Sep-2013 02:00:00 GMT
-Set-Cookie: LIB_ADV_G=bd05a5815887f039a978c75c1016eb1b%7C1304%7C0%7C; expires=Tue, 24-Dec-2013 01:23:17 GMT; path=/; domain=libero.it
-
+Set-Cookie: Libero=128.12.244.4.1380086400679660; path=/; expires=Wed, 13-Jan-16 05:20:00 GMT; domain=.libero.it
+Set-Cookie: bs_hp=5; expires=Mon, 29-Oct-2012 23:00:00 GMT; path=/; domain=.libero.it
+Set-Cookie: TPhp=1; expires=Wed, 25-Sep-2013 06:00:00 GMT
+Set-Cookie: TP2hp=0; expires=Wed, 25-Sep-2013 06:00:00 GMT
+Set-Cookie: TP3hp=2; expires=Wed, 25-Sep-2013 06:00:00 GMT
+Set-Cookie: LIB_ADV_G=c667d388189855b1099335f20b101f47%7C1304%7C0%7C; expires=Tue, 24-Dec-2013 05:20:00 GMT; path=/; domain=libero.it
+

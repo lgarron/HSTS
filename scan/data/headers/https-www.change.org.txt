@@ -1,6 +1,6 @@
 HTTP/1.1 200 OK
 Server: nginx/1.2.6
-Date: Wed, 25 Sep 2013 00:44:24 GMT
+Date: Wed, 25 Sep 2013 05:07:47 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 Status: 200 OK
@@ -9,14 +9,14 @@ Access-Control-Allow-Methods: POST, GET, OPTIONS
 Access-Control-Allow-Credentials: true
 Access-Control-Max-Age: 1728000
 X-UA-Compatible: IE=Edge,chrome=1
-ETag: "dbb02af6add375a27bacb27e6498d343"
+ETag: "a934c2796eb8e3c41091a8d2cd37ee85"
 Cache-Control: max-age=0, private, must-revalidate
-Set-Cookie: uuid=514fb33790834455a612ed92805496ec; path=/
+Set-Cookie: uuid=692cd51701844a328f05a3bdf4c52738; path=/
 Set-Cookie: preview_beta_web_pages=experiment; path=/
-Set-Cookie: tracking_data=%7B%22user_uuid%22%3A%2209bb0f4f-530d-424b-a357-6b1e63d7e39c%22%7D; path=/; expires=Wed, 01-Jan-2020 06:00:00 GMT
-Set-Cookie: _change_session=81917d5db312b93b8ae9aec673446731; domain=.change.org; path=/; expires=Wed, 25-Sep-2013 01:29:24 GMT; HttpOnly
-X-Request-Id: df1b8dd848923a08a17f41baeebb401d
-X-Runtime: 0.057608
+Set-Cookie: tracking_data=%7B%22user_uuid%22%3A%220f03b7ba-5685-4b57-8e4e-42c576d3e72b%22%7D; path=/; expires=Wed, 01-Jan-2020 00:00:00 GMT
+Set-Cookie: _change_session=32c16383420328558e7608bc49a9e6bd; domain=.change.org; path=/; expires=Wed, 25-Sep-2013 05:52:47 GMT; HttpOnly
+X-Request-Id: 47cb4781b79b35bd90114b43eb4ba758
+X-Runtime: 0.109471
 X-Rack-Cache: miss
-x-change-server: production-change_main-app-metal-04
-
+x-change-server: production-change_main-app2-09
+

@@ -1,13 +1,13 @@
 HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 01:10:03 GMT
+Date: Wed, 25 Sep 2013 05:26:08 GMT
 Server: Apache
-Set-Cookie: S=s6156r95j6ke2vchv50cvm8ek7; path=/; domain=hi5.com
+Set-Cookie: S=evi0pgkmajbnv80qu81j1cd6t2; path=/; domain=hi5.com
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: S=s6156r95j6ke2vchv50cvm8ek7; expires=Fri, 25-Oct-2013 01:10:03 GMT; path=/; domain=.hi5.com
-Set-Cookie: B=b=5E90B62932B2A51A; expires=Sat, 23-Sep-2023 01:10:03 GMT; path=/; domain=.hi5.com
+Set-Cookie: S=evi0pgkmajbnv80qu81j1cd6t2; expires=Fri, 25-Oct-2013 05:26:08 GMT; path=/; domain=.hi5.com
+Set-Cookie: B=b=5262231A0FFD2F40; expires=Sat, 23-Sep-2023 05:26:08 GMT; path=/; domain=.hi5.com
 Location: http://www.hi5.com?
 Vary: User-Agent
 Content-Type: text/html; charset=UTF-8
-
+

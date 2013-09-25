@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:30:40 GMT
-Server: UltraDNS Client Redirection Server
-Last-Modified: Wed, 25 Sep 2013 03:30:40 GMT
-Accept-Ranges: none
-Connection: close
-Content-type: text/html
-Location: http://www.olx.com.br/
-

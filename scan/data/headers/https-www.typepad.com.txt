@@ -1,9 +1,0 @@
-HTTP/1.0 302 Found
-Date: Wed, 25 Sep 2013 00:55:32 GMT
-Server: Apache
-Location: http://www.typepad.com/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-Connection: keep-alive
-Keep-Alive: timeout=30, max=100
-

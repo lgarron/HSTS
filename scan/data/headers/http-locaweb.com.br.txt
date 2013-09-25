@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.22
+Location: http://www.locaweb.com.br/
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 234
+Date: Wed, 25 Sep 2013 05:20:02 GMT
+X-Varnish: 719663129 719657719
+Age: 332
+Via: 1.1 varnish
+Connection: keep-alive
+Usou: Cache
+

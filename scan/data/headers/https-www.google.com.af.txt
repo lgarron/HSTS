@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:29:33 GMT
+Date: Wed, 25 Sep 2013 05:11:32 GMT
 Expires: -1
 Cache-Control: private, max-age=0
-Content-Type: text/html; charset=windows-1256
-Set-Cookie: PREF=ID=e69fd002883d53ee:FF=0:TM=1380079773:LM=1380079773:S=9Ukzo_h9fPIQkmFY; expires=Fri, 25-Sep-2015 03:29:33 GMT; path=/; domain=.google.com.af
-Set-Cookie: NID=67=WahUuPDGyc_t9QcmLrhSPcL3Zg-fCph02gO7AMvoo5LEoVRfC6DvSQiCpDZbH2F_R75V-Ix1JnznAVTFP3XTZoVaH3iY9CQFPQDZfaClqHaOcGSrb-Sb1rwotA03eeI-; expires=Thu, 27-Mar-2014 03:29:33 GMT; path=/; domain=.google.com.af; HttpOnly
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PREF=ID=129ce61ba028c6db:FF=0:TM=1380085892:LM=1380085892:S=CzmUxt61oJXUU1so; expires=Fri, 25-Sep-2015 05:11:32 GMT; path=/; domain=.google.com.af
+Set-Cookie: NID=67=cOM1rqh0bcphYX3fubu03WetmNgfSHNtaOqNiyvFtAba2wD9Qq65qrFT5VRrMQTm0ee0XMrhIXGUeVsUchlzFcpsgBcBd6suVhe-VwWJ230puGbLF1mE3jSJpnUtsvrf; expires=Thu, 27-Mar-2014 05:11:32 GMT; path=/; domain=.google.com.af; HttpOnly
 P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
 Server: gws
 X-XSS-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
 Alternate-Protocol: 443:quic
 Transfer-Encoding: chunked
-
+

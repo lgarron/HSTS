@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+X-Powered-By: Servlet 2.4; JBoss-4.3.0.GA_CP03 (build: SVNTag=JBPAPP_4_3_0_GA_CP03 date=200810241616)/JBossWeb-2.0
+Location: http://www.lg.com/us
+wsvc: https_path, f221
+Content-Type: text/html;charset=UTF-8
+Expires: Wed, 25 Sep 2013 05:24:03 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 05:24:03 GMT
+Connection: keep-alive
+Set-Cookie: JSESSIONID=6F91AD013C10BF1F91F77AB4333BF95A.node_fapp2; Domain=.lg.com; Path=/
+Set-Cookie: WMONID=RjqwlEXgld7; Expires=Thu, 25-Sep-2014 05:24:02 GMT; Path=/
+Set-Cookie: plbw=633ef4a500005200
+

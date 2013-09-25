@@ -5,11 +5,11 @@ Location: http://www.nbcsports.com/
 Cache-Control: max-age=1209600
 Expires: Fri, 27 Sep 2013 19:13:00 GMT
 Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 02:17:11 GMT
-X-Varnish: 723534283 649066551
-Age: 975851
+Date: Wed, 25 Sep 2013 05:25:17 GMT
+X-Varnish: 724435582 649066551
+Age: 987137
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: HIT
-X-Cache-Hits: 196093
-
+X-Cache-Hits: 197177
+

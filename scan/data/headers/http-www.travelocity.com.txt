@@ -1,17 +1,17 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:28:13 GMT
+Date: Wed, 25 Sep 2013 05:09:59 GMT
 Server: Apache
-Set-Cookie: TLTSID=82AF8F382592102500F4B892D346C2E9; Path=/; Domain=.travelocity.com
-Set-Cookie: TLTUID=82AF8F382592102500F4B892D346C2E9; Path=/; Domain=.travelocity.com; Expires=Wed, 25-09-2023 03:28:13 GMT
-Set-Cookie: TVLY_GEO=37.417801|-122.171997|Stanford|CA|94305|US; path=/; domain=.travelocity.com; expires=Wed, 25-Sep-2013 06:28:13 GMT
+Set-Cookie: TLTSID=B997066225A0102500A4C8C44B94DAFD; Path=/; Domain=.travelocity.com
+Set-Cookie: TLTUID=B997066225A0102500A4C8C44B94DAFD; Path=/; Domain=.travelocity.com; Expires=Wed, 25-09-2023 05:09:58 GMT
+Set-Cookie: TVLY_GEO=37.417801|-122.171997|Stanford|CA|94305|US; path=/; domain=.travelocity.com; expires=Wed, 25-Sep-2013 08:09:58 GMT
 Cache-Control: no-cache=Set-Cookie
 Expires: Thu, 01 Dec 1994 16:00:00 GMT
 Last-Modified: Tue, 24 Sep 2013 21:50:27 GMT
 Accept-Ranges: bytes
 Content-Length: 156436
 Content-Type: text/html; charset=utf-8
-Set-Cookie: tyrg1st=DC5E0BFA44F85EBF; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.travelocity.com
+Set-Cookie: tyrg1st=3EA445CC310F7DC; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.travelocity.com
 Vary: Accept-Encoding
 P3P: CP="ALL ADM DEV PSAi COM OUR OTRo STP IND ONL", policyref="/w3c/p3p.xml"
 Connection: close
-
+

@@ -4,9 +4,9 @@ Location: http://www.seobook.com/
 Cache-Control: max-age=1209600
 Expires: Tue, 08 Oct 2013 16:24:24 GMT
 Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 03:26:05 GMT
-X-Varnish: 1992209030 1991655381
-Age: 39701
+Date: Wed, 25 Sep 2013 05:13:54 GMT
+X-Varnish: 1992313616 1991655381
+Age: 46170
 Via: 1.1 varnish
 Connection: keep-alive
-
+

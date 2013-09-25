@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 02:35:58 GMT
+Date: Wed, 25 Sep 2013 05:07:05 GMT
 Server: Apache
 Cache-Control: private
 P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
 Vary: Accept-Encoding
 Content-Length: 323
-Set-Cookie: JSESSIONID=mpsmDL7J1Z2sK5lGr_sfu; path=/; HttpOnly
+Set-Cookie: JSESSIONID=mnrQR_K6sUeBL9wk3Gtfu; path=/; HttpOnly
 Content-Type: text/html; charset=UTF-8
 Link: </labels.rdf>; /="/"; rel="meta" type="application/rdf+xml"; title="ICRA labels";
 Connection: close
-
+

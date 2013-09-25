@@ -2,9 +2,11 @@ HTTP/1.1 200 OK
 Accept-Ranges: bytes
 Cache-Control: max-age=300
 Content-Type: text/html
-Date: Wed, 25 Sep 2013 01:09:54 GMT
-Expires: Wed, 25 Sep 2013 01:38:15 GMT
-Server: Apache
-WebServer: VM-DMZ2-wwwsrc06
-Connection: close
-
+Date: Wed, 25 Sep 2013 05:19:17 GMT
+Expires: Wed, 25 Sep 2013 05:24:17 GMT
+Last-Modified: Wed, 25 Sep 2013 05:18:35 GMT
+Server: ECS (lax/2829)
+WebServer: VM-DMZ-WWW-SRC05
+X-Cache: HIT
+Content-Length: 142418
+

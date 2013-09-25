@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 02:02:16 GMT
+Date: Wed, 25 Sep 2013 05:17:17 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
 Location: http://www.zappos.com/
-X-Core-Value: 4. Be Adventurous, Creative, and Open-Minded
+X-Core-Value: 6. Build Open and Honest Relationships With Communication
 X-Recruiting: If you're reading this, maybe you should be working at Zappos instead.  Check out jobs.zappos.com
-Set-Cookie: zfc=Cg8IjNnzo7rluQIQnfKg1QY=; path=/; domain=.zappos.com; expires=Tue, 09-Jan-2035 00:00:00 GMT
+Set-Cookie: zfc=Cg8IxeW+7+XluQIQrpbY1wY=; path=/; domain=.zappos.com; expires=Tue, 09-Jan-2035 00:00:00 GMT
 Cache-Control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate
-
+

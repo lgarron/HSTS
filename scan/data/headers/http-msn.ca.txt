@@ -6,9 +6,9 @@ Last-Modified: Tue, 22 Apr 2008 13:33:27 GMT
 ETag: "158c87727da4c81:0"
 Location: http://ca.msn.com/
 Server: Microsoft-IIS/7.5
-Set-Cookie: MC1=V=3&GUID=1f524e8b9663407d965dbd737cf5a998; expires=Mon, 04-Oct-2021 19:00:00 GMT; path=/
+Set-Cookie: MC1=V=3&GUID=3d2cc165be0f4b77b16c8e1a5e6f726c; expires=Mon, 04-Oct-2021 19:00:00 GMT; path=/
 X-AspNet-Version: 2.0.50727
 X-Powered-By: ASP.NET
 P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
-Date: Wed, 25 Sep 2013 03:26:07 GMT
-
+Date: Wed, 25 Sep 2013 05:11:05 GMT
+

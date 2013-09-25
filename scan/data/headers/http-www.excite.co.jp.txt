@@ -1,10 +1,10 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 01:34:36 GMT
+Date: Wed, 25 Sep 2013 05:15:02 GMT
 Server: Apache
-Set-Cookie: UID=C185E3AC52423D17; path=/; domain=.excite.co.jp; expires=Fri, 01-Jan-2038 00:00:00 GMT
+Set-Cookie: UID=EACE7C565242710D; path=/; domain=.excite.co.jp; expires=Fri, 01-Jan-2038 00:00:00 GMT
 Set-Cookie: registered=no; path=/; domain=.excite.co.jp; expires=Fri, 01-Jan-2038 00:00:00 GMT
-Set-Cookie: exck=we_ar=4410|la_star=4|hm_pref=13|cl_mem=0|clt_mem=0|clh_mem=0|clk_mem=0|we_ar_usr_flg=0; expires=Thu, 25-Sep-2014 01:34:36 GMT; path=/; domain=excite.co.jp
+Set-Cookie: exck=we_ar=4410|la_star=4|hm_pref=13|cl_mem=0|clt_mem=0|clh_mem=0|clk_mem=0|we_ar_usr_flg=0; expires=Thu, 25-Sep-2014 05:15:02 GMT; path=/; domain=excite.co.jp
 Vary: Accept-Encoding
 Connection: close
 Content-Type: text/html
-
+

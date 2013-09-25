@@ -1,5 +1,16 @@
-HTTP/1.1 403 Forbidden
-Date: Wed, 25 Sep 2013 03:36:06 GMT
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 05:27:01 GMT
 Server: Apache
-Content-Type: text/html; charset=iso-8859-1
-
+X-Powered-By: PHP/4.4.9
+Set-Cookie: first_acc_url=http%3A%2F%2Fjugem.jp%2F; expires=Thu, 31 Oct 2013 17:27:01 GMT; path=/; domain=.jugem.jp
+Set-Cookie: first_acc_referer=null; expires=Thu, 31 Oct 2013 17:27:01 GMT; path=/; domain=.jugem.jp
+Set-Cookie: first_acc_date=20130925142701; expires=Thu, 31 Oct 2013 17:27:01 GMT; path=/; domain=.jugem.jp
+p3p: CP="ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV"
+Set-Cookie: PHPSESSID=06ca1da3879c592b55e03f2e15be7910; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:26:46 GMT
-Server: Apache/2.4.6 (Unix) OpenSSL/1.0.0-fips mod_bwlimited/1.4
-Location: http://www.nmisr.com/
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache-Coyote/1.1
+ETag: 
+Last-Modified: Tue, 25 Sep 2013 04:37:04 GMT
+Location: http://www.ebay.fr
+RlogId: p4fug%60fvoiwi%3C%3Dpi%2Bpu56*%3B76b4a4-14153901833
+Content-Length: 0
+Date: Wed, 25 Sep 2013 05:20:53 GMT
+

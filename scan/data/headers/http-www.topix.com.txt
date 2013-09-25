@@ -1,16 +1,16 @@
 HTTP/1.1 200 OK
 Server: nginx/1.2.3
-Date: Wed, 25 Sep 2013 03:37:13 GMT
+Date: Wed, 25 Sep 2013 05:22:54 GMT
 Content-Type: text/html
-Content-Length: 69803
+Content-Length: 69945
 Connection: close
-Set-Cookie: F=; domain=.topix.com; path=/; expires=Tue, 24-Sep-2013 03:37:13 GMT
-Set-Cookie: PXE=v1%7cdc925d65%7clsid%7cGFF7OSR8L5GD3ABI%7c1443152232%7cssid%7cSOO965LGV9BRP7IH%7c1380081432; domain=.topix.com; path=/; expires=Fri, 25-Sep-2015 03:37:13 GMT
+Set-Cookie: F=; domain=.topix.com; path=/; expires=Tue, 24-Sep-2013 05:22:53 GMT
+Set-Cookie: PXE=v1%7c75edec96%7clsid%7cTKSNVEVVTM621NII%7c1443158573%7cssid%7c9T0NVNB6J3RNGGL1%7c1380087773; domain=.topix.com; path=/; expires=Fri, 25-Sep-2015 05:22:53 GMT
 Cache-Control: no-cache
 P3P: policyref="http://topix.cachefly.net/static/p3p.xml", CP="NON DSP CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND ONLo UNI COM NAV INT DEM STA"
 Pragma: no-cache
-X-TALXX: 3.12
-Set-Cookie: T=0QoTsnMVkBLlspRa7zsPYIRZjPzpOfjV8eR9PDuaDIsw%2BJBoSG1H3WoosC%2B7Woa1SnrEjlaToyu%2FTjwD26iY%2B80a6zQDAJirIVtlCctCXjmL8zCFEjsYB1J801dsaHNIdw5n2reFBe%2F5V0CHIZnx6tTlpN5k%2FydCHdhPJAJPGyUaAzkPXFWgIBtVIY4cvLieQtvOH%2FgxdojB9DGTQ0uIzT7Zz5TRnIHQ97KhBjcBzHUGJLKk3Ck5be6oTYA0RhhozjjUWVzz0fGk3ROvaqVXNr%2FLfacaJem3IRNa2wO0QoOWpHvpQvDlvqaJYMj1UlAjqapoQmFTtFrlVJgggTb%2BTkQ%3D%3D; domain=.topix.com; path=/; expires=Sat, 23-Sep-2023 03:37:13 GMT
-X-Topix-PageID: GIBQCJNR8P0TC5MB
-Expires: Wed, 25 Sep 2013 03:37:12 GMT
-
+X-TALXX: 2.61
+Set-Cookie: T=0QoTsnMVkBLlspRa7zsPYISqTVKyNdLOl%2F696%2BuS7dgW2fA%2B9bLT5Td3J0iRvlSztI7wgGMiSaz4jIbQwKXM65XJss8RZ%2F1iJpjx6tXWfYiYIhLMMQ9nsEkoR%2FpsgudVIwjqU%2BR84Xe5lZgpt%2FN0AIrgyBieJAhPnDk1zZbh8eE0llRsesHU3vTziQtqye7SMdgqia7yIJYhsRuJRgb3XOWBpgO1hF7VPAl7GqKcmq2yNAxnXJenjDxG2JMNg%2B0nrFOm5scfMa86Btb2FBmNdJSbQd4pzYhwglbwh4oDT98Ne3oLHk7c7gfBie2aR2LiriKSUoBgKSqQhpmaG6J5fOQ%3D%3D; domain=.topix.com; path=/; expires=Sat, 23-Sep-2023 05:22:53 GMT
+X-Topix-PageID: LF4M0L3U1P4HBC25
+Expires: Wed, 25 Sep 2013 05:22:53 GMT
+

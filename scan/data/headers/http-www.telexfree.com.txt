@@ -1,20 +1,20 @@
 HTTP/1.1 200 OK
 Server: Apache
 X-Frame-Options: SAMEORIGIN
-Set-Cookie: PHPSESSID=cc59~j00ej2hm9skocqh4ja9ejiisq3; path=/
+Set-Cookie: PHPSESSID=cc59~hfnq5t091uhkn5lhov1ld2uuj5; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: COOKIE_idioma=en; expires=Sun, 12-Jun-2033 03:29:03 GMT; path=/; domain=www.telexfree.com
-Set-Cookie: COOKIE_rep_login=telexfree; expires=Sun, 12-Jun-2033 03:29:03 GMT; path=/; domain=www.telexfree.com
-Set-Cookie: COOKIE_banner=N; expires=Wed, 25-Sep-2013 03:44:03 GMT; path=/; domain=www.telexfree.com
+Set-Cookie: COOKIE_idioma=en; expires=Sun, 12-Jun-2033 05:22:13 GMT; path=/; domain=www.telexfree.com
+Set-Cookie: COOKIE_rep_login=telexfree; expires=Sun, 12-Jun-2033 05:22:13 GMT; path=/; domain=www.telexfree.com
+Set-Cookie: COOKIE_banner=N; expires=Wed, 25-Sep-2013 05:37:13 GMT; path=/; domain=www.telexfree.com
 Vary: Accept-Encoding
 Content-Type: text/html; charset=UTF-8
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 03:31:33 GMT
-X-Varnish: 386107051
+Date: Wed, 25 Sep 2013 05:23:57 GMT
+X-Varnish: 1944060488
 Age: 0
 Via: 1.1 varnish
 Connection: keep-alive
 gzip: false
-
+

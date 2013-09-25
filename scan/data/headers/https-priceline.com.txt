@@ -1,15 +1,15 @@
 HTTP/1.1 302 Object moved
-Date: Wed, 25 Sep 2013 01:15:25 GMT
+Date: Wed, 25 Sep 2013 05:13:01 GMT
 Server: Microsoft-IIS/6.0
 p3p: policyref="http://www.priceline.com/w3c/p3p_default_policy.xml", CP="CAO DSP COR CURa ADMa DEVo TAIo PSAa PSDa OUR OTRa IND ONL PUR NAV INT CNT STA PRE"
 X-Powered-By: ASP.NET
-Location: http://www.priceline.com/Default.asp?session_key=344B050A334A050A20130925011525600611612241&plf=pcln&nsl=Y
+Location: http://www.priceline.com/Default.asp?session_key=544A200A554A200A2013092505130185c9e2006528&plf=pcln&nsl=Y
 Content-Length: 235
 Content-Type: text/html
-Expires: Wed, 25 Sep 2013 01:15:25 GMT
-Set-Cookie: vid=v2013092501152560061161; domain=.priceline.com; path=/
-Set-Cookie: vsch=v2013092501152560061161%5F62945812; domain=.priceline.com; path=/
-Set-Cookie: PSessKey=344B050A334A050A20130925011525600611612241; domain=.priceline.com; path=/
-Set-Cookie: SITESERVER=ID=cd8489f49c524904cc620c91cf8020b2; expires=Tue, 01-Jan-2030 05:00:00 GMT; domain=.priceline.com; path=/
+Expires: Wed, 25 Sep 2013 05:13:01 GMT
+Set-Cookie: vid=v2013092505130185c9e200; domain=.priceline.com; path=/
+Set-Cookie: vsch=v2013092505130185c9e200%5F48218429; domain=.priceline.com; path=/
+Set-Cookie: PSessKey=544A200A554A200A2013092505130185c9e2006528; domain=.priceline.com; path=/
+Set-Cookie: SITESERVER=ID=c81d1774d0b340a52d1ddb9b5a9a09d6; expires=Tue, 01-Jan-2030 05:00:00 GMT; domain=.priceline.com; path=/
 Cache-control: private
-
+

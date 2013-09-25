@@ -1,9 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: nginx/1.2.0
-Date: Wed, 25 Sep 2013 03:32:33 GMT
-Content-Type: text/html
-Content-Length: 160
-Connection: keep-alive
-Keep-Alive: timeout=60
-Location: http://hh.ru/
-

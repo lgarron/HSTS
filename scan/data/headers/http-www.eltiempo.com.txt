@@ -1,9 +1,8 @@
 HTTP/1.1 200 OK
 Server: nginx/1.4.1
 Content-Type: text/html
-nnCoection: close
-X-Server: ngnx02
-Cache-Control: private, max-age=56
-Date: Wed, 25 Sep 2013 03:35:33 GMT
+X-Server: ngnx01
+Cache-Control: private, max-age=60
+Date: Wed, 25 Sep 2013 05:17:46 GMT
 Connection: keep-alive
-
+

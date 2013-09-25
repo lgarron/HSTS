@@ -10,13 +10,13 @@ Access-Control-Allow-Origin: *.buybuybaby.com
 Access-Control-Allow-Origin: *.bedbathandbeyond.ca
 Access-Control-Allow-Origin: 206.17.85.130
 Access-Control-Allow-Origin: 206.17.85.129
-Date: Wed, 25 Sep 2013 03:43:36 GMT
+Date: Wed, 25 Sep 2013 05:13:22 GMT
 Content-Length: 1
 Connection: keep-alive
-Set-Cookie: BedBathUSLVPrdts=;expires=Thu, 10 Oct 2013 03:43:36 GMT; domain=www.bedbathandbeyond.com; path=/; HttpOnly
-Set-Cookie: JSESSIONID=H3JtSCbLJMqwVHYlXq40pdHp9vXXyPDQGl4CZC1JT09d8nL5Zh7L!339527524; path=/; HttpOnly
+Set-Cookie: BedBathUSLVPrdts=;expires=Thu, 10 Oct 2013 05:13:22 GMT; domain=www.bedbathandbeyond.com; path=/; HttpOnly
+Set-Cookie: JSESSIONID=PM55SCwSd82h2rYMRt1ypzYrXcnxSLkF2L4yCCqpyxSnGvyYqh6S!339527524; path=/; HttpOnly
 Set-Cookie: BIGipServerWeblogic_Pool=1179894026.23323.0000; path=/
-Set-Cookie: TLTSID=81CCFBA371C2AAA79566AE64F62CDA3F;path=/;
-Set-Cookie: TLTUID=EDB35182669CBF876ADD4D66C5FCFBAC;expires=Mon, 18-May-2015 03:43:36 GMT;path=/;
-Set-Cookie: BBBDC=AN01;expires=Wed, 25-Sep-2013 04:43:36 GMT;path=/;domain=.bedbathandbeyond.com;
-
+Set-Cookie: TLTSID=7A9CDFB25A3D440E17BCD834EDC1AC7B;path=/;
+Set-Cookie: TLTUID=C6158DF6BDF84D4B2EE83D7284043411;expires=Mon, 18-May-2015 05:13:22 GMT;path=/;
+Set-Cookie: BBBDC=AN01;expires=Wed, 25-Sep-2013 06:13:22 GMT;path=/;domain=.bedbathandbeyond.com;
+

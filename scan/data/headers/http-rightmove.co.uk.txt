@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:15:46 GMT
-Set-Cookie: JSESSIONID=129B9625DB0EEB9E388F23A4100DA07F; Path=/; HttpOnly
-Set-Cookie: svr=1717; Domain=.rightmove.co.uk; Expires=Wed, 25-Sep-2013 09:15:46 GMT; Path=/
-Set-Cookie: permuserid=130925S23EATDG9WTKPYGCTZNQL0FOQQ; Domain=.rightmove.co.uk; Expires=Thu, 25-Sep-2014 01:15:46 GMT; Path=/
-Location: http://www.rightmove.co.uk/svr/1717
+Date: Wed, 25 Sep 2013 05:21:35 GMT
+Set-Cookie: JSESSIONID=26D0A7FF4A06054482450CA4C6F673AD; Path=/; HttpOnly
+Set-Cookie: svr=2706; Domain=.rightmove.co.uk; Expires=Wed, 25-Sep-2013 13:21:35 GMT; Path=/
+Set-Cookie: permuserid=130925TXZD56662U9KMDF482A8AF3NEP; Domain=.rightmove.co.uk; Expires=Thu, 25-Sep-2014 05:21:35 GMT; Path=/
+Location: http://www.rightmove.co.uk/svr/2706
 Vary: Accept-Encoding,User-Agent
 Content-Type: text/plain
-Set-Cookie: TS9c0ed0=9235e6d76c56789aeb394306fe0ef0f1a0f92d69c443db8c5242394160ac0ec52d2f9853; Path=/
-Set-Cookie: TSec61d1=7e84871e51659fce63164b938db2ba5ca0f92d69c443db8c52423941a08c2c966daeb3e937ada83f95826b4b; path=/; domain=.rightmove.co.uk
+Set-Cookie: TS9c0ed0=9ebb10189dca40b43b96ac10d3fd42bb5f6b2ba2a42c68ff524272df60ac0ec579c05b16; Path=/
+Set-Cookie: TSec61d1=51d472ac0463a41199f850ca893b6ed35f6b2ba2a42c68ff524272dfa08c2c96937e091437ada83fa72ba8dd; path=/; domain=.rightmove.co.uk
 Transfer-Encoding: chunked
-
+

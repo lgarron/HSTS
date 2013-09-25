@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
 Server: cloudflare-nginx
-Date: Wed, 25 Sep 2013 00:48:45 GMT
+Date: Wed, 25 Sep 2013 05:10:25 GMT
 Content-Type: text/html
 Connection: keep-alive
-Set-Cookie: __cfduid=df4dada22ed5795102a5fe0cd9a9b12011380070125533; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.brainyquote.com
-Set-Cookie: __cfduid=df4dada22ed5795102a5fe0cd9a9b12011380070125533; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.brainyquote.com
+Set-Cookie: __cfduid=d903b7c05fff89a47fbdcc3df455d1f731380085825437; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.brainyquote.com
+Set-Cookie: __cfduid=d903b7c05fff89a47fbdcc3df455d1f731380085825437; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.brainyquote.com
 Location: http://www.brainyquote.com/
-CF-RAY: b33b5ec94930294
-
+CF-RAY: b353538fb010296
+

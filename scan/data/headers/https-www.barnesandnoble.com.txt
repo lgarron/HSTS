@@ -5,9 +5,9 @@ Cache-Control: no-store, no-cache, must-revalidate
 Pragma: no-cache
 Location: http://www.barnesandnoble.com/
 RTSS: 1-1309-1
-Date: Wed, 25 Sep 2013 00:59:36 GMT
+Date: Wed, 25 Sep 2013 05:22:03 GMT
 Connection: keep-alive
 Set-Cookie: SSLB=1; path=/; domain=.barnesandnoble.com
-Set-Cookie: JSESSIONID=12sab1ekz4zgqmg0ltnngecoppnjflite031380070776914;Path=/
-Set-Cookie: pds%5Flife=d=AQCZtlisviAKDE%2Bn6T8WpaQooZ3k3pKvpilnChYq5TjNZQ%3D%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Mon, 24-Sep-2018 00:59:36 GMT
-
+Set-Cookie: JSESSIONID=ls02pvo0p5h19lcg0wi4tgs2pnjflite091380086523891;Path=/
+Set-Cookie: pds%5Flife=d=AQBHvZSPwjVVQxQSzXdRVta2Q3fJiC7SgupA0bf4xO8R8g%3D%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Mon, 24-Sep-2018 05:22:03 GMT
+

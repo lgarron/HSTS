@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:45:03 GMT
+Date: Wed, 25 Sep 2013 05:07:47 GMT
 Server: Apache
 X-Powered-By: PHP/5.3.3
-Set-Cookie: PHPSESSID=40he9874pqru06vi2djq6l32e0; path=/
+Set-Cookie: PHPSESSID=buhvoqndn8sble1dlgtrbv22t5; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: siteaud=all%7C1380069903; expires=Sat, 23-Sep-2023 00:45:03 GMT
-Set-Cookie: ana_svc=sk; expires=Thu, 25-Sep-2014 00:45:03 GMT; path=/
+Set-Cookie: siteaud=all%7C1380085667; expires=Sat, 23-Sep-2023 05:07:47 GMT
+Set-Cookie: ana_svc=sk; expires=Thu, 25-Sep-2014 05:07:47 GMT; path=/
 Vary: Accept-Encoding
 Connection: close
 Content-Type: text/html; charset=UTF-8
-
+

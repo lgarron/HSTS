@@ -4,10 +4,10 @@ Location: http://www.merriam-webster.com/
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 00:48:34 GMT
-X-Varnish: 3447389172
+Date: Wed, 25 Sep 2013 05:09:21 GMT
+X-Varnish: 2365479276
 Age: 0
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: MISS
-
+

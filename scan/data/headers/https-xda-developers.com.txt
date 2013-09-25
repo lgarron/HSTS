@@ -1,8 +1,8 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 00:43:36 GMT
+Date: Wed, 25 Sep 2013 05:06:21 GMT
 Content-Type: text/html; charset=UTF-8
 Connection: keep-alive
 X-Pingback: http://www.xda-developers.com/xmlrpc.php
 Location: https://www.xda-developers.com/
-
+

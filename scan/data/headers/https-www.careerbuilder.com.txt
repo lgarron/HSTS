@@ -1,14 +1,16 @@
 HTTP/1.1 200 OK
 Cache-Control: private
-Content-Length: 38011
+Content-Length: 40533
 Content-Type: text/html; charset=UTF-8
 Content-Language: en-US
 Server: Microsoft-IIS/7.0
 P3P: CP="CAO CURa IVAa HISa OUR IND UNI COM NAV INT STA",policyref="https://secure.icbdr.com/images/CBP3P.xml"
 X-AspNet-Version: 4.0.30319
+Set-Cookie: CB%5FSID=ee7c7e27e8894437b844202773efa1f4-433387411-RH-4; domain=.careerbuilder.com; path=/; HttpOnly
+Set-Cookie: BID=X1282B068A9034BEFF6B16B09AA2D72240A9010C93D34A17EA79F56F34142FBB58179AFF75D54A003C31100AB14123CA24; domain=.careerbuilder.com; expires=Thu, 25-Sep-2014 05:23:30 GMT; path=/; HttpOnly
 Set-Cookie: JDP=2; domain=.careerbuilder.com; path=/
 X-Powered-By: ASP.NET
-X-PBY: REBEL13
-Date: Wed, 25 Sep 2013 01:37:28 GMT
+X-PBY: REBEL17
+Date: Wed, 25 Sep 2013 05:23:29 GMT
 Connection: close
-
+

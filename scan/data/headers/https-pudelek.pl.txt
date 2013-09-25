@@ -1,8 +1,8 @@
 HTTP/1.1 301 Moved Permanently
 Content-Type: text/html
+Content-Length: 178
 Connection: keep-alive
 Server: nginx
-Date: Wed, 25 Sep 2013 03:23:57 GMT
-Content-Length: 178
+Date: Wed, 25 Sep 2013 05:26:31 GMT
 Location: http://www.pudelek.pl/
-
+

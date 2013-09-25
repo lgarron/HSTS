@@ -5,16 +5,16 @@ Content-Type: text/html; charset=iso-8859-1
 X-Cacheable: YES
 Content-Length: 288
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 01:03:34 GMT
+Date: Wed, 25 Sep 2013 05:23:38 GMT
 Connection: keep-alive
-X-Served-By: varnish-s1-SJC, cache-sv60-SJC3
-X-Cache: MISS, HIT
-X-Cache-Hits: 0, 1
-X-Timer: S1380071013.818133116,VS0,VS2,VE3,VE809
+X-Served-By: cache-s24-SJC, cache-sv62-SJC3
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1380086618.521186590,VS0,VS9,VE9,VE4
 Vary: Accept-Encoding
 Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
-X-Age: 1
-Set-Cookie: varnish-stat=/server/SJC3/cache-sv60-SJC3/(null)/; path=/
-Set-Cookie: loadtime=S1380071013.818133116,VS0,VS2,VE3,VE809; path=/
+X-Age: 0
+Set-Cookie: varnish-stat=/server/SJC3/cache-sv62-SJC3/MISS/; path=/
+Set-Cookie: loadtime=S1380086618.521186590,VS0,VS9,VE9,VE4; path=/
 Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-
+

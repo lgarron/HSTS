@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:03:13 GMT
+Date: Wed, 25 Sep 2013 05:20:04 GMT
 Server: W18-HTTP
 Location: http://www.in.com/
 Content-Type: text/html; charset=iso-8859-1
-
+

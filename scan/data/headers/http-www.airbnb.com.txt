@@ -4,7 +4,7 @@ Content-Type: text/html
 Content-Length: 184
 Location: https://www.airbnb.com/?cdn_locale_redirect=1
 Strict-Transport-Security: max-age=86400; includeSubdomains
-Date: Wed, 25 Sep 2013 03:29:30 GMT
+Date: Wed, 25 Sep 2013 05:15:51 GMT
 Connection: keep-alive
-Set-Cookie: mdr_browser=desktop; expires=Wed, 25-Sep-2013 05:29:30 GMT; path=/; domain=.airbnb.com
-
+Set-Cookie: mdr_browser=desktop; expires=Wed, 25-Sep-2013 07:15:51 GMT; path=/; domain=.airbnb.com
+

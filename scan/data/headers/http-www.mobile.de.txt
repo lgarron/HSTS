@@ -1,22 +1,22 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 01:19:39 GMT
+Date: Wed, 25 Sep 2013 05:09:41 GMT
 Server: Apache
-Set-Cookie: JSESSIONID=6E1E36BCBF6007F7E6987874B169B1D8.oeb46-2_i02_3202; Path=/; HttpOnly
-Expires: Wed, 25 Sep 2013 01:49:39 GMT
+Set-Cookie: JSESSIONID=83F5155391EC04EF9A7C35900965242A.oeb47-2_i06_3206; Path=/; HttpOnly
+Expires: Wed, 25 Sep 2013 05:39:41 GMT
 Cache-Control: max-age=1800
 Cache-Control: private
-Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 01:19:39 GMT; Path=/
-Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 01:19:39 GMT; Path=/
-Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 01:19:39 GMT; Path=/
-Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 01:19:39 GMT; Path=/
-Set-Cookie: featureVariant.columbusOptimizationEvaluation=v3; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:39 GMT; Path=/
-Set-Cookie: featureVariant.columbusOptimizationEvaluation=NO_VARIANT; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:39 GMT; Path=/
-Set-Cookie: featureVariant.columbusOptimizationEvaluation=NO_VARIANT; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:39 GMT; Path=/
-Set-Cookie: featureVariant.columbusOptimizationEvaluation=default; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:39 GMT; Path=/
-Set-Cookie: featureVariant.columbusOptimizationEvaluation=NO_VARIANT; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:39 GMT; Path=/
-Set-Cookie: nuggadTop20Makes=HOMEPAGE; Expires=Thu, 26-Sep-2013 01:19:39 GMT; Path=/
+Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 05:09:41 GMT; Path=/
+Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 05:09:41 GMT; Path=/
+Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 05:09:41 GMT; Path=/
+Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 05:09:41 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=NO_VARIANT; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 05:09:41 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=NO_VARIANT; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 05:09:41 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=default; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 05:09:41 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=v1; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 05:09:41 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=NO_VARIANT; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 05:09:41 GMT; Path=/
+Set-Cookie: nuggadTop20Makes=HOMEPAGE; Expires=Thu, 26-Sep-2013 05:09:41 GMT; Path=/
 Content-Language: de-DE
-Content-Length: 64077
+Content-Length: 64063
 Vary: Accept-Encoding
 Content-Type: text/html;charset=UTF-8
-
+

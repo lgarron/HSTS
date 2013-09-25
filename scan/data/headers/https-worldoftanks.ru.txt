@@ -1,6 +1,6 @@
 HTTP/1.1 301 MOVED PERMANENTLY
 Server: nginx
-Date: Wed, 25 Sep 2013 02:35:14 GMT
+Date: Wed, 25 Sep 2013 05:06:22 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 Content-Language: ru
@@ -9,7 +9,7 @@ P3P: CP="ALL ADM DEV PSAi COM OUR OTRo STP IND ONL"
 X-Frame-Options: SAMEORIGIN
 Set-Cookie: hlauth=; Domain=.worldoftanks.ru; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
 Set-Cookie: wg_suid=; Domain=.worldoftanks.ru; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
-Set-Cookie: sessionid=3c47308244ceaad9c521fded0065de69; Domain=.worldoftanks.ru; expires=Wed, 09-Oct-2013 02:35:14 GMT; httponly; Max-Age=1209600; Path=/
-Set-Cookie: hllang=ru; Domain=.worldoftanks.ru; expires=Thu, 25-Sep-2014 02:35:14 GMT; Path=/
+Set-Cookie: sessionid=d69f7f2c94c4fd24e6bf18a345834755; Domain=.worldoftanks.ru; expires=Wed, 09-Oct-2013 05:06:22 GMT; httponly; Max-Age=1209600; Path=/
+Set-Cookie: hllang=ru; Domain=.worldoftanks.ru; expires=Thu, 25-Sep-2014 05:06:22 GMT; Path=/
 Location: http://worldoftanks.ru/
-
+

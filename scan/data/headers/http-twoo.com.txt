@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 02:07:34 GMT
+Date: Wed, 25 Sep 2013 05:22:52 GMT
 Content-Type: text/html; charset=UTF-8
 Location: http://www.twoo.com/
-Expires: Fri, 25 Oct 2013 02:07:34 GMT
+Expires: Fri, 25 Oct 2013 05:22:52 GMT
 Cache-Control: max-age=2592000
 Pragma: public
-Last-Modified: Tue, 24 Sep 2013 02:07:34 GMT
-
+Last-Modified: Tue, 24 Sep 2013 05:22:52 GMT
+

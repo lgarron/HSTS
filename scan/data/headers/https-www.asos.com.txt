@@ -3,15 +3,15 @@ Server: Microsoft-IIS/7.5
 X-AspNet-Version: 4.0.30319
 Cache-Control: private
 Content-Type: text/html; charset=utf-8
-serverName: ASD-WEB-05
-Expires: Wed, 25 Sep 2013 00:44:27 GMT
+serverName: ASD-WEB-13
+Expires: Wed, 25 Sep 2013 05:08:06 GMT
 Pragma: no-store
 X-Powered-By: ASP.NET
 RTSS: 1
-Date: Wed, 25 Sep 2013 00:44:27 GMT
+Date: Wed, 25 Sep 2013 05:08:06 GMT
 Connection: keep-alive
 Set-Cookie: SSLB=1; path=/; domain=.asos.com
-Set-Cookie: X-Mapping-bmnehckk=D0CC0F74AEF1CDFFEC8F1E82BABD3EFD; path=/
-Set-Cookie: ASP.NET_SessionId=psmjm2tv3kr10j3huy1yjnzf; path=/; HttpOnly
+Set-Cookie: X-Mapping-bmnehckk=53014C470060E8F16727473A67F16710; path=/
+Set-Cookie: ASP.NET_SessionId=emuihxygdzxt4gawhokeq4be; path=/; HttpOnly
 Set-Cookie: stop_mobi=yes; path=/; domain=asos.com
-
+

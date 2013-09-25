@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 03:24:20 GMT
+Date: Wed, 25 Sep 2013 05:18:09 GMT
 Content-Type: text/html; charset=utf-8
 Connection: close
-Set-Cookie: sitesession=2gZ4czQvxddgEqbiPVk%3D; expires=Wed, 25-Sep-2013 07:24:20 GMT; path=/; domain=.www.clicksvenue.com
+Set-Cookie: sitesession=Wh1AG2tILWD071Rf5IA%3D; expires=Wed, 25-Sep-2013 09:18:09 GMT; path=/; domain=.www.clicksvenue.com
 Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 Expires: Wed, 31 Dec 1969 17:00:00 -0700
-ETag: 52425764a2fa3
+ETag: 524272112547a
 Pragma: no-cache
-Resource: slave2
+Resource: slave1
 Vary: Accept-Encoding
-
+

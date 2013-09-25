@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:26:34 GMT
+Date: Wed, 25 Sep 2013 05:10:57 GMT
 Server: Apache/2.2.15 (Red Hat)
 X-Powered-By: PHP/5.3.21
-Expires: Wed, 25 Sep 2013 03:27:34 GMT
+Expires: Wed, 25 Sep 2013 05:11:57 GMT
 Cache-Control: max-age:60
 X-CMN-Static-Cache: yes
 Vary: Accept-Encoding
-X-ServerID: web16
-X-TimeTaken: D=13312
+X-ServerID: web13
+X-TimeTaken: D=13527
 Connection: close
 Content-Type: text/html; charset=UTF-8
-Set-Cookie: BIGIP_COOKIE=fX/IHtCo8/9b8fh/1Ki//tYrcvIHtLmCXblxw3Q+xckQvHFCaLlEyPn/XFuuhF76tbC2+w6OFTXYeBU=; path=/
-
+Set-Cookie: BIGIP_COOKIE=0Wef2LGKAla1+T5/1Ki//tYrcvIHtI5pYnX0VaHQYWKprdvVGdgiib7BNt9CJ1gf9SR5zWyyoedC0mg=; path=/
+

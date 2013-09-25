@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Location: https://www.google.hr/
 Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 03:22:07 GMT
-Expires: Fri, 25 Oct 2013 03:22:07 GMT
+Date: Wed, 25 Sep 2013 05:17:39 GMT
+Expires: Fri, 25 Oct 2013 05:17:39 GMT
 Cache-Control: public, max-age=2592000
 Server: gws
 Content-Length: 219
 X-XSS-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
 Alternate-Protocol: 443:quic
-
+

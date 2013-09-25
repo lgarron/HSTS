@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:48:52 GMT
-Server: Apache
-Last-Modified: Wed, 01 Feb 2012 02:25:32 GMT
-ETag: "1330aa2-64-4b7ddcb38df00"
-Accept-Ranges: bytes
-Content-Length: 100
-Content-Type: text/html
-

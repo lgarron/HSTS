@@ -4,6 +4,6 @@ Content-Length: 156
 Content-Type: text/html
 Location: http://www.gazetevatan.com/root.asp
 Server: Microsoft-IIS/7.5
-Set-Cookie: ASPSESSIONIDCSSRQDBT=BHOCEHBBBMMNIBADPIMMMEOP; path=/
-Date: Wed, 25 Sep 2013 02:35:31 GMT
-
+Set-Cookie: ASPSESSIONIDQSTCQACQ=OJJEKADBOALGMNDBNFOCOEKC; path=/
+Date: Wed, 25 Sep 2013 05:14:03 GMT
+

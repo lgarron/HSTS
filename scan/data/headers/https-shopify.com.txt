@@ -1,9 +1,9 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Wed, 25 Sep 2013 03:24:36 GMT
+Date: Wed, 25 Sep 2013 05:20:13 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
 Location: https://www.shopify.com/
 P3P: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
-
+

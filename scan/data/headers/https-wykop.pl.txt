@@ -1,10 +1,10 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 02:36:00 GMT
+Date: Wed, 25 Sep 2013 05:07:43 GMT
 Server: Apache
 Location: http://www.wykop.pl/
 Vary: Accept-Encoding
 Connection: close
 Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: JSESSIONIDN=server5; path=/; domain=.wykop.pl
+Set-Cookie: JSESSIONIDN=server10; path=/; domain=.wykop.pl
 Cache-control: private
-
+

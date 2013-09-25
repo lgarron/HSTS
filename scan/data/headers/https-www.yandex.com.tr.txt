@@ -1,12 +1,12 @@
 HTTP/1.1 200 Ok
-Date: Wed, 25 Sep 2013 03:44:29 GMT
+Date: Wed, 25 Sep 2013 05:14:08 GMT
 Content-Type: text/html; charset=UTF-8
 Cache-Control: no-cache,no-store,max-age=0,must-revalidate
-Expires: Wed, 25 Sep 2013 03:44:30 GMT
-Last-Modified: Wed, 25 Sep 2013 03:44:30 GMT
+Expires: Wed, 25 Sep 2013 05:14:08 GMT
+Last-Modified: Wed, 25 Sep 2013 05:14:08 GMT
 P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
-Set-Cookie: yandexuid=8837378931380080670; Expires=Sat, 23-Sep-2023 03:44:29 GMT; Domain=.yandex.com.tr; Path=/
+Set-Cookie: yandexuid=7943028271380086048; Expires=Sat, 23-Sep-2023 05:14:08 GMT; Domain=.yandex.com.tr; Path=/
 X-Frame-Options: DENY
 X-XRDS-Location: http://openid.yandex.ru/server_xrds/
-Content-Length: 181240
-
+Content-Length: 181589
+

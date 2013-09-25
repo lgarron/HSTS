@@ -1,13 +1,13 @@
 HTTP/1.1 302 Found
 Server: nginx/1.2.2
-Date: Wed, 25 Sep 2013 03:27:21 GMT
+Date: Wed, 25 Sep 2013 05:12:55 GMT
 Content-Type: text/html
 Connection: keep-alive
-Set-Cookie: frontend=qer1af86trkftu6aifp0m0s191; expires=Thu, 25-Sep-2014 09:16:07 GMT; path=/; domain=.zulily.com
-Expires: Wed, 25 Sep 2013 03:27:20 GMT
+Set-Cookie: frontend=8blgv0hvb8cutbrqniuldc9i27; expires=Thu, 25-Sep-2014 11:01:41 GMT; path=/; domain=.zulily.com
+Expires: Wed, 25 Sep 2013 05:12:54 GMT
 Cache-Control: no-cache
 Pragma: no-cache
-Set-Cookie: zuid=03-800cf404-52425819-ac92-9de15350-52425819a4981; expires=Fri, 25-Sep-2015 03:27:21 GMT; path=/; domain=.zulily.com
+Set-Cookie: zuid=03-800cf404-524270d7-6426-e553e5e8-524270d75f872; expires=Fri, 25-Sep-2015 05:12:55 GMT; path=/; domain=.zulily.com
 Set-Cookie: ab_signup_variations=modal_signup; path=/
 Location: http://www.zulily.com/
-
+

@@ -1,14 +1,14 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 01:16:30 GMT
-Expires: -1
-Cache-Control: private, max-age=0
-Content-Type: text/html; charset=ISO-8859-1
-Set-Cookie: PREF=ID=1bf9ff696f52f1da:FF=0:TM=1380071790:LM=1380071790:S=4f_VqfEo4Q84n33C; expires=Fri, 25-Sep-2015 01:16:30 GMT; path=/; domain=.google.at
-Set-Cookie: NID=67=L3hXUNEnlPsx19BtgfeD7D_jg2BD9PnUfYxdIuDWm8JLwH-B_G2pTZ7i4PMqjGJrtFUbaAW-PHuI0t1Ahk5FFxhPo9_whWgjVPhEbLVhgy3nsqeiTIqEnlxgGyh3J2nG; expires=Thu, 27-Mar-2014 01:16:30 GMT; path=/; domain=.google.at; HttpOnly
+HTTP/1.1 302 Found
+Location: https://www.google.at/
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PREF=ID=b71c4b6282ab478b:FF=0:TM=1380085934:LM=1380085934:S=R-2vTKsO7jF7izJ1; expires=Fri, 25-Sep-2015 05:12:14 GMT; path=/; domain=.google.at
+Set-Cookie: NID=67=twV1Qhn9D2DisPe85I0Bbu9kXcDBee1yfp4IWkTLR50vYISf1EWT9ULHX9hVpX2mUxhI8f1NqZEPElNYoA1yYw_DOU6mY9xZn4YeLTMm-WPHUNA34FpF4ilt6dHeSKnx; expires=Thu, 27-Mar-2014 05:12:14 GMT; path=/; domain=.google.at; HttpOnly
 P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Date: Wed, 25 Sep 2013 05:12:14 GMT
 Server: gws
+Content-Length: 219
 X-XSS-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
 Alternate-Protocol: 80:quic
-Transfer-Encoding: chunked
-
+

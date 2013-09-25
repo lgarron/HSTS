@@ -1,9 +1,9 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:10:50 GMT
+Date: Wed, 25 Sep 2013 05:19:06 GMT
 Content-Length: 153
 Location: http://disney.com/
 Server: Microsoft-IIS/6.0
-FROM: N7DOLDISWEB04
+FROM: N7DOLDISWEB02
 P3P: : CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONi OUR SAMo OTRo BUS PHY ONL UNI PUR COM NAV INT DEM CNT STA PRE"
-Set-Cookie: SWID=0161C59F-2996-422E-9D6C-19E18FDBB0D2; path=/; expires=Wed, 25-Sep-2033 01:10:50 GMT; domain=.go.com;
-
+Set-Cookie: SWID=68F10070-AD78-4E10-B890-9A9DF30C4229; path=/; expires=Wed, 25-Sep-2033 05:19:06 GMT; domain=.go.com;
+

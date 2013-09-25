@@ -1,18 +1,9 @@
-HTTP/1.1 200 OK
+HTTP/1.1 302 Moved Temporarily
 Server: nginx/1.2.0
-Date: Wed, 25 Sep 2013 03:32:31 GMT
-Content-Type: text/html; charset=utf-8
-Content-Length: 53701
+Date: Wed, 25 Sep 2013 05:11:53 GMT
+Content-Type: text/html
+Content-Length: 160
 Connection: keep-alive
 Keep-Alive: timeout=60
-Set-Cookie: referer_id=4cdc7c8a50e233310b303e55353e863b; Path=/
-Set-Cookie: dont_redirect=1; Domain=.hh.ru; expires=Mon, 24 Sep 2018 03:32:31 GMT; Path=/
-Set-Cookie: dont_redirect=1; expires=Mon, 24 Sep 2018 03:32:31 GMT; Path=/
-Set-Cookie: crypted_id=; Domain=.hh.ru; expires=Tue, 25 Sep 2012 03:32:31 GMT; Path=/
-Set-Cookie: crypted_id=; expires=Tue, 25 Sep 2012 03:32:31 GMT; Path=/
-Set-Cookie: hhrole=anonymous; Path=/
-Set-Cookie: unique_banner_user=1380079951.681792784991610; expires=Thu, 26 Sep 2013 03:32:31 GMT; Path=/
-Expires: Wed, 25 Sep 2013 03:32:30 GMT
-Cache-Control: no-cache
-X-Request-ID: 4cdc7c8a50e233310b303e55353e863b
-
+Location: http://hhid.ru/validate/;http;hh.ru;80;/
+

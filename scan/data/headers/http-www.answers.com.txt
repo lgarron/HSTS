@@ -2,17 +2,17 @@ HTTP/1.1 200 OK
 Server: Apache
 Set-Cookie: wab_test=wab%3Dt8308; path=/; domain=.answers.com
 Set-Cookie: acache=1d46a17ec16c2eda055a90f771b9e1ff198e6868
-Set-Cookie: PHPSESSID=hasr4vqv893v5g94a6hdskqbe1; path=/; domain=.answers.com
+Set-Cookie: PHPSESSID=4ed3ebrke5pq4ial3earqtuho1; path=/; domain=.answers.com
 Pragma: no-cache
 Set-Cookie: mode_id=16100; path=/; domain=.answers.com
 Set-Cookie: adc=UT1; path=/;
 Vary: Accept-Encoding
 Content-Type: text/html; charset=utf-8
-Date: Wed, 25 Sep 2013 01:08:57 GMT
-X-Varnish: 1948785198
+Date: Wed, 25 Sep 2013 05:21:34 GMT
+X-Varnish: 1571687297
 Age: 0
 Via: 1.1 varnish
 Connection: keep-alive
 Expires: Tue, 16 Jan 2001 00:00:00 GMT
 Cache-Control: private, must-revalidate, s-maxage=0, max-age=0
-
+

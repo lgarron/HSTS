@@ -3,10 +3,10 @@ Location: http://www.wetter.com/
 Server: WEB01
 Content-Length: 0
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 01:22:12 GMT
-X-Varnish: 1146975244 1146973236
-Age: 85
+Date: Wed, 25 Sep 2013 05:15:03 GMT
+X-Varnish: 1147373992 1147372980
+Age: 25
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: HIT C3398
-
+

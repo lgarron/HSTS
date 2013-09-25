@@ -4,9 +4,9 @@ Pragma: no-cache
 Content-Length: 159
 Expires: -1
 Location: /vp/gatewaycookiecheck.aspx?r=%2f&rd=1
-X-Served-By: 63823e7e843b52437ddc728e6af49696
-Set-Cookie: CCHECK=9%2f24%2f2013+11%3a20%3a51+PM; domain=.vistaprint.com; path=/
+X-Served-By: b22466e401d5ee7b64ef8a9d7f08fe92
+Set-Cookie: CCHECK=9%2f25%2f2013+1%3a07%3a34+AM; domain=.vistaprint.com; path=/
 P3P: CP="VPRT "
-Set-Cookie: v1st=B21B9B6ADC0C0787; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.vistaprint.com
-Date: Wed, 25 Sep 2013 03:20:51 GMT
-
+Set-Cookie: v1st=9F8CE1760440BDA4; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.vistaprint.com
+Date: Wed, 25 Sep 2013 05:07:34 GMT
+

@@ -3,12 +3,12 @@ Server: Apache
 Location: http://drupal.org/
 Content-Type: text/html; charset=iso-8859-1
 Content-Length: 290
-Date: Wed, 25 Sep 2013 03:21:27 GMT
-X-Varnish: 1780587830 1780414785
-Age: 2161
+Date: Wed, 25 Sep 2013 05:07:01 GMT
+X-Varnish: 1707864030 1707807019
+Age: 652
 Via: 1.1 varnish
 Connection: keep-alive
-X-Cache-Svr: www6.drupal.org
+X-Cache-Svr: www2.drupal.org
 X-Cache: HIT
-X-Cache-Hits: 39
-
+X-Cache-Hits: 11
+

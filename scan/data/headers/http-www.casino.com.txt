@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 02:35:14 GMT
+Date: Wed, 25 Sep 2013 05:06:22 GMT
 Server: Apache/2.2.15 (CentOS)
-Set-Cookie: lo=us; path=/; domain=.casino.com; expires=Thu, 26-Sep-2013 02:35:14 GMT
+Set-Cookie: lo=us; path=/; domain=.casino.com; expires=Thu, 26-Sep-2013 05:06:22 GMT
 Last-Modified: Tue, 24 Sep 2013 07:32:19 GMT
-ETag: "16ad03-e2b1-4e71c22fdc6c0"
+ETag: "146284-e2b1-4e71c22fdc6c0"
 Accept-Ranges: bytes
 Content-Length: 58033
 Vary: Accept-Encoding
 X-Cnection: close
 Content-Type: text/html; charset=UTF-8
-
+

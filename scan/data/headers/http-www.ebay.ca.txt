@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
-RlogId: t6e%60cckjkb9%3Fvo%7B2d71f%2B4050-14153321ae5-0x31818
-Set-Cookie: JSESSIONID=7FC84C1E7027F647CA57694DE70C7522; Path=/
+RlogId: t6e%60cckjkb9%3Fvo%7B2d71f%2Bb%3B70-141538a2daf-0x2e292
+Set-Cookie: JSESSIONID=94F11FBCA2B469316BB6F89AB0D7CC72; Path=/
 Set-Cookie: ebay=%5Esbf%3D%23%5E;Domain=.ebay.ca;Path=/ 
-Set-Cookie: dp1=bu1p/QEBfX0BAX19AQA**54238e26^;Domain=.ebay.ca;Expires=Fri, 25-Sep-2015 03:38:14 GMT;Path=/ 
-Set-Cookie: s=CgAD4ACBSQ6wmNTMzMjFhZTQxNDEwYTU2NWU1ZTVkY2Y1ZmY4NGM4OTm8ORmu;Domain=.ebay.ca;Path=/; HttpOnly 
-Set-Cookie: nonsession=CgADLAAFSQmGuMQDKACBbqFwmNTMzMjFhZTQxNDEwYTU2NWU1ZTVkY2Y1ZmY4NGM4OTk9/e5+;Domain=.ebay.ca;Expires=Thu, 25-Sep-2014 03:38:14 GMT;Path=/ 
-Set-Cookie: lucky9=1085044;Domain=.ebay.ca;Expires=Mon, 24-Sep-2018 03:38:14 GMT;Path=/ 
+Set-Cookie: dp1=bu1p/QEBfX0BAX19AQA**5423a4b2^;Domain=.ebay.ca;Expires=Fri, 25-Sep-2015 05:14:26 GMT;Path=/ 
+Set-Cookie: s=CgAD4ACBSQ8KyNTM4YTJkOTQxNDEwYTU2NTY1YjJlNGMyZmY4MzNlMTABSgAXUkPCsjUyNDI3MTMyLjIuMS4xLjYwLjguMC4xF+MjTA**;Domain=.ebay.ca;Path=/; HttpOnly 
+Set-Cookie: nonsession=CgADLAAFSQng6MQDKACBbqHKyNTM4YTJkOTQxNDEwYTU2NTY1YjJlNGMyZmY4MzNlMTABTAAXVCOksjUyNDI3MTMyLjIuMS4wLjU5LjUuMC4x6OcogA**;Domain=.ebay.ca;Expires=Thu, 25-Sep-2014 05:14:26 GMT;Path=/ 
+Set-Cookie: lucky9=4925562;Domain=.ebay.ca;Expires=Mon, 24-Sep-2018 05:14:26 GMT;Path=/ 
 Content-Type: text/html;charset=utf-8
 Content-Language: en-US
 Content-Length: 0
-Date: Wed, 25 Sep 2013 03:38:14 GMT
+Date: Wed, 25 Sep 2013 05:14:26 GMT
 Server: eBay Server
-
+

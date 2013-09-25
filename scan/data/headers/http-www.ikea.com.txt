@@ -4,7 +4,7 @@ Last-Modified: Wed, 11 Sep 2013 09:21:22 GMT
 ETag: "1c3-66b2-250c2880"
 Content-Type: text/html; charset=utf-8
 Cache-Control: public, max-age=1800
-Date: Wed, 25 Sep 2013 01:07:38 GMT
+Date: Wed, 25 Sep 2013 05:20:59 GMT
 Connection: keep-alive
 Set-Cookie: device=desktop; path=/; domain=.ikea.com
-
+

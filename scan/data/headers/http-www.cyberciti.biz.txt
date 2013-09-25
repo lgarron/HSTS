@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 05:23:55 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Keep-Alive: timeout=60
+X-Whom: l3-com-cyber
+Vary: Cookie
+X-Pingback: http://www.cyberciti.biz/cms/xmlrpc.php
+Vary: Accept-Encoding
+X-Galaxy: Andromeda-2
+

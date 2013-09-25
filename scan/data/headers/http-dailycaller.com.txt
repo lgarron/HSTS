@@ -7,13 +7,13 @@ Pragma: no-cache
 X-Pingback: http://dailycaller.com/xmlrpc.php
 Link: <http://dailycaller.com/?p=3463544>; rel=shortlink
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 1589324687
+X-Varnish: 1589469834
 Via: 1.1 varnish
 X-L3-Cache: MISS
-Date: Wed, 25 Sep 2013 03:28:07 GMT
-X-Varnish: 990800548 990798202
-Age: 71
+Date: Wed, 25 Sep 2013 05:08:49 GMT
+X-Varnish: 990972874 990972107
+Age: 30
 Via: 1.1 varnish
 Connection: keep-alive
 X-L2-Cache: HIT
-
+

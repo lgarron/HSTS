@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 147
-Content-Type: text/html
-Location: http://www.priceline.com
-Server: Microsoft-IIS/6.0
-p3p: policyref="http://www.priceline.com/w3c/p3p_default_policy.xml", CP="CAO DSP COR CURa ADMa DEVo TAIo PSAa PSDa OUR OTRa IND ONL PUR NAV INT CNT STA PRE"
-X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 01:15:23 GMT
-

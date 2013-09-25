@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:28:30 GMT
+Date: Wed, 25 Sep 2013 05:10:53 GMT
 Server: Apache
 Location: http://www.city-data.com/
 Content-Type: text/html; charset=iso-8859-1
-
+

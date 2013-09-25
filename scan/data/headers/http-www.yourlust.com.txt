@@ -1,10 +1,10 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 02:09:18 GMT
+Date: Wed, 25 Sep 2013 05:22:25 GMT
 Content-Type: text/html
 Connection: keep-alive
-Set-Cookie: SESSID=vjsrunc4squahjvsmjup2grf10; path=/; domain=.yourlust.com
+Set-Cookie: SESSID=hrlhsp2hqf438u40k5vaahiq97; path=/; domain=.yourlust.com
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-
+

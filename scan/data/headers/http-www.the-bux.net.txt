@@ -1,11 +1,11 @@
 HTTP/1.1 302 Moved Temporarily
 Server: cloudflare-nginx
-Date: Wed, 25 Sep 2013 02:35:12 GMT
+Date: Wed, 25 Sep 2013 05:06:20 GMT
 Content-Type: text/html
 Connection: keep-alive
-Set-Cookie: __cfduid=da70a6b07fbdf43c4acddc6cfe935baac1380076512189; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
-Set-Cookie: __cfduid=da70a6b07fbdf43c4acddc6cfe935baac1380076512189; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
-Set-Cookie: PHPSESSID=7ucpdksbkb2eb9bqsd7up9hft1; path=/
+Set-Cookie: __cfduid=de5ff478fe1720e7c26c58f0e568c7eaa1380085580424; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
+Set-Cookie: __cfduid=de5ff478fe1720e7c26c58f0e568c7eaa1380085580424; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
+Set-Cookie: PHPSESSID=9kd6c7km0lklmfa2iqqbe2g6p4; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
@@ -15,5 +15,5 @@ Set-Cookie: PHPSESSID=; path=/; expires=Thursday, 01-Jan-1970 00:00:01 GMT
 Set-Cookie: cookie_id=; path=/; expires=Thursday, 01-Jan-1970 00:00:01 GMT
 Set-Cookie: password=; path=/; expires=Thursday, 01-Jan-1970 00:00:01 GMT
 Set-Cookie: user_id=; path=/; expires=Thursday, 01-Jan-1970 00:00:01 GMT
-CF-RAY: b3451d926ba0291
-
+CF-RAY: b352f3dac610291
+

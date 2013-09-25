@@ -3,9 +3,9 @@ Server: Apache
 Location: http://store.steampowered.com/
 Vary: Accept-Encoding
 Content-Type: text/html
-Date: Wed, 25 Sep 2013 00:48:03 GMT
-X-Varnish: 2103341624 2103340531
-Age: 4
+Date: Wed, 25 Sep 2013 05:09:21 GMT
+X-Varnish: 524049096 524043301
+Age: 24
 Via: 1.1 varnish
 Connection: keep-alive
-
+

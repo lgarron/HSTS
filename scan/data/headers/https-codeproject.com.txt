@@ -3,7 +3,7 @@ Cache-Control: private
 Content-Length: 144
 Content-Type: text/html; charset=utf-8
 Location: https://www.codeproject.com
-Set-Cookie: SessionGUID=e4a53c6b-a2e5-4145-9fb2-6e1c2f73f31c; path=/
-Set-Cookie: SessionGUID=e4a53c6b-a2e5-4145-9fb2-6e1c2f73f31c; path=/
-Date: Wed, 25 Sep 2013 02:35:41 GMT
-
+Set-Cookie: SessionGUID=73845f0f-32d7-4c0d-9dd4-bd9603f3eb81; path=/
+Set-Cookie: SessionGUID=73845f0f-32d7-4c0d-9dd4-bd9603f3eb81; path=/
+Date: Wed, 25 Sep 2013 05:06:43 GMT
+

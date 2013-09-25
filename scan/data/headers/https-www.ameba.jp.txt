@@ -1,12 +1,12 @@
 HTTP/1.1 500 Internal Server Error
-Date: Wed, 25 Sep 2013 00:49:11 GMT
+Date: Wed, 25 Sep 2013 05:12:43 GMT
 X-Frame-Options: DENY
-Set-Cookie: P=171.65.249.4.1380070151933784; path=/; expires=Fri, 25-Sep-15 00:49:11 GMT; domain=.ameba.jp
+Set-Cookie: P=128.12.244.4.1380085963346125; path=/; expires=Fri, 25-Sep-15 05:12:43 GMT; domain=.ameba.jp
 Cache-Control: no-cache,max-age=0,must-revalidate,no-store
 Expires: -1
-Set-Cookie: JSESSIONID=022D0E33872D5D6629F1698494C5ADF4; Path=/
+Set-Cookie: JSESSIONID=4039F5D2663F2A713441D24636B49A2A; Path=/
 Content-Type: text/html
 Content-Length: 1827
 Pragma: no-cache
 Connection: close
-
+

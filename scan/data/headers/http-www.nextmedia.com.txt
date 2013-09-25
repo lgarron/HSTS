@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 05:24:40 GMT
+Server: Apache
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+Set-Cookie: BIGipServerThemeCFM_NextMedia_Pool=3927288000.20480.0000; path=/
+

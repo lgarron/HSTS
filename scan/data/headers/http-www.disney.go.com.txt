@@ -4,11 +4,11 @@ Location: http://disney.com/
 Content-Type: text/html; charset=iso-8859-1
 Content-Length: 309
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 01:10:49 GMT
-X-Varnish: 1030051518
+Date: Wed, 25 Sep 2013 05:18:58 GMT
+X-Varnish: 1449877137
 Age: 0
 Via: 1.1 varnish
 Connection: keep-alive
-X-Served-By: n7dolvarnish02
+X-Served-By: n7dolvarnish05
 X-Cache: dcom
-
+

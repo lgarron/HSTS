@@ -2,10 +2,10 @@ HTTP/1.1 200 OK
 Server: Sun-Java-System-Web-Server/7.0
 Content-type: text/html
 Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 03:28:10 GMT
-X-Varnish: 3560499952 3560489828
-Age: 38
+Date: Wed, 25 Sep 2013 05:09:15 GMT
+X-Varnish: 3563301082 3563299639
+Age: 2
 Via: 1.1 varnish
 Connection: keep-alive
 X-VHF-Cache: HIT
-
+

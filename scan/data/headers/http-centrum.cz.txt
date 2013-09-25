@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Set-Cookie: USE_COOKIES=1; version=1; domain=centrum.cz; path=/; expires=Wed, 09 Oct 2013 05:21:01 GMT
+Location: http://www.centrum.cz/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 05:21:01 GMT
+X-Varnish: 1798447995
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-TTL: 10.003-0
+Keep-Alive: timeout=60, max=100
+

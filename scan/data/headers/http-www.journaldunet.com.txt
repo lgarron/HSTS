@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Apache
+Content-Language: fr
+Last-Modified: Wed, 25 Sep 2013 05:21:00 GMT
+X-CCM-LastModified: serve-proxy-cache:n1380086482:t1380086460+60:o1378393219
+Set-Cookie: abtest_active=1; path=/; domain=journaldunet.com
+Set-Cookie: abtest_campaign=ancreMultipage1.0; path=/; domain=journaldunet.com
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+X-www-Served-By: web11
+Cache-Control: must-revalidate, max-age=0
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 05:21:22 GMT
+X-Varnish: 1865456564
+Via: 1.1 varnish
+Connection: keep-alive
+X-Served-By: dingo
+X-Cache: MISS
+

@@ -1,16 +1,16 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:25:41 GMT
+Date: Wed, 25 Sep 2013 05:18:43 GMT
 Surrogate-Control: content="ESI/1.0"
-Set-Cookie: JSESSIONID=00002XeM7OVVx8n6Fvqfm1yAuPO:1689sk3qd; Path=/
-Set-Cookie: Registration=currentUserId:DN1zDhYcVAj7jqrh7SvVc7tGFQMgZeQuu0YVAyBl5C67RhUDIGXkLtdt8Lc+fbQmMHTVGlzCaQiyojkzcc3Sb/dFNZ2Piy7jVk875IzXHQo=; Expires=Mon, 24 Sep 2018 03:25:41 GMT; Path=/; Domain=www.cars.com
-Set-Cookie: affiliate=national; Expires=Wed, 16 Oct 2013 03:25:41 GMT; Path=/; Domain=www.cars.com
+Set-Cookie: JSESSIONID=0000wIA_-IacKydpWXIMTnuJmLw:168t306ij; Path=/
+Set-Cookie: Registration=currentUserId:o+uzHBiHGsMCJj11H+N/ErtGFQMgZeQuu0YVAyBl5C67RhUDIGXkLtdt8Lc+fbQmMHTVGlzCaQhGpeuK+AQ5gx8MWY10vwR/Vk875IzXHQo=; Expires=Mon, 24 Sep 2018 05:18:42 GMT; Path=/; Domain=www.cars.com
+Set-Cookie: affiliate=national; Expires=Wed, 16 Oct 2013 05:18:42 GMT; Path=/; Domain=www.cars.com
 Expires: Thu, 01 Dec 1994 16:00:00 GMT
 Cache-Control: no-cache="set-cookie, set-cookie2"
 P3P: policyref="/w3c/p3p.xml", CP="ALL DEM ONL PHY PUR CUR OUR BUS IND"
 Content-Type: text/html;charset=ISO-8859-1
 Content-Language: en-US
-Set-Cookie: cars_persist=423696044.20480.0000; expires=Wed, 25-Sep-2013 03:55:41 GMT; path=/
-Set-Cookie: TS952cdc=2633014ad9217699be36c3b621ac549c526c75564cf8a846524257b560ac0ec5332f391cc6a4eaf734ecb966; Path=/
-Set-Cookie: TSeea597=bc49a9fba0652e59317f78c21e630936526c75564cf8a846524257b5d12eae0ad69557b6f412afe35d3ae8a2; path=/; domain=www.cars.com
+Set-Cookie: cars_persist=1581323948.20480.0000; expires=Wed, 25-Sep-2013 05:48:43 GMT; path=/
+Set-Cookie: TS952cdc=09e6a61df31ebac1c43db0c9519804bcb52aacce4aef0f295242723360ac0ec57deb32fcc6a4eaf7eb2c7504; Path=/
+Set-Cookie: TSeea597=955cb741fee3586f2c900082474904bcb52aacce4aef0f2952427233d12eae0ac6e0a8b0f412afe35d3ae8a2; path=/; domain=www.cars.com
 Transfer-Encoding: chunked
-
+

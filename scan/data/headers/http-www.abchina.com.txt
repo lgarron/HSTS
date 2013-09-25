@@ -6,6 +6,6 @@ Location: /cn/
 Server: Microsoft-IIS/7.5
 X-AspNet-Version: 2.0.50727
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 03:29:04 GMT
-Set-Cookie: BIGipServerpool_pt_web=1164110602.20480.0000; path=/
-
+Date: Wed, 25 Sep 2013 05:20:20 GMT
+Set-Cookie: BIGipServerpool_pt_web=56814346.20480.0000; path=/
+

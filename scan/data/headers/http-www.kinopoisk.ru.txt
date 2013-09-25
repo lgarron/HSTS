@@ -1,10 +1,14 @@
-HTTP/1.1 302 Moved Temporarily
+HTTP/1.1 200 OK
 Server: nginx/1.4.1
-Date: Wed, 25 Sep 2013 01:05:14 GMT
-Content-Type: text/html
-Content-Length: 160
+Date: Wed, 25 Sep 2013 05:23:42 GMT
+Content-Type: text/html; charset=WINDOWS-1251
 Connection: keep-alive
 Keep-Alive: timeout=60
-Location: http://error.kinopoisk.ru/?ht=403
+X-Powered-By: PHP/5.3.10-1ubuntu3
+Set-Cookie: user_country=ot; expires=Sat, 05-Oct-2013 05:23:36 GMT; path=/; domain=.kinopoisk.ru
+Set-Cookie: PHPSESSID=46ec15f9a52a7034835fe6d39d182bf4; path=/; domain=kinopoisk.ru
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
 Cookie: user_country=ru
-
+

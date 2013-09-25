@@ -2,9 +2,9 @@ HTTP/1.1 301 Moved Permanently
 Server: Varnish
 Location: http://www.aftonbladet.se/
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 00:55:33 GMT
-X-Varnish: 506784960
+Date: Wed, 25 Sep 2013 05:19:11 GMT
+X-Varnish: 2130357479
 Age: 0
 Via: 1.1 varnish
 Connection: close
-
+

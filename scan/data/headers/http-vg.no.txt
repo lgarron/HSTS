@@ -5,11 +5,11 @@ Location: http://www.vg.no/
 Content-Type: text/html; charset=iso-8859-1
 X-VG-SolveMe: uggc://jjj.it.ab/ynxfrgngg.ugzy
 X-VG-Phoenix: Identical Urls, I'm not a mobile so i should be at the old solution, FRONT
-Date: Wed, 25 Sep 2013 03:24:12 GMT
-Age: 202
+Date: Wed, 25 Sep 2013 05:15:28 GMT
+Age: 261
 Connection: keep-alive
-X-Cache: HIT:34
+X-Cache: HIT:143
 Vary: Accept-Encoding,User-Agent
 X-VG-WebCache: hmg9-varnish-03
-X-Age: 202
-
+X-Age: 261
+

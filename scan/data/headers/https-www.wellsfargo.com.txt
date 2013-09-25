@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
 Server: KONICHIWA/2.0
-Date: Wed, 25 Sep 2013 01:01:00 GMT
-Set-cookie: wfacookie=1120130924180100216946701; Domain=.wellsfargo.com; Expires=Sat, 23-Sep-2023 01:01:00 GMT; Path=/
-Set-cookie: v1st=BF6411BC56C17A73; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.wellsfargo.com
+Date: Wed, 25 Sep 2013 05:17:33 GMT
+Set-cookie: wfacookie=11201309242217331100416832; Domain=.wellsfargo.com; Expires=Sat, 23-Sep-2023 05:17:33 GMT; Path=/
+Set-cookie: v1st=21D10EAA903BD43F; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.wellsfargo.com
 Cache-control: no-cache
 Pragma: no-cache
 Expires: Thu, 01 Jan 1970 00:00:00 GMT
 Content-type: text/html;charset=UTF-8
-Content-length: 45523
-Set-cookie: JSESSIONID=365EE49994E5B8AB56629CB25F4D0EC8; Path=/; Secure; HttpOnly
+Content-length: 45579
+Set-cookie: JSESSIONID=54ACD4F430CA0DDAFE34ECC9E2EF4AD1; Path=/; Secure; HttpOnly
 Set-cookie: OB_SO_ORIGIN=source%3Dhomepage; Domain=.wellsfargo.com; Path=/
 X-frame-options: SAMEORIGIN
-
+

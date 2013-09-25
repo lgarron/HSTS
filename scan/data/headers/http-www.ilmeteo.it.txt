@@ -1,16 +1,16 @@
 HTTP/1.1 200 OK
 Server: Apache/2
-Expires: Wed, 25 Sep 2013 03:26:51 GMT
+Expires: Wed, 25 Sep 2013 05:15:06 GMT
 Vary: Accept-Encoding
 Content-Type: text/html
 X-Cacheable: YES
 Content-Length: 162871
-Date: Wed, 25 Sep 2013 03:23:00 GMT
-X-Varnish: 1422148399 1422145876
-Age: 69
+Date: Wed, 25 Sep 2013 05:10:38 GMT
+X-Varnish: 1918853344 1918846938
+Age: 32
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: HIT
-X-Cache-Hits: 1
-X-FE: 7
-
+X-Cache-Hits: 2
+X-FE: 11
+

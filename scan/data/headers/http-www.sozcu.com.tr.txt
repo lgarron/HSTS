@@ -6,11 +6,11 @@ Location: http://sozcu.com.tr/
 Content-Type: text/html; charset=UTF-8
 Content-Length: 0
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 03:25:34 GMT
-X-Varnish: 945054033 945025365
-Age: 966
+Date: Wed, 25 Sep 2013 05:09:48 GMT
+X-Varnish: 740731837 740714223
+Age: 127
 Via: 1.1 varnish
 Connection: close
 X-Server: 135.6
 X-Cache: HIT
-
+

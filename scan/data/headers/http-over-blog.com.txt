@@ -1,9 +1,0 @@
-HTTP/1.0 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:25:04 GMT
-Server: Apache
-X-Powered-By: PHP/5.2.9
-P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
-Location: http://www.over-blog.com/
-Connection: close
-Content-Type: text/html; charset=utf-8
-

@@ -2,10 +2,10 @@ HTTP/1.1 200 OK
 charset: ISO-8859-1
 cache-control: stale-while-revalidate=10, max-age=60, Public
 Content-Type: text/html
-Date: Wed, 25 Sep 2013 02:35:56 GMT
-Age: 52
+Date: Wed, 25 Sep 2013 05:14:25 GMT
+Age: 36
 Connection: keep-alive
-Expires: Wed, 25 Sep 2013 02:36:04 GMT
-X-Cache: HIT 22
-X-Powered-By: Oxalide [03]
-
+Expires: Wed, 25 Sep 2013 05:14:49 GMT
+X-Cache: HIT 30
+X-Powered-By: Oxalide [02]
+

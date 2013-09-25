@@ -1,14 +1,14 @@
 HTTP/1.1 302 Found
 Server: nginx
-Date: Wed, 25 Sep 2013 01:03:16 GMT
+Date: Wed, 25 Sep 2013 05:21:26 GMT
 Content-Type: text/plain; charset=UTF-8
 Content-Length: 0
 Connection: keep-alive
-X-AWS-Id: ws39
+X-AWS-Id: ws38
 Location: http://www.livejournal.com/
 Accept-Ranges: bytes
-X-Varnish: 1030793212 1030793052
-Age: 1
-X-VWS-Id: bil1-varn27
-X-Gateway: bil1-swlb08.prod.livejournal.org
-
+X-Varnish: 2080624607
+Age: 0
+X-VWS-Id: bil1-varn24
+X-Gateway: bil1-swlb02.prod.livejournal.org
+

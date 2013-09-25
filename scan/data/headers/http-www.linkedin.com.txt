@@ -5,24 +5,25 @@ X-Frame-Options: SAMEORIGIN
 Content-Language: en-US
 Content-Length: 0
 Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 00:47:58 GMT
-X-FS-UUID: 507c57eb6cfe26133077521ef72a0000
-X-LI-UUID: UHxX62z+JhMwd1Ie9yoAAA==
+Date: Wed, 25 Sep 2013 05:08:23 GMT
+X-FS-UUID: c8eb71d7a20c271370128538132b0000
+X-LI-UUID: yOtx16IMJxNwEoU4EysAAA==
 Age: 1
 X-Li-Fabric: PROD-ELA4
 Set-Cookie: _lipt=deleteMe; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
-Set-Cookie: leo_auth_token="GST:8FeAqgA40HBg73nDTQcq2_LiNHWEhkmXmFELWhAJr6YleKXX4kAHkE:1380070079:2898d828550c21163e5371345f6a553b88936d0e"; Version=1; Max-Age=1799; Expires=Wed, 25-Sep-2013 01:17:58 GMT; Path=/
+Set-Cookie: leo_auth_token="GST:8efIA1Cxwg2s8MbC--fUs51ZJ7qsK1a4y73UOLrc-o29KnXJu6Bxxs:1380085704:a62dd7e36fb490f92905218ac4bda57ecb3af3e2"; Version=1; Max-Age=1799; Expires=Wed, 25-Sep-2013 05:38:23 GMT; Path=/
 Set-Cookie: sl="delete me"; Version=1; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
 Set-Cookie: sl="delete me"; Version=1; Domain=.www.linkedin.com; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
 Set-Cookie: s_leo_auth_token="delete me"; Version=1; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
-Set-Cookie: JSESSIONID="ajax:5963717548813567303"; Version=1; Path=/
-Set-Cookie: visit="v=1&G"; Version=1; Max-Age=63072000; Expires=Fri, 25-Sep-2015 00:47:59 GMT; Path=/
+Set-Cookie: JSESSIONID="ajax:3030358857853546050"; Version=1; Path=/
+Set-Cookie: visit="v=1&G"; Version=1; Max-Age=63072000; Expires=Fri, 25-Sep-2015 05:08:24 GMT; Path=/
 Set-Cookie: lang="v=2&lang=en-us"; Version=1; Domain=linkedin.com; Path=/
-Set-Cookie: bcookie="v=2&b778ce12-89ef-40ea-833b-815cc1c37ec8"; domain=.linkedin.com; Path=/; Expires=Fri, 25-Sep-2015 12:25:31 GMT
+Set-Cookie: bcookie="v=2&c59899bd-12fc-4c57-8e2a-caf3a13c8a8b"; domain=.linkedin.com; Path=/; Expires=Fri, 25-Sep-2015 16:45:56 GMT
 Pragma: no-cache
 Expires: Thu, 01 Jan 1970 00:00:00 GMT
 Cache-Control: no-cache, no-store
 Connection: keep-alive
 X-Li-Pop: PROD-ELA4
+Set-Cookie: lidc="b=LB2:g=1:u=1:i=1380085704:t=1380172104:s=3118779633"; Expires=Thu, 26 Sep 2013 05:08:24 GMT; domain=.linkedin.com; Path=/
 Set-Cookie: X-LI-IDC=C1
 

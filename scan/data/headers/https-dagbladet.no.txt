@@ -1,7 +1,7 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:43:44 GMT
-Server: Apache/2.2.23
+Date: Wed, 25 Sep 2013 05:23:19 GMT
+Server: Apache/2.2.24
 Location: https://www.dagbladet.no/
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-
+

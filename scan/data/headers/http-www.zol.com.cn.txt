@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
 Server: nginx/1.0.14
-Date: Wed, 25 Sep 2013 01:23:21 GMT
+Date: Wed, 25 Sep 2013 05:20:40 GMT
 Content-Type: text/html; charset=gbk
 Connection: keep-alive
 Accept-Ranges: bytes
 Cache-Control: max-age=120
-Expires: Wed, 25 Sep 2013 01:25:12 GMT
+Expires: Wed, 25 Sep 2013 05:21:08 GMT
 Vary: Accept-Encoding
-Content-Length: 371166
-Age: 9
+Content-Length: 373798
+Age: 92
 Via: http/1.1 zats-101518467 (zcache-101518467 [cRs f ])
-
+

@@ -1,18 +1,15 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 01:03:21 GMT
+HTTP/1.1 303 See Other
+Date: Wed, 25 Sep 2013 05:22:15 GMT
 Server: Apache
 X-Node: web51, www_all
 Cache-Control: private
-Set-Cookie: yuv=5HOdTUH5Rm205nfsAt5_0x8QL2BIoevvRXJyhK9CFnwdzIZqxEgXqmzbXOvBy1cCqxNN9KJtj8G8aOphslXUAnciRoRW4cVe; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Tue, 20-Sep-2033 01:03:21 GMT
-Set-Cookie: bse=85c0d10bdb7d5812b2b51d79ffee4356; Domain=.yelp.com; Path=/; HttpOnly
-Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Tue, 20-Sep-2033 01:03:21 GMT
-Set-Cookie: recentlocations=; Domain=.yelp.com; Path=/
-Set-Cookie: location=%7B%22city%22%3A+%22San+Francisco%22%2C+%22zip%22%3A+%22%22%2C+%22address1%22%3A+%22%22%2C+%22address2%22%3A+%22%22%2C+%22address3%22%3A+%22%22%2C+%22state%22%3A+%22CA%22%2C+%22country%22%3A+%22US%22%2C+%22unformatted%22%3A+%22San+Francisco%2C+CA%22%7D; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Tue, 20-Sep-2033 01:03:21 GMT
-Set-Cookie: fd=0; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Tue, 20-Sep-2033 01:03:21 GMT
-Set-Cookie: ppn=%7B%22impressions%22%3A+1%2C+%22dismissed%22%3A+false%7D; Domain=.yelp.com; Max-Age=2592000; Path=/; expires=Fri, 25-Oct-2013 01:03:21 GMT
-Content-Length: 90994
-Vary: Accept-Encoding,User-Agent
+Set-Cookie: yuv=jPejikYOQtCsMtjozyW9CGyIKd8RRVAOIQHgk585fE8rzmDG-TMdQWtDdKoD_Myn2iGtc7apycVVlWu4HRymo9mfU00OF9_B; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Tue, 20-Sep-2033 05:22:15 GMT
+Set-Cookie: bse=d66ab11f2f0f1a8e7aae4fbd77c155ab; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Tue, 20-Sep-2033 05:22:15 GMT
+Location: http://www.yelp.com/san-jose
+Vary: User-Agent
 Content-Type: text/html; charset=UTF-8
 X-Mode: ro
-X-Proxied: lb2
-
+X-Proxied: lb1
+Set-Cookie: bip-sfo1=sticky_web51; path=/
+

@@ -1,11 +1,10 @@
 HTTP/1.1 200 OK
-Server: Apache/2.2.6 (Fedora)
-Node: Cluster Node 1
-Last-Modified: Wed, 25 Sep 2013 03:19:02 GMT
-ETag: "36b8048-1e7ce-b7055580"
-Content-Type: text/html
+Server: Apache/2.2.15 (CentOS)
+Last-Modified: Wed, 25 Sep 2013 05:19:06 GMT
+ETag: W/"b303624188980d93-1e66b-4e72e6b936d7b"
+Content-Type: text/html; charset=UTF-8
 Cache-Control: max-age=120
-Expires: Wed, 25 Sep 2013 03:23:26 GMT
-Date: Wed, 25 Sep 2013 03:21:26 GMT
+Expires: Wed, 25 Sep 2013 05:21:06 GMT
+Date: Wed, 25 Sep 2013 05:19:06 GMT
 Connection: keep-alive
-
+

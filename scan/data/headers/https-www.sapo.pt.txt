@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Cache-Control: no-cache
-Pragma: no-cache
-Location: http://www.sapo.pt
-Content-type: text/html
-Date: Wed, 25 Sep 2013 00:45:10 GMT
-Server: SAPOttpd/1.0
-

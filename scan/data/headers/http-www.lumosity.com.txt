@@ -1,23 +1,23 @@
 HTTP/1.1 200 OK
 Server: nginx/1.0.15
-Date: Wed, 25 Sep 2013 01:31:46 GMT
+Date: Wed, 25 Sep 2013 05:13:11 GMT
 Content-Type: text/html; charset=utf-8
 Connection: close
 Status: 200 OK
 Content-Language: en
-X-Transaction: 1be732de-9b8f-44ec-ae1b-d27f44ada422
-X-Served-By: app36.sl.lumoslabs.com
+X-Transaction: e3f72e56-5086-4b71-a190-2d4f16a4ce99
+X-Served-By: app31.sl.lumoslabs.com
 X-Revision: e1a0f574a5f3e9732fcff4caeb987e00dae53217
-Content-Length: 13448
+Content-Length: 13450
 X-UA-Compatible: IE=Edge
-ETag: "44b798b65115aa310967bf61ff8da3e3"
+ETag: "7f73d1b7ca0a6b0346c7b50cbddc89f3"
 Cache-Control: max-age=0, private, must-revalidate
-Set-Cookie: referral=default_organic_direct; path=/; expires=Fri, 25-Oct-2013 01:31:46 GMT
-Set-Cookie: _session_id=03d30a9237e54d1175add8ddace321de; path=/; expires=Fri, 25-Oct-2013 01:31:46 GMT; HttpOnly
-Set-Cookie: ll_et3_c=%7B%22_s%22%3A%7B%22id%22%3A%226c08fe76-1884-48e5-984d-a5e8ce4ac98d%22%2C%22timestamp%22%3A1380072706505%2C%22prop_map%22%3A%7B%22http_user_agent%22%3A%22curl%2F7.24.0+%28x86_64-apple-darwin12.0%29+libcurl%2F7.24.0+OpenSSL%2F0.9.8y+zlib%2F1.2.5%22%7D%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Fri, 25-Sep-2015 13:31:46 GMT
-Set-Cookie: ll_et3_v=%7B%22_s%22%3A%7B%22id%22%3A%22edc9d08e-748b-453d-aeb4-f1bd51f8470a%22%2C%22timestamp%22%3A1380072706506%2C%22prop_map%22%3A%7B%22ll_channel%22%3A%22direct%22%2C%22ll_source%22%3A%22direct%22%2C%22ip_address%22%3A%22171.65.239.131%22%2C%22referrer%22%3Anull%7D%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Wed, 25-Sep-2013 02:01:46 GMT
-Set-Cookie: ll_et3_a=%7B%22_s%22%3A%7B%22id%22%3A%227bf9ccf2-7185-4ed2-bbf7-3cdca1eaf30d%22%2C%22timestamp%22%3A1380072706516%2C%22prop_map%22%3A%7B%7D%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Fri, 25-Sep-2015 01:31:46 GMT
-X-Request-Id: 93f69c0307b12dcd8b710c49ffb45b09
-X-Runtime: 0.091016
+Set-Cookie: referral=default_organic_direct; path=/; expires=Fri, 25-Oct-2013 05:13:11 GMT
+Set-Cookie: _session_id=42b9d5945da71158b75f232176c9515d; path=/; expires=Fri, 25-Oct-2013 05:13:11 GMT; HttpOnly
+Set-Cookie: ll_et3_c=%7B%22_s%22%3A%7B%22id%22%3A%22a9242ec1-f5d8-43e5-96be-d0f375a5f0da%22%2C%22timestamp%22%3A1380085991230%2C%22prop_map%22%3A%7B%22http_user_agent%22%3A%22Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_8_5%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F29.0.1547.76+Safari%2F537.26%22%7D%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Fri, 25-Sep-2015 17:13:11 GMT
+Set-Cookie: ll_et3_v=%7B%22_s%22%3A%7B%22id%22%3A%22feabb7e3-a2aa-469b-85f8-d02afffcccc7%22%2C%22timestamp%22%3A1380085991231%2C%22prop_map%22%3A%7B%22ll_channel%22%3A%22direct%22%2C%22ll_source%22%3A%22direct%22%2C%22ip_address%22%3A%22128.12.244.4%22%2C%22referrer%22%3Anull%7D%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Wed, 25-Sep-2013 05:43:11 GMT
+Set-Cookie: ll_et3_a=%7B%22_s%22%3A%7B%22id%22%3A%229194063b-420b-4dd9-b8f4-bfd971c6a7bd%22%2C%22timestamp%22%3A1380085991239%2C%22prop_map%22%3A%7B%7D%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Fri, 25-Sep-2015 05:13:11 GMT
+X-Request-Id: b5c018b392f356cbbc2c4b348cbaf148
+X-Runtime: 0.070296
 X-Rack-Cache: miss
-
+

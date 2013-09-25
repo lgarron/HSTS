@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Server: DMS/1.0.42
-X-DM-BackNode: web-005.adm.dailymotion.com:80
+X-DM-BackNode: web-060.adm.dailymotion.com:80
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
 P3p: policyref="http://www.dailymotion.com/w3c/p3p.xml", CP="IDC DSP CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-Date: Wed, 25 Sep 2013 01:31:45 GMT
+Date: Wed, 25 Sep 2013 05:20:14 GMT
 Location: http://www.dailymotion.com/
-X-DM-LB: 188.65.120.135
+X-DM-LB: 188.65.120.136
 Transfer-Encoding: chunked
 Connection: Keep-Alive
-
+

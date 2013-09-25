@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:53:49 GMT
-Server: Apache/2.2.14 (Ubuntu)
-Set-Cookie: ID=171.65.249.4.1380070429635882; path=/; expires=Mon, 25-Jul-77 18:25:33 GMT
+Date: Wed, 25 Sep 2013 05:15:10 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Set-Cookie: ID=128.12.244.4.1380086110249760; path=/; expires=Mon, 25-Jul-77 22:46:54 GMT
 Last-Modified: Fri, 07 Sep 2007 15:28:45 GMT
-ETag: "24137e-b1-4398d4b662540"
+ETag: "a7de0-b1-4398d4b662540"
 Accept-Ranges: bytes
 Content-Length: 177
 Vary: Accept-Encoding,User-Agent
 Connection: close
 Content-Type: text/html
-
+

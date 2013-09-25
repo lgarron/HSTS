@@ -4,7 +4,7 @@ Location: http://www.autoscout24.de
 Server: Microsoft-IIS/7.5
 X-Powered-By: ASP.NET
 SID: LWEBRWV002
-Date: Wed, 25 Sep 2013 03:26:24 GMT
-Set-Cookie: avr_3935057242_0_0_4294901760_83102848_0=1815551257_5965573;max-age=300;path=/
+Date: Wed, 25 Sep 2013 05:11:53 GMT
+Set-Cookie: avr_3935057242_0_0_4294901760_83102848_0=1815538504_5971901;max-age=300;path=/
 Transfer-Encoding: chunked
-
+

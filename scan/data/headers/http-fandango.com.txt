@@ -1,8 +1,0 @@
-HTTP/1.1 404 Not Found
-Content-Length: 315
-Content-Type: text/html; charset=us-ascii
-Server: Microsoft-HTTPAPI/2.0
-Date: Wed, 25 Sep 2013 02:35:14 GMT
-nnCoection: close
-Set-Cookie: NSC_GBOE_216.178.160.43_80_DT1=ffffffff020ccfcd45525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 02:55:14 GMT;path=/;httponly
-

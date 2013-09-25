@@ -1,13 +1,13 @@
 HTTP/1.1 301 Moved Permanently
 Accept-Ranges: bytes
 Age: 0
-Date: Wed, 25 Sep 2013 03:24:12 GMT
+Date: Wed, 25 Sep 2013 05:15:25 GMT
 Location: http://thedailybeast.com/
 Server: Varnish
 Via: 1.1 varnish
 X-BackEnd: default
 X-Cache: MISS
 X-Restarts: 0
-X-Varnish: 1288993823
+X-Varnish: 715922910
 Connection: keep-alive
-
+

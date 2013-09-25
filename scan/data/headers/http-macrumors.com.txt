@@ -3,10 +3,10 @@ Location: http://www.macrumors.com/
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
 Server: Varnish
-Date: Wed, 25 Sep 2013 00:55:45 GMT
-X-Varnish: 493717055 493640648
-Age: 1639
+Date: Wed, 25 Sep 2013 05:20:21 GMT
+X-Varnish: 494390303 494268859
+Age: 3111
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: HIT
-
+

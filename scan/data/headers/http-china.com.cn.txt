@@ -1,6 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 00:40:22 GMT
-Server: Apache/2.0.64 (Unix)
-Location: http://www.china.com.cn/
-Content-Type: text/html; charset=iso-8859-1
-

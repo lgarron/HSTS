@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Location: http://www.google.az/
 Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 00:43:56 GMT
-Expires: Fri, 25 Oct 2013 00:43:56 GMT
+Date: Wed, 25 Sep 2013 05:09:01 GMT
+Expires: Fri, 25 Oct 2013 05:09:01 GMT
 Cache-Control: public, max-age=2592000
 Server: gws
 Content-Length: 218
 X-XSS-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
 Alternate-Protocol: 80:quic
-
+

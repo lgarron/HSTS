@@ -1,9 +1,0 @@
-HTTP/1.1 405 Method Not Allowed
-Content-Type: text/html; charset=utf-8
-Cache-Control: no-cache
-Expires: Fri, 01 Jan 1990 00:00:00 GMT
-Content-Length: 0
-Date: Wed, 25 Sep 2013 03:21:50 GMT
-Server: Google Frontend
-Alternate-Protocol: 80:quic
-

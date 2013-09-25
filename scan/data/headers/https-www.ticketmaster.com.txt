@@ -5,9 +5,9 @@ Location: http://www.ticketmaster.com/section
 Content-Type: text/html; charset=iso-8859-1
 Content-Length: 0
 Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 03:36:58 GMT
+Date: Wed, 25 Sep 2013 05:22:14 GMT
 Connection: keep-alive
-Set-Cookie: SID=fILu1nms939manVU9Rtxkhg6pzCxiLr9m0Oc9f4IlP1hamCbV11Fvwc1x96LrjsJtm2beYMNfTCqMFEa; path=/; domain=.ticketmaster.com
-Set-Cookie: BID=48TskCegQ9AHiH44TxUeUayEesP_iHA-iV-jQLPKeDY_IblzLkH8t3XUmOeelDDpP9wCsX2hNJULDXxLl38G; path=/; domain=.ticketmaster.com; expires=Fri, 01-Jan-2038 00:00:01 GMT
-Set-Cookie: CMPS=AHMeQt6C2xzIsWspOqSrwm2kHYFxJp/AZ/40FrbPpggP1qdrSHGzWQ==; path=/
-
+Set-Cookie: SID=Xk0RzIe8RYeWz5cIzbEqbZ9WUEbp3PjrfBDLcd6CaEFUqhtoeYrIrOeYSOjaki5JPwwg9tceceDh3zaH; path=/; domain=.ticketmaster.com
+Set-Cookie: BID=GqKEuwd5w_p_uKwK-FQQDcnpOp9qI7K2hrGqBk3zNCe5Abwp4DvJeKjYbstro_f8YDNDqqKxqhX_YYTB897_; path=/; domain=.ticketmaster.com; expires=Fri, 01-Jan-2038 00:00:01 GMT
+Set-Cookie: CMPS=20GSsOnAHusXIRLU+rTC7MPU6Ip2zzT1yd3REyyfxf3D6vnd1vDVoQ==; path=/
+

@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
-Set-Cookie: BAIDUID=EC54B096ECAD6FD907C4AC9C7A5A8E6E:FG=1; max-age=31536000; expires=Thu, 25-Sep-14 00:54:28 GMT; domain=.hao123.com; path=/; version=1
+Set-Cookie: BAIDUID=6B8A78BA9F3D8B52EC9210DBF1119185:FG=1; max-age=31536000; expires=Thu, 25-Sep-14 05:12:24 GMT; domain=.hao123.com; path=/; version=1
 P3P: CP=" OTI DSP COR IVA OUR IND COM "
 Set-Cookie: hz=0; path=/; domain=www.hao123.com
 Content-type: text/html;charset=UTF-8
-ETag: "2078962139"
+ETag: "798541087"
 Accept-Ranges: bytes
-Last-Modified: Wed, 25 Sep 2013 00:54:00 GMT
-Expires: Wed, 25 Sep 2013 00:54:28 GMT
+Last-Modified: Wed, 25 Sep 2013 05:12:00 GMT
+Expires: Wed, 25 Sep 2013 05:12:24 GMT
 Cache-Control: max-age=0
-Content-Length: 177200
-Date: Wed, 25 Sep 2013 00:54:28 GMT
+Content-Length: 177059
+Date: Wed, 25 Sep 2013 05:12:24 GMT
 Server: BWS/1.0
-
+

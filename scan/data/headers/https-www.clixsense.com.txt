@@ -1,13 +1,14 @@
 HTTP/1.1 302 Moved Temporarily
-Server: nginx/1.2.8
-Date: Wed, 25 Sep 2013 01:13:15 GMT
+Server: nginx/1.4.1
+Date: Wed, 25 Sep 2013 05:25:18 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 P3P: CP="ALL CUR ADM DEV CONo OUR IND PHY ONL UNI PUR COM NAV INT DEM CNT STA"
-Set-Cookie: USIDp=6pcsobk5rh4e8h2k8qubfbf8o1; path=/; domain=.clixsense.com
+Set-Cookie: USIDp=0ikfek0rttit126q7781cnmna6; path=/; domain=.clixsense.com
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: lang=en-us; expires=Thu, 10-Oct-2013 01:13:15 GMT; path=/; domain=.clixsense.com
+Set-Cookie: lang=en-us; expires=Thu, 10-Oct-2013 05:25:17 GMT; path=/; domain=.clixsense.com
+Set-Cookie: uv=1; expires=Thu, 26-Sep-2013 05:25:18 GMT; path=/; domain=.clixsense.com
 Location: http://www.clixsense.com/
-
+

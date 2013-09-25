@@ -1,10 +1,10 @@
 HTTP/1.1 200 OK
 Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 04:34:39 GMT
+Date: Wed, 25 Sep 2013 05:13:16 GMT
 Server: Apache
-Set-Cookie: rpt=%21; expires=Thu, 26-Sep-2013 05:34:39 GMT; domain=alexa.com
-Set-Cookie: lv=1380083679; expires=Thu, 25-Sep-2014 10:34:39 GMT; path=/; domain=alexa.com
+Set-Cookie: rpt=%21; expires=Thu, 26-Sep-2013 06:13:16 GMT; domain=alexa.com
+Set-Cookie: lv=1380085996; expires=Thu, 25-Sep-2014 11:13:16 GMT; path=/; domain=alexa.com
 Vary: Accept-Encoding
 X-Frame-Options: SAMEORIGIN
 Connection: keep-alive
-
+

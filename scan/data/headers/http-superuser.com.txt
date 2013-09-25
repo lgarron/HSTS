@@ -1,10 +1,10 @@
 HTTP/1.1 200 OK
-Cache-Control: public, max-age=40
-Content-Length: 67718
+Cache-Control: public, max-age=60
+Content-Length: 67771
 Content-Type: text/html; charset=utf-8
-Expires: Wed, 25 Sep 2013 03:27:48 GMT
-Last-Modified: Wed, 25 Sep 2013 03:26:48 GMT
+Expires: Wed, 25 Sep 2013 05:12:40 GMT
+Last-Modified: Wed, 25 Sep 2013 05:11:40 GMT
 Vary: *
 X-Frame-Options: SAMEORIGIN
-Date: Wed, 25 Sep 2013 03:27:06 GMT
-
+Date: Wed, 25 Sep 2013 05:11:40 GMT
+

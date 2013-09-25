@@ -4,8 +4,8 @@ Content-Type: text/html
 Content-Location: http://icbc.com.cn/index.html
 Last-Modified: Wed, 04 Sep 2013 14:02:43 GMT
 Accept-Ranges: bytes
-ETag: "803b06c77a9ce1:10f7"
+ETag: "803b06c77a9ce1:1205"
 Server: Microsoft-IIS/6.0
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 00:43:36 GMT
-
+Date: Wed, 25 Sep 2013 05:06:21 GMT
+

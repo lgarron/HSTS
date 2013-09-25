@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:22:29 GMT
-Server: Apache/2.2.15 (Unix) PHP/5.2.13
-X-Powered-By: PHP/5.2.13
-Vary: Accept-Encoding,User-Agent
-Content-Type: text/html
-

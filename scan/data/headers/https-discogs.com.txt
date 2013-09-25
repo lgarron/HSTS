@@ -1,1 +1,8 @@
-500 Internal Server Error
+HTTP/1.1 404 Not Found
+Reproxy-Status: yes
+Access-Control-Allow-Origin: *
+Content-Type: text/html; charset=utf-8
+Content-Length: 7878
+Date: Wed, 25 Sep 2013 05:10:07 GMT
+Server: lighttpd
+

@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:56:46 GMT
+Date: Wed, 25 Sep 2013 05:15:23 GMT
 Server: Apache
 Cache-Control: no-cache
 Pragma: no-cache
 Expires: Thu, 01 Jan 1970 00:00:00 GMT
-Set-Cookie: gootop=RK:1&LU:1_8_9_11_10_5&MV:1&AX:1mMY0N9KjK3V8j%2FHntN2%2BA&SR:00001; expires=Fri, 25-Oct-2013 00:56:46 GMT; path=/
-Set-Cookie: gootopstay=FA:1380070606&FR:0&FS:&FT:&UC:3b5af220fffd528d9985d586144ceb4f; expires=Thu, 25-Sep-2014 00:56:46 GMT; path=/
-Set-Cookie: gooproperty=TR%3Dkantou%26TV%3D008%26WE%3D4410%26HO%3D1%26MP%3Dkantou%26AR%3D%26TH%3D%26ST%3D%26TP%3D; expires=Fri, 25-Sep-2015 00:56:46 GMT; path=/; domain=goo.ne.jp
+Set-Cookie: gootop=RK:1&LU:1_8_9_11_10_5&MV:1&AX:1mMY0N9KjK3V8j%2FHntN2%2BA&SR:00001; expires=Fri, 25-Oct-2013 05:15:23 GMT; path=/
+Set-Cookie: gootopstay=FA:1380086123&FR:0&FS:&FT:&UC:48d1f987767dda8f4ffe464a2065ec93; expires=Thu, 25-Sep-2014 05:15:23 GMT; path=/
+Set-Cookie: gooproperty=TR%3Dkantou%26TV%3D008%26WE%3D4410%26HO%3D1%26MP%3Dkantou%26AR%3D%26TH%3D%26ST%3D%26TP%3D; expires=Fri, 25-Sep-2015 05:15:23 GMT; path=/; domain=goo.ne.jp
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="/w3c/p3p.xml",CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONo OUR SAMo OTRo IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC"
 Connection: close
 Content-Type: text/html; charset=UTF-8
-
+

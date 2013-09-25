@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: AkamaiGHost
-Content-Length: 0
-Location: http://www.bankrate.com/
-Cache-Control: max-age=900
-Date: Wed, 25 Sep 2013 03:23:51 GMT
-Connection: keep-alive
-

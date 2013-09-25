@@ -1,6 +1,6 @@
 HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 01:37:06 GMT
+Server: nginx/0.7.62
+Date: Wed, 25 Sep 2013 05:23:23 GMT
 Content-Type: text/html; charset=utf-8
-Connection: keep-alive
-
+Connection: close
+

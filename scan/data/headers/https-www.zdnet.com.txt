@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 03:42:03 GMT
-Server: Apache
-Location: http://www.zdnet.com/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-

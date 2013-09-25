@@ -1,9 +1,9 @@
 HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 03:32:33 GMT
+Date: Wed, 25 Sep 2013 05:15:44 GMT
 Server: Apache/2.2.22 (Ubuntu)
 Location: http://www.ea.com/
 Cache-Control: max-age=86400
-Expires: Thu, 26 Sep 2013 03:32:33 GMT
+Expires: Thu, 26 Sep 2013 05:15:44 GMT
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-
+

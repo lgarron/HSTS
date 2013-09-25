@@ -1,9 +1,9 @@
 HTTP/1.1 301 Moved Permanently
 X-Powered-By: PHP/5.4.18
-Set-Cookie: PHPSESSID=9cd1d3b6c163124538dc2c7afdb2e5b5; path=/; domain=.www.thepiratebay.sx
+Set-Cookie: PHPSESSID=23c8604beda56ce426aa908df0a90905; path=/; domain=.www.thepiratebay.sx
 Set-Cookie: tpb_showArtist=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
 Expires: Mon, 26 Jul 1997 05:00:00 GMT
-Last-Modified: Wed, 25 Sep 2013 01:14:01 GMT
+Last-Modified: Wed, 25 Sep 2013 05:13:41 GMT
 Cache-Control: no-store, no-cache, must-revalidate
 Cache-Control: post-check=0, pre-check=0
 Pragma: no-cache
@@ -11,6 +11,6 @@ x-where: 1
 Location: http://thepiratebay.sx/
 Content-type: text/html
 Content-Length: 0
-Date: Wed, 25 Sep 2013 01:14:01 GMT
+Date: Wed, 25 Sep 2013 05:13:41 GMT
 Server: lighttpd
-
+

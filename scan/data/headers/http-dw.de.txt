@@ -2,9 +2,9 @@ HTTP/1.1 301 http://www.dw.de
 Server: Varnish
 Location: http://www.dw.de/
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 03:21:37 GMT
-X-Varnish: 1372485891
+Date: Wed, 25 Sep 2013 05:07:49 GMT
+X-Varnish: 1534092285
 Age: 0
 Via: 1.1 varnish
 Connection: close
-
+

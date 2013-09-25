@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 03:32:25 GMT
+Date: Wed, 25 Sep 2013 05:11:37 GMT
 Server: Apache
-Set-Cookie: amfID=generic_curl_based_crawler; path=/;
+Set-Cookie: amfID=google_chrome_2; path=/;
 AMF-Ver: 4.00
-Set-Cookie: JSESSIONID=CA85046934FEBFAFF4FB07F26B37F8C9-n1.jvmnode8; Path=/; HttpOnly
-Set-Cookie: HS_ID=d89d96eca16674ed667b18c2afe2116f9d99e5f57b61dcd7536a1834e4f9c03b; Expires=Tue, 24-Dec-2013 03:32:24 GMT; Path=/
+Set-Cookie: JSESSIONID=754F51C7B64A2F96B19BC67A4336212A-n1.jvmnode8; Path=/; HttpOnly
+Set-Cookie: HS_ID=0edc0a99e94334c38f1097eedffb6151b397c46d2bfdf7eaa13aaf5e1b12e470; Expires=Tue, 24-Dec-2013 05:11:36 GMT; Path=/
 Content-Language: en
 Vary: Accept-Encoding
 Content-Type: text/html;charset=UTF-8
-Set-Cookie: NSC_Dpo_cfub.ipnftipq18.dpn=ffffffffaf181e2d45525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 03:57:19 GMT;path=/;httponly
-
+Set-Cookie: NSC_Dpo_cfub.ipnftipq18.dpn=ffffffffaf181e2d45525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 05:36:30 GMT;path=/;httponly
+

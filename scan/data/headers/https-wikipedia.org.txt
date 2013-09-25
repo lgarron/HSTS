@@ -1,12 +1,12 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx/1.1.19
-Date: Wed, 25 Sep 2013 00:45:14 GMT
+Date: Wed, 25 Sep 2013 05:07:46 GMT
 Content-Type: text/html; charset=iso-8859-1
 Connection: keep-alive
 Location: http://www.wikipedia.org/
 X-Cache: MISS from sq61.wikimedia.org
 X-Cache-Lookup: MISS from sq61.wikimedia.org:3128
-X-Cache: MISS from sq73.wikimedia.org
-X-Cache-Lookup: MISS from sq73.wikimedia.org:80
-Via: 1.1 sq61.wikimedia.org:3128 (squid/2.7.STABLE9), 1.0 sq73.wikimedia.org:80 (squid/2.7.STABLE9)
-
+X-Cache: MISS from sq77.wikimedia.org
+X-Cache-Lookup: MISS from sq77.wikimedia.org:80
+Via: 1.1 sq61.wikimedia.org:3128 (squid/2.7.STABLE9), 1.0 sq77.wikimedia.org:80 (squid/2.7.STABLE9)
+

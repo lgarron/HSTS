@@ -1,10 +1,10 @@
 HTTP/1.0 301 Moved Permanently
-Date: Wed, 25 Sep 2013 01:18:49 GMT
+Date: Wed, 25 Sep 2013 05:17:36 GMT
 Server: Apache
 Location: http://www.spiegel.de/
 Content-Type: text/html; charset=iso-8859-1
-X-Cache: MISS from lnxp-3959.srv.mediaways.net
-X-Cache-Lookup: MISS from lnxp-3959.srv.mediaways.net:81
-Via: 1.0 lnxp-3959.srv.mediaways.net (squid/3.1.4)
+X-Cache: MISS from lnxp-3954.srv.mediaways.net
+X-Cache-Lookup: MISS from lnxp-3954.srv.mediaways.net:101
+Via: 1.0 lnxp-3954.srv.mediaways.net (squid/3.1.4)
 Connection: close
-
+

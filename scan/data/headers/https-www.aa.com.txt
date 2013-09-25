@@ -5,10 +5,10 @@ Location: /homePage.do
 Content-Type: text/html;charset=ISO-8859-1
 Content-Encoding: gzip
 Content-Length: 21
-Date: Wed, 25 Sep 2013 03:24:25 GMT
+Date: Wed, 25 Sep 2013 05:19:12 GMT
 Connection: keep-alive
-Set-Cookie: v1st=51410432A2DE06A4; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.aa.com
-Set-Cookie: JSESSIONID=CDE140F6693B69B8B56A9D5CC2F90052; Path=/; HttpOnly
-Set-Cookie: dtCookie=BDC31A4787486C2B062B1602A65149AB|AA.com|1; Path=/; Domain=.aa.com
-Set-Cookie: ROUTEID=.P111B03; path=/
-
+Set-Cookie: v1st=B0394A645AFCABAA; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.aa.com
+Set-Cookie: JSESSIONID=5B8027255BDE9EAB515C217A1423AADD; Path=/; HttpOnly
+Set-Cookie: dtCookie=59F64FC580ADC2C64A576035284D6B2A|AA.com|1; Path=/; Domain=.aa.com
+Set-Cookie: ROUTEID=.P104B04; path=/
+

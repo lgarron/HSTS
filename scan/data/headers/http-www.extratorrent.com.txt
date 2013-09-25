@@ -1,5 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Location: http://extratorrent.com/
-Date: Wed, 25 Sep 2013 01:23:03 GMT
-Server: lighttpd 1.4.20
-

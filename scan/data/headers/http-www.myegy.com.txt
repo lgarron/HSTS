@@ -1,10 +1,10 @@
 HTTP/1.1 302 Found
 Server: cloudflare-nginx
-Date: Wed, 25 Sep 2013 00:50:11 GMT
+Date: Wed, 25 Sep 2013 05:13:06 GMT
 Content-Type: text/html; charset=iso-8859-1
 Connection: keep-alive
-Set-Cookie: __cfduid=d8c0425cb7987fd5da724c98f0b16e09e1380070210892; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.myegy.com
-Set-Cookie: __cfduid=d8c0425cb7987fd5da724c98f0b16e09e1380070210892; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.myegy.com
+Set-Cookie: __cfduid=d8580a133197b317d1b2fd7c3b35a6ef91380085986206; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.myegy.com
+Set-Cookie: __cfduid=d8580a133197b317d1b2fd7c3b35a6ef91380085986206; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.myegy.com
 Location: http://myegy.com/
-CF-RAY: b33b80216cd0295
-
+CF-RAY: b353925c8100296
+

@@ -1,14 +1,14 @@
 HTTP/1.1 301 Moved Permanently
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 03:25:42 GMT
+Date: Wed, 25 Sep 2013 05:12:05 GMT
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Location: http://uae.souq.com
 Pragma: no-cache
 Server: Apache
-Set-Cookie: PHPSESSID=73i3arf55pun3p0dtitked0jj5; path=/; domain=.souq.com
-Set-Cookie: PLATEFORMC=ae; expires=Thu, 25-Sep-2014 03:25:42 GMT; path=/; domain=.souq.com
+Set-Cookie: PHPSESSID=igoo3n4gagbdsggjka4g58mfc6; path=/; domain=.souq.com
+Set-Cookie: PLATEFORMC=ae; expires=Thu, 25-Sep-2014 05:12:05 GMT; path=/; domain=.souq.com
 Vary: Accept-Encoding
 Connection: keep-alive
 Set-Cookie: NSC_tpvr-83+63+9+208-91=ffffffffb32ae75645525d5f4f58455e445a4a423660;path=/;httponly
-
+

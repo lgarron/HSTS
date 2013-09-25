@@ -1,15 +1,19 @@
 HTTP/1.1 200 OK
 Server: Apache
 Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 00:56:54 GMT
+RTSS: 1-1181-3
+Date: Wed, 25 Sep 2013 05:17:57 GMT
 Content-Length: 0
 Connection: keep-alive
-Set-Cookie: PHPSESSID=d61828ba84096a752a0bb28bd1529969; path=/; HttpOnly
-Set-Cookie: tlftmusr=130924d61828ba84096a752a0bb28bd1529969; expires=Tue, 19-Jan-2038 03:14:07 GMT; path=/
+Set-Cookie: SSLB=1; path=/; domain=.trulia.com
+Set-Cookie: PHPSESSID=b93b496ac054cebdad6828af24e5480b; path=/; HttpOnly
+Set-Cookie: tlftmusr=130924b93b496ac054cebdad6828af24e5480b; expires=Tue, 19-Jan-2038 03:14:07 GMT; path=/
 Set-Cookie: returning_user=0; expires=Tue, 19-Jan-2038 03:14:07 GMT; path=/; domain=.trulia.com; httponly
 Set-Cookie: fvstts=20130924; expires=Tue, 19-Jan-2038 03:14:07 GMT; path=/
-Set-Cookie: user_survey=1; expires=Thu, 26-Sep-2013 00:56:54 GMT; path=/; domain=.trulia.com
+Set-Cookie: user_survey=1; expires=Thu, 26-Sep-2013 05:17:57 GMT; path=/; domain=.trulia.com
+Set-Cookie: TruliaLBcookie=2114851756.20480.0000; path=/
+Set-Cookie: TruliaLBSS=1010242476.20480.0000; path=/
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Pragma: no-cache
-
+

@@ -4,13 +4,13 @@ X-Powered-By: PHP/5.3.3
 Vary:
 X-Pingback: http://sozcu.com.tr/xmlrpc.php
 Content-Type: text/html; charset=UTF-8
-Content-Length: 131304
+Content-Length: 132279
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 03:25:33 GMT
-X-Varnish: 945054005 945025202
-Age: 973
+Date: Wed, 25 Sep 2013 05:09:44 GMT
+X-Varnish: 740731271 740713852
+Age: 126
 Via: 1.1 varnish
 Connection: close
 X-Server: 135.6
 X-Cache: HIT
-
+

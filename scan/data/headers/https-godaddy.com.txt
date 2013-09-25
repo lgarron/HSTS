@@ -2,7 +2,7 @@ HTTP/1.1 301 Moved Permanently
 Content-Length: 141
 Location: https://www.godaddy.com/
 Server: Microsoft-IIS/7.0
-Set-Cookie: countrysite1=WWW; domain=godaddy.com; expires=Thu, 25-Sep-2014 01:14:11 GMT; path=/
+Set-Cookie: countrysite1=WWW; domain=godaddy.com; expires=Thu, 25-Sep-2014 05:14:24 GMT; path=/
 P3P: policyref="/w3c/p3p.xml", CP="COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR OUR IND"
-Date: Wed, 25 Sep 2013 01:14:11 GMT
-
+Date: Wed, 25 Sep 2013 05:14:24 GMT
+

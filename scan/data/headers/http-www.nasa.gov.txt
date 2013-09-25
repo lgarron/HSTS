@@ -2,13 +2,14 @@ HTTP/1.1 200 OK
 Content-Type: text/html
 Content-Length: 28405
 Connection: keep-alive
-Date: Tue, 24 Sep 2013 21:26:22 GMT
+Date: Tue, 24 Sep 2013 20:39:04 GMT
 x-amz-meta-md5_hash: 7ab5d3091b06f76355a1feb7e8e74699
 Cache-Control: max-age=300
 Last-Modified: Tue, 24 Sep 2013 20:35:32 GMT
 ETag: "7ab5d3091b06f76355a1feb7e8e74699"
 Server: AmazonS3
-Via: 1.0 ffff353e8ac48c8f898f4c6eac6b1514.cloudfront.net (CloudFront)
-X-Cache: RefreshHit from cloudfront
-X-Amz-Cf-Id: 1F7nI2O3YZec5L50cWS3rXW-hyo_BfLWlt4RRCglJI-uLYbflAfRPg==
-
+Age: 98
+Via: 1.0 fa74811fe0b9988cb2ea8a18b4efb79d.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Id: luYktaiOj3n12-EdLlXMihFxVjR5MSJPbojBpk_M_DDLih4bswjzxA==
+

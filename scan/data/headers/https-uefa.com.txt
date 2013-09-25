@@ -4,8 +4,8 @@ Content-Length: 140
 Content-Type: text/html
 Location: http://www.uefa.com
 Server: Microsoft-IIS/7.5
-Set-Cookie: ASPSESSIONIDQCDACTTQ=KDIDGOBBFKLLGKFEAICMBABJ; path=/
+Set-Cookie: ASPSESSIONIDCCDBRQCQ=CEJHIOBBLMFNDOCIJPOKOINN; path=/
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 03:29:15 GMT
-Set-Cookie: uefa.com=2150110636.20480.0000; path=/
-
+Date: Wed, 25 Sep 2013 05:23:24 GMT
+Set-Cookie: uefa.com=1747457452.20480.0000; path=/
+

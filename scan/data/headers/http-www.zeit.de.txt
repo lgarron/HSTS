@@ -2,13 +2,13 @@ HTTP/1.1 301 Moved Permanently
 Server: Apache/2.2.14 (Ubuntu)
 Location: http://www.zeit.de/index
 Cache-Control: max-age=60
-Expires: Wed, 25 Sep 2013 03:32:21 GMT
+Expires: Wed, 25 Sep 2013 05:13:49 GMT
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 03:31:42 GMT
-X-Varnish: 2536499862 2536497379
-Age: 22
+Date: Wed, 25 Sep 2013 05:13:49 GMT
+X-Varnish: 1679918484 1679902083
+Age: 60
 Via: 1.1 varnish
 Connection: keep-alive
 X-Cache: HIT
-
+

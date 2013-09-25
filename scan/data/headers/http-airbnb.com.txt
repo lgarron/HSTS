@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx/1.2.6
-Date: Wed, 25 Sep 2013 03:29:30 GMT
-Content-Type: text/html
-Content-Length: 184
-Connection: keep-alive
-Location: https://www.airbnb.com/
-

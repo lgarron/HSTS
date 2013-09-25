@@ -1,20 +1,20 @@
 HTTP/1.1 302 Found
-Last-Modified: Wed, 25 Sep 2013 03:24:06 +0000
+Last-Modified: Wed, 25 Sep 2013 03:45:41 +0000
 Expires: Sun, 11 Mar 1984 12:00:00 GMT
 Vary: Cookie, Accept-Encoding
-ETag: "1380079446"
-Set-Cookie: ec_device=false; expires=Thu, 26-Sep-2013 03:24:06 GMT; path=/
-X-ws: 3
+ETag: "1380080741"
+Set-Cookie: ec_device=false; expires=Thu, 26-Sep-2013 03:45:41 GMT; path=/
+X-ws: 11
 Location: http://www.economist.com/
-X-Backend-Server: dc3web3 D=925861
+X-Backend-Server: dc3web11 D=866803
 Content-Type: text/html; charset=utf-8
 Server: Economist Web Server
 Cache-Control: public, max-age = 10800
-Date: Wed, 25 Sep 2013 03:26:36 GMT
-X-Varnish: 1604264775 1604255493
-Age: 149
+Date: Wed, 25 Sep 2013 05:22:31 GMT
+X-Varnish: 1604741833 1604339792
+Age: 5809
 Via: 1.1 varnish
 Connection: keep-alive
 X-Varnish-Cache: HIT
-X-Cache-Hits: 1
-
+X-Cache-Hits: 26
+

@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
 Content-Type: text/html
 Content-Location: http://www.51fanli.com/index.html
-Last-Modified: Wed, 25 Sep 2013 02:33:08 GMT
+Last-Modified: Wed, 25 Sep 2013 05:14:01 GMT
 Vary: Accept-Encoding
 Cache-Control: no-cache
 Expires: -1
 Pragma: no-cache
-Date: Wed, 25 Sep 2013 02:35:13 GMT
-Age: 84
+Date: Wed, 25 Sep 2013 05:15:37 GMT
+Age: 34
 Connection: keep-alive
-
+

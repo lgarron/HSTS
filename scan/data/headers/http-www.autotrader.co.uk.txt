@@ -1,23 +1,23 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 02:35:36 GMT
+Date: Wed, 25 Sep 2013 05:17:51 GMT
 Server: Apache
 Set-Cookie: bucket=desktop; Domain=.autotrader.co.uk; path=/;
 X-Powered-By: Servlet 2.4; JBoss-4.0.3SP1 (build: CVSTag=JBoss_4_0_3_SP1 date=200510231054)/Tomcat-5.5
 Cache-Control: max-age=300
-Expires: Wed, 25 Sep 2013 02:40:36 GMT
+Expires: Wed, 25 Sep 2013 05:22:51 GMT
 Vary: User-Agent,Accept-Encoding
 X-Version: 4.0.29382
 X-Host: dc2cache004.live.dc2.tradermedia.net
 Content-Type: text/html;charset=UTF-8
 X-Cache: MISS from dc2cache004.live.dc2.tradermedia.net
-X-Cache-Lookup: MISS from dc2cache004.live.dc2.tradermedia.net:3128
-Via: 1.1 dc2cache004.live.dc2.tradermedia.net:3128 (squid/2.7.STABLE9)
-Set-Cookie: _ATD_SESSION_=1380076536|775235cd-1c92-460a-b9cf-01b4bd8f87d3; Path=/;
-Set-Cookie: _ATD_DIGEST_=49a5a6b21bb0fa89993a38f678f0fef7; Path=/;
-Set-Cookie: JSESSIONID=D76759996A2BF6F041911428A6A6BCAC; Path=/
-Set-Cookie: userid=ID=4ce1d86b-00dd-4a0b-8bea-ad99a72a53c1; Domain=.autotrader.co.uk; Expires=Thu, 25-Sep-2014 02:35:36 GMT; Path=/
-Set-Cookie: user=STATUS=0&HASH=4160a4e1a79c203420d0531b251693e6&PR=&ID=4ce1d86b-00dd-4a0b-8bea-ad99a72a53c1; Domain=.autotrader.co.uk; Expires=Thu, 25-Sep-2014 02:35:36 GMT; Path=/
-Set-Cookie: omnitureReportSuite=tmlautotrader1; Domain=.autotrader.co.uk; Expires=Thu, 25-Sep-2014 02:35:36 GMT; Path=/
-Set-Cookie: IP_CHECKED=Y;expires=Thu, 26-Sep-2013 02:35:36 GMT;path=/;
+X-Cache-Lookup: MISS from dc2cache004.live.dc2.tradermedia.net:3129
+Via: 1.1 dc2cache004.live.dc2.tradermedia.net:3129 (squid/2.7.STABLE9)
+Set-Cookie: _ATD_SESSION_=1380086271|ce1393cc-cca5-4dc0-8d7a-f8121fa48712; Path=/;
+Set-Cookie: _ATD_DIGEST_=8ed20ae7222deed1fb372f91ea2f3d0a; Path=/;
+Set-Cookie: JSESSIONID=B93AEE71832D073A5BDFA16EAFA9D036; Path=/
+Set-Cookie: userid=ID=4c5df4f8-fd5c-4b11-8d30-4377765efb98; Domain=.autotrader.co.uk; Expires=Thu, 25-Sep-2014 05:17:51 GMT; Path=/
+Set-Cookie: user=STATUS=0&HASH=5beb5f98718f6cf1d7db56c5e5aa90c2&PR=&ID=4c5df4f8-fd5c-4b11-8d30-4377765efb98; Domain=.autotrader.co.uk; Expires=Thu, 25-Sep-2014 05:17:51 GMT; Path=/
+Set-Cookie: omnitureReportSuite=tmlautotrader1; Domain=.autotrader.co.uk; Expires=Thu, 25-Sep-2014 05:17:52 GMT; Path=/
+Set-Cookie: IP_CHECKED=Y;expires=Thu, 26-Sep-2013 05:17:52 GMT;path=/;
 Connection: close
-
+

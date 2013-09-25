@@ -3,7 +3,7 @@ Location: http://www.sanook.com/
 Content-Type: text/html; charset=iso-8859-1
 Content-Length: 230
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 02:37:50 GMT
-Age: 64
+Date: Wed, 25 Sep 2013 05:14:19 GMT
+Age: 91
 Connection: keep-alive
-
+

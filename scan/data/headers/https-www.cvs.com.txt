@@ -4,8 +4,8 @@ Cache-Control: no-cache,no-store,must-revalidate
 Pragma: no-cache
 Expires: Wed, 31 Dec 1969 23:59:59 GMT
 Content-Type: text/html;charset=UTF-8
-Date: Wed, 25 Sep 2013 04:34:38 GMT
+Date: Wed, 25 Sep 2013 05:12:12 GMT
 Connection: keep-alive
-Set-Cookie: JSESSIONID=972D090FB70DD73247C4237387A1E8E2.commerce_107; Path=/; Expires=Wed, 25-Sep-2013 16:34:38 GMT; HttpOnly
-Set-Cookie: akaau=1380083978~id=44b4ce9b31fac118071b4a4bce368db7; path=/
-
+Set-Cookie: JSESSIONID=1D3E000DE4904BAF9EB9B5E22D014238.commerce_101; Path=/; Expires=Wed, 25-Sep-2013 17:12:12 GMT; HttpOnly
+Set-Cookie: akaau=1380086232~id=956bccea0dd45c37ad0d0432e7c845a3; path=/
+

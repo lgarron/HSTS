@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 00:43:55 GMT
-Server: Apache
-Set-Cookie: page_uid=BZ2NxcQrIchssdSis0dssc--512973; path=/; domain=.nhncorp.com
-Set-Cookie: naver_usersession=jE2cxPGoQVIAAQVZQgk; path=/; max-age=300; domain=.naver.jp
-Vary: Accept-Encoding,User-Agent
-Connection: close
-Content-Type: text/html; charset=UTF-8
-

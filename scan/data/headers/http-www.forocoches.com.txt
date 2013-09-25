@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 05:21:28 GMT
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Set-Cookie: bblastvisit=1380086488; expires=Thu, 25-Sep-2014 05:21:28 GMT; path=/; domain=.forocoches.com
+Set-Cookie: bblastactivity=0; expires=Thu, 25-Sep-2014 05:21:28 GMT; path=/; domain=.forocoches.com
+Cache-Control: private
+Pragma: private
+Content-Type: text/html; charset=ISO-8859-1
+Vary: User-Agent
+

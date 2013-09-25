@@ -1,15 +1,15 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 03:31:41 GMT
+Date: Wed, 25 Sep 2013 05:12:58 GMT
 Content-Type: text/html; charset=UTF-8
 Connection: keep-alive
 Vary: Accept-Encoding
-Last-Modified: Wed Sep 25 3:31:41 UTC 2013
-Set-Cookie: PHPSESSID=as3taoc7210ql7hop9903n17s4; expires=Thu, 25-Sep-2014 03:31:41 GMT; Max-Age=31536000; path=/
-Expires: Wed, 25 Sep 2013 03:31:40 GMT
+Last-Modified: Wed Sep 25 5:12:58 UTC 2013
+Set-Cookie: PHPSESSID=6njn9vn76mubdknm05ekfj7pa2; expires=Thu, 25-Sep-2014 05:12:58 GMT; Max-Age=31536000; path=/
+Expires: Wed, 25 Sep 2013 05:12:57 GMT
 Cache-Control: no-cache
 Pragma: no-cache
-Set-Cookie: langPref=en; expires=Sat, 23-Sep-2023 03:31:41 GMT; Max-Age=315360000; path=/
-Set-Cookie: sgUID=30129ed75d142b39568247789355c2f5; expires=Sat, 23-Sep-2023 03:31:41 GMT; Max-Age=315360000; path=/
-Set-Cookie: sid=d0e6e711655318d37800f2ddebe65e25; expires=Sat, 23-Sep-2023 03:31:41 GMT; Max-Age=315360000; path=/
-
+Set-Cookie: langPref=en; expires=Sat, 23-Sep-2023 05:12:58 GMT; Max-Age=315360000; path=/
+Set-Cookie: sgUID=861b895dc2dd924f47139c8bfcbddf9a; expires=Sat, 23-Sep-2023 05:12:58 GMT; Max-Age=315360000; path=/
+Set-Cookie: sid=92502e1e76e42850531ce96a53199455; expires=Sat, 23-Sep-2023 05:12:58 GMT; Max-Age=315360000; path=/
+

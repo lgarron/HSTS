@@ -1,6 +1,7 @@
-HTTP/1.1 302 Found
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 05:07:24 GMT
+Server: Apache
+Location: http://www.globo.com/
 Connection: close
-Pragma: no-cache
-cache-control: no-cache
-Location: /
-
+Content-Type: text/html; charset=iso-8859-1
+

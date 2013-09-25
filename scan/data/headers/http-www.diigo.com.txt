@@ -1,14 +1,15 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 25 Sep 2013 03:21:07 GMT
+Date: Wed, 25 Sep 2013 05:08:29 GMT
 Content-Type: text/html; charset=UTF-8
-Content-Length: 0
+Content-Length: 11018
 Connection: keep-alive
-ETag: "f37813fe9bd46538d7435776b414d1ad"
+Status: 200 OK
 Cache-Control: private, max-age=0, must-revalidate
-X-Runtime: 0.00135
-Set-Cookie: CHKIO=; domain=.diigo.com; path=/; expires=Fri, 20 Sep 2013 23:21:05 GMT
-Set-Cookie: diigoandlogincookie=; domain=.diigo.com; path=/; expires=Fri, 20 Sep 2013 23:21:05 GMT
-Set-Cookie: _smasher_session=d126dfd20e1b920b36f597cff78de002; domain=diigo.com; path=/
+ETag: "f37813fe9bd46538d7435776b414d1ad"
 P3P: CP="NOI DEVa TAIa OUR BUS UNI"
-
+Set-Cookie: CHKIO=; domain=.diigo.com; path=/; expires=Sat, 21 Sep 2013 01:08:27 GMT
+Set-Cookie: diigoandlogincookie=; domain=.diigo.com; path=/; expires=Sat, 21 Sep 2013 01:08:27 GMT
+Set-Cookie: _smasher_session=73f204af903c51be8b605392895203c4; domain=diigo.com; path=/
+X-Runtime: 0.00191
+

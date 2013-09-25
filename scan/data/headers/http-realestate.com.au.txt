@@ -4,9 +4,9 @@ Retry-After: 0
 Location: http://www.realestate.com.au/
 Content-Type: text/html; charset=utf-8
 Content-Length: 413
-Date: Wed, 25 Sep 2013 02:37:49 GMT
-X-Varnish: 1580425764
+Date: Wed, 25 Sep 2013 05:17:11 GMT
+X-Varnish: 2135205280
 Age: 0
 Via: 1.1 varnish
 Connection: close
-
+

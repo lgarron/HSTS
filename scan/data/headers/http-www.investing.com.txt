@@ -1,7 +1,11 @@
-HTTP/1.1 403 Forbidden
-Date: Wed, 25 Sep 2013 02:35:14 GMT
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 05:06:22 GMT
 Server: Apache/2.2.15 (CentOS)
-Vary: Accept-Encoding
+Last-Modified: Wed, 25 Sep 2013 05:06:02 GMT
+ETag: "5e25c8-28531-4e72e35b4adc2"
+Accept-Ranges: bytes
+Content-Length: 165169
+Vary: Accept-Encoding,User-Agent
 Connection: close
-Content-Type: text/html; charset=iso-8859-1
-
+Content-Type: text/html; charset=UTF-8
+

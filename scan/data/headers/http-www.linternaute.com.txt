@@ -4,12 +4,12 @@ Content-Language: fr
 x-ua-compatible: ie=edge
 Vary: Accept-Encoding
 Content-Type: text/html; charset=utf-8
-X-www-Served-By: manitou
+X-www-Served-By: tesla
 Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 01:19:03 GMT
-X-Varnish: 1623362078
+Date: Wed, 25 Sep 2013 05:21:34 GMT
+X-Varnish: 2358750513
 Via: 1.1 varnish
 Connection: keep-alive
-X-Served-By: fado
+X-Served-By: bison
 X-Cache: MISS
-
+

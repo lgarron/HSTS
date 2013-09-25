@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 05:22:00 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Keep-Alive: timeout=10
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.20
+Set-Cookie: SESSION_ID=42ae3d8132ab4deb74b2e2950404b6a5; path=/; domain=.sulit.com.ph
+Set-Cookie: sulit_isTablet=0; expires=Thu, 25-Sep-2014 05:22:00 GMT; path=/; domain=.sulit.com.ph
+Set-Cookie: sulit_isMobileDevice=0; expires=Thu, 25-Sep-2014 05:22:00 GMT; path=/; domain=.sulit.com.ph
+Set-Cookie: sulit_noBottom=0; expires=Fri, 25-Oct-2013 05:22:00 GMT; path=/; domain=.sulit.com.ph
+Cache-Control: no-cache, must-revalidate
+Expires: Sat, 26 Jul 1997 05:00:00 GMT
+Set-Cookie: sulit__countryCode=US; expires=Fri, 25-Oct-2013 05:22:00 GMT; path=/; domain=.sulit.com.ph
+

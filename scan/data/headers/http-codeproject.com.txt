@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Cache-Control: private
-Content-Length: 143
-Content-Type: text/html; charset=utf-8
-Location: http://www.codeproject.com
-Set-Cookie: SessionGUID=65b271a4-834a-4a67-b748-45cd6909ee65; path=/
-Set-Cookie: SessionGUID=65b271a4-834a-4a67-b748-45cd6909ee65; path=/
-Date: Wed, 25 Sep 2013 02:35:36 GMT
-

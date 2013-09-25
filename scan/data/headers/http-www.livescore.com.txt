@@ -1,10 +1,10 @@
 HTTP/1.1 200 OK
 Server: nginx/1.4.1
-Date: Wed, 25 Sep 2013 00:51:30 GMT
+Date: Wed, 25 Sep 2013 05:13:52 GMT
 Content-Type: text/html
 Vary: Accept-Encoding
-Last-Modified: Wed, 25 Sep 2013 00:51:19 GMT
+Last-Modified: Wed, 25 Sep 2013 05:13:33 GMT
 Cache-Control: max-age=5
-Refresh: 90
+Refresh: 90; url=http://www.livescore.com/
 X-Cached: HIT
-
+

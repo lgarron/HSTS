@@ -4,10 +4,10 @@ Pragma: no-cache
 Content-Length: 341
 Content-Type: text/html; charset=utf-8
 Expires: -1
-Location: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1380070084&rver=6.1.6206.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+Location: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1380085727&rver=6.1.6206.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1033&id=64855&mkt=en-US&cbcxt=mai
 Server: Microsoft-IIS/7.5
-X-Wlp-StartTime: 9/25/2013 12:48:04 AM
-xxn: 33
+X-Wlp-StartTime: 9/25/2013 5:08:47 AM
+xxn: 63
 P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
 Set-Cookie: KVC=17.1.6915.6000; domain=.mail.live.com; path=/
 Set-Cookie: KVC=17.1.6915.6000; domain=.mail.live.com; path=/
@@ -18,7 +18,7 @@ Set-Cookie: rru=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; 
 Set-Cookie: prc=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
 Set-Cookie: mt=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
 Set-Cookie: DWN=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
-MSNSERVER: H: BAY151-W33 V: 17.1.6915.6000 D: 2013-09-15T07:15:47
+MSNSERVER: H: BAY163-W63 V: 17.1.6915.6000 D: 2013-09-15T07:15:47
 X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 00:48:04 GMT
-
+Date: Wed, 25 Sep 2013 05:08:47 GMT
+
