@@ -1,0 +1,19 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 03:31:08 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: PHPSESSID=UstreamGuestSession; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: http://www.ustream.tv/
+Set-Cookie: ustream-guest=48jnuhfSDIl3dq1D80XkWHOiHZdsGyPs2gk%252FV3W1Lt2axC0D3T7ywApsr%252BjiBMYOVVMX1ySz9dVe2KZFvOBjpFhpuuEcubj0oT9NfNDNuEpBIB%252B8x5Em4rIlzHhIN4vJu6Qw2BOQ6%252BC%252F0CgmiOB2gbbzg5ZlLIa73y3xvyJ%252BnxmOs4UOsm72DefMz0uiy1zXoUKv9%252FNeYAqj6LBD5b5bRNteJO7AEpiVb53ZbQ%253D%253D; path=/; httponly
+X-RSRC: sjc-web004
+Accept-Ranges: bytes
+Age: 0
+X-Cache-Info: 0 (-1)
+X-Domain: www.ustream.tv
+X-Cache: MISS
+

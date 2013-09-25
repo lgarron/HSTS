@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-Length: 140
+Content-Type: text/html; charset=utf-8
+Location: https://www.schwab.com/
+X-XSS-Protection: 1; mode=block
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 04:10:46 GMT
+Set-Cookie: NSC_dibt-310+311+263+3-91=ffffffffa155fd3345525d5f4f58455e445a4a423660;path=/;httponly
+

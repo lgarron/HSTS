@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.2.1
+Date: Wed, 25 Sep 2013 01:11:42 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: close
+Location: http://www.youjizz.com/
+Vary: Accept-Encoding
+Set-Cookie: RNLBSERVERID=ded869; path=/
+

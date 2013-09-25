@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 04:34:38 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Location: http://www.metrolyrics.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+

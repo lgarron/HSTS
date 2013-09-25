@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Server: or2
+Date: Wed, 25 Sep 2013 01:14:09 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=5
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: /en/index.php
+Pragma: no-cache
+Set-Cookie: adcash_panel=1366333383638303664613569356536363534636467393435343463343135303; expires=Thu, 26-Sep-2013 03:14:09 CEST; path=/; HttpOnly
+Vary: *
+

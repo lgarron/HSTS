@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.0.15
+Content-Type: text/html
+X-Powered-By: PHP/5.3.10
+Location: http://pantip.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:34:16 GMT
+X-Varnish: 3118065841 3117765752
+Age: 207
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT
+

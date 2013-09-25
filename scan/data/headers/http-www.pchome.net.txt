@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Wed, 25 Sep 2013 00:48:41 GMT
+Content-Type: text/html; charset=gb2312
+Content-Length: 224962
+Connection: keep-alive
+Cache-Control: max-age=180
+Expires: Wed, 25 Sep 2013 00:51:12 GMT
+Vary: Accept-Encoding
+ServerID: c25-pch-article-1
+Age: 29
+Via: http/1.1 c26-pch-cache-1.cnet.com.cn (pcache/3.2.0 [cHs f ])
+

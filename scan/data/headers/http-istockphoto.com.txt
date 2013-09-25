@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:18:40 GMT
+Server: Apache
+Set-Cookie: iStockSession=0aa64473fa332017552c37fd9a481d1d; expires=Thu, 26 Sep 2013 01:18:40 GMT; path=/; domain=istockphoto.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: http://www.istockphoto.com/
+Connection: close
+Content-Type: text/html
+

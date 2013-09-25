@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Length: 134
+Content-Type: text/html; charset=utf-8
+Location: http://break.com/
+Server: Microsoft-IIS/7.5
+p3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Access-Control-Allow-Origin: *
+X-AspNetMvc-Version: 3.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 02:39:29 GMT
+

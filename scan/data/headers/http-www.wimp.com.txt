@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.2.17
+Set-Cookie: goog=1; expires=Wed, 25-Sep-2013 04:00:00 GMT; path=/; domain=.wimp.com
+Set-Cookie: server=guinan.wimp.com; expires=Wed, 25-Sep-2013 04:35:58 GMT; path=/; domain=.wimp.com
+Set-Cookie: country=US; path=/; domain=.wimp.com
+Set-Cookie: dsk=1; expires=Fri, 25-Oct-2013 03:35:59 GMT; path=/; domain=.wimp.com
+Set-Cookie: ua=ffb8be661d962a94549fa2bb4167f973; expires=Fri, 25-Oct-2013 03:35:59 GMT; path=/; domain=.wimp.com
+Content-type: text/html
+Date: Wed, 25 Sep 2013 03:35:59 GMT
+Server: lighttpd/1.4.28
+

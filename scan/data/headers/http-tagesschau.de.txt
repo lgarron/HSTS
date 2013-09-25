@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.22 (Ubuntu)
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 02:35:15 GMT
+Location: http://www.tagesschau.de/
+Transfer-Encoding: chunked
+Connection: Keep-Alive
+

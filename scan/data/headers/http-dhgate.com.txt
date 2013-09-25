@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: dhgatenginx/1.0.5
+Date: Wed, 25 Sep 2013 00:43:39 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Location: http://www.dhgate.com/
+srv_id: 172.16.20.23:80
+Set-Cookie: vid=rBAUaFJCMbu/eFcEAx8WAg==; expires=Tue, 21-Jun-16 00:43:39 GMT; domain=dhgate.com; path=/
+

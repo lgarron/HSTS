@@ -1,0 +1,14 @@
+HTTP/1.0 200 OK
+Date: Wed, 25 Sep 2013 03:16:55 GMT
+Server: Apache
+Accept-Ranges: bytes
+Cache-Control: max-age=600
+Expires: Wed, 25 Sep 2013 03:26:55 GMT
+X-UA-Compatible: IE=EmulateIE7
+Content-Type: text/html; charset=gb2312
+Age: 334
+Content-Length: 122738
+X-Cache: HIT from bj69
+Via: 1.1 bj69:80 (squid/2.7.STABLE9)
+Connection: close
+

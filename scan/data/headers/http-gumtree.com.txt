@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.gumtree.com/
+Content-Length: 0
+Date: Wed, 25 Sep 2013 02:09:21 GMT
+Server: GumBackend 
+

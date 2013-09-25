@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 01:22:53 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: http://www.mercadolibre.com.ar/
+X-Nginx-Host: e-00001518
+X-Request-Id: 7bc9e62d-d670-4743-afed-6a5710b376fe
+X-D2id: 7bc9e62d-d670-4743-afed-6a5710b376fe
+

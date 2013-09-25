@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:22:57 GMT
+Server: Apache-Coyote/1.1
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Content-Length: 64046
+Set-Cookie: cookieUUID=18f98d48-255a-4e7a-90d7-6a83fe0aba13; Domain=.mail.com; Expires=Fri, 25-Sep-2015 03:22:57 GMT; Path=/
+Set-Cookie: cookieKID=kid%40autoref%40mail.com; Domain=.mail.com; Expires=Fri, 25-Oct-2013 03:22:57 GMT; Path=/
+Set-Cookie: cookiePartner=kid%40autoref%40mail.com; Domain=.mail.com; Expires=Fri, 25-Oct-2013 03:22:57 GMT; Path=/
+Set-Cookie: JSESSIONID=A9D2CFE65AB21FAB3E25002B23BC3F70; Path=/mailcom-webapp/; HttpOnly
+Cache-Control: no-cache
+Expires: 0
+Vary: Accept-Encoding
+Pragma: no-cache
+

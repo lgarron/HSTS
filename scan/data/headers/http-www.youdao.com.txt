@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:19:42 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Cache-Control: private
+Content-Language: en-US
+Set-Cookie: _PREF_ANONYUSER__MYTH=aGFzbG9nZ2VkPXRydWU=; domain=.youdao.com; path=/; expires=Thu, 25-Sep-2014 01:19:42 GMT
+Set-Cookie: OUTFOX_SEARCH_USER_ID=1507048763@171.65.249.4; domain=.youdao.com; expires=Fri, 18-Sep-2043 01:19:42 GMT
+Set-Cookie: JSESSIONID=abcuQrkJTo3hN-dq0Ssfu; path=/
+

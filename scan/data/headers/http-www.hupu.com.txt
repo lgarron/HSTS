@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: [SA: HC-zh-jh-M-D-WEB-28 ][AD: http://m.hoopchina.com ]
+Date: Wed, 25 Sep 2013 00:44:12 GMT
+Content-Type: text/html
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Server: hc-r0-data-02
+

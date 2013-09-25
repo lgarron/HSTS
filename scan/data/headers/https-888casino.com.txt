@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 148
+Content-Type: text/html; charset=UTF-8
+Location: http://www.888casino.com/
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+srv: 42310324
+P3P: CP="Read our privacy policy at http://www.888.com/security-and-privacy/privacy-policy.htm"
+Date: Wed, 25 Sep 2013 03:20:54 GMT
+

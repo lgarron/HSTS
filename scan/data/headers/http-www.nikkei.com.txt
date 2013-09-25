@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache,no-store,must-revalidate,proxy-revalidate
+Pragma: no-cache
+Content-Language: ja
+Vary: Accept-Encoding
+Content-Type: text/html;charset=utf-8
+Content-Length: 97664
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 02:09:20 GMT
+Age: 37
+Connection: keep-alive
+

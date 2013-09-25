@@ -1,0 +1,8 @@
+HTTP/1.0 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:25:14 GMT
+Server: Apache
+Location: http://www.dummies.com/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

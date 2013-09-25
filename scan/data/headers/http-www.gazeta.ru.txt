@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:28:05 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: keep-alive
+Accept-Ranges: bytes
+Cache-Control: max-age=60
+Expires: Wed, 25 Sep 2013 03:29:05 GMT
+Access-Control-Allow-Origin: *
+X-Frontend: 9
+

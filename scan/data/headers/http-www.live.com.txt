@@ -1,0 +1,24 @@
+HTTP/1.1 302 Found
+Cache-Control: no-cache, no-store, must-revalidate, no-transform
+Pragma: no-cache
+Content-Length: 340
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1380070084&rver=6.1.6206.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1033&id=64855&mkt=en-US&cbcxt=mai&snsc=1
+Server: Microsoft-IIS/7.5
+X-Wlp-StartTime: 9/25/2013 12:48:04 AM
+xxn: 13
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+Set-Cookie: KVC=17.1.6915.6000; domain=.mail.live.com; path=/
+Set-Cookie: KVC=17.1.6915.6000; domain=.mail.live.com; path=/
+Set-Cookie: KSC=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: kr=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: bsc=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: rru=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: prc=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: mt=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: DWN=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+MSNSERVER: H: BAY152-W13 V: 17.1.6915.6000 D: 2013-09-15T07:15:47
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 00:48:03 GMT
+

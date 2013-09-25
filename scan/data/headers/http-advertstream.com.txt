@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:22:28 GMT
+Server: Apache/2.2.15 (Unix) PHP/5.2.13
+Location: http://www.advertstream.com/
+Content-Type: text/html; charset=iso-8859-1
+

@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved permanently
+Date: Wed, 25 Sep 2013 00:51:27 GMT
+Content-Length: 0
+Content-Type: text/html
+Connection: Keep-Alive
+Location: http://www.skyrock.com/
+

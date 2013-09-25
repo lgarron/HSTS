@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.2
+Content-Type: text/html
+Last-Modified: Wed, 11 Sep 2013 20:39:28 GMT
+ETag: "5230d500-de6"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-ServerID: w3
+Content-Length: 3558
+Date: Wed, 25 Sep 2013 00:55:29 GMT
+X-Varnish: 467673666 467673374
+Age: 17
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT
+Set-Cookie: NSC_S10=10366e343660;expires=Wed, 25-Sep-13 01:32:16 GMT;path=/
+

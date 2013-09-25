@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.2
+Date: Wed, 25 Sep 2013 03:21:06 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-Powered-By: PHP/5.4.8
+Set-Cookie: __emai_invitation=0; path=/; domain=emai.com
+Set-Cookie: __emai_returnurl=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=emai.com
+Set-Cookie: __emai_invitetype=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=emai.com
+Set-Cookie: timestamp=1380079355000
+Set-Cookie: sign=6ECBA78212E1E2A2E8A938B5A277949D
+Set-Cookie: PHPSESSID=ta2b7opnmt3lebi9jqhvdn7lp1; expires=Wed, 25-Sep-2013 13:22:35 GMT; path=/; domain=emai.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+

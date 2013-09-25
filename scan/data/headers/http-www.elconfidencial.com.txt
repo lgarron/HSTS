@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Cache-Control: public, max-age=60
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:24:00 GMT
+Expires: Wed, 25 Sep 2013 03:25:00 GMT
+Last-Modified: Wed, 25 Sep 2013 03:23:11 GMT
+Server: ECAcc (lax/2845)
+X-Cache: HIT
+Content-Length: 41571
+

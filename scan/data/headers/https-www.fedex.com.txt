@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:07:18 GMT
+Server: Apache/2.2
+Set-Cookie: fdx_cbid=30207856121380071238056680298021; path=/; expires=Tue, 20-Sep-33 01:07:18 GMT; domain=.fedex.com
+Last-Modified: Sun, 08 May 2011 06:37:13 GMT
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Type: text/html
+

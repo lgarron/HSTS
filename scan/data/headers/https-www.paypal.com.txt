@@ -1,0 +1,21 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=14400
+Location: https://www.paypal.com/home
+Strict-Transport-Security: max-age=14400
+Content-Type: text/html
+DC: slc-b-origin-www-2.paypal.com
+Date: Wed, 25 Sep 2013 00:55:52 GMT
+Connection: keep-alive
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ChuXG8Qj38SF23vVzm9bRJbhS--sGB8fDDCbKedjXSX8N4a9i6hfCtyByiMdiemmTEokVq1atopbdaRbGUm9vremWmgKArRi20oGzDxKWHobWsWT9z7G6Qw_1S_OYWZ6Zi14HTM8pNLwFsrFoPfY_W7JqJNi86eEh8T7Pu3eI_F71qhLlbWYkl2JXRFaDAabcjePajDTVqRHrdjhQMaQB5cZVKzu2v6cBUbzI_-1VOoADxtbGkjrFx4FgSa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: KHcl0EuY7AKSMgfvHl7J5E7hPtK=jssJaCQZRWqU9rBEsFl1Z-aYWf0WXmIDRL1nm1ZLlnKmA61s1KjG8f2Duhu5U4NiNOAF7uFWWfczyfNf; expires=Tue, 20-Sep-2033 00:55:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 23-Sep-2023 00:55:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: consumer_display=USER_HOMEPAGE%3d0%26USER_TARGETPAGE%3d0%26USER_FILTER_CHOICE%3d0%26BALANCE_MODULE_STATE%3d1%26GIFT_BALANCE_MODULE_STATE%3d1%26LAST_SELECTED_ALIAS_ID%3d0%26SELLING_GROUP%3d1%26PAYMENT_AND_RISK_GROUP%3d1%26SHIPPING_GROUP%3d1%26HOME_VERSION%3d1%26MCE2_ELIGIBILITY%3d4294967295; expires=Sat, 23-Sep-2023 00:55:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.137.1380070552072341; path=/; expires=Fri, 18-Sep-43 00:55:52 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2553561682; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.74.8.55.1380070552062251; path=/; expires=Fri, 18-Sep-43 00:55:52 GMT
+Set-Cookie: DC=slc-b-origin-www-2.paypal.com; secure
+Set-Cookie: aksession=1380070852~id=cookieR3x+xpPRXgla2FCUB2IKg76WOpSKTrFnzT12KFktbgvUDvKSTbFURqzWLjq26j3ymYjxl6hxK12xCEbxHkOl7pvvH3p692w0as+pGacUszhjH7bxX/jARKgRxR6tGmIKjXk3qW1pWek=; expires=Wed, 25-Sep-2013 01:00:52 GMT; path=/; domain=.paypal.com
+

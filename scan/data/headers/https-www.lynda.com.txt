@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Set-Cookie: ARPT=WNXOUVSw14-224CKIWI; path=/
+Cache-Control: private
+Content-Length: 138
+Content-Type: text/html; charset=utf-8
+Location: http://www.lynda.com/
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: token=3bcc2e8f-936a-4488-adc2-eb665275e11d,fd6fd4d6ae499f920921aed6682d3a67,1Tvb6qPgWQcxkLseOu4tFxsKZwCQH9bQ3Fdjf7ABvx3UJeHyrevPVXMzCEH73nzsap2Kque/AZntwikyDpViTSXeb24Sa/tZ5C+zQYHCHMSOuQV+a+01F/WpJKKzTB8k; expires=Wed, 25-Sep-2013 07:23:57 GMT; path=/; HttpOnly
+Set-Cookie: player_settings_0_1=player_type=2&video_format=2&cc_status=2&window_extra_height=148&volume_percentage=50&reset_on_plugins=True; expires=Tue, 15-Oct-2013 03:23:57 GMT; path=/
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:23:57 GMT
+

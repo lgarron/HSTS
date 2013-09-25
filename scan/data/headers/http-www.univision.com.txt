@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:43:19 GMT
+Server: Apache
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Set-Cookie: JSESSIONID=77CDBD8FB58543DE96D02663B09624F2.u1242-node3; Path=/
+Set-Cookie: q=49503d3132382e31322e3234342e347c543d2d382e307c4c3d483a54587c433d3232337c533d63617c5a3d39343330357c443d3830377c4d3d7374616e666f72647c483d3635307c414f4c3d307c544c3d6564757c534c3d7374616e666f72647c49523d6669786564; Domain=univision.com; Expires=Sun, 24-Nov-2013 03:43:19 GMT; Path=/
+Set-Cookie: bs=l; Domain=.univision.com; Expires=Fri, 25-Oct-2013 03:43:19 GMT; Path=/
+Vary: User-Agent,Accept-Encoding
+Cneonction: close
+Content-Type: text/html;charset=UTF-8
+

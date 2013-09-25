@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Last-Modified: Wed, 25 Sep 2013 03:38:49 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Language: de-DE
+Date: Wed, 25 Sep 2013 03:39:28 GMT
+Connection: keep-alive
+Cache-Control: proxy-revalidate,max-age=60
+

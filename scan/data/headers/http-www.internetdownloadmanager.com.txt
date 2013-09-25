@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:36:09 GMT
+Server: Apache/2.2.15 (Red Hat)
+Set-Cookie: IDM=128.12.244.4.1380080169250787; path=/; expires=Fri, 03-Jan-14 03:36:09 GMT; domain=.internetdownloadmanager.com
+Last-Modified: Wed, 18 Sep 2013 14:39:50 GMT
+ETag: "a615b9-4001-4e6a968ea9bb5"
+Accept-Ranges: bytes
+Content-Length: 16385
+Content-Type: text/html; charset=UTF-8
+

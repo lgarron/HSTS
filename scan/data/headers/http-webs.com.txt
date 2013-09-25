@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Set-Cookie: FW_PIN_HASH=R1840566129; path=/
+Server: Apache-Coyote/1.1
+P3P: CP="Potato"
+Set-Cookie: JSESSIONID=57F69FB2F63E4F525395F5DE8E0B15FA; Path=/
+Cache-Control: no-cache
+expires: now
+Location: http://www.webs.com/
+Connection: close
+Content-Type: text/html
+Content-Length: 104
+Date: Wed, 25 Sep 2013 01:22:34 GMT
+

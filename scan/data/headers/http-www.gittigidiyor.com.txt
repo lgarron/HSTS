@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:31:09 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=fv7ocu2q8n8pno1t3khab6cnd0; path=/; domain=.gittigidiyor.com; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: ggv=e150d5b18709e67603c4ac5ec44c4488d55a13ff; expires=Fri, 03-Jan-2014 03:31:09 GMT; path=/; domain=.gittigidiyor.com; httponly
+Set-Cookie: abtest=IBC1; expires=Sat, 20-Sep-2014 03:31:09 GMT; path=/; domain=.gittigidiyor.com; httponly
+Set-Cookie: SCNumber=139558483; expires=Fri, 25-Oct-2013 03:31:09 GMT; path=/; domain=.gittigidiyor.com; httponly
+X-SN: Cihad
+Content-Type: text/html; charset=ISO-8859-9
+

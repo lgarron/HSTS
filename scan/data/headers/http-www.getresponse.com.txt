@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:49:13 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: marketing=jlms3jj4vna2vtanr8mcahp8o4; path=/; domain=.getresponse.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: allow_for_mobile=1; expires=Thu, 25-Sep-2014 00:49:13 GMT; path=/; domain=getresponse.com
+Set-Cookie: timeout=logout_43200; expires=Wed, 25-Sep-2013 12:49:13 GMT; path=/; domain=getresponse.com
+Set-Cookie: Coyote-2-cf08c608=c0a80051:0; path=/
+

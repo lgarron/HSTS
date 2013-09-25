@@ -1,0 +1,17 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 01:21:44 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=6f8c2e9d1f9db8d0a76d3b6cf08bb8f7; path=/; domain=softonic.com
+Set-Cookie: softonic_es-admin=deleted; expires=Tue, 25-Sep-2012 01:21:43 GMT; path=/; domain=softonic.com
+Set-Cookie: blang=_; expires=Thu, 25-Sep-2014 01:21:44 GMT; path=/; domain=softonic.com
+Set-Cookie: country=US; expires=Thu, 25-Sep-2014 01:21:44 GMT; path=/; domain=softonic.com
+Set-Cookie: ucountry=NA; expires=Thu, 25-Sep-2014 01:21:44 GMT; path=/; domain=softonic.com
+Set-Cookie: sads_country=US; expires=Thu, 25-Sep-2014 01:21:44 GMT; path=/; domain=softonic.com
+Set-Cookie: sads_browser=Default+Browser; expires=Thu, 25-Sep-2014 01:21:44 GMT; path=/; domain=softonic.com
+Set-Cookie: entry=Direct; expires=Thu, 25-Sep-2014 01:21:44 GMT; path=/; domain=softonic.com
+Set-Cookie: softonic_es-sads=deleted; expires=Tue, 25-Sep-2012 01:21:43 GMT; path=/; domain=softonic.com
+Location: http://www.softonic.com/mac
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html; charset=utf-8
+

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:25:43 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=14d793658bf56b746e8ff2f90cdfb222; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: browser=ok; expires=Sat, 26-Oct-2013 03:25:43 GMT
+Set-Cookie: cookie_notified=1; expires=Thu, 25-Sep-2014 03:25:43 GMT; path=/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+

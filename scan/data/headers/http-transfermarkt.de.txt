@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 03:32:16 GMT
+Content-Type: text/html
+Connection: keep-alive
+X-Powered-By: PHP/5.4.14
+Location: http://www.transfermarkt.de/
+Set-Cookie: _mcnc=1; Max-Age=2; Path=/
+

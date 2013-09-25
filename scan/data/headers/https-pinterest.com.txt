@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Accept-Ranges: bytes
+Age: 0
+Content-length: 178
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 00:55:37 GMT
+Location: http://www.pinterest.com/
+Server: nginx
+Via: 1.1 varnish
+X-Varnish: 1008073154
+Connection: keep-alive
+

@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.lt/
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:22:53 GMT
+Expires: Fri, 25 Oct 2013 03:22:53 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 218
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+

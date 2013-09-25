@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:21:28 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Location: http://www.verizon.net/central
+Set-Cookie: ASP.NET_SessionId=ptdnyijzcjuoseuklgzjz2r2; path=/; HttpOnly
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Length: 147
+

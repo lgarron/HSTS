@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2
+Location: http://www.ilmeteo.it/
+Content-Type: text/html; charset=iso-8859-1
+X-Cacheable: YES
+Content-Length: 230
+Date: Wed, 25 Sep 2013 03:23:00 GMT
+X-Varnish: 181905797 181892917
+Age: 201
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT
+X-Cache-Hits: 3
+X-FE: 10
+

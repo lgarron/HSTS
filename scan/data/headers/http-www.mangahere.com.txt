@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:41:51 GMT
+Content-Type: text/html; charset=utf8
+Connection: keep-alive
+Set-Cookie: PHPSESSID=f8iojitaefbr96p8n1vfovmr00; path=/
+Pragma: no-cache
+Set-Cookie: session=session_count; expires=Wed, 25-Sep-2013 03:51:51 GMT; path=/; domain=.mangahere.com
+Last-Modified: Wed, 25 Sep 2013 03:30:00 GMT
+Cache-Control: max-age=900, must-revalidate
+Expires: Wed, 25 Sep 2013 03:56:51 GMT
+

@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.gazeta.pl/0,0.html
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 00:44:05 GMT
+X-Varnish: 1552240863
+Age: 0
+Connection: keep-alive
+X-Cache: MISS
+Via: hp_cache47
+

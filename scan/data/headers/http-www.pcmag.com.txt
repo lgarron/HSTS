@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+ETag: "f98de17988b9ce1:0"
+Last-Modified: Wed, 25 Sep 2013 00:45:05 GMT
+Prxy: PROXY02
+Server: Microsoft-IIS/7.5
+SvrName: MVC4
+X-Cache-Hits: 3
+X-Powered-By: ASP.NET
+X-Powered-By: ASP.NET
+X-Varnish: 177571847 177570848
+Cache-Control: max-age=120
+Date: Wed, 25 Sep 2013 00:48:50 GMT
+Connection: keep-alive
+

@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.lavanguardia.com/index.html
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 03:29:16 GMT
+Connection: keep-alive
+

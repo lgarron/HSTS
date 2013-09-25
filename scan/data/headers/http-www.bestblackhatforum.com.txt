@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:13:53 GMT
+Server: LiteSpeed
+Connection: close
+X-Powered-By: PHP/5.3.21
+Set-Cookie: mybb[lastvisit]=1380071633; expires=Thu, 25-Sep-2014 01:13:53 GMT; path=/; domain=.bestblackhatforum.com
+Set-Cookie: mybb[lastactive]=1380071633; expires=Thu, 25-Sep-2014 01:13:53 GMT; path=/; domain=.bestblackhatforum.com
+Set-Cookie: sid=3bf59d9bdcffdb8b47acb4f14b9fb5d3; path=/; domain=.bestblackhatforum.com; HttpOnly
+Content-Type: text/html; charset=UTF-8
+

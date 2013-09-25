@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:48:41 GMT
+Server: Apache
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Set-Cookie: GEO-171_65_249_4=usa%3A%3Astanford%3A%3A037.417%3A%3A-122.167%3A%3At1%3A%3Aca; expires=Wed, 25-Sep-2013 01:48:41 GMT; path=/
+Set-Cookie: GEO-171_65_249_4=usa%3A%3Astanford%3A%3A037.417%3A%3A-122.167%3A%3At1%3A%3Aca; expires=Wed, 25-Sep-2013 01:48:41 GMT; path=/
+X-AOL-SNH: d4256f665fb2c5309b0c060401507a4d
+Vary: User-Agent
+Content-Type: text/html
+

@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:22:40 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=555646acf0ffa61fca2db4fdab0cfd3f; path=/; domain=.otomoto.pl
+Expires: Wed, 25 Sep 2013 03:32:40 GMT
+Cache-Control: 
+Pragma: 
+Content-Type: text/html; charset=UTF-8
+

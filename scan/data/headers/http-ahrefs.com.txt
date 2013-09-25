@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.2.1
+Date: Wed, 25 Sep 2013 01:19:22 GMT
+Content-Type: text/html
+Connection: keep-alive
+X-Powered-By: PHP/5.4.4-14+deb7u3
+Set-Cookie: PHPSESSID=cb1hig20lanp5pei0qiqa32js3; expires=Fri, 25-Oct-2013 01:19:22 GMT; path=/; domain=.ahrefs.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: https://ahrefs.com
+Vary: Accept-Encoding
+

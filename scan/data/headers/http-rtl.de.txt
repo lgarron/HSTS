@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:27:55 GMT
+Server: Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8g
+Location: http://www.rtl.de/
+Content-Type: text/html; charset=iso-8859-1
+

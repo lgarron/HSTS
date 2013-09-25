@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:53:40 GMT
+P3P: policyref="http://privacy.yahoo.co.jp/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+Expires: -1
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+X-XRDS-Location: http://open.login.yahoo.co.jp/openid20/www.yahoo.co.jp/xrds
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=utf-8
+

@@ -1,0 +1,10 @@
+HTTP/1.1 405 MethodNotAllowed
+Server: nginx
+Date: Wed, 25 Sep 2013 00:39:43 GMT
+Content-Type: text/html; charset=ISO-8859-1
+Connection: keep-alive
+x-amz-id-1: 0CS75G8HR3E1SF47CREG
+allow: POST, GET
+x-amz-id-2: xyyL+PhU3OJMxv3PElGDrn4yds1acrMRjLqHxM7L1SfztJQS5MkDIGP6EH68YSmt
+Vary: Accept-Encoding,User-Agent
+

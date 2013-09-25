@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 00:48:52 GMT
+Content-Type: text/html; Charset=windows-1256
+Connection: keep-alive
+Set-Cookie: __cfduid=dc0b18a10ea969717056986ee7a1729b81380070132185; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.youm7.com
+Set-Cookie: __cfduid=dc0b18a10ea969717056986ee7a1729b81380070132185; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.youm7.com
+Cache-Control: public, max-age=300
+Pragma: no-cache
+Expires: Wed, 25 Sep 2013 00:53:52 GMT
+X-Powered-By: ASP.NET
+Vary: Accept-Encoding
+X-Varnish: 1225286595 1225285758
+Age: 7
+Via: 1.1 varnish
+CF-Cache-Status: HIT
+CF-RAY: b33b6162132070d
+

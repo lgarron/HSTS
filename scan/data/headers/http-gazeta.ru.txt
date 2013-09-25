@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 03:28:05 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 304
+Connection: keep-alive
+Location: http://www.gazeta.ru/
+Cache-Control: max-age=60
+Expires: Wed, 25 Sep 2013 03:27:05 GMT
+X-Frontend: 11
+

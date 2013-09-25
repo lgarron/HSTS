@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/0.7.61
+Date: Wed, 25 Sep 2013 02:02:11 GMT
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=20
+Content-Length: 184
+Location: http://www.zimbio.com/
+

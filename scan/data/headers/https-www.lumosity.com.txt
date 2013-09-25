@@ -1,0 +1,22 @@
+HTTP/1.1 302 Found
+Server: nginx/1.0.15
+Date: Wed, 25 Sep 2013 01:31:47 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Status: 302 Found
+Location: http://www.lumosity.com/
+Content-Language: en
+X-Transaction: 1647b3cb-7724-434f-9d7b-bde94f7e011f
+X-Served-By: app37.sl.lumoslabs.com
+X-Revision: e1a0f574a5f3e9732fcff4caeb987e00dae53217
+X-UA-Compatible: IE=Edge
+Cache-Control: no-cache
+Set-Cookie: _session_id=a2bcce7291d90a68dcb61bf7fa616d6f; path=/; expires=Fri, 25-Oct-2013 01:31:47 GMT; HttpOnly
+Set-Cookie: ll_et3_c=%7B%22_s%22%3A%7B%22id%22%3A%225051679b-2b01-46a8-a6f1-59ca04442c1b%22%2C%22timestamp%22%3A1380072707803%2C%22prop_map%22%3A%7B%22http_user_agent%22%3A%22curl%2F7.24.0+%28x86_64-apple-darwin12.0%29+libcurl%2F7.24.0+OpenSSL%2F0.9.8y+zlib%2F1.2.5%22%7D%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Fri, 25-Sep-2015 13:31:47 GMT
+Set-Cookie: ll_et3_v=%7B%22_s%22%3A%7B%22id%22%3A%224f61c13f-84e7-48c2-904e-a56b7669f523%22%2C%22timestamp%22%3A1380072707805%2C%22prop_map%22%3A%7B%22ll_channel%22%3A%22direct%22%2C%22ll_source%22%3A%22direct%22%2C%22ip_address%22%3A%22171.65.239.131%22%2C%22referrer%22%3Anull%7D%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Wed, 25-Sep-2013 02:01:47 GMT
+Set-Cookie: ll_et3_a=%7B%22_s%22%3A%7B%22id%22%3A%22fa0dd93d-bcb0-443d-ac7a-c53add35e4de%22%2C%22timestamp%22%3A1380072707816%2C%22prop_map%22%3A%7B%7D%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Fri, 25-Sep-2015 01:31:47 GMT
+Content-Length: 90
+X-Request-Id: a02271113a546d8fb1de2ddbde68bf4a
+X-Runtime: 0.026698
+X-Rack-Cache: miss
+

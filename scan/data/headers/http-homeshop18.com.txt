@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:32:25 GMT
+Server: Apache
+Set-Cookie: amfID=generic_curl_based_crawler; path=/;
+Location: http://www.homeshop18.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: NSC_Dpo_cfub.ipnftipq18.dpn=ffffffffaf181e2d45525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 03:57:18 GMT;path=/;httponly
+

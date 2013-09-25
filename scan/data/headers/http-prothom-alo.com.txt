@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:19:59 GMT
+Server: Apache
+location: http://www.prothom-alo.com/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

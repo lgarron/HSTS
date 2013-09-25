@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:25:44 GMT
+Server: Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_fcgid/2.3.6
+X-Powered-By: PHP/5.3.24
+Cache-Control: private
+Pragma: private
+Set-Cookie: bb_sessionhash=bc7db2af3db23f57729d7b8f79386751; path=/; HttpOnly
+Set-Cookie: bb_lastvisit=1380079544; expires=Thu, 25-Sep-2014 03:25:44 GMT; path=/
+Set-Cookie: bb_lastactivity=0; expires=Thu, 25-Sep-2014 03:25:44 GMT; path=/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=ISO-8859-1
+

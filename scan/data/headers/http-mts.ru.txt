@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Content-Length: 135
+Location: http://www.mts.ru/
+Server: Microsoft-IIS/8.0
+Compression-Control: whitespace
+X-Powered-By: ASP.NET
+Set-Cookie: ARRAffinity=737ac14220c46a352dce8e2b147bd1906c156ab3dd62aaeab27df3dec5ef2e7f;Path=/;Domain=mts.ru
+X-Powered-By: ARR/2.5
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:26:59 GMT
+

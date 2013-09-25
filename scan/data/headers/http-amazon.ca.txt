@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:08:13 GMT
+Server: Server
+Location: http://www.amazon.ca/
+Content-Type: text/html; charset=iso-8859-1
+

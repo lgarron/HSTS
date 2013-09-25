@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:59:48 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Keep-Alive: timeout=60
+Server: Apache
+Accept-Ranges: bytes
+P3P: policyref="/bitrix/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+X-Powered-CMS: Bitrix Site Manager (dcbd87914fa67ed957b5d46445a8fc11)
+Set-Cookie: PHPSESSID=vmtpq7l5333utmfhomu1a89dr2; path=/; domain=www.searchengines.ru
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: BITRIX_SM_MobileVersion=N; expires=Sat, 20-Sep-2014 01:59:48 GMT; path=/; domain=www.searchengines.ru
+

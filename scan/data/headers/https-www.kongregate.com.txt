@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 03:21:28 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Status: 302 Found
+P3P: CP="ALL ADM DEV PSAi COM OUR OTRo STP IND ONL"
+Location: http://www.kongregate.com/
+X-UA-Compatible: IE=Edge,chrome=1
+Cache-Control: no-cache
+X-Runtime: 0.004280
+

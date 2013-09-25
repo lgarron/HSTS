@@ -1,0 +1,7 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Tengine
+Date: Wed, 25 Sep 2013 00:45:11 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: http://jump.taobao.com/jump?target=http%3A%2F%2Fwww.etao.com%2F%3Ftbpm%3D20130925
+

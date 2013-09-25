@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:15:24 GMT
+Server: Apache
+Vary: Host,Accept-Encoding
+Set-Cookie: SITESERVER=ID=589c790d00000141516be1df3ef40016; Domain=.priceline.com; Expires=Fri, 18-Sep-2043 01:15:24 GMT; Path=/
+Set-Cookie: JSessionKey=364a050a334a050a20130925011524708020223686; Domain=.priceline.com; Path=/
+Set-Cookie: vid=v2013092501152470802022; Domain=.priceline.com; Path=/
+Set-Cookie: JSESSIONID=E20D9A71D6A87FAABCFE68AF278B8D89; Path=/landing
+Content-Language: en-US
+Content-Length: 98250
+WSHeader: ws=h422 D=350405 NT=351
+P3P: policyref="http://www.priceline.com/w3c/p3p_default_policy.xml",CP="CAO DSP COR CURa ADMa DEVo TAIo PSAa PSDa OUR OTRa IND ONL PUR NAV INT CNT STA PRE"
+Content-Type: text/html;charset=ISO-8859-1
+

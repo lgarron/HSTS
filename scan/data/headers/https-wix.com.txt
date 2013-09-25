@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+X-Seen-By: sputnik4.aus_dsp
+Date: Wed, 25 Sep 2013 00:43:42 GMT
+Server: public.apu8.aus.wixpress.com
+Cache-Control: no-cache
+Pragma: no-cache
+Location: http://www.wix.com/
+X-Wix-Redirect-Reason: com.wixpress.dispatch.processors.AddWwwDispatchProcessor
+X-Wix-Redirected-From: http://wix.com/
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Language: en
+Set-Cookie: hasBeenRedirected=true;Path=/;Domain=.wix.com;Expires=Wed, 25-Sep-2013 00:44:12 GMT
+Via: 1.0 wix.com
+Content-Type: text/plain
+

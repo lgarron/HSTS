@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: sessionId=ZDA5ZDgzOTYtM2Y4OS00ZjBiLWE3NTUtMDQ1MThjYzYwNmUxo6b4; Expires=Tue, 15-Oct-2013 23:31:12 GMT; Path=/
+Set-Cookie: wuid=NGMxMWY5YjItNjVlZi00YmE2LTlhMjAtYTE0YjcyM2ZmNDQwo6b4; Expires=Thu, 25-Sep-2014 03:31:12 GMT; Path=/
+Set-Cookie: seenUser=dHJ1ZQ%3D%3Do6b4; Expires=Tue, 24-Dec-2013 03:31:12 GMT; Path=/
+Set-Cookie: supportsCookies=dHJ1ZQ%3D%3Do6b4; Path=/
+Cache-Control: no-cache
+Set-Cookie: JSESSIONID=B621A278A1145148ECA1BB846D0F4001; Path=/; HttpOnly
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Content-Length: 0
+Date: Wed, 25 Sep 2013 03:31:11 GMT
+

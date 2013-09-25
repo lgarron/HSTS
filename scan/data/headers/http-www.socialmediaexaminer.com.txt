@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: Apache
+Last-Modified: Wed, 25 Sep 2013 03:13:33 GMT
+Expires: Wed, 25 Sep 2013 04:13:33 GMT
+Pragma: public
+Cache-Control: max-age=2814, public, must-revalidate, proxy-revalidate
+Etag: e69f7b7d1f28061da2ea25543b599ec9
+X-Powered-By: W3 Total Cache/0.9.3
+Vary: Accept-Encoding,User-Agent
+X-Pingback: http://www.socialmediaexaminer.com/xmlrpc.php
+Content-Type: text/html; charset=UTF-8
+X-Cache-ttl: 2814.000
+X-Cookie-Debug: Request cookie: 
+Date: Wed, 25 Sep 2013 03:26:40 GMT
+X-Varnish: 197006430
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: MISS
+

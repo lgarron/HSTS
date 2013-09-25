@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 02:36:11 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=df9924131e714276635f6a6587967cd5f1380076571130; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.sabq.org
+Set-Cookie: __cfduid=df9924131e714276635f6a6587967cd5f1380076571130; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.sabq.org
+Location: http://sabq.org/
+Set-Cookie: SABQ_WEBSERVERS=SABQ_APP6; path=/
+CF-RAY: b345349998f0663
+

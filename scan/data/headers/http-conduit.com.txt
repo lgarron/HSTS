@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Location: http://www.conduit.com/
+Server: BigIP
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:13:53 GMT
+Connection: Keep-Alive
+

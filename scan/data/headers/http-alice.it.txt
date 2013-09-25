@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:23:06 GMT
+Server: Apache
+Location: http://www.telecomitalia.it/?ref=1
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: cookie_www.187.alice.it=2871373066.36895.0000; path=/
+

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Content-Length: 74445
+Content-Type: text/html
+Last-Modified: Tue, 24 Sep 2013 23:42:18 GMT
+Accept-Ranges: bytes
+ETag: W/"a892d2b47fb9ce1:0"
+Server: Microsoft-IIS/7.5
+Set-Cookie: TLTSID=631E398E449C56D498D759A572BC8A7B; Path=/; Domain=.t-mobile.com
+Set-Cookie: TLTUID=631E398E449C56D498D759A572BC8A7B; Path=/; Domain=.t-mobile.com; expires=Wed, 25-Oct-2023 03:25:41 GMT
+hostname: 41tmoprod
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,PUT,POST,DELETE,OPTIONS
+Access-Control-Allow-Headers: Content-Type
+Date: Wed, 25 Sep 2013 03:25:41 GMT
+

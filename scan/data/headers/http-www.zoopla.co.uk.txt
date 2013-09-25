@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-control: no-cache
+Content-length: 123433
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:23:24 GMT
+Expires: Wed, 25 Sep 2013 03:23:24 GMT
+Pragma: no-cache
+Server: nginx/1.2.1
+Set-Cookie: zooplasid=5fdbd216de1fc4f55e1b971a04baa5e0; domain=zoopla.co.uk; path=/
+Vary: Accept-Encoding
+Vary: User-Agent
+X-Core-Mission: Empowering consumers with the resources they need to make better-informed property decisions
+X-Jobs: If you're reading this, maybe you should be working at Zoopla? Please visit www.zoopla.co.uk/jobs/
+X-Powered-By: Passion
+Connection: keep-alive
+

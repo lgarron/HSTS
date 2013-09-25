@@ -1,0 +1,13 @@
+HTTP/1.0 200 OK
+Server: RMW
+Content-Type: text/html
+Last-Modified: Wed, 25 Sep 2013 00:25:17 GMT
+Vary: Accept-Encoding
+Cache-Control: max-age=300
+Date: Wed, 25 Sep 2013 01:19:55 GMT
+X-Cache: HIT varnish02
+Age: 2767
+Content-Length: 0
+Powered-By-ChinaCache: HIT from 26030513b1
+Connection: close
+

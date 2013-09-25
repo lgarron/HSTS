@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+X-Powered-By: K2
+Vary: Accept
+Location: http://klout.com/
+Content-Type: text/plain
+Content-Length: 51
+Set-Cookie: pksid=s%3AUeWjeotcleXjiDMk44iATx0S.v0iLT9ueI%2FeOkA4kMGSyXDviMM1XgQm5cBR0bQspGM4; Domain=.klout.com; Path=/; Expires=Thu, 10 Oct 2013 00:03:46 GMT; HttpOnly
+Date: Wed, 25 Sep 2013 01:11:23 GMT
+Connection: close
+

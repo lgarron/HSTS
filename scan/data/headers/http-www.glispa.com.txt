@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Length: 19197
+Connection: keep-alive
+Date: Tue, 24 Sep 2013 17:22:09 GMT
+Server: Apache/2.2.4 (Linux/SUSE)
+X-Powered-By: PHP/5.2.9
+X-Pingback: http://www.glispa.com/xmlrpc.php
+Cache-Control: max-age=86400
+Expires: Wed, 25 Sep 2013 17:22:09 GMT
+Age: 28120
+Via: 1.0 dac6748f3b37696f23e09a9c9b599059.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Id: XJ0u8QnrMaQsgCanuFJKmmUluAYsuWe9b4YvI4UWpNqbWhUt3AlY2g==
+

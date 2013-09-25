@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Length: 958
+Content-Type: text/html
+Content-Location: http://www.fazenda.gov.br/index.htm
+Last-Modified: Fri, 11 May 2012 21:32:13 GMT
+Accept-Ranges: bytes
+ETag: "bec9f87bd2fcd1:e02"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:29:56 GMT
+

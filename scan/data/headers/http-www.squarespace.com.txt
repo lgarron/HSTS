@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+X-ServedBy: nyc-webster7.int.peer1.squarespace.net
+Set-Cookie: JSESSIONID=705B0A3D1D26EC7AC25D8047D6849DDD.nyc-webster7; Path=/; HttpOnly
+Set-Cookie: crumb=d312f466c6; Path=/
+Set-Cookie: SS_MID=d958cf63-5793-4815-8163-6fa572428ee3hlzxx8et; Domain=.squarespace.com; Expires=Sat, 23-Sep-2023 02:35:12 GMT; Path=/
+Set-Cookie: ss_lastvisit=1380076513441; Expires=Sat, 24-Sep-2016 02:35:13 GMT; Path=/
+Accept-Ranges: bytes
+ETag: W/"99ad4f20a60a387af5411ae2402c9677"
+X-PC-Date: Tue, 24 Sep 2013 18:32:55 GMT
+X-PC-Host: nyc-webster24.int.peer1.squarespace.net
+X-PC-Info: h=4.926861867014402, m=7.835571804101867, e=19.315723038121998, q=0.0
+X-PC-Key: v90KtEZQiEYnQdBJS1_-nVNRpgg-www
+Content-Type: text/html;charset=UTF-8
+Content-Length: 0
+Date: Wed, 25 Sep 2013 02:35:12 GMT
+Server: SSWS
+X-Via: 1.1 nyc-echo01
+X-ContextId: 5TWpuY7M
+

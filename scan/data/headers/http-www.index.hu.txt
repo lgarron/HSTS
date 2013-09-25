@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.0.4
+Date: Wed, 25 Sep 2013 02:35:13 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Location: http://index.hu/
+Vary: Accept-Encoding
+

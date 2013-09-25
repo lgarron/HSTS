@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:26:41 GMT
+Server: Apache
+Set-Cookie: soyMobileNew=3; expires=Fri, 25-Oct-2013 03:26:41 GMT; path=/; domain=.mediotiempo.com
+Set-Cookie: GeoIP=US; path=/; domain=.mediotiempo.com
+Set-Cookie: GeoIPCity=Stanford; path=/; domain=.mediotiempo.com
+Set-Cookie: GeoIPState=California; path=/; domain=.mediotiempo.com
+Content-Type: text/html; charset=ISO-8859-1
+

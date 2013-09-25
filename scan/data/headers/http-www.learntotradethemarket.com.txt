@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:25:11 GMT
+Server: Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/0.9.8m DAV/2 FrontPage/5.0.2.2635 mod_bwlimited/1.4 mod_auth_passthrough/2.1
+X-Powered-By: PHP/5.3.26
+X-Pingback: http://www.learntotradethemarket.com/xmlrpc.php
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+

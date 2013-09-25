@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Content-Length: 74449
+Content-Type: text/html
+Last-Modified: Tue, 24 Sep 2013 23:42:19 GMT
+Accept-Ranges: bytes
+ETag: W/"724756b57fb9ce1:0"
+Server: Microsoft-IIS/7.5
+Set-Cookie: TLTSID=64997D3A4E0F3E0C75CE3BAD41F3FEB8; Path=/
+Set-Cookie: TLTUID=64997D3A4E0F3E0C75CE3BAD41F3FEB8; Path=/; expires=Wed, 25-Oct-2023 03:25:41 GMT
+hostname: 02tmoprod
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,PUT,POST,DELETE,OPTIONS
+Access-Control-Allow-Headers: Content-Type
+Date: Wed, 25 Sep 2013 03:25:41 GMT
+

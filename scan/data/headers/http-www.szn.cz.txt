@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.3
+Date: Wed, 25 Sep 2013 03:32:28 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Expires: Thu, 1 Jan 1970 08:00:00 GMT
+Cache-Control: no-cache="set-cookie"
+Set-Cookie: ls=seznam:seznam.cz:0:0; Domain=szn.cz; expires=Thu, 25-Sep-2014 05:32:28 GMT; Max-Age=31536000; Path=/; HttpOnly
+Cache-Control: max-age=0, no-cache, must-revalidate
+Pragma: no-cache
+P3P: policyref="/w3c/p3p.xml", CP="CAO DSP COR CURa DEVa IVAa OUR IND STA"
+X-FRAME-OPTIONS: DENY
+

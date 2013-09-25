@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:29:05 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=db435f2b538f27170e25f3b7aeee624351380079745959; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.el-balad.com
+Set-Cookie: __cfduid=db435f2b538f27170e25f3b7aeee624351380079745959; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.el-balad.com
+Location: http://www.el-balad.com/
+CF-RAY: b34a0cc36b50651
+

@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Vary: Host,Accept-Encoding
+Location: http://www.leparisien.fr/
+Cache-Control: max-age=120
+Expires: Wed, 25 Sep 2013 03:24:10 GMT
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 03:23:09 GMT
+Age: 59
+Connection: keep-alive
+X-VarnCache: HIT 8
+X-Powered-By: Oxalide [01]
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Apache
+Content-Location: welcome.html.en-us
+Vary: negotiate,accept,accept-language,cookie
+TCN: choice
+Accept-Ranges: bytes
+Cache-Control: private, max-age=0
+Expires: Wed, 25 Sep 2013 03:25:35 GMT
+Content-Type: text/html
+Content-Language: en-us
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:25:19 GMT
+X-Varnish: 1111094672
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Origin: g5t2554
+X-Cache: MISS
+

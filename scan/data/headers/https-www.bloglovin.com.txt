@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.6
+Date: Wed, 25 Sep 2013 00:51:27 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: bloglovin[session]=ses_id5242338f4a1139.49180501fdbfd32468d4dba2c12960e592f296b258e46afc12560bd5a2d4cec0e02d21dc42bb85; expires=Thu, 26-Sep-2013 00:51:27 GMT; path=/; domain=.bloglovin.com; httponly
+Accept-Ranges: bytes
+X-Varnish: 2905186828
+Age: 0
+Via: 1.1 varnish
+X-Backend: cache2
+

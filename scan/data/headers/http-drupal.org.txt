@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: https://drupal.org/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 287
+Date: Wed, 25 Sep 2013 03:21:27 GMT
+X-Varnish: 1780587814 1780406572
+Age: 2252
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache-Svr: www6.drupal.org
+X-Cache: HIT
+X-Cache-Hits: 177
+

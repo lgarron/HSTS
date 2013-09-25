@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:31:57 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: http://www.britishairways.com/
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: BIGipServerba.com-port80=1148757667.20480.0000; path=/
+

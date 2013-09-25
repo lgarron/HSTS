@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/5.4.6-2~precise+1
+cache-control: public
+etag: "3a97500fdf0bc8a3df9d31ab970a10bb"
+last-modified: Wed, 25 Sep 2013 01:22:13 GMT
+expires: Wed, 25 Sep 2013 01:42:43 GMT
+Set-Cookie: deflang=DE; expires=Sun, 24-Nov-2013 01:22:13 GMT; path=/; domain=.wetter.com
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:22:13 GMT
+X-Varnish: 252006176
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: MISS
+

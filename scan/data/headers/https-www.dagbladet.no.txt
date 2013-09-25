@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:43:45 GMT
+Server: Apache/1.3.42
+Cache-Control: no-cache
+Expires: Wed, 25 Sep 2013 03:47:05 GMT
+Content-Type: text/html
+Set-Cookie: AdUserID=128.12.244.4.1380080625137721; path=/; expires=Thu, 25-Sep-14 03:43:45 GMT; domain=.dagbladet.no
+Via: 1.1 www.dagbladet.no
+Vary: Accept-Encoding
+X-Host-Index: 22
+Pragma: no-cache
+

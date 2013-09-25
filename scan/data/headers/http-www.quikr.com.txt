@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-Powered-By: PHP/5.2.5
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 01:24:24 GMT
+Connection: keep-alive
+Set-Cookie: ipToCityStag=100%7C0%7C0; path=/; domain=quikr.com
+Set-Cookie: ipToCityEnabled=0%7C0%7C0; path=/; domain=quikr.com
+Set-Cookie: lctpop=2; path=/; domain=quikr.com
+Set-Cookie: chpBox=show; path=/; domain=quikr.com
+Set-Cookie: cvBox=show; path=/; domain=quikr.com
+Set-Cookie: icBox=show; path=/; domain=quikr.com
+Set-Cookie: cvStrip=show; path=/; domain=quikr.com
+Set-Cookie: chpStrip=show; path=/; domain=quikr.com
+Set-Cookie: abRand=33; path=/; domain=quikr.com
+Set-Cookie: prefer_city=deleted; expires=Tue, 25-Sep-2012 01:24:23 GMT; path=/; domain=quikr.com
+Set-Cookie: lytc=79; expires=Sat, 05-Oct-2013 01:24:24 GMT; path=/; domain=quikr.com
+Set-Cookie: ipToCityStag=100%7C1%7C1; path=/; domain=quikr.com
+Set-Cookie: searchcat=0; path=/; domain=.quikr.com
+

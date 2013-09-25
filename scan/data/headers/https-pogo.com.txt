@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Expires: 0
+Cache-Control: max-age=0, private
+Set-Cookie: prod.JID=311A90D480262DC9915DD6BBB0F5F195.000178; Domain=.pogo.com; Path=/
+Content-Language: en-US
+Location: https://www.pogo.com/home/root.do
+Content-Type: text/html;charset=UTF-8
+Content-Length: 0
+Date: Wed, 25 Sep 2013 03:20:52 GMT
+Server: Apache-Coyote/1.1
+

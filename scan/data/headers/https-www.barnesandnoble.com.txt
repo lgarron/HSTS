@@ -1,0 +1,13 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Jetty(7.2.2.v20101205)
+Expires: Thu, 01-Jan-1970 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Location: http://www.barnesandnoble.com/
+RTSS: 1-1309-1
+Date: Wed, 25 Sep 2013 00:59:36 GMT
+Connection: keep-alive
+Set-Cookie: SSLB=1; path=/; domain=.barnesandnoble.com
+Set-Cookie: JSESSIONID=12sab1ekz4zgqmg0ltnngecoppnjflite031380070776914;Path=/
+Set-Cookie: pds%5Flife=d=AQCZtlisviAKDE%2Bn6T8WpaQooZ3k3pKvpilnChYq5TjNZQ%3D%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Mon, 24-Sep-2018 00:59:36 GMT
+

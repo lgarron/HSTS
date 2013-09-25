@@ -1,0 +1,8 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Wed, 25 Sep 2013 03:28:31 GMT
+Server: Apache
+Location: http://www.gamebase.com.tw/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

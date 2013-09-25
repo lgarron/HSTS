@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:47:59 GMT
+Content-Type: text/html
+Connection: keep-alive
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: prf=ads%7C%7D572; expires=Tue, 19-Jan-2038 03:14:07 GMT; path=/
+Set-Cookie: v=1380070079_da0767c9-5218-4cb3-81da-bad931d79336_85e9f1742a567e043860ce51e4b93676; expires=Tue, 19-Jan-2038 03:14:07 GMT; path=/
+Vary: Accept-Encoding
+

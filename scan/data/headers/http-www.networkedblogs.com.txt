@@ -1,0 +1,8 @@
+HTTP/1.1 405 Method Not Allowed
+Content-Type: text/html; charset=UTF-8
+Allow: GET
+Content-Length: 0
+Date: Wed, 25 Sep 2013 02:35:35 GMT
+Server: Google Frontend
+Alternate-Protocol: 80:quic,80:quic
+

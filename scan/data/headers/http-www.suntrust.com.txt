@@ -1,0 +1,6 @@
+HTTP/1.0 302 Found
+Location: https://www.suntrust.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+

@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:25:46 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Set-Cookie: __cfduid=d08b1b5bba50f70b66a7e541befdd12b81380079546447; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.forobeta.com
+Set-Cookie: __cfduid=d08b1b5bba50f70b66a7e541befdd12b81380079546447; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.forobeta.com
+Location: http://forobeta.com/
+Vary: Accept-Encoding
+CF-RAY: b349bed458b0669
+

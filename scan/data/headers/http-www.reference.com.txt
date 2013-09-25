@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: Apache
+Cache-Control: private
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 25 Sep 2013 01:21:40 GMT
+Connection: keep-alive
+Set-Cookie: cu.wz=0; Domain=.reference.com; Expires=Thu, 25-Sep-2014 01:21:40 GMT; Path=/
+Set-Cookie: accepting=1; Domain=.reference.com; Expires=Thu, 25-Sep-2014 01:21:40 GMT; Path=/
+Set-Cookie: ab=200%3A0%2C203%3A1; expires=Thu, 25-Sep-2014 01:21:40 GMT; path=/; domain=.reference.com
+Set-Cookie: bid=UkI6pELreRAVzqPc; expires=Fri, 25-Sep-2015 01:21:40 GMT; path=/; domain=.reference.com
+Set-Cookie: sid=UkI6pELreRBcCxBD; expires=Wed, 25-Sep-2013 01:51:40 GMT; path=/; domain=.reference.com
+Set-Cookie: flyout=UkI6pELreRBcCxBD; expires=Thu, 25-Sep-2014 01:21:40 GMT; path=/; domain=.reference.com
+

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:43:40 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Cache-Control: private
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: DNR=deleted; expires=Tue, 25-Sep-2012 00:43:39 GMT; path=/; domain=.www.yahoo.com
+Set-Cookie: DNR=deleted; expires=Tue, 25-Sep-2012 00:43:39 GMT; path=/; domain=.yahoo.com
+Set-Cookie: PH=deleted; expires=Tue, 25-Sep-2012 00:43:39 GMT; path=/; domain=.yahoo.com
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Age: 0
+Connection: keep-alive
+Via: HTTP/1.1 ir6.fp.gq1.yahoo.com (YahooTrafficServer/1.20.13 [c sSf ])
+Server: YTS/1.20.13
+

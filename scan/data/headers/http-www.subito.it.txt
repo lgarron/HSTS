@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:15:27 GMT
+Server: Apache
+Vary: Accept-Encoding
+P3P: CP='NOI DSP COR PSAo PSDo'
+Connection: close
+Content-Type: text/html; charset=ISO-8859-15
+Content-Language: it
+

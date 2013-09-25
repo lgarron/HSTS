@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-Length: 0
+Content-Language: en
+Location: http://www.thefreedictionary.com/
+Server: Microsoft-IIS/7.5
+P3P: CP="CAO PSA OUR"
+PICS-Label: (PICS-1.1 "http://www.rsac.org/ratingsv01.html" l by "info@farlex.com" on "2009.10.07T10:15-0400" exp "2013.12.31T12:00-0400" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0)), (PICS-1.1 "http://www.rsac.org/ratingsv01.html" l by "info@farlex.com" on "2009.10.07T10:15-0400" exp "2013.12.31T12:00-0400" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l by "info@farlex.com" on "2009.10.07T10:15-0400" exp "2013.12.31T12:00-0400" r (v 0 s 0 n 0 l 0)), (PICS-1.1 "http://www.rsac.org/ratingsv01.html" l by "info@farlex.com" on "2009.10.07T10:15-0400" exp "2013.12.31T12:00-0400" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l by "info@farlex.com" on "2009.10.07T10:15-0400" exp "2013.12.31T12:00-0400" r (v 0 s 0 n 0 l 0))(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l by "info@farlex.com" on "2009.10.07T10:15-0400" exp "2013.12.31T12:00-0400" r (l 0 s 0 v 0 o 0))
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 00:55:57 GMT
+

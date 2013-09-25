@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/0.6.31
+Date: Wed, 25 Sep 2013 03:23:37 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: keep-alive
+Location: http://friendfeed.com/
+

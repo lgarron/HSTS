@@ -1,0 +1,10 @@
+HTTP/1.0 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 01:37:31 GMT
+Content-Type: text/html
+Content-Length: 178
+Location: http://www.hexun.com/
+X-Cache: MISS from webcache_60.28.250.235_hexun.com
+Via-Cache: 1.1 webcache_60.28.250.235_hexun.com:80 (QuickStar3.2_20100304)
+Connection: close
+

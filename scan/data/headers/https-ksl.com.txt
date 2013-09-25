@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:30:39 GMT
+Server: Apache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=5b13fdb972db86193a3da33c9b6aae65; expires=Wed, 02-Oct-2013 03:30:39 GMT; path=/; domain=.ksl.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+X-CMS-Server: v12
+X-CMS-State: active
+X-CMS-Collection: slc
+X-CMS-CRMSet: ksl
+X-CMS-nid: 210
+X-CMS-sid: 53583
+X-CMS-tid: 103
+X-CMS-stage: http://stage-v2.ksl.com
+X-CMS-live: http://www.ksl.com
+X-DEBUG_SCROLLOVER: HIT
+X-Server: v12
+Content-Type: text/html
+

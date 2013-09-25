@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:35:14 GMT
+Server: Apache/2.4.4 (Unix)
+Location: http://www.investing.com/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

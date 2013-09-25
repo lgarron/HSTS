@@ -1,0 +1,6 @@
+HTTP/1.1 302 Moved Temporarily
+Location: http://images.verizonwireless.com/sorry.html
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+

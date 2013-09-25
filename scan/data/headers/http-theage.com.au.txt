@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.theage.com.au/
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 233
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:22:58 GMT
+Connection: keep-alive
+X-Cache: HIT
+X-Cache-Hits: 44
+X-Age: 62
+X-FXJ-ID: 844532469 844507367
+X-FXJ-C: HIT
+X-FXJ-CH: 44
+X-FXJ-EO: 1
+

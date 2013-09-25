@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: /us/
+Date: Wed, 25 Sep 2013 00:43:58 GMT
+Connection: keep-alive
+Set-Cookie: DocType=XHTML; path=/; domain=.samsung.com
+Set-Cookie: country_codes=other; path=/; domain=.samsung.com
+

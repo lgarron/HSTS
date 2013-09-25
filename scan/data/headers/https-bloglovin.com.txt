@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.2.6
+Date: Wed, 25 Sep 2013 00:51:26 GMT
+Connection: keep-alive
+Location: http://www.bloglovin.com/
+Cache-Control: no-cache, must-revalidate
+Expires: Sat, 01 Jan 2001 00:13:37 GMT
+Accept-Ranges: bytes
+X-Varnish: 2905186250
+Age: 0
+Via: 1.1 varnish
+X-Backend: cache2
+

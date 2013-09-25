@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 03:31:36 GMT
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=10
+Vary: X-Forwarded-Proto,Accept-Encoding
+Set-Cookie: sp_landing=www.spotify.com%2F; expires=Thu, 26-Sep-2013 03:31:36 GMT; path=/; httponly
+Set-Cookie: spot=%7B%22t%22%3A1380079896%2C%22m%22%3A%22us%22%2C%22p%22%3Anull%2C%22u%22%3Anull%7D; expires=Wed, 24-May-2017 03:31:36 GMT; path=/; domain=spotify.com
+Location: /us/
+X-Join-The-Band: https://www.spotify.com/jobs/
+X-Frame-Options: SAMEORIGIN
+

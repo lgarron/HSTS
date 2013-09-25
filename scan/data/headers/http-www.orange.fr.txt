@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:03:21 GMT
+Server: Apache
+Set-Cookie: uid=171.65.249.4.1380071001540679; path=/; expires=Thu, 25-Sep-14 01:03:21 GMT; domain=.orange.fr
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

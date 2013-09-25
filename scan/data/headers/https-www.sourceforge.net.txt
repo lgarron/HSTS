@@ -1,0 +1,6 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://sourceforge.net/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+

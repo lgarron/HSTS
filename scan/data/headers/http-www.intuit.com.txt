@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:15:40 GMT
+Server: Apache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/0.9.8e-fips-rhel5 DAV/2 Phusion_Passenger/3.0.15
+X-Powered-By: Phusion Passenger (mod_rails/mod_rack) 3.0.15
+X-Showroom-Hostname: pprddgtws303.ie.intuit.net
+X-Showroom-Cms-Preview-Mode: off
+Expires: Wed, 25 Sep 2013 02:31:31 GMT
+Cache-Control: max-age=1800, public
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "06c25360e62afb0d2c4e4bad7d96cd5a"
+X-Request-Id: b67c7b28b27ee923a2339530cfc9ac36
+X-Runtime: 0.086834
+X-Content-Digest: 667fb46febe8dd08887a79d50fea0594c26d21d1
+Age: 849
+X-Rack-Cache: fresh
+Content-Length: 40327
+Status: 200
+Strict-Transport-Security: max-age=0
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+RTSS: 1-1-81
+

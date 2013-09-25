@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 184
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 00:58:13 GMT
+Location: https://foursquare.com/
+Server: nginx/1.4.1
+Strict-Transport-Security: max-age=864000
+Connection: keep-alive
+

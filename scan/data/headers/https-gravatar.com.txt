@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 03:41:57 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+P3P: CP="CAO PSA"
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Last-Modified: Wed, 25 Sep 2013 03:41:57 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Pragma: no-cache
+Location: http://en.gravatar.com/
+

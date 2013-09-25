@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:34:38 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.6
+Set-Cookie: uid=www52423daedfa403.72894727; expires=Fri, 25-Oct-2013 01:34:38 GMT
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+Set-Cookie: WEBUK=WUK09; path=/
+

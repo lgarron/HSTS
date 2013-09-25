@@ -1,0 +1,13 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 159
+Location: /vp/gatewaycookiecheck.aspx?r=%2f&rd=1
+X-Served-By: 7c62e1986c9ebbaa5f6763e2bbc50bbc
+P3P: CP="VPRT "
+Date: Wed, 25 Sep 2013 03:21:06 GMT
+Connection: keep-alive
+Set-Cookie: CCHECK=9%2f24%2f2013+11%3a20%3a52+PM; domain=.vistaprint.com; path=/
+Set-Cookie: v1st=E0776853A80E0FC7; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.vistaprint.com
+Expires: -1
+Cache-Control: no-cache
+Pragma: no-cache
+

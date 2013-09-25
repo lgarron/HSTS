@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:21:09 GMT
+Server: Apache
+X-Dealer: 151059
+Cache-Control: no-cache
+Pragma: no-cache
+X-XRDS-Location: https://mixi.jp/xrds.pl
+X-UA-Compatible: IE=EmulateIE7
+Content-Type: text/html; charset=EUC-JP
+Set-Cookie: _lcp=777fde1e87f5340f6946c6d2002279d5; domain=.mixi.jp; path=/; expires=Wed, 25-Sep-2013 01:31:09 GMT
+X-Content-Type-Options: nosniff
+Connection: close
+

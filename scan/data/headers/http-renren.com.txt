@@ -1,0 +1,8 @@
+HTTP/1.1 405 /indexcon
+Server: nginx/1.2.0
+Date: Wed, 25 Sep 2013 01:33:15 GMT
+Content-Type: text/html
+Connection: keep-alive
+Allow: GET, POST
+Set-Cookie: JSESSIONID=abc1CRJnCx4Apb_86Vsfu; path=/
+

@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:37:48 GMT
+X-Powered-By: ASP.NET
+pragma: no-cache
+cache-control: private
+Location: http://www.aufeminin.com/
+Content-Length: 304
+Content-Type: text/html; Charset=utf-8
+Expires: Tue, 24 Sep 2013 02:37:48 GMT
+Set-Cookie: afperso=DomUser=%2Ffr; domain=aufeminin.com; path=/
+Cache-control: no-cache
+Set-Cookie: AufemininLB=167838218.47873.0000; path=/
+

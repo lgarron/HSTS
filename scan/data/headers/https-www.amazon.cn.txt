@@ -1,0 +1,17 @@
+HTTP/1.1 405 MethodNotAllowed
+Server: nginx
+Date: Wed, 25 Sep 2013 01:59:46 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: session-id=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:46 GMT
+Set-Cookie: session-id-time=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:46 GMT
+Set-Cookie: session-token=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:46 GMT
+Set-Cookie: ubid-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:46 GMT
+Set-Cookie: at-main=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:46 GMT
+Set-Cookie: x-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:46 GMT
+Set-Cookie: UserPref=-; path=/; domain=.www.amazon.cn; expires=Tue, 25-Sep-2001 01:59:46 GMT
+x-amz-id-1: 1TM2Y7VJMTKC8WVAXXQ7
+allow: POST, GET
+x-amz-id-2: Wuru+lp25PosD2k/1TBNfjS8X93CyJ1B0yIpJ6pwTlQ=
+Vary: Accept-Encoding,User-Agent
+

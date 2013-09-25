@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 01:18:59 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: http://soundcloud.com/
+X-Cacheable: YES
+X-Varnish: 735359280 735251230
+Age: 69
+Via: 1.1 varnish
+X-Cache: HIT
+

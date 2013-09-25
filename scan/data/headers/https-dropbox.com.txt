@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 00:54:20 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: https://www.dropbox.com/
+Strict-Transport-Security: max-age=86400
+

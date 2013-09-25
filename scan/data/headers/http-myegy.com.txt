@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 00:50:10 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d81571f8189479c6d70b5519374eb15ec1380070210100; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.myegy.com
+Set-Cookie: __cfduid=d81571f8189479c6d70b5519374eb15ec1380070210100; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.myegy.com
+X-Powered-By: PHP/5.2.17
+CF-RAY: b33b7fd2e1c0296
+

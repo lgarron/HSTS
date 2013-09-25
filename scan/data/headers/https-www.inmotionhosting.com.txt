@@ -1,0 +1,6 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 02:37:49 GMT
+Server: Apache
+Location: http://www.inmotionhosting.com/
+Content-Type: text/html; charset=iso-8859-1
+

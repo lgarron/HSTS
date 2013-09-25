@@ -1,0 +1,24 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 01:03:39 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=0; includeSubDomains
+Location: http://www.etsy.com/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-sv61-SJC3
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1380071019.754032612,VS0,VE98
+Vary: Accept-Encoding
+Set-Cookie: uaid=uaid%3DnJmIWDlouP_wTC_2Mn6ybv_klthM%26_now%3D1380071019%26_slt%3DDaB8x6Ui%26_kid%3D1%26_ver%3D1%26_mac%3DjCBG4-UMawUF9RzRzlEFgdnlm64-0Fq8A7URr_d6VI8.; expires=Fri, 25-Sep-2015 01:03:39 GMT; path=/; domain=.etsy.com; httponly
+Set-Cookie: gzip=1; path=/; domain=.etsy.com
+Set-Cookie: etala=111461200.56547757.1380071019.1380071019.1380071019.1.0; expires=Fri, 25-Sep-2015 12:41:11 GMT; path=/; domain=.etsy.com
+Set-Cookie: etalb=111461200.1.10.1380071019; expires=Wed, 25-Sep-2013 01:33:39 GMT; path=/; domain=.etsy.com
+

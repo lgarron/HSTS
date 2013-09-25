@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Set-Cookie: PORTAL-LTSB-WWW=R1700199389; path=/
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 0
+Content-Type: text/html
+Location: http://www.lloydsbank.com
+X-Powered-By: ASP.NET
+Set-Cookie: ASPSESSIONIDCSRCABRD=NFIAOBCBIHIJPIBHEKCLEHAM; path=/
+Date: Wed, 25 Sep 2013 03:22:37 GMT
+

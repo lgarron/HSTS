@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Content-Type: text/html
+Location: http://www.slideshare.net/
+P3P: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+Content-Length: 178
+Date: Wed, 25 Sep 2013 00:54:28 GMT
+X-Varnish: 401925134 401887124
+Age: 84
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: SERVERID=w2; path=/
+

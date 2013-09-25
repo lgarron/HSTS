@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:30:34 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: nginx/1.4.1
+Set-Cookie: PHPSESSID=t6v01ir0hvqtun053utmtgvlg1; path=/; HttpOnly
+Set-Cookie: mid=1380079833079254600261545; expires=Mon, 04-Mar-2030 03:30:33 GMT; path=/
+Set-Cookie: YII_CSRF_TOKEN=da027c4916cedad41a2e88f90fbd140e04976872; path=/
+Vary: Accept-Encoding
+Connection: keep-alive
+

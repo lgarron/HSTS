@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+content-type: text/html;charset=utf-8
+date: Wed, 25 Sep 2013 00:48:06 GMT
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+last-modified: Wed, 25 Sep 2013 00:48:06 GMT
+ms: S
+pragma: no-cache
+server: tfe
+set-cookie: _twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNGU0M2Q1NDJkOWYzZTI1ZWU1%250ANjE0NjgzOGQ1ODRhNmY6B2lkIiU4NzA2YTY4NTFkMzk3YWY0MGZkNDdmMTE1%250ANDcxNjUyODoPY3JlYXRlZF9hdGwrCClWllJBAQ%253D%253D--9cf0235fee6e47e025503beb368fd7c930499e09; Path=/; Domain=.twitter.com; Secure; HTTPOnly
+set-cookie: guest_id=v1%3A138007008618484978; Domain=.twitter.com; Path=/; Expires=Fri, 25-Sep-2015 00:48:06 UTC
+status: 200 OK
+strict-transport-security: max-age=631138519
+x-frame-options: SAMEORIGIN
+x-transaction: 521901fd7eb5aa1d
+x-ua-compatible: IE=10,chrome=1
+x-xss-protection: 1; mode=block
+Content-Length: 0
+

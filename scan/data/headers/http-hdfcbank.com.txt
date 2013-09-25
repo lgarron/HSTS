@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 147
+Content-Type: text/html; charset=UTF-8
+Location: http://www.hdfcbank.com/
+Server: Microsoft-IIS/7.5
+Date: Wed, 25 Sep 2013 00:48:45 GMT
+CData: 1 0 1 1 1 1 1 1 1
+X-Cache: MISS from SiteCelerate4
+Connection: keep-alive
+Keep-Alive: timeout=122, max=100
+

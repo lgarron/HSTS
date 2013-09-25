@@ -1,0 +1,17 @@
+HTTP/1.1 302 Object moved
+Date: Wed, 25 Sep 2013 01:21:41 GMT
+X-Powered-By: ASP.NET
+Pragma: no-cache
+Cache-Control: no-store, no-cache
+Pragma: no-cache
+Cache-Control: no-store
+Location: http://www.bet365.com/en/
+Content-Length: 146
+Content-Type: text/html; Charset=UTF-8
+Set-Cookie: aps03=cg=0&cst=15&ct=198&lng=1; expires=Sun, 24-Sep-2023 23:00:00 GMT; path=/
+Set-Cookie: session=stk=5042796CF17F4CD7B2BC79475C062981000003; path=/
+Set-Cookie: stk=5042796CF17F4CD7B2BC79475C062981000003; path=/
+Set-Cookie: pstk=5042796CF17F4CD7B2BC79475C062981000003; domain=bet365.com; path=/
+Set-Cookie: rmbs=3; expires=Tue, 25-Mar-2014 00:00:00 GMT; path=/
+Cache-control: private
+

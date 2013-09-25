@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+X-RSRC: sjc-web044
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Set-Cookie: PHPSESSID=UstreamGuestSession; path=/; HttpOnly
+Set-Cookie: ab_test_1=1; expires=Mon, 30-Sep-2013 03:30:55 GMT; path=/
+Set-Cookie: ab_test_2=1; expires=Mon, 30-Sep-2013 03:30:55 GMT; path=/
+Set-Cookie: ab_test_1=1; expires=Mon, 30-Sep-2013 03:30:55 GMT; path=/
+Set-Cookie: ab_test_2=1; expires=Mon, 30-Sep-2013 03:30:55 GMT; path=/
+Set-Cookie: ustream-guest=tuUkHEbfFT69Kf6VwOErRX9V3XJFhOiqm6Qo3z4e9TjmtgQGL00PMjKx0EM6SeKZ64G7VMUb6XQKEiVxEYiC6ytcvIlOP%252Bsp0v5pgDE9D19gNIOWrhxh1byxRx472qNDlB6A7YPseAmlYlHbAlGkRtXFMJclOGunHzLxZX5wIn3OhlkaUk%252FlApjDOvFGJGr2Yq%252Fo7sGgVTWr%252FinUko%252BQ0vuq6%252B3ZnkNZGlaOEA%253D%253D; path=/; httponly
+X-Version: v6
+Date: Wed, 25 Sep 2013 03:31:08 GMT
+Connection: keep-alive
+X-Cache-Info: 13 (227)
+Cache-Control: public, max-age=227
+X-Cache-Lang: en_US
+X-RemoteIP: 128.12.244.4
+X-V6-Enabled: 1
+X-Country-Code: US
+X-AB-Test1: 1
+X-AB-Test2: 1
+Server: Ustream/Web
+X-Cache: HIT
+X-Cache-Hits: 4
+

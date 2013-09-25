@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.3.5 epet/0.7.5.10
+Date: Wed, 25 Sep 2013 00:49:54 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Cache-Control: no-cache
+X-Accel-Cache-Control: no-cache
+Set-Cookie: uid=W9g/8FJCMzJzPiVyA3eDAg==#20df0adf3b4dc6e1582cba07b486896c; expires=Tue, 15-Sep-15 00:49:54 GMT; domain=.as.com; path=/; httponly
+P3P: CP="CUR ADM OUR IND STA NID"
+

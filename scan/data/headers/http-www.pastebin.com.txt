@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 02:36:59 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=dda1ad3640683b7d275b614977e673d4a1380076619553; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.pastebin.com
+Set-Cookie: __cfduid=dda1ad3640683b7d275b614977e673d4a1380076619553; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.pastebin.com
+X-Powered-By: PHP/5.4.8
+location: http://pastebin.com/
+Set-Cookie: cookie_key=1; expires=Wed, 23-Oct-2013 02:36:59 GMT; path=/; domain=.pastebin.com
+Set-Cookie: realuser=1; expires=Thu, 26-Sep-2013 02:36:59 GMT; path=/
+CF-RAY: b345478339e0669
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 109538
+Content-Type: text/html; charset=utf-8
+Vary: User-Agent
+Server: Microsoft-IIS/7.5
+Set-Cookie: ARLocal=***; domain=.allrecipes.com; path=/
+Set-Cookie: ASP.NET_SessionId=z0r14i5kavgqjcguwzqnpblm; path=/; HttpOnly
+Set-Cookie: SERef=0; domain=.allrecipes.com; path=/
+Set-Cookie: armsg=; domain=.allrecipes.com; expires=Tue, 24-Sep-2013 00:54:14 GMT; path=/
+Set-Cookie: RVR=; domain=.allrecipes.com; expires=Fri, 25-Oct-2013 00:54:14 GMT; path=/
+Set-Cookie: RVR=; domain=.allrecipes.com; expires=Tue, 24-Sep-2013 00:54:14 GMT; path=/
+Set-Cookie: ARSiteUser=1-eda4828d-6ac2-4593-aeda-82982b7c1b38; domain=.allrecipes.com; expires=Thu, 25-Sep-2014 00:54:14 GMT; path=/
+Set-Cookie: ARCompressedSession=EgMAAB+LCAAAAAAABACNUttu2zAM/Rc9bYCN5tJkrt9yaTcDSTEk6Z76otiMLVQXQ6TSFYX/fZLtuOmAAdOTcEgekofnnWW4g1zUsDS/t6ZwEhZnLiQ/SmApWQcRe0KwmT4Zlr777BXPKyhYeuISL8E1S0cRe4RXlEAEdilo71QL3ivPtigKC4gsZSxia4G15G+PXEEH/LTmJCRkipfQ9gifnvPwVnts1ERs5ZCMGprtXV0bS0KXW1BHsFiJOhTviVtacwrczzfh8yWeT8bT2WyejNr39fnGN73XxX9kZbjISZxhWHfFdQ5SQl+snZRRK0oPD4k/OC6lKT8K2/GfrDyYF9Bh8aYX58FYxalf0pgXAf8Uuwt/d8JDbBxDwW+TSVLEc55P4tvZ3TTmHouTyV0yOX7Lx8dpwgbSTrere/nlHFWgSeR+mY8uGW5MWUKR6StoB6rVeXvRogmHg7OA1zDqxjMgZQQKL6p00Ba0G6DBaSFxZZymdpCQ8xnpaveVqWt/4Y1A6iia4DIosO+8g5P3VXU15oOwSAeh4JdAQcZePNxW/e0Z7xVy+Jmk+QP7mMArEgMAAA==; domain=.allrecipes.com; path=/
+X-Powered-By: ASP.NET
+MachineName: usseawb02
+X-UA-Compatible: IE=Edge
+Date: Wed, 25 Sep 2013 00:54:14 GMT
+

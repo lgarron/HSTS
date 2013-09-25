@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.imagefap.com/
+Content-Length: 0
+Date: Wed, 25 Sep 2013 02:35:36 GMT
+Server: lighttpd/1.4.18
+

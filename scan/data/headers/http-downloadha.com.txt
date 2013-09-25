@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:23:17 GMT
+Server: LiteSpeed
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Transfer-Encoding: chunked
+X-LiteSpeed-Cache: hit
+X-Pingback: http://www.downloadha.com/xmlrpc.php
+Content-Type: text/html; charset=UTF-8
+Location: http://www.downloadha.com/
+

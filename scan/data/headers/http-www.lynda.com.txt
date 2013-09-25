@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Set-Cookie: ARPT=WNXOUVSw7-219CKIMY; path=/
+Cache-Control: private
+Content-Length: 75353
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: token=dbd1d867-9822-42d7-ad95-eeb18cf5cc25,ebe71593817195933d68127915d384de,1Tvb6qPgWQcxkLseOu4tFxsKZwCQH9bQ3Fdjf7ABvx3UJeHyrevPVXMzCEH73nzse1gAryHi/h5v7vBImNED2IZsfZNyNOpGZLFat64vfqip9f5dCY20O/YO+7cztZIv; expires=Wed, 25-Sep-2013 07:23:56 GMT; path=/; HttpOnly
+Set-Cookie: player_settings_0_1=player_type=2&video_format=2&cc_status=2&window_extra_height=148&volume_percentage=50&reset_on_plugins=True; expires=Tue, 15-Oct-2013 03:23:56 GMT; path=/
+X-Powered-By: ASP.NET
+From: 501424-web7
+Date: Wed, 25 Sep 2013 03:23:56 GMT
+

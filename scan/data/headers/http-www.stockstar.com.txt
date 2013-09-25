@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:33:43 GMT
+Server: ngx_openresty/1.2.1.14
+Content-Type: text/html
+Content-Length: 185238
+Content-Location: http://www0.stockstar.com/home.htm
+Last-Modified: Wed, 25 Sep 2013 01:32:31 GMT
+X-Powered-By: ASP.NET
+Cache-Control: max-age = 60
+X-Varnish: 1927749277 1927748000
+Via: 1.1 varnish
+Age: 54
+X-Via: 1.1 ls72:880 (Cdn Cache Server V2.0)
+Connection: keep-alive
+

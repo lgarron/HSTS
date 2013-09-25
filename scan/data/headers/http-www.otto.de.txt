@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:35:38 GMT
+Server: Apache
+Content-Length: 128797
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Vary: Accept-Encoding
+P3P: policyref="http://www.otto.de/w3c/p3p.xml",CP="NON DSP COR CURa ADMa DEVa TAIa OUR BUS IND PHY ONL UNI PUR COM NAV DEM"
+WServer: 6
+Accept-Ranges: bytes
+Content-Type: text/html;charset=iso-8859-1
+sslbox: cache 2-1
+Connection: Keep-Alive
+Set-Cookie: TestGroupLhotse=classic_temp_1000|1380076538087; Domain=.otto.de; Expires=Wed, 25-Sep-2013 14:35:38 GMT; Path=/
+

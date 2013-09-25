@@ -1,0 +1,8 @@
+HTTP/1.0 302 Moved Temporarily
+Server: Zeus/4_3
+Date: Wed, 25 Sep 2013 02:38:08 GMT
+Location: http://blog.dtiblog.com/
+Content-Type: text/html
+X-Powered-By: PHP/5.3.5
+Connection: close
+

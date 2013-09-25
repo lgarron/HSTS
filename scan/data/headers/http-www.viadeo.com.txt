@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 25 Sep 2013 02:12:10 GMT
+Location: http://us.viadeo.com/en/
+Server: Apache
+Set-Cookie: JSESSIONID=C86AC4778FADD8E4C0262701A90A9BFE.www34; Path=/; HttpOnly
+Set-Cookie: csrfToken=27ca8a18-5282-45eb-8a97-154e6971138e; Domain=.viadeo.com; Expires=Thu, 26-Sep-2013 02:12:10 GMT; Path=/
+Set-Cookie: csrfToken=27ca8a18-5282-45eb-8a97-154e6971138e; Domain=.viadeo.com; Expires=Thu, 26-Sep-2013 02:12:10 GMT; Path=/
+Set-Cookie: www.viadeo.com=570491914.20480.0000; path=/
+Vary: Accept-Encoding,User-Agent
+Connection: close
+

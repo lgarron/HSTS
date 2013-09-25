@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 00:55:03 GMT
+Content-Type: text/html
+Content-Length: 178
+Location: http://www.putlocker.com/
+Set-Cookie: SERVERID=w10x; path=/
+

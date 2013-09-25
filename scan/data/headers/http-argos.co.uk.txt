@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.argos.co.uk
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Server: NetNames
+Date: Wed, 25 Sep 2013 03:23:01 GMT
+Connection: keep-alive
+

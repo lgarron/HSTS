@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: private, no-transform, max-age=0, s-maxage=0
+Content-Length: 124850
+Content-Type: text/html; charset=windows-1251
+Expires: Tue, 24 Sep 2013 03:31:19 GMT
+Last-Modified: Wed, 25 Sep 2013 03:31:19 GMT
+Set-Cookie: ASP.NET_SessionId=5oxlvgnga5qypxwe1egwc4t4; path=/; HttpOnly
+Set-Cookie: SessionID=5oxlvgnga5qypxwe1egwc4t4; expires=Thu, 25-Sep-2014 03:31:19 GMT; path=/; HttpOnly
+Set-Cookie: ClientID=; expires=Wed, 25-Sep-2013 02:31:19 GMT; path=/; HttpOnly
+Set-Cookie: abGroup=87; expires=Thu, 25-Sep-2014 03:31:19 GMT; path=/; HttpOnly
+Set-Cookie: rt=ch3r9HsAaXC2ooQ2kJG+PEPjK0TJVjPN; domain=ozon.ru; expires=Wed, 25-Sep-2013 03:31:49 GMT; path=/; HttpOnly
+Date: Wed, 25 Sep 2013 03:31:18 GMT
+

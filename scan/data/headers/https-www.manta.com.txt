@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:31:46 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Server: nginx
+P3P: CP="Manta does not have a P3P policy.  Please review our privacy policy here http://www.manta.com/coms2/page_terms_conditions_privacy"
+Vary: Accept-Encoding
+Set-Cookie: abtest_v=quick_claim&quick_claim&profile_stats&advertise_your_profile&site_wide&member_service.ms3&ppc_login&ppc_login.ppc1&afs_split_test&afs_split_test.treatmentc&upsellbutton&upsellbutton.a&mobile_adsense&d&suggested_company_follow_module_split_test&suggested_company_follow_module_split_test.treatmenta&static_page&ppc_landing_ads.mantahas&version&112&leadgen&leadgen.v2&upsell_test&upsell_control&adsense&b&social_share&control&status_activity_stream_split_test&status_activity_stream_split_test.control&activity_stream_split_test&activity_stream_split_test.treatmentb&company_page_tests&cp_redesign4.new_k&manta_local_survey&manta_local_survey.manta_local_survey-off; domain=.manta.com; path=/
+Set-Cookie: abtest_v=quick_claim&quick_claim&profile_stats&advertise_your_profile&site_wide&member_service.ms3&ppc_login&ppc_login.ppc1&afs_split_test&afs_split_test.treatmentc&upsellbutton&upsellbutton.a&mobile_adsense&d&suggested_company_follow_module_split_test&suggested_company_follow_module_split_test.treatmenta&static_page&ppc_landing_ads.mantahas&version&112&leadgen&leadgen.v2&upsell_test&upsell_control&adsense&b&social_share&control&status_activity_stream_split_test&status_activity_stream_split_test.control&activity_stream_split_test&activity_stream_split_test.treatmentb&company_page_tests&cp_redesign4.new_k&manta_local_survey&manta_local_survey.manta_local_survey-off; path=/
+Set-Cookie: member_session=V2%5BE%5DTmY3T3llL2tHWk9FRFdjaTVvNjRHQT09JjAzU29laHR2d2FIclI1WElrSWxwd0VNMDh6cXJ6ZzcwVVJzQktDWXhzRC8vb0R0UXdITjYxSE0vZ212amZZMUpLdGpKWHZtUVZrODIvc2taRmtyck5sUTIvLzZ1ZnN1dEFXVG1YYW1YTkpuNDNqU20zZmZZOXliamlrY2I1UTA0TVphRGlqZTVLeEhOWGhiVGtKK1NVN1pKdmNNZVlxL2d1ZWFIOUFLTHhQYjJ4Tjg5LzhyRHZYVG00R0lkUDZ5ZEtjZVJJVVpVSjd2ZkFzeXE2WFhaVmdoSSt1ZVU5cndrNzVOb3JFWUkwV2s9; domain=.manta.com; path=/; expires=Tue, 24-Dec-2013 01:31:46 GMT
+Set-Cookie: refer_id=0000; domain=.manta.com; path=/
+Set-Cookie: refer_id_persistent=0000; domain=.manta.com; path=/; expires=Fri, 25-Sep-2015 01:31:46 GMT
+Set-Cookie: cust_id=1380072706.19710-464; domain=.manta.com; path=/; expires=Fri, 25-Sep-2015 01:31:46 GMT
+Cache-Control: no-cache
+Accept-Ranges: bytes
+X-Varnish: 2138458019
+Via: 1.1 varnish
+X-Served-By: ecnext43
+

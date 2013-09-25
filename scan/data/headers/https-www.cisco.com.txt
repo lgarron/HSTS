@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Apache
+Last-Modified: Tue, 24 Sep 2013 15:29:35 GMT
+ETag: "4e722cdd475c0"
+Cache-Control: max-age=7200, must-revalidate
+Expires: Wed, 25 Sep 2013 03:21:46 GMT
+CDCHOST: cdcxweb-prod1-01
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 03:21:46 GMT
+Connection: keep-alive
+Set-Cookie: CP_GUTC=72.163.4.164.1380079306697791; path=/; expires=Mon, 24-Sep-18 03:21:46 GMT; domain=.cisco.com
+

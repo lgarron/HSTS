@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.macrumors.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Server: Varnish
+Date: Wed, 25 Sep 2013 00:55:45 GMT
+X-Varnish: 493717055 493640648
+Age: 1639
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT
+

@@ -1,0 +1,6 @@
+HTTP/1.1 302 Object Moved
+Location: http://www.netflix.com/
+Content-Type: text/html
+Cache-Control: private
+Connection: close
+

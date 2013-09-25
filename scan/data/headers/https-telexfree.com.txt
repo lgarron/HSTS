@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.1.19
+Date: Wed, 25 Sep 2013 03:30:48 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: PHPSESSID=cc59~3itrb3isji4cg56sencokff6j3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: COOKIE_idioma=en; expires=Sun, 12-Jun-2033 03:29:04 GMT; path=/; domain=telexfree.com
+Set-Cookie: COOKIE_rep_login=telexfree; expires=Sun, 12-Jun-2033 03:29:04 GMT; path=/; domain=telexfree.com
+Set-Cookie: COOKIE_banner=N; expires=Wed, 25-Sep-2013 03:44:04 GMT; path=/; domain=telexfree.com
+Vary: Accept-Encoding
+

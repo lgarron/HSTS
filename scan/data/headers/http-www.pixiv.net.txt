@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 02:29:28 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Host-Time: 63
+Set-Cookie: PHPSESSID=e451ca1a2a476fbccdc96075a00e2786; expires=Wed, 25-Sep-2013 03:29:28 GMT; path=/; domain=.pixiv.net
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: p_ab_id=6; expires=Tue, 25-Sep-2018 02:29:28 GMT; path=/; domain=.pixiv.net
+Set-Cookie: p_ab_id=6; expires=Tue, 25-Sep-2018 02:29:28 GMT; path=/; domain=.pixiv.net
+X-Frame-Options: SAMEORIGIN
+

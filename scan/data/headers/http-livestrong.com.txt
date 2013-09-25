@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:35:14 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=b402a844f5fcc798147862e52aa7fbb3; expires=Thu, 26-Sep-2013 02:35:14 GMT; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: http://www.livestrong.com/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

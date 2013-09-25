@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: Apache
+Date: Wed, 25 Sep 2013 03:29:11 GMT
+Content-length: 0
+Content-type: text/html
+Set-cookie: Y=F; domain=.hilton.com; path=/; Max-Age=900; HttpOnly
+Set-cookie: JSESSIONID=KDIQ51BLNJBBMCSQA0M222Q; path=/
+P3p: policyref="/w3c/p3p.xml", CP="NOI DSP DEVa TAIa OUR BUS UNI"
+

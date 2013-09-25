@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:20:49 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Set-Cookie: __cfduid=d37647f83e4545ac091d753140db10f551380079249381; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.almasryalyoum.com
+Set-Cookie: __cfduid=d37647f83e4545ac091d753140db10f551380079249381; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.almasryalyoum.com
+Cache-Control: max-age=21600, max-age=1
+Location: http://www.almasryalyoum.com/
+Expires: Tue, 24 Sep 2013 21:30:36 GMT
+Vary: Accept-Encoding
+X-Varnish: 2179282111 2177136783
+Age: 21014
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 743
+CF-RAY: b3494aca4710294
+

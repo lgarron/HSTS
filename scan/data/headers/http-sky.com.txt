@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:11:20 GMT
+Server: IBM_HTTP_Server
+Location: http://www.sky.com
+Content-Type: text/html; charset=iso-8859-1
+

@@ -1,0 +1,13 @@
+HTTP/1.0 503 Service Unavailable
+Server: squid
+Mime-Version: 1.0
+Date: Wed, 25 Sep 2013 00:59:47 GMT
+Content-Type: text/html
+Content-Length: 3321
+X-Squid-Error: ERR_CANNOT_FORWARD 0
+Vary: Accept-Language
+Content-Language: en
+X-Cache: MISS from vmpmg1
+X-Cache-Lookup: MISS from vmpmg1:80
+Connection: keep-alive
+

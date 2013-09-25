@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: zen
+Date: Wed, 25 Sep 2013 01:25:36 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: close
+Location: http://probux.com/
+Vary: Accept-Encoding
+

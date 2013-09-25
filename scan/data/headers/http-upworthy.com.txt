@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 02:06:10 GMT
+Location: http://www.upworthy.com/
+Status: 301 Moved Permanently
+Vary: Accept-Encoding
+X-Rack-Cache: miss
+Connection: keep-alive
+

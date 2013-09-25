@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 142
+Content-Type: text/html
+Location: http://www.anz.com/
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 02:37:49 GMT
+

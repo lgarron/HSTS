@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html
+Vary: Accept-Encoding
+Cache-Control: no-cache, must-revalidate, s-maxage=3600
+Expires: Fri, 15 Oct 2004 12:00:00 GMT
+Server-Name: dalmozwww02.dal.moz.com
+Date: Wed, 25 Sep 2013 01:16:12 GMT
+X-Varnish: 30397960 30362961
+Age: 2100
+Via: 1.1 varnish
+Connection: keep-alive
+

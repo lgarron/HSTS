@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Age: 1664
+Cache-Control: max-age=3600
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 03:36:19 GMT
+Server: nginx/1.1.19
+strict-transport-security: max-age=631138519
+Via: 1.1 varnish
+X-Cache: HIT
+X-Varnish: 1458947926 1458868109
+x-xss-protection: 1; mode=block
+Connection: keep-alive
+

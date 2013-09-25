@@ -1,0 +1,10 @@
+HTTP/1.1 301 Normalize
+Server: Varnish
+Location: http://www.entrepreneur.com/
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:25:44 GMT
+X-Varnish: 523626450
+Age: 0
+Via: 1.1 varnish
+Connection: close
+

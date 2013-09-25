@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Cache-control: no-cache="set-cookie"
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 03:29:38 GMT
+Location: http://bufferapp.com/
+Server: Apache
+Set-Cookie: AWSELB=E1AF43431E42F6E7E8F39D12B4D781C73998A6B8C1378731237301B045D4C4D55B7BD1D1B0150373438DA5FC117F6EA5FBB6BCCFD3A771C30751A12059B3857CF285C7BFBB;PATH=/;MAX-AGE=1000000
+Connection: keep-alive
+

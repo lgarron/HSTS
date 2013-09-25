@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.answers.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 01:08:55 GMT
+X-Varnish: 2074778488
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+Expires: Tue, 16 Jan 2001 00:00:00 GMT
+Cache-Control: private, must-revalidate, s-maxage=0, max-age=0
+

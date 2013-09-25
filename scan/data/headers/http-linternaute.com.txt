@@ -1,0 +1,12 @@
+HTTP/1.1 301 Permanently moved
+Server: Varnish
+location: http://www.linternaute.com/
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:19:03 GMT
+X-Varnish: 1068256102
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Served-By: bolero
+X-Cache: MISS
+

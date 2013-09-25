@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.1
+Date: Wed, 25 Sep 2013 02:38:07 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-Powered-By: PHP/5.3.17-1~dotdeb.0
+X-Drupal-Cache: HIT
+Content-Language: en
+Link: </node/491>; rel="shortlink",</homepage>; rel="canonical"
+X-Generator: Drupal 7 (http://drupal.org)
+Cache-Control: public, max-age=43200
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie
+Cache-Control: max-age=0, no-cache
+X-Page-Speed: 1.5.27.2-2912
+

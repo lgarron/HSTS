@@ -1,0 +1,12 @@
+HTTP/1.1 301 Unknown Error
+Server: Varnish
+Location: http://www.youporn.com/
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:37:09 GMT
+X-Varnish: 885580828
+Age: 0
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: sid=4874789139272752128; path=/; expires=Tue, 31-Dec-2030 12:00:00 GMT; domain=.youporn.com
+Set-Cookie: country=; path=/; domain=.youporn.com
+

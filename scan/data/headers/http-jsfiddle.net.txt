@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: nginx/0.8.54
+Date: Wed, 25 Sep 2013 03:32:29 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Vary: Cookie
+Set-Cookie: csrftoken=c3f05m7qZqrGA7Lw7n50NZIZfnqahIAJ; expires=Wed, 24-Sep-2014 03:32:29 GMT; Max-Age=31449600; Path=/
+

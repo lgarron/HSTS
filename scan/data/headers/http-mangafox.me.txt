@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:26:59 GMT
+Content-Type: text/html; charset=utf8
+Connection: keep-alive
+Set-Cookie: mfsid=88nrk9g5af89avsuv4gck9m2f1; path=/; domain=.mangafox.me
+Set-Cookie: mfvb_sessionhash=feef38f90eb72ae1afa3128e7db1479c; path=/; domain=.mangafox.me
+Set-Cookie: mfvb_lastvisit=1380079619; expires=Wed, 02-Oct-2013 03:26:59 GMT; path=/; domain=.mangafox.me
+Set-Cookie: mfvb_lastactivity=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.mangafox.me
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Expires: Sat, 26 Jul 1997 05:00:00 GMT
+

@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 149
+Content-Type: text/html; charset=UTF-8
+Location: http://www.shopathome.com/
+Server: Microsoft-IIS/7.5
+P3P: CP="NON DSP COR CURa ADMa OUR NOR PUR"
+X-Server: Web06
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 00:55:26 GMT
+

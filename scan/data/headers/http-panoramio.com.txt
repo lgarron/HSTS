@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.panoramio.com/
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Wed, 25 Sep 2013 03:21:50 GMT
+Expires: Fri, 25 Oct 2013 03:21:50 GMT
+Cache-Control: public, max-age=2592000
+Server: sffe
+Content-Length: 222
+X-XSS-Protection: 1; mode=block
+Alternate-Protocol: 80:quic
+

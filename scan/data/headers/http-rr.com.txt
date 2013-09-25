@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:36:01 GMT
+Server: Apache
+Location: http://www.rr.com/
+Cache-Control: max-age=1800
+Expires: Wed, 25 Sep 2013 03:06:01 GMT
+Keep-Alive: timeout=60, max=998
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: TWCC_COOKIE_PER-twcc-sg=LNEHKIEE; Path=/
+

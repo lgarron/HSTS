@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.16 (Debian)
+Content-Language: fr
+x-ua-compatible: ie=edge
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+X-www-Served-By: manitou
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:19:04 GMT
+X-Varnish: 1864294619
+Via: 1.1 varnish
+Connection: keep-alive
+X-Served-By: dingo
+X-Cache: MISS
+

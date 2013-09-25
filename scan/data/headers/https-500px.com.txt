@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 03:24:21 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Status: 302 Found
+Location: http://500px.com/
+X-UA-Compatible: IE=Edge,chrome=1
+Cache-Control: no-cache
+Set-Cookie: session_px_31=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWQ1OWNkN2U5MWJhZWE1ZDk1NzdmZWFlNWE0ZDk5YTgyBjsAVEkiCWhvc3QGOwBGIg41MDBweC5jb20%3D--e8a20ac90096455a034bf99f950e6dbc533f52c7; domain=.500px.com; path=/; HttpOnly
+X-Runtime: 0.007843
+X-Rack-Cache: miss
+

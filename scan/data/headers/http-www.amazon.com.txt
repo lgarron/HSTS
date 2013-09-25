@@ -1,0 +1,10 @@
+HTTP/1.1 405 MethodNotAllowed
+Date: Wed, 25 Sep 2013 00:48:07 GMT
+Server: Server
+Set-Cookie: skin=noskin; path=/; domain=.amazon.com; expires=Wed, 25-Sep-2013 00:48:07 GMT
+x-amz-id-1: 07Y7D6VXJAXJC44CHYS8
+allow: POST, GET
+x-amz-id-2: yYzojGMGCoENeWURINzwgHfpkPCug1zgrCzXxwC8ZX7iyKZ7PevHvT2OKS+Xw/NF
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=ISO-8859-1
+

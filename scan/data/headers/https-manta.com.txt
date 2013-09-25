@@ -1,0 +1,20 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 01:31:45 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Location: https://www.manta.com/
+P3P: CP="Manta does not have a P3P policy.  Please review our privacy policy here http://www.manta.com/coms2/page_terms_conditions_privacy"
+X-UA-Compatible: IE=EmulateIE8
+Vary: Accept-Encoding
+Set-Cookie: member_session=V2%5BE%5DMW1KZk9XeXB2ay8zdUZpV3JaTUsxQT09JncwRU8wUFFoRlUrSEc5RGR1cGZadXcveEFNVTd1RzJ3NlhxeE9MOE5sSjd6cG1DMldNMDh5UnVjc1VJbExlbGdJUks0U01KeTliYkNsNHJvN3duWDJqVStodDVYYitTQ3BLalQ0YlZINUZtSEZDczNaQW13OWhPVG5oYnlUbkhIZmpRY3pvOFJ3SjJyN3U4MnZiT3JMaW1RRHJWY2JjSmIvdzhNUUIzdzcxMjlXU2t6bmlsYmFJYXE2UHlCaW9WSUU2bk9GdEtDOGplNHhzOHdOM1VSRUZ4WjlXRGlzSnppZWw1a2tveEtYcE09; domain=.manta.com; path=/; expires=Tue, 24-Dec-2013 01:31:45 GMT
+Set-Cookie: refer_id=0000; domain=.manta.com; path=/
+Set-Cookie: refer_id_persistent=0000; domain=.manta.com; path=/; expires=Fri, 25-Sep-2015 01:31:45 GMT
+Set-Cookie: cust_id=1380072705.761200-55; domain=.manta.com; path=/; expires=Fri, 25-Sep-2015 01:31:45 GMT
+Cache-Control: no-cache
+Accept-Ranges: bytes
+X-Varnish: 2138457988
+Via: 1.1 varnish
+X-Served-By: ecnext43
+X-Cache: MISS
+

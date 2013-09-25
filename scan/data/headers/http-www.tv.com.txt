@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Length: 105125
+Content-Type: text/html; charset=utf-8
+Server: Apache
+Vary: Cookie
+X-Varnish: 716726683
+Date: Wed, 25 Sep 2013 03:29:09 GMT
+Connection: keep-alive
+Set-Cookie: csrftoken=a78485dccd47acf007d821c2c3b73ebf; expires=Wed, 24-Sep-2014 03:29:09 GMT; Max-Age=31449600; Path=/
+Set-Cookie: COUNTRY=US; Domain=.tv.com; Path=/
+Set-Cookie: REGION=US; Domain=.tv.com; Path=/
+

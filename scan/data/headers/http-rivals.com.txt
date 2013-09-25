@@ -1,0 +1,13 @@
+HTTP/1.1 302 Object moved
+Date: Wed, 25 Sep 2013 03:25:24 GMT
+Server: YTS/1.20.10
+X-Powered-By: ASP.NET
+default: private
+Location: http://www.rivals.com
+Content-Length: 142
+Content-Type: text/html
+Cache-control: private,max-age=60
+Age: 0
+Connection: keep-alive
+Via: HTTP/1.1 yts2.rivals.sports.sp1.yahoo.com (YahooTrafficServer/1.20.10 [cMsSf ])
+

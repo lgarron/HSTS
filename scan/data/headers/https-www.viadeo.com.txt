@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:12:10 GMT
+Location: http://www.viadeo.com/
+Server: BigIP
+Content-Length: 0
+

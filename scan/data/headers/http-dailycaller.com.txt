@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://dailycaller.com/xmlrpc.php
+Link: <http://dailycaller.com/?p=3463544>; rel=shortlink
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1589324687
+Via: 1.1 varnish
+X-L3-Cache: MISS
+Date: Wed, 25 Sep 2013 03:28:07 GMT
+X-Varnish: 990800548 990798202
+Age: 71
+Via: 1.1 varnish
+Connection: keep-alive
+X-L2-Cache: HIT
+

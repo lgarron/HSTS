@@ -1,0 +1,6 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:23:23 GMT
+Server: Apache
+Location: http://seopult.ru/
+Content-Type: text/html; charset=windows-1251
+

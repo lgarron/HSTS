@@ -1,0 +1,7 @@
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 02:02:21 GMT
+Location: http://www.leagueoflegends.com/
+Server: Apache/2.2.16 (Amazon)
+Connection: keep-alive
+

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:21:47 GMT
+Content-Type: text/html
+Connection: close
+Set-Cookie: segment=%7B%22segment_id%22%3A%220%22%2C%22name%22%3A%22straight%22%2C%22status%22%3A%22enabled%22%7D; expires=Fri, 25-Oct-2013 03:21:47 GMT; path=/
+Expires: Wed, 25 Sep 2013 02:21:47 GMT
+Last-Modified: Wed, 25 Sep 2013 02:21:47 GMT
+Pragma: no-cache
+Cache-Control: private, max-age=0
+Rating: RTA-5042-1996-1400-1577-RTA
+Set-Cookie: RNLBSERVERID=ded1474; path=/
+

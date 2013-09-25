@@ -1,0 +1,6 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Location: http://www.walmart.com/
+Content-Length: 0
+Date: Wed, 25 Sep 2013 00:44:00 GMT
+

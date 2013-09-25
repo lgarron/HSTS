@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 225707
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+Set-Cookie: PageLab_PLE0063=PLE0063-PLEI01; expires=Thu, 26-Sep-2013 03:30:37 GMT; path=/
+Set-Cookie: sid=7C96643691DB4A8BA672F6ACC7055020; domain=vancl.com; path=/
+Set-Cookie: _vucb=1; domain=vancl.com; path=/
+Set-Cookie: _vuca=4EF8C860BC0940899226CF86741030D5; domain=vancl.com; expires=Thu, 25-Sep-2014 03:30:37 GMT; path=/
+Set-Cookie: _vucc=1; domain=vancl.com; expires=Thu, 25-Sep-2014 03:30:37 GMT; path=/
+X-SERVER: 10.251.20.11
+Date: Wed, 25 Sep 2013 03:30:36 GMT
+

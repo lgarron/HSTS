@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=3, s-maxage=60
+Expires: Wed, 25 Sep 2013 04:35:57 GMT
+Content-Type: text/html;charset=utf-8
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP CURa ADMa DEVa TAIi PSAi PSDi OUR STP UNI COM NAV INT STA PRE"
+Vary: Accept-Encoding
+Date: Wed, 25 Sep 2013 04:35:07 GMT
+Age: 10
+Connection: keep-alive
+

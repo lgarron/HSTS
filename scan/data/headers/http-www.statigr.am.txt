@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://statigr.am/
+Cache-Control: max-age=7200
+Expires: Wed, 25 Sep 2013 05:37:14 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:37:14 GMT
+X-Varnish: 3791481865
+Connection: keep-alive
+X-Cache: C:Off A:0 MISS 
+server: SylvainHTTP
+

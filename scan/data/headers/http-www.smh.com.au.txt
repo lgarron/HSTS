@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+P3P: policyref="http://f2.com.au/w3c/p3p.xml", CP="CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi OUR IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT PRE GOV"
+X-Cache-Hits: 1
+X-Age: 1
+X-FXJ-ID: 1320198647 1320198357
+X-FXJ-C: HIT
+X-FXJ-CH: 1
+X-FXJ-EO: 1
+Date: Wed, 25 Sep 2013 01:39:57 GMT
+Connection: keep-alive
+

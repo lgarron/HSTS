@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:31:53 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: PHPSESSID=61v3d2uh237jlio49t19s0af67; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: lang=en; expires=Thu, 25-Sep-2014 01:31:09 GMT
+Set-Cookie: onlylanguage=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+

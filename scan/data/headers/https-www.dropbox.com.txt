@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:54:21 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+set-cookie: locale=en; expires=Mon, 24 Sep 2018 00:54:21 GMT; Path=/
+set-cookie: gvc=MzE2NTA2ODg3ODg5NjExNzM0MjI2Mjc4Mjc2MTMyNTU5Njc2MTk4; expires=Mon, 24 Sep 2018 00:54:21 GMT; Path=/; httponly
+set-cookie: t=-qqff9QthprM23QBqJCjBg0M; Domain=dropbox.com; expires=Fri, 25 Oct 2013 00:54:21 GMT; Path=/; secure; httponly
+strict-transport-security: max-age=2592000; includeSubDomains
+x-server-response-time: 61
+x-dropbox-request-id: 97d3762c619a03c9d2b98ce3aa2033a9
+pragma: no-cache
+cache-control: no-cache
+x-dropbox-http-protocol: None
+x-frame-options: SAMEORIGIN
+X-RequestId: 916db13d5092c94bf20df84a004004de
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:36:50 GMT
+Server: Apache
+Location: http://www.makemytrip.com/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: VSF5DOTCOM_DEF=789206538.20480.0000; expires=Wed, 25-Sep-2013 03:56:31 GMT; path=/
+

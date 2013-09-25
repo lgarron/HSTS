@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 40466
+Content-Type: text/html; charset=utf-8
+p3p: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
+Set-Cookie: ceneoUser=ID=5099d3f0-ce86-460b-90c4-f64469c65003&sp=7L0HYBxJliUmL23Ke39K9UrX4HShCIBgEyTYkEAQ7MGIzeaS7B1pRyMpqyqBymVWZV1mFkDM7Z28995777333nvvvfe6O51OJ/ff/z9cZmQBbPbOStrJniGAqsgfP358Hz8ifo1f89f4NX6N/5se/MTz6+GXX/t3+91+t9/w/wkAAP//&lvp=0,&lvpe=1&al=$$$&sc=1&nv=0; expires=Fri, 31-Dec-9999 23:59:59 GMT; path=/
+Set-Cookie: BasketCookie=; domain=ceneo.pl; expires=Tue, 25-Mar-2014 04:26:56 GMT; path=/
+Set-Cookie: cnicaf=; expires=Fri, 31-Dec-9999 23:59:59 GMT; path=/
+Date: Wed, 25 Sep 2013 03:26:55 GMT
+X-Frame-Options: SAMEORIGIN
+

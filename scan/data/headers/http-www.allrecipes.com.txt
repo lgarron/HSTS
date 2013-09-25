@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 145
+Content-Type: text/html; charset=UTF-8
+Location: http://allrecipes.com/
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+MachineName: usseawb02
+X-UA-Compatible: IE=Edge
+Date: Wed, 25 Sep 2013 00:54:19 GMT
+

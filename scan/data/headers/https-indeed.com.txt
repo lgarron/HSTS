@@ -1,0 +1,6 @@
+HTTP/1.0 302 Found
+Location: http://indeed.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+

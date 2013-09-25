@@ -1,0 +1,12 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Wed, 25 Sep 2013 00:48:42 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: http://www.caijing.com.cn/
+Vary: Accept-Encoding
+X-UA-Compatible: IE=EmulateIE7
+Expires: Wed, 25 Sep 2013 00:51:42 GMT
+Cache-Control: max-age=180
+X-Cache: EXPIRED  from yq-cache-31
+

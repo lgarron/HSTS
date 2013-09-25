@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Expires: Wed, 31 Dec 1969 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Length: 33524
+Server: Jetty(7.2.2.v20101205)
+Date: Wed, 25 Sep 2013 00:58:19 GMT
+Connection: keep-alive
+Set-Cookie: JSESSIONID=gxvwbjd5lfwpb57ms5gcpma9pnjflite101380070699521;Path=/
+Set-Cookie: pds%5Flife=d=AQDaxLypuwM1v6Ga8cX6lMs8IogeqYjtjBkJvsYjyF7Dn0ZpWs2pInQbslOfe2n8PzE%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Mon, 24-Sep-2018 00:58:19 GMT
+Set-Cookie: BNCAB=A;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: userid=ML09TRKTfM;Path=/;Domain=.barnesandnoble.com;Expires=Mon, 24-Sep-2018 00:58:19 GMT
+Set-Cookie: pds%5Fsess=d=AQDDJEIFci4NUlTQrFdxyoSN6ncPEWHF1cZuixwexjJR65G1KF%2FkmmxBNrmjQEnU%2BlQ%3D&v=5;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: SSLB=0;path=/;domain=.barnesandnoble.com;
+

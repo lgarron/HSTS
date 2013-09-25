@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.smh.com.au/
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 230
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:39:55 GMT
+Connection: keep-alive
+X-Cache: HIT
+X-Cache-Hits: 246
+X-Age: 291
+X-FXJ-ID: 842219301 842120628
+X-FXJ-C: HIT
+X-FXJ-CH: 246
+X-FXJ-EO: 1
+

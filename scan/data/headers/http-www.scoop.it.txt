@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:55:30 GMT
+Server: Jetty(7.5.4.v20111024)
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+P3P: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa IVAi IVDi CONi OUR OTRi IND PHY ONL UNI FIN COM NAV INT DEM STA"
+Pragma: no-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: userId=dedd3cb3-b3ba-45a4-8277-276e825d4a51;Path=/;Expires=Sat, 23-Sep-2023 00:55:30 GMT
+Set-Cookie: abt="30=0";Version=1;Path=/;Expires=Sat, 23-Sep-2023 00:55:30 GMT;Max-Age=315360000
+Vary: Accept-Encoding
+

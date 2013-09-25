@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-Length: 0
+Location: http://www.microsoftstore.com/promo?promoID=82836700
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+Set-Cookie: SESSION=Nt82ETsF+5ZAts/6tLi5oXFoXeO7YlGJH0aBv/g6udhYs5cHmKVIFp+IRdO+NyIV+nzHq9FCj8GcTDwFrmrHgJXfiQVXvCldO0LShEyMotfPa7FaSJ2q1pfdr8xhohAwKyTQmYINJhHMRRukmSL6OJxSHsnq+K8wurhL2k8qVU+ll2axlhCo+5EqwIkoEQ9NXebUfXxabWa2BDSf+ZOIhw==; path=/; HttpOnly
+X-Powered-By: ASP.NET
+P3P: CP=CAO DSP TAIa OUR IND PHY ONL UNI PUR COM NAV INT DEM CNT STA PRE LOC
+X-Server-Name: D2E2S26
+X-Frame-Options: SAMEORIGIN
+Date: Wed, 25 Sep 2013 03:41:36 GMT
+Set-Cookie: BIGipServerp-dri-prd-iis-active=547541770.65057.0000; path=/
+

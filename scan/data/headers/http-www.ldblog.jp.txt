@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:23:41 GMT
+Server: Plack::Handler::Starlet
+Content-Type: text/html; charset=euc-jp
+Vary: User-Agent,Accept-Encoding
+X-Framework: JP/4.00
+Set-Cookie: ldblog_u=128.12.244.4.1380079421881534; path=/; expires=Tue, 24-Dec-13 03:23:41 GMT
+P3P: CP="BUS OUR PHY STP ADM CUR DEV PSA PSD"
+Connection: close
+

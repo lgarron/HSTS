@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Content-Length: 0
+Location: https://mega.co.nz/
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Access-Control-Max-Age: 8640000
+Connection: Keep-Alive
+

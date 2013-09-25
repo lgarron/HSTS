@@ -1,0 +1,8 @@
+HTTP/1.1 302
+Server: nginx
+Date: Wed, 25 Sep 2013 03:36:10 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: http://arstechnica.com/
+X-Ars-Server: web07
+

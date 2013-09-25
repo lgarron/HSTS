@@ -1,0 +1,14 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.2.3
+Date: Wed, 25 Sep 2013 03:41:48 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-Powered-By: PHP/5.3.19
+Set-Cookie: PHPSESSID=nhtavna2bd698670a9vfs31fn0; path=/
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 25 Sep 2013 03:41:48 GMT
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Pragma: no-cache
+Cache-control: private
+Location: /index.html
+

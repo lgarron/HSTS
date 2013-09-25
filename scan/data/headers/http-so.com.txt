@@ -1,0 +1,8 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/0.8.43
+Date: Wed, 25 Sep 2013 00:55:02 GMT
+Content-Type: text/html
+Connection: close
+Content-Length: 154
+Location: http://www.so.com/
+

@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:28:14 GMT
+Server: Apache
+Location: https://pagseguro.uol.com.br/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.1
+Date: Wed, 25 Sep 2013 03:27:54 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 157141
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: mobilefirsttip=tip; Domain=.docin.com; Expires=Thu, 26-Sep-2013 03:27:54 GMT; Path=/
+Set-Cookie: docin_session_id=381105c5-d775-4c27-88e4-df9012a75887; Domain=.docin.com; Expires=Thu, 25-Sep-2014 03:27:54 GMT; Path=/
+Set-Cookie: netfunction="/"; Version=1; Domain=docin.com; Path=/
+Set-Cookie: JSESSIONID=2E9572FE6E85338228AFBBB064C78F8B-n1; Path=/
+Content-Language: zh-CN
+

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Expires: Wed, 25 Sep 2013 04:01:29 GMT
+X-UA-Compatible: IE=Edge,chrome=1
+Content-Type: text/html; charset=UTF-8
+cache-control: s-maxage=600, max-age=600
+X-Varnish: 1841609772 1841608610
+Via: 1.1 varnish
+Vary: Accept-Encoding
+Date: Wed, 25 Sep 2013 03:45:03 GMT
+X-Varnish: 1821440184 1821352581
+Age: 210
+Via: 1.1 varnish
+Connection: keep-alive
+X-IsCached: HIT
+

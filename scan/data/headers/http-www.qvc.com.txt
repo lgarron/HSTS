@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: IBM_HTTP_Server/6.1.0.43 Apache/2.0.47 (Unix)
+X-dynaTrace: PT=38063;PA=1700714873;RS=US Commerce/20130924230148_0.session;SP=US Commerce;PS=-607109283
+dynaTrace: PT=38063;PA=1700714873;RS=US Commerce/20130924230148_0.session;SP=US Commerce;PS=-607109283
+X-dynaTrace-JS-Agent: true
+X-Powered-By: QVC Web Server
+Content-Type: text/html
+Content-Language: en-US
+Expires: Wed, 25 Sep 2013 03:30:35 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 03:30:35 GMT
+Connection: keep-alive
+Set-Cookie: isMobile=false; path=/
+Set-Cookie: akaau=1380080135~id=e78d37c2a69b34288d4366003d0726ed; domain=.qvc.com; path=/
+

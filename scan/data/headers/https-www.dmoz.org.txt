@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:22:00 GMT
+Server: Apache
+Set-Cookie: JSESSIONID=6D7D6EF0E2453388EA2173D00E38F8A5; Path=/; Secure
+Connection: close
+Content-Type: text/html;charset=UTF-8
+

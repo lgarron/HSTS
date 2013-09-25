@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx_about/1.4.2_1
+Date: Wed, 25 Sep 2013 01:19:21 GMT
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=15
+Location: http://www.about.com/
+P3P: CP="IDC DSP COR DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=3600, private
+

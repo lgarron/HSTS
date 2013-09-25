@@ -1,0 +1,12 @@
+HTTP/1.1 500 Internal Server Error
+Date: Wed, 25 Sep 2013 02:35:39 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Vary: Accept-Encoding
+P3P: CP="CURa CONi TELi OUR IND NID DSP CAO COR", policyref="http://www.finn.no/daily/w3c/p3p.xml"
+Set-Cookie: JSESSIONID=CCB28FA938C0C2262760BEA33E4D55E3; Path=/
+Set-Cookie: __flt=""; Domain=.finn.no; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: USERAREA=XXXX20061X; Domain=.finn.no; Expires=Sat, 28-Sep-2013 02:35:39 GMT; Path=/
+Via: 1.1 www.finn.no
+Connection: close
+Set-Cookie: finnlb-finnweb=IMCFFLFA; Expires=Fri, 25-Oct-2013 12:35:38 GMT; Path=/
+

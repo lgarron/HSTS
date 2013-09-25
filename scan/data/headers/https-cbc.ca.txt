@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Set-Cookie: ACE-COOKIE=R1099658640; path=/
+Date: Wed, 25 Sep 2013 03:31:18 GMT
+Server: Apache/2.2.3 (Red Hat)
+Location: https://www.cbc.ca/
+Cache-Control: max-age=30
+Expires: Wed, 25 Sep 2013 03:31:48 GMT
+Content-Type: text/html; charset=iso-8859-1
+

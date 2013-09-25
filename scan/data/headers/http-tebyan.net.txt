@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 152735
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+Set-Cookie: ASP.NET_SessionId=2uywxjxcz0uzgoep4rneryv0; domain=.tebyan.net; path=/; HttpOnly
+X-AspNet-Version: 4.0.30319
+Set-Cookie: TebyanWebsiteCookie=UD=5UN1OHB2bgY=&UK=UK9efzHD4FHMPs3WlnnkO61mmdlIS9galS/3/vzX3UnPsgxmZisj7w==; domain=.tebyan.net; expires=Thu, 25-Sep-2014 03:30:12 GMT; path=/
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:30:12 GMT
+

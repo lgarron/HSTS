@@ -1,0 +1,8 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Wed, 25 Sep 2013 00:55:33 GMT
+Content-Type: text/html
+Connection: close
+P3P: CP="ALL ADM DEV PSAi COM OUR OTRo STP IND ONL"
+Location: https://www.tumblr.com/
+

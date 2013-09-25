@@ -1,0 +1,8 @@
+HTTP/1.1 302 Moved Temporarily
+Server: FSS
+Date: Wed, 25 Sep 2013 01:10:26 GMT
+Content-Type: text/html
+Content-Length: 152
+Connection: keep-alive
+Location: http://www.sohu.com/
+

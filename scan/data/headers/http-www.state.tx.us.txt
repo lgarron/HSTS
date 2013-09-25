@@ -1,0 +1,6 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:26:15 GMT
+Server: Apache/2.2.25 (Unix) mod_jk/1.2.37 mod_ssl/2.2.25 OpenSSL/1.0.1e
+Location: http://www.texasonline.com/portal/tol
+Content-Type: text/html; charset=iso-8859-1
+

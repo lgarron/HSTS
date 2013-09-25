@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 00:44:44 GMT
+Set-Cookie: SSLB=1; path=/; domain=.surveymonkey.com
+Content-Type: text/html; charset=UTF-8
+Location: https://www.surveymonkey.com/
+Content-Length: 197
+Set-Cookie: auth=wlG12dTkF93hxzlJ0Jx6YViKSLRShV7BgxkNDnQUXIrzwFM11tJ1WyE21MwUip4DnSWmsWanl8M5_0AwTofpW3KRpXoc_2BRvsTo2QHFXIToAVfrELGEGu80LYqkZazQxpblhl9wNKCK9LxAPZ0cbWMw8Aw_3D_3D; Domain=.surveymonkey.com; Max-Age=3600; Path=/; expires=Wed, 25-Sep-2013 01:44:44 GMT
+RTSS: 1-1163-4
+Set-Cookie: ep201=aRynFNXIz6f+pSKtpGE6Iz+nmvU=;expires=Wed, 25-Sep-2013 01:13:56 GMT;path=/;domain=.surveymonkey.com;
+Set-Cookie: ep202=375V9++AMNR5ruxcQipwQhd3uCU=;expires=Thu, 25-Sep-2014 06:32:42 GMT;path=/;domain=.surveymonkey.com;
+X-Powered-By: Winter is Coming
+Set-Cookie: TSd23572=fb9b010b38c8b157108f78c46dbe384b1c29b3dd56d25ba1524231cb; Path=/
+Set-Cookie: TS53dc91=72387b5306d0cb0644c2d6b7035058201c29b3dd56d25ba1524231cb81e8ea1da28dfd261a4d4f37e7e3cbb86f76d1d8827c74e45b917941d0b20a74; path=/; domain=.surveymonkey.com
+

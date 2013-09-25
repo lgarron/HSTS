@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:32:13 GMT
+Server: Apache/2.2.15 (Red Hat) mod_ssl/2.2.15 OpenSSL/1.0.0-fips
+Location: http://www.newyorker.com/
+Cache-Control: max-age=600
+Expires: Wed, 25 Sep 2013 03:42:13 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+

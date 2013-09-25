@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:03:32 GMT
+Server: Apache
+Set-Cookie: ffsessionhash=19d64152c9cc03fc550c1241562d065f; path=/; domain=.forexfactory.com; HttpOnly
+Set-Cookie: fflastvisit=1380074612; expires=Thu, 25-Sep-2014 02:03:32 GMT; path=/; domain=.forexfactory.com
+Set-Cookie: fflastactivity=0; expires=Thu, 25-Sep-2014 02:03:32 GMT; path=/; domain=.forexfactory.com
+Cache-Control: private
+Pragma: private
+X-UA-Compatible: IE=Edge,chrome=1
+Content-Type: text/html; charset=ISO-8859-1
+

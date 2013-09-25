@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://perezhilton.com/
+Date: Wed, 25 Sep 2013 01:19:21 GMT
+X-Varnish: 1950223373
+Age: 0
+Connection: close
+Via: varnish ph23
+

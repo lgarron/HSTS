@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:08:14 GMT
+Server: Apache
+Location: http://www.babycenter.com/
+Cache-Control: max-age=0
+Expires: Wed, 25 Sep 2013 01:08:14 GMT
+Cneonction: close
+Content-Type: text/html; charset=iso-8859-1
+

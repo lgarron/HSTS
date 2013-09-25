@@ -1,0 +1,18 @@
+HTTP/1.0 200 OK
+RlogId: t6e%60cckjkb9%3Fvo%7B3d71f%2B06f%3F-14152b8bc73-0x34a80
+Content-Type: text/html;charset=utf-8
+Content-Language: en-US
+Content-Length: 0
+Server: eBay Server
+Expires: Wed, 25 Sep 2013 01:25:40 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 01:25:40 GMT
+Connection: keep-alive
+Set-Cookie: JSESSIONID=BC34FFCEB5BD216F42566962D2931A8E; Path=/
+Set-Cookie: ebay=%5Esbf%3D%23%5E;Domain=.ebay.in;Path=/ 
+Set-Cookie: dp1=bu1p/QEBfX0BAX19AQA**54236f14^;Domain=.ebay.in;Expires=Fri, 25-Sep-2015 01:25:40 GMT;Path=/ 
+Set-Cookie: s=CgAD4ACBSQ40UNTJiOGJjNzIxNDEwYTU2Yzg4NjIzMjMyZmY4NjlmYzA56ioa;Domain=.ebay.in;Path=/; HttpOnly 
+Set-Cookie: nonsession=CgADLAAFSQkKcMQDKACBbqD0UNTJiOGJjNzIxNDEwYTU2Yzg4NjIzMjMyZmY4NjlmYzDE2eZJ;Domain=.ebay.in;Expires=Thu, 25-Sep-2014 01:25:40 GMT;Path=/ 
+Set-Cookie: lucky9=2493319;Domain=.ebay.in;Expires=Mon, 24-Sep-2018 01:25:40 GMT;Path=/ 
+

@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:58:17 GMT
+Server: Apache/2.2.3 (Red Hat)
+Location: http://www.sfgate.com/
+Cache-Control: max-age=60
+Expires: Wed, 25 Sep 2013 00:59:17 GMT
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

@@ -1,0 +1,10 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx admin
+Date: Wed, 25 Sep 2013 03:22:58 GMT
+Content-Type: text/html
+Connection: keep-alive
+X-Powered-By: PHP/5.2.17
+Set-Cookie: lclind=us; expires=Thu, 26-Sep-2013 03:22:58 GMT; path=/
+Location: http://www.6park.com/us.shtml
+X-Cache: HIT from Backend
+

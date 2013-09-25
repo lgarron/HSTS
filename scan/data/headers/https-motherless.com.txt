@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 01:13:11 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: kkk=0f294caf6b68013989cdea886cbf94f7; expires=Wed, 24-Sep-2014 01:13:11 GMT; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache, private, must-revalidate
+Location: http://motherless.com/
+Set-Cookie: PageViews=1; expires=Thu, 26-Sep-2013 01:13:11 GMT; path=/; domain=motherless.com; httponly
+Accept-Ranges: bytes
+Age: 0
+

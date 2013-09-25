@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate, proxy-revalidate
+Content-Type: text/html;charset=UTF-8
+Content-Language: pl-PL
+Date: Wed, 25 Sep 2013 03:22:46 GMT
+Connection: close
+X-Cache: HIT from blade713.non.3dart.com
+X-Cache-Hits: 709848
+Server: Apache
+

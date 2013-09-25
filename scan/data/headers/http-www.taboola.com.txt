@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:55:42 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+X-Drupal-Cache: HIT
+Etag: "1380064855-0"
+Content-Language: en
+X-Generator: Drupal 7 (http://drupal.org)
+Link: <http://www.taboola.com/>; rel="canonical",<http://www.taboola.com/>; rel="shortlink"
+Cache-Control: public, max-age=0
+Last-Modified: Tue, 24 Sep 2013 23:20:55 +0000
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie
+Connection: close
+Content-Type: text/html; charset=utf-8
+

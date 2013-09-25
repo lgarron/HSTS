@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 00:43:14 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Pragma: no-cache
+Server: HTTP/1.1 UserFiberFramework/1.0 
+Set-Cookie: PHPSESSID=ih28slei1qpckdc080a5b3tle0; path=/; domain=.wretch.cc
+Set-Cookie: lang=deleted; expires=Tue, 25-Sep-2012 00:43:13 GMT; path=/; domain=.wretch.cc
+Set-Cookie: lang=zh-tw; expires=Sat, 20-Sep-2014 00:43:14 GMT; path=/; domain=.wretch.cc
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Via: HTTP/1.1 r05.ycpi.lax.yahoo.net UserFiberFramework/1.0 
+

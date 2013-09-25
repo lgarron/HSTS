@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache
+Content-Length: 0
+Content-Type: text/html
+P3p: policyref="/w3c/p3p.xml", CP="NOI DSP DEVa TAIa OUR BUS UNI"
+Date: Wed, 25 Sep 2013 03:29:12 GMT
+Connection: keep-alive
+Set-Cookie: Y=F; domain=.hilton.com; path=/; Max-Age=900; HttpOnly
+Set-Cookie: JSESSIONID=0BPO1OB22TZAUCSQA0O3MQQ; path=/
+Set-Cookie: Y2=F; expires=Wed, 25-Sep-2013 03:44:12 GMT; path=/; domain=.hilton.com
+

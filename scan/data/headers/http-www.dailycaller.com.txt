@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.15 (CentOS)
+Location: http://dailycaller.com/
+Content-Type: text/html; charset=iso-8859-1
+X-Varnish: 1589322013
+Via: 1.1 varnish
+X-L3-Cache: MISS
+Date: Wed, 25 Sep 2013 03:28:07 GMT
+X-Varnish: 990800554 990795169
+Age: 176
+Via: 1.1 varnish
+Connection: keep-alive
+X-L2-Cache: HIT
+

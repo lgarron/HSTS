@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:24:33 GMT
+Server: LiteSpeed
+Accept-Ranges: bytes
+Connection: close
+ETag: "f835-52425663-b5bac6d8543fe5df"
+Last-Modified: Wed, 25 Sep 2013 03:20:03 GMT
+Content-Type: text/html
+Content-Length: 63541
+X-Geek: What's black and white and red all over? Please don't kill our penguin-powered server.
+X-Bacon: I wonder what penguin bacon tastes like.
+

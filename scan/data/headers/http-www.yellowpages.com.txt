@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:06:41 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Keep-Alive: timeout=20
+Status: 200 OK
+X-Runtime: 457
+ETag: "6ab4a98d876cc339f04daa84e7451f97"
+Cache-Control: no-cache
+Set-Cookie: vrid=a8dcd940-07ac-0131-aec3-00237da007ea; domain=.yellowpages.com; path=/; expires=Tue, 25-Sep-2018 01:06:40 GMT
+Set-Cookie: parity_analytics=---+%0A%3Avisit_id%3A+om7h1asxfbddb1eo5fyqon0tn4of0%0A%3Avisit_start_time%3A+2013-09-25+01%3A06%3A41.087142+%2B00%3A00%0A%3Alast_page_load%3A+2013-09-25+01%3A06%3A41.087145+%2B00%3A00%0A; path=/; expires=Sat, 25-Sep-2038 01:06:41 GMT
+Set-Cookie: _parity_session=BAh7CToPc2Vzc2lvbl9pZCIlYmVmOTBlMjAxZDJlYzY1NDhiZmU2Nzg0MTAyZGRjMzM6GHByb3RvY29sX29mX2NvbnRleHRJIglodHRwBjoGRUY6EF9jc3JmX3Rva2VuSSIxRjB0dm9WMkFtd1lNT09RNHJhdWpDcGFvSE5lRjFVUmxKSlV3Y21zTWtBYz0GOwdGOhNkZXhfc2Vzc2lvbl9pZEkiKWE5MThkOWYwLTA3YWMtMDEzMS1hZWM1LTAwMjM3ZGEwMDdlYQY7B0Y%3D--68efa4d612596fea6135a8e96b5c72cc6274db82; path=/; HttpOnly
+X-Rid: vendetta-78ee407a-5597-489a-9c89-0bd1d9113d9a
+Expires: Wed, 25 Sep 2013 01:06:40 GMT
+Set-Cookie: bucket=webyp;Domain=.yellowpages.com;Path=/;Max-Age=31536000
+

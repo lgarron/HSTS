@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Wed, 25 Sep 2013 03:33:13 GMT
+Vary: Accept-Encoding
+ETag: "91fad51d7b1f89a38742019f95db9b74"
+Cache-Control: max-age=600
+Last-Modified: Wed, 25 Sep 2013 03:23:13 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 134360
+Date: Wed, 25 Sep 2013 03:32:07 GMT
+X-Varnish: 634213463 634199282
+Age: 532
+Via: 1.1 varnish
+Connection: keep-alive
+

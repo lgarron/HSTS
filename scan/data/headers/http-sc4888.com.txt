@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:35:13 GMT
+Server: Apache
+Location: http://www.sc4888.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=60
+Content-Length: 161511
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+P3P: CP="CAO PSA OUR"
+X-BOOST-Status: Server Cached Response - OK
+X-AspNet-Version: 4.0.30319
+Set-Cookie: MGUID=GUID=ce3aecaf-b057-487b-887b-d00bd6d6da17&Timestamp=2013-09-25T03:26:20&DetectedVersion=&Version=&Hash=D605A1D7443D7AB3363F009A73D7EEAA; domain=.derstandard.at; expires=Mon, 31-Dec-2029 23:00:00 GMT; path=/
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:26:20 GMT
+

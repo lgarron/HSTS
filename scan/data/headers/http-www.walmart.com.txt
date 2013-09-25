@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Content-Type: text/html;charset=ISO-8859-1
+RTS2: 1
+RTSS: 1-57-8
+Date: Wed, 25 Sep 2013 00:44:01 GMT
+Connection: keep-alive
+Set-Cookie: SSLB=1; path=/; domain=.walmart.com
+Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1380069841237@firstcreate:1380069841237"; Version=1; Domain=.walmart.com; Max-Age=31536000; Expires=Thu, 25-Sep-2014 00:44:01 GMT; Path=/
+

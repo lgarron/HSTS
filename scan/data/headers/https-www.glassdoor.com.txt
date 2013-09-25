@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=B2969D3766CEB8E1FCC64D32E9632D12; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=B2969D3766CEB8E1FCC64D32E9632D12; Path=/
+Location: index.htm
+X-Cnection: close
+Content-Type: text/html;charset=UTF-8
+Content-Length: 0
+Date: Wed, 25 Sep 2013 01:15:52 GMT
+Set-Cookie: ARPNTS=MTkyLjE2OC4xMDEuMjQ4;path=/;
+

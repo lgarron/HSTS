@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:24:00 GMT
+Set-Cookie: JSESSIONID=5F7935216C553CC6D927F904C883CCD4.tomcatA; Path=/; HttpOnly
+Set-Cookie: newsview=""; Expires=Thu, 25-Sep-2014 03:24:00 GMT; Path=/
+Content-Type: text/html;charset=UTF-8
+Connection: close
+

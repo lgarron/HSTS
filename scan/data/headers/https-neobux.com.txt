@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Server: zen
+Date: Wed, 25 Sep 2013 00:43:59 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+Location: http://www.neobux.com/
+Set-Cookie: CFID=25397035; HttpOnly;expires=Fri, 18-Sep-2043 00:43:59 GMT;path=/
+Set-Cookie: CFTOKEN=92053852; HttpOnly;expires=Fri, 18-Sep-2043 00:43:59 GMT;path=/
+

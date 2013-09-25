@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Age: 498
+Content-length: 277
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 03:14:58 GMT
+Expires: Wed, 25 Sep 2013 03:24:58 GMT
+Location: http://dsc.discovery.com
+P3P: CP="ALL DSP COR CUR ADMo DEVo TAIo PSAo PSDo IVAo CONi OTPi OUR NOR UNI"
+Server: Apache
+Connection: keep-alive
+

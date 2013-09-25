@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Wed, 25 Sep 2013 00:46:46 GMT
+Content-Type: text/html
+Content-Length: 280
+Connection: keep-alive
+Set-Cookie: ali_apache_id=171.65.249.4.138007000629.640593.7; path=/; domain=.aliexpress.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+Location: http://www.aliexpress.com:80/
+

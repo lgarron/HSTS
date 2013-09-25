@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.4
+Date: Wed, 25 Sep 2013 03:31:27 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Status: 200 OK
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "e38bc8ab0240eb86e65a084711f0cfb4"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: rails-session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTBiZGNhOGRiZTIyNGI0ZDNkZGRhNDU3YzQ5OTMyNWMwBjsAVEkiDGNvdW50cnkGOwBGSSIHVVMGOwBUSSIObG9nb3V0X3RvBjsARiIGLw%3D%3D--c5bf94a309d82334951b4fe9ef665cc2c6517a04; path=/; HttpOnly
+X-Request-Id: 51482cb5b336da3128f38d4e0ada385b
+X-Runtime: 0.016445
+X-Rack-Cache: miss
+Cache-Control: public
+P3P: policyref="http://paper.li/w3c/p3p.xml",CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
+

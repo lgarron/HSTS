@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Set-Cookie: JSESSIONID=F5EC361CDEB893672F158F9C3E97CFB4.server101; Path=/; HttpOnly
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 116478
+Vary: Accept-Encoding
+Date: Wed, 25 Sep 2013 03:28:06 GMT
+Server: Apache Tomcat
+

@@ -1,0 +1,6 @@
+HTTP/1.1 303 See Other
+Date: Wed, 25 Sep 2013 03:33:33 GMT
+Accept-Ranges: bytes
+Server: LiteSpeed
+Location: http://www.fanfiction.net/
+

@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.10
+Set-Cookie: pantip_sessions=Df0VQAb3jUSdArFtEtRh0ZdQ3H97kNNiIUA0I32kf9bKchpyqPrfrPhY0oe7anLEvoYqnxUAKRAZ%2FcPchTmxb9Gq16SGVeo4nuOHRTz1PlYHYNBumE9gCKEa7xyuv2WMziGijjjyHiy6JL%2BWXvc8vH1XJSqey8a5eOFfdNsL3jZaV8YWed6NWdvpzkRdqx7n171ahKfesA2tyy5JqJ%2F0gKg8mE%2FSONTFrJdb1e1K5Sj56%2B%2BdO5vuuTCQmT%2B3inqcELkcfZ5uFVjiH7AbMw%2FGL4soFdeeaphVdGmMbDOcDD2KWvlZ4CNvBd4Vt5JmgPu5qAXj0HlX4CPpBz615GFurQ%3D%3D; path=/
+Expires: Tue, 01 Jan 2000 00:00:00 GMT
+Last-Modified: Wed, 25 Sep 2013 00:40:23 GMT
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: pantip_visitc=mtnojbhecak8ipYH7K3; expires=Sat, 23-Sep-2023 00:40:23 GMT; path=/; domain=pantip.com; httponly
+Date: Wed, 25 Sep 2013 00:40:23 GMT
+X-Varnish: 3766391885
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: MISS
+

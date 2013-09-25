@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:43:35 GMT
+Server: Apache/2.2.3 (CentOS)
+X-Powered-By: PHP/5.2.6
+X-Pingback: http://m2newmedia.com/xmlrpc.php
+X-Powered-By: PleskLin
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

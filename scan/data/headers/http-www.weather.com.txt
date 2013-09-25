@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Apache
+SVRNAME: wxii2x42
+Content-Language: en-US
+X-Mod-Pagespeed: 1.2.24.1-2383
+Content-Type: text/html;charset=UTF-8
+X-Varnish: 1165207691 1165198609
+X-Cache-Hits: 679
+dclass: unknown
+Expires: Wed, 25 Sep 2013 01:03:22 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 01:03:22 GMT
+Connection: keep-alive
+

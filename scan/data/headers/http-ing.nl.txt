@@ -1,0 +1,10 @@
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.ing.nl/
+Expires: Wed, 25 Sep 2013 03:20:58 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 03:20:58 GMT
+Connection: keep-alive
+

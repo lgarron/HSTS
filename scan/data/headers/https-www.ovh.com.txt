@@ -1,0 +1,10 @@
+HTTP/1.1 302 https://www.ovh.com/us
+Set-Cookie: OVHCDN=R1837866928; path=/; expires=Fri, 27-Sep-2013 13:12:01 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://www.ovh.com/us
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:10:52 GMT
+Connection: close
+X-CDN-Geo: snj
+X-CDN-Geo-IP: 46.105.194.165
+

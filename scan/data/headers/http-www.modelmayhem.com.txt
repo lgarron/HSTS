@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+X-Cnection: close
+Content-Type: text/html; charset=UTF-8
+thisTTL: 900.000
+Date: Wed, 25 Sep 2013 02:36:30 GMT
+Age: 25533
+Connection: keep-alive
+X-Cache: HIT
+X-Cache-nHIT: 29327
+Cache-Control: private
+Pragma: private
+Set-Cookie: BIGipServermodelmayhem-varnish1_POOL=738267146.52514.0000; path=/
+'ibf5scheme': http
+ibf5scheme: http
+

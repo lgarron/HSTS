@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 00:43:35 GMT
+Content-Type: text/html
+Connection: close
+Location: http://www.xtube.com/
+Expires: Wed, 25 Sep 2013 00:43:35 GMT
+Cache-Control: max-age=0
+Cache-Control: no-cache
+Rating: RTA-5042-1996-1400-1577-RTA
+Set-Cookie: RNLBSERVERID=ded1276; path=/
+

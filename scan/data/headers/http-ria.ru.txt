@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: QRATOR
+Date: Wed, 25 Sep 2013 01:23:07 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Keep-Alive: timeout=15
+X-Powered-By: PHP/5.4.7
+Set-Cookie: ria=tru7qlitfq58hc89jjlpclqjsrs6gbat; expires=Sat, 24-Sep-2016 01:23:06 GMT; path=/; domain=.ria.ru
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:21:11 GMT
+Server: Apache/2.2.3 (Red Hat)
+Set-Cookie: PHPSESSID=86f381a21e5a7969cd05a85cb3d97ff3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: tech_chat=0; expires=Wed, 02-Oct-2013 03:21:11 GMT; path=/; domain=.rackspace.com
+Set-Cookie: new_nav=0; expires=Wed, 02-Oct-2013 03:21:11 GMT; path=/; domain=.rackspace.com
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: BigIP_Cookie=1677726892.20736.0000; path=/
+Set-Cookie: IS_UASrackuid=US00a7aff1a03068e14d62f7175a2169ed;expires=Sat, 24-Sep-2033 23:21:11 GMT;path=/;domain=.rackspace.com;
+Set-Cookie: RackSID=20130924222111;path=/;domain=.rackspace.com;
+

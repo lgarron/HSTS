@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Content-Type: text/html
+Location: http://www.hotelscombined.com/Home.aspx
+P3P: CP="NOI DEVa TAIa OUR BUS UNI"
+Date: Wed, 25 Sep 2013 03:31:54 GMT
+Connection: keep-alive
+Set-Cookie: dcid=dal05; path=/
+Set-Cookie: Tests=BBsbBUVgIEvAXvagoQyCdcAM27rE0qO%2bUna9TUqLy6B9UrEbwB7AbXFOnLBq%2beU1Qj5FpidtWhGPTMvE2bzO0g%2c00008759; expires=Thu, 25-Sep-2014 03:31:58 GMT; path=/
+Set-Cookie: VisitType=1; path=/
+Set-Cookie: countryCode=US; expires=Fri, 25-Sep-2043 03:31:58 GMT; path=/
+Set-Cookie: currencyCode=USD; expires=Fri, 25-Sep-2043 03:31:58 GMT; path=/
+Set-Cookie: languageCode=EN; expires=Fri, 25-Sep-2043 03:31:58 GMT; path=/
+Set-Cookie: a_aid=400; expires=Thu, 25-Sep-2014 03:31:58 GMT; path=/
+Set-Cookie: Analytics=LanguageCode=EN&WebPageID=4; expires=Fri, 25-Sep-2015 03:31:58 GMT; path=/
+

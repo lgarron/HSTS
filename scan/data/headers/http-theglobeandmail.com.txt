@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.22 (Ubuntu)
+Location: http://www.theglobeandmail.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+X-Pad: avoid browser bug
+Date: Wed, 25 Sep 2013 03:25:57 GMT
+X-Varnish: 908808972 908807011
+Age: 157
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: 1
+Set-Cookie: BIGipServerEce5web=990043146.20736.0000; path=/
+

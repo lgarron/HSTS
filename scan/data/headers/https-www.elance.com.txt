@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Language: en-US
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 00:55:03 GMT
+Connection: keep-alive
+Set-Cookie: locale=en_US; expires=Fri, 25-Oct-2013 00:54:57 GMT; path=/; domain=.elance.com
+Set-Cookie: sess=8f0fnjfs3n8vu2b6jtge0a7tf4; path=/; domain=elance.com; secure; HttpOnly
+

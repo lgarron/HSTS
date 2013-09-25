@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:20:46 GMT
+Server: Apache
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache, no-store
+Pragma: no-cache, no-store
+Content-Length: 495166
+Set-cookie:  UOL_VIS=A|171.65.249.4|1380072046.62482|; domain=.uol.com.br; path=/; expires=Wed, 25-Sep-2013 06:00:00 GMT
+Vary: Accept-Encoding,User-Agent
+Expires: Mon, 06 Jan 1990 00:00:01 GMT
+Connection: close
+

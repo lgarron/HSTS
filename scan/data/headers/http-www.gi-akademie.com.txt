@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Wed, 25 Sep 2013 03:21:57 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+P3P: policyref="/bitrix/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+X-Powered-CMS: Bitrix Site Manager (9ecce4f74f9ed2f7d8e9663948fe94ac)
+Set-Cookie: PHPSESSID=cpooe1bu4rba5h3ij0id4bovh7; path=/; domain=gi-akademie.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: langLoc=deleted; expires=Tue, 25-Sep-2012 03:21:56 GMT
+

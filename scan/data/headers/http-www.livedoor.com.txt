@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:03:25 GMT
+Server: Apache
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 123817
+Content-Type: text/html; charset=utf-8
+Set-Cookie: ldsuid=171.65.249.4.1380071005513232; path=/; expires=Tue, 24-Dec-13 01:03:25 GMT
+Set-Cookie: ucd=fd31ii0oD7rcY6Wys8MeTpwwfWlImLQn; domain=livedoor.com; path=/; expires=Mon, 24-Mar-2014 01:03:25 GMT
+Set-Cookie: ucd_sig=u6L1mUckFSksTk9ljpFnT64Jul4%3A1380071005; domain=livedoor.com; path=/; expires=Mon, 24-Mar-2014 01:03:25 GMT
+Vary: Accept-Encoding,User-Agent
+X-XRDS-Location: https://auth.livedoor.com/openid/server.xrds
+Connection: close
+

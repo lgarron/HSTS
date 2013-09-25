@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 02:37:24 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d29211ed1e750f8017535075f722d60841380076644074; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.banglanews24.com
+Set-Cookie: __cfduid=d29211ed1e750f8017535075f722d60841380076644074; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.banglanews24.com
+Vary: Accept-Encoding
+Last-Modified: Fri, 20 Sep 2013 08:01:38 GMT
+X-Cache: HIT from Backend
+CF-RAY: b345511796b012d
+

@@ -1,0 +1,15 @@
+HTTP/1.0 200 OK
+Date: Wed, 25 Sep 2013 03:26:08 GMT
+Server: Apache
+Set-Cookie: exp_last_visit=1064715968; expires=Thu, 25-Sep-2014 03:26:08 GMT; path=/; domain=.williamhill.com
+Set-Cookie: exp_last_activity=1380075968; expires=Thu, 25-Sep-2014 03:26:08 GMT; path=/; domain=.williamhill.com
+Set-Cookie: exp_tracker=a%3A1%3A%7Bi%3A0%3Bs%3A15%3A%22%2Fsite%2Findex%2Fen%2F%22%3B%7D; path=/; domain=.williamhill.com
+Set-Cookie: whUserData=1; expires=Fri, 25-Oct-2013 03:26:09 GMT
+Cache-Control: max-age=3600
+Expires: Wed, 25 Sep 2013 04:26:08 GMT
+SVRID: gibux116
+Content-Type: text/html; charset=UTF-8
+X-Cache: MISS from gibux112.live.williamhill.com
+X-Cache-Lookup: HIT from gibux112.live.williamhill.com:80
+Connection: close
+

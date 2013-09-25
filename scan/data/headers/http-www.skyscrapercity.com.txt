@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.2
+Date: Wed, 25 Sep 2013 03:23:05 GMT
+Content-Type: text/html; charset=ISO-8859-1
+Connection: keep-alive
+X-Powered-By: PHP/5.4.17
+Set-Cookie: bbsessionhash=4f186056f48cf97bd00ca4b09684cc59; path=/; domain=.skyscrapercity.com; HttpOnly
+Set-Cookie: bblastvisit=1380079384; expires=Thu, 25-Sep-2014 03:23:04 GMT; path=/; domain=.skyscrapercity.com
+Set-Cookie: bblastactivity=0; expires=Thu, 25-Sep-2014 03:23:04 GMT; path=/; domain=.skyscrapercity.com
+Cache-Control: private
+Pragma: private
+X-UA-Compatible: IE=7
+X-Frame-Options: SAMEORIGIN
+

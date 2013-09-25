@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: s-maxage=30
+Cache-control: no-cache="set-cookie"
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 03:20:50 GMT
+Server: nginx
+Set-Cookie: k=1380079250-MTM4MDA3OTI1MDgzOTE5MjQ%3D; path=/
+Set-Cookie: AWSELB=83CFB5A508EA025C3C2219BD86C792FE4C0D3266C808B0FCF666EE1D0BF1423A87A352C32C94E69C8AC893BD8EE08B57402285E4F98117B6E69861A809EF5684B356388EC7;PATH=/
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.3.10-1ubuntu3.8
+X-UA-Compatible: IE=edge,chrome=1
+Connection: keep-alive
+

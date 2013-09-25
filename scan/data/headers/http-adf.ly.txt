@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:37:06 GMT
+Server: LiteSpeed
+Connection: close
+X-Powered-By: PHP/5.3.8
+Set-Cookie: FLYSESSID=d272fff1e00bdf4f6ef1d724d69e9cb61f44d725; path=/; domain=.adf.ly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html
+

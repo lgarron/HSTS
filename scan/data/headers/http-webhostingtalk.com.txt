@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.webhostingtalk.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Server: Varnish
+Content-Length: 238
+Date: Wed, 25 Sep 2013 01:24:48 GMT
+X-Varnish: 823326429 823325822
+Age: 32
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT
+X-Cache-Hits: 5
+

@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 03:28:25 GMT
+Transfer-Encoding: chunked
+Connection: Keep-Alive
+Set-Cookie: symfony=es46e5cmdvr11j0gj9t7nvot56; path=/; domain=.ted.com
+X-Ua-Compatible: IE=Edge
+

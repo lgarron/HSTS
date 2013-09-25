@@ -1,0 +1,6 @@
+HTTP/1.1 302 Found
+Content-Length: 151
+Location: http://www.roblox.com/Default.aspx
+P3P: CP="CAO DSP COR CURa ADMa DEVa OUR IND PHY ONL UNI COM NAV INT DEM PRE"
+Date: Wed, 25 Sep 2013 03:27:00 GMT
+

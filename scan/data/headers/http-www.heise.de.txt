@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:07:30 GMT
+Server: Apache
+Expires: Wed, 25 Sep 2013 02:12:30 GMT
+Vary: User-Agent,Accept-Encoding
+Cache-control: max-age=300
+X-Cobbler: octo02.heise.de
+Content-Type: text/html; charset=utf-8
+

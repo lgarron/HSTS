@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Age: 101
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 03:24:11 GMT
+Location: http://www.thedailybeast.com/
+Server: Apache
+Vary: Accept-Encoding, User-Agent
+Via: 1.1 varnish
+X-BackEnd: default
+X-Cache: HIT
+X-Cache-Hits: 5
+X-Cacheable: YES
+X-Restarts: 0
+X-UA-Device: pc
+X-Varnish: 715301804 715291534
+Connection: keep-alive
+

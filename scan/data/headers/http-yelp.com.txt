@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:03:21 GMT
+Server: Apache
+X-Node: web16-r3-sfo2, www_all
+Cache-Control: private
+Set-Cookie: yuv=5yAj8QbjHt66yyLu_qUr-NucoEeFdAtjkQNq-SHtO1UxhjH1VTT0Sj2VmzK2JXFu8euBFHJ3HHhev2xeZcTaPIxOTLOB6o8j; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Tue, 20-Sep-2033 01:03:21 GMT
+Set-Cookie: bse=47ba72be52cff693d40b46da120e414a; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Tue, 20-Sep-2033 01:03:21 GMT
+Location: http://www.yelp.com/
+Vary: User-Agent
+Content-Type: text/html; charset=UTF-8
+X-Mode: ro
+X-Proxied: extlb1-r4-sfo2
+

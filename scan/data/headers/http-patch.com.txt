@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 01:17:34 GMT
+Server: Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8l Phusion_Passenger/3.0.11
+X-Powered-By: Phusion Passenger (mod_rails/mod_rack) 3.0.11
+Cache-Control: no-cache
+X-Runtime: 4
+X-Rack-Cache: miss
+Location: http://www.patch.com
+Content-Length: 86
+Status: 302
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+

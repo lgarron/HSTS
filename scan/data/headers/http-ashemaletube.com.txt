@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.4.2
+Date: Wed, 25 Sep 2013 03:23:30 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: http://www.ashemaletube.com/
+

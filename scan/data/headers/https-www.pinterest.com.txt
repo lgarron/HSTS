@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 00:55:38 GMT
+Pinterest-Breed: CORGI
+Pinterest-Generated-By: ngapp-4b286a2c
+Pinterest-Version: 88602fe
+Server: nginx
+Set-Cookie: csrftoken=feCwOrfUrH4OOWwMlA8JTN0O7D5wK0Gl; Domain=.pinterest.com; expires=Wed, 24-Sep-2014 00:55:38 GMT; Max-Age=31449600; Path=/
+Set-Cookie: _pinterest_sess="eJwFwdEKgjAUANC/6QNqD71cwnFZKd4ugSLbSwTK5tUEmWbu6z3no4z8TDFPE+tkkIt5LfHq/YMi3N5L/+2AKlKE2YWwTpwBnGIXY99CLqPQ3QUrw0ZVvT/l9WfUwYlVTnTgxo020ZmkHXIPcACkSiRv"; Domain=.pinterest.com; expires=Sat, 20-Sep-2014 00:55:38 GMT; Max-Age=31103999; Path=/
+Vary: User-Agent, Cookie, Accept-Encoding
+Via: 1.1 varnish
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=edge
+X-Varnish: 1849801047
+Connection: keep-alive
+

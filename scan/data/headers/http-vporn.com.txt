@@ -1,0 +1,7 @@
+HTTP/1.1 302 Found
+Location: http://www.vporn.com/
+Content-type: text/html
+Connection: close
+Date: Wed, 25 Sep 2013 03:22:54 GMT
+Server: lighttpd/1.4.28
+

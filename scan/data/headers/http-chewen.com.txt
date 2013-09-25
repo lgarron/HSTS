@@ -1,0 +1,8 @@
+HTTP/1.1 405 /index
+Server: nginx/1.2.6
+Date: Wed, 25 Sep 2013 01:13:56 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Allow: GET, POST
+Set-Cookie: JSESSIONID=abcPi9K9sfjgH_VXFRsfu; path=/
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:34:37 GMT
+Server: Apache
+Location: http://www.rightnow.com/
+Cache-Control: max-age=2592000
+Expires: Fri, 25 Oct 2013 01:34:37 GMT
+Content-Type: text/html; charset=iso-8859-1
+

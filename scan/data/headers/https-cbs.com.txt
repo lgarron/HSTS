@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.15 (CentOS)
+Location: http://www.cbs.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+X-Real-Server: ws114
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:21:32 GMT
+X-Varnish: 1663713044
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: MISS
+X-Hit-Count: 0
+

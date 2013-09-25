@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:36:58 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Set-Cookie: __cfduid=d7ca4ac7326d01eadffe5bb12f8cb4ef61380080218670; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.lapatilla.com
+Set-Cookie: __cfduid=d7ca4ac7326d01eadffe5bb12f8cb4ef61380080218670; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.lapatilla.com
+Location: http://www.lapatilla.com/site/
+Cache-Control: max-age=300
+Expires: Wed, 25 Sep 2013 03:41:59 GMT
+CF-RAY: b34ac56b3020657
+

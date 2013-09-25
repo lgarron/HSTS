@@ -1,0 +1,5 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.outlook.com/owa
+Expires: Fri, 25 Oct 2013 01:09:46 GMT
+Cache-Control: public; max-age=2592000
+

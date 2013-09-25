@@ -1,0 +1,10 @@
+HTTP/1.1 404 Not Found
+Date: Wed, 25 Sep 2013 01:22:59 GMT
+Server: Plack::Handler::Starlet
+Vary: User-Agent,Accept-Encoding
+X-Framework: JP/4.00
+Content-Type: text/html
+Set-Cookie: ldblog_u=171.65.249.4.1380072179116022; path=/; expires=Tue, 24-Dec-13 01:22:59 GMT
+P3P: CP="BUS OUR PHY STP ADM CUR DEV PSA PSD"
+Connection: close
+

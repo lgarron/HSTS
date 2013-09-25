@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Age: 27
+Cache-Control: public, must-revalidate, max-age=900
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 01:37:23 GMT
+Last-Modified: Wed, 25 Sep 2013 01:34:17 GMT
+Response-Flush: No
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Cache: HIT 67
+X-CAMINO: UA_BOTS
+X-EPV: va2
+X-Location: AWS
+X-ORI: w2
+X-Powered-By: ASP.NET
+X-Varnish: 1052478863 1052468826
+Connection: keep-alive
+

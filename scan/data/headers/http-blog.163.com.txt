@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 02:35:41 GMT
+Content-Type: text/html
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: usertrack=ezq041JCS/1E8UXFJVfSAg==; expires=Thu, 25-Sep-14 02:35:41 GMT; domain=.163.com; path=/
+P3P: policyref="/w3c/p3p.xml", CP="CUR ADM OUR NOR STA NID"
+

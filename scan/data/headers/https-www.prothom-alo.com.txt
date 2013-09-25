@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:20:02 GMT
+Server: Apache
+Set-Cookie: _jw_ac=y; expires=Wed, 02-Oct-2013 03:20:02 GMT; path=/
+Set-Cookie: jadewits_device=computer; expires=Sat, 20-Sep-2014 03:20:02 GMT; path=/
+X-Powered-By: JadeWits Technologies Web Application 2.0.1
+Last-Modified: Wed, 25 Sep 2013 03:20:02 GMT
+Cache-Control: private, no-cache="set-cookie", must-revalidate
+Expires: Wed, 25 Sep 2013 03:20:17 GMT
+X-JWWebApp-Cache: MISS
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

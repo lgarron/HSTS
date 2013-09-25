@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:33:23 GMT
+Server: IBM_HTTP_Server
+Location: http://www.homedepot.com/
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: Coradiantuserid=cea72217-dabe-1063-9678-00e0ed194bfc; Path=/; Domain=.homedepot.com
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze15
+X-Pingback: http://creativecommons.org/xmlrpc.php
+Set-Cookie: PHPSESSID=2j2edc7m8nr6tjrdcnar0ek3a7; path=/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:35:34 GMT
+X-Varnish: 606505827
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

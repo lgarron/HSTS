@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.2.6
+Date: Wed, 25 Sep 2013 03:32:14 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 308
+Connection: keep-alive
+Location: http://www.harvard.edu/
+Cache-Control: max-age=1209600
+Expires: Wed, 09 Oct 2013 03:32:14 GMT
+Vary: Accept-Encoding
+

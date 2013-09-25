@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 01:06:42 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Keep-Alive: timeout=20
+Status: 302 Found
+Cache-Control: no-cache
+Location: http://www.yellowpages.com/
+X-Runtime: 157
+Set-Cookie: vrid=a9970e40-07ac-0131-0fa1-18a9053e5582; domain=.yellowpages.com; path=/; expires=Tue, 25-Sep-2018 01:06:41 GMT
+X-Rid: vendetta-e6175cbc-6c91-4422-ad16-4061c5500304
+Expires: Wed, 25 Sep 2013 01:06:41 GMT
+Set-Cookie: bucket=webyp;Domain=.yellowpages.com;Path=/;Max-Age=31536000
+

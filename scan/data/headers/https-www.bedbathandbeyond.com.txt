@@ -1,0 +1,7 @@
+HTTP/1.1 302 Moved Temporarily
+Location: http://www.bedbathandbeyond.com/
+Server: BigIP
+Content-Length: 0
+Date: Wed, 25 Sep 2013 03:43:37 GMT
+Connection: keep-alive
+

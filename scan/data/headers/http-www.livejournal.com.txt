@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:03:14 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-AWS-Id: ws27
+Vary: Accept-Encoding,ETag
+Cache-Control: private, proxy-revalidate
+Content-MD5: acYW3bxXKmd3OdXSECh7Vw
+X-Varnish: 2076872765 2076865064
+Age: 35
+X-VWS-Id: bil1-varn24
+ETag: GgZzacYW3bxXKmd3OdXSECh7Vw
+X-Gateway: bil1-swlb03.prod.livejournal.org
+

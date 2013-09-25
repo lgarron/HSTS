@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache, no-store
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 25 Sep 2013 01:38:40 GMT
+Connection: keep-alive
+Set-Cookie: lastFullSite=http%3A%2F%2Fwww.bodybuilding.com%2F; Domain=.bodybuilding.com; Path=/
+Set-Cookie: lastFullSite=http%3A%2F%2Fwww.bodybuilding.com%2F; Domain=.bodybuilding.com; Path=/
+

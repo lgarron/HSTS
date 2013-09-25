@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: Delta Airlines
+Date: Wed, 25 Sep 2013 01:35:55 GMT
+Content-type: text/html
+Set-Cookie: TLTHID=D2156B162582102559B7ED19232446A0; Path=/; Domain=.delta.com
+Set-Cookie: TLTSID=D2156B162582102559B7ED19232446A0; Path=/; Domain=.delta.com
+X-frame-options: SAMEORIGIN
+Content-language: en-US
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache="set-cookie, set-cookie2"
+Access-control-allow-origin: http://author.delta.com
+Access-control-allow-credentials: true
+Vary: Accept-Encoding
+Set-cookie: mobile=N; Expires=Wed, 02-Oct-13 01:35:54 GMT; Path=/
+Set-cookie: JSESSIONID=0000cJk0Mtq1qKy_5PkrdAMsFhe:-1; Path=/
+Set-cookie: JROUTE=vRY1; Path=/
+

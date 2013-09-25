@@ -1,0 +1,12 @@
+HTTP/1.1 302 Moved Temporarily
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 02:37:00 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=df7b93d443caf4daf5d1c8b718f5ae0c51380076619871; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.pastebin.com
+Set-Cookie: __cfduid=df7b93d443caf4daf5d1c8b718f5ae0c51380076619871; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.pastebin.com
+X-Powered-By: PHP/5.4.8
+Set-Cookie: cookie_key=1; expires=Wed, 23-Oct-2013 02:37:00 GMT; path=/; domain=.pastebin.com
+location: http://pastebin.com/
+CF-RAY: b34547a3bec0663
+

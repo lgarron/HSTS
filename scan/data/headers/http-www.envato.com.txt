@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, private, must-revalidate
+Content-length: 14219
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 04:34:23 GMT
+Etag: "b9c2f92b53c7991b105b391a2304c768"
+Set-Cookie: request_method=GET; path=/
+Status: 200 OK
+X-Rack-Cache: miss
+X-Request-Id: 2a188dbf3479f2e9575572f4f45149e5
+X-Runtime: 0.008415
+X-Ua-Compatible: IE=Edge,chrome=1
+Connection: keep-alive
+

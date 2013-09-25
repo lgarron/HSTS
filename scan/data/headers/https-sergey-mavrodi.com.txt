@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 02:37:51 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d37a90b9ade7f74af329dc51a5ffa694f1380076671842; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.sergey-mavrodi.com
+Set-Cookie: __cfduid=d37a90b9ade7f74af329dc51a5ffa694f1380076671842; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.sergey-mavrodi.com
+Location: http://sergey-mavrodi.com/
+CF-RAY: b3455bf049a0669
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+

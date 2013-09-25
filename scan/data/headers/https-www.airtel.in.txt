@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Set-Cookie: AirtelNew_443=R1231726055; path=/
+content-length: 58039
+content-type: text/html
+date: Wed, 25 Sep 2013 00:43:39 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+server: WebSEAL/6.0.0.28 (Build 120625)
+cache-control: no-cache
+pragma: no-cache
+Set-Cookie: PD-S-SESSION-ID=2_CDt6Hk7ZaL8QwUl3jON1i1mgJD5gQyIjdpvxO1Ad01N+UqS5; Path=/; Secure
+

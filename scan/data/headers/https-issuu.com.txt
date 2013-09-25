@@ -1,0 +1,10 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.1.19
+Date: Wed, 25 Sep 2013 01:25:43 GMT
+Content-Type: text/plain
+Content-Length: 51
+Connection: keep-alive
+X-Powered-By: Express
+Vary: Accept
+Location: http://issuu.com/
+

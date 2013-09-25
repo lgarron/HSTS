@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+ETag: "e24ce9fbacfd9a82c32ec8fc43edd9a7"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: must-revalidate
+Set-Cookie: SESS2ea0c937b70043d1b98c4abfd7f038a4=kaakn0131jjp989t9b2khurv06; expires=Fri, 18-Oct-2013 07:11:38 GMT; path=/; domain=.socialmediatoday.com
+Last-Modified: Wed, 25 Sep 2013 03:07:32 GMT
+X-AH-Environment: prod
+Date: Wed, 25 Sep 2013 03:38:18 GMT
+X-Varnish: 1622922817
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: MISS
+

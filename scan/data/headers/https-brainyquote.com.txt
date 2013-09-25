@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 00:48:46 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d532aad44a2bae307be58f3e1381355641380070126656; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.brainyquote.com
+Set-Cookie: __cfduid=d532aad44a2bae307be58f3e1381355641380070126656; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.brainyquote.com
+Location: http://www.brainyquote.com/
+CF-RAY: b33b5f394af0657
+

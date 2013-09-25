@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 01:02:17 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: https://us.battle.net/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+

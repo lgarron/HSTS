@@ -1,0 +1,8 @@
+HTTP/1.1 401 Unauthorized
+Server: nginx
+Date: Wed, 25 Sep 2013 03:47:40 GMT
+Content-Type: text/html
+Content-Length: 188
+Connection: keep-alive
+WWW-Authenticate: Basic realm="Hello "
+

@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.15 (CentOS)
+X-Origin: web2
+X-Powered-By: PHP/5.3.16
+X-Drupal-Cache: MISS
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 25 Sep 2013 03:10:50 +0000
+Cache-Control: public, max-age=1800
+ETag: "1380078650-1"
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+X-UA-Device: pc-player
+Date: Wed, 25 Sep 2013 03:30:03 GMT
+X-Varnish: 822197695 822172670
+Age: 1147
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Cache: HIT
+Vary: Accept-Encoding, User-Agent
+X-GeoIP: US
+Set-Cookie: ibt=83102848.1.490509728.679003328; path=/
+

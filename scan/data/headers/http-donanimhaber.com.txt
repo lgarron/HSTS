@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Length: 144
+Content-Type: text/html; charset=utf-8
+Location: http://www.donanimhaber.com
+Server: Microsoft-IIS/8.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:31:14 GMT
+

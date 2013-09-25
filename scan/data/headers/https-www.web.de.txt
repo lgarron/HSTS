@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: deny
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache, no-store, public
+X-Appserver: hp-webde-bs002
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 25 Sep 2013 01:23:00 GMT
+Connection: keep-alive
+Vary: User-Agent
+Set-Cookie: SSLB=.0; domain=web.de ;path=/
+

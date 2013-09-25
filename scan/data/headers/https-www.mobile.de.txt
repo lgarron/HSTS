@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:19:40 GMT
+Server: Apache
+Set-Cookie: JSESSIONID=469BDC9D271CBFBAA8961A45DABF512F.oeb47-1_i03_3203; Path=/; Secure; HttpOnly
+Expires: Wed, 25 Sep 2013 01:49:40 GMT
+Cache-Control: max-age=1800
+Cache-Control: private
+Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 01:19:40 GMT; Path=/
+Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 01:19:40 GMT; Path=/
+Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 01:19:40 GMT; Path=/
+Set-Cookie: featureVariant.advertisingEvaluation2=NO_VARIANT; Domain=.mobile.de; Expires=Tue, 24-Dec-2013 01:19:40 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=NO_VARIANT; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:40 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=NO_VARIANT; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:40 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=v1; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:40 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=v2; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:40 GMT; Path=/
+Set-Cookie: featureVariant.columbusOptimizationEvaluation=default; Domain=.mobile.de; Expires=Wed, 09-Oct-2013 01:19:40 GMT; Path=/
+Set-Cookie: nuggadTop20Makes=HOMEPAGE; Expires=Thu, 26-Sep-2013 01:19:40 GMT; Path=/
+Content-Language: de-DE
+Content-Length: 64088
+Vary: Accept-Encoding
+Content-Type: text/html;charset=UTF-8
+

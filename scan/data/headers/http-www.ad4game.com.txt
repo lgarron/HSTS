@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:52:59 GMT
+Content-Type: text/html
+Connection: close
+X-Powered-By: PHP/5.3.3
+X-host: www.ad4game.com
+X-servername: www.ad4game.com
+

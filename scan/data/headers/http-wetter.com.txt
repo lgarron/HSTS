@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.wetter.com/
+Server: WEB01
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:22:12 GMT
+X-Varnish: 1146975244 1146973236
+Age: 85
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT C3398
+

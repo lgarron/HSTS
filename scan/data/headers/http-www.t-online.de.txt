@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+X-PDFFilter: available
+X-AgeClass: ZPage
+X-CurrentMood: :-)
+X-ReleaseInfo: 13.1.1.1
+X-SourceInfo: cmsweb5f4/05
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+cache-control: max-age = 30
+X-Varnish-Host: wwwcdnf03
+X-Varnish-CAE-Director: cae5
+Content-Length: 214507
+Date: Wed, 25 Sep 2013 00:44:02 GMT
+X-Varnish: 2500533591 2500530598
+Via: 1.1 varnish
+Connection: keep-alive
+

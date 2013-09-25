@@ -1,0 +1,11 @@
+HTTP/1.1 302 Object moved
+Cache-Control: private
+Content-Length: 140
+Content-Type: text/html
+Location: http://www.uefa.com
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASPSESSIONIDSADCCTQT=CKJFJOBBPLKMALJCFAHDLBPA; path=/
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:29:12 GMT
+Set-Cookie: uefa.com=2133333420.20480.0000; path=/
+

@@ -1,0 +1,15 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Microsoft-IIS/7.5
+Location: /?r=2
+X-RuleEngine-Key: US1.2:ReferrerAnyOrNoneSiteDotGBPreferenceNone
+X-Powered-By: ASP.NET
+serverName: ASD-WEB-12
+X-Powered-By: ASP.NET
+serverName: ASD-WEB-12
+RTSS: 1
+Date: Wed, 25 Sep 2013 00:44:25 GMT
+Connection: keep-alive
+Set-Cookie: SSLB=1; path=/; domain=.asos.com
+Set-Cookie: asos=currencyid=2; expires=Thu, 25-Sep-2014 00:44:25 GMT; path=/
+Set-Cookie: stop_mobi=yes; path=/; domain=asos.com
+

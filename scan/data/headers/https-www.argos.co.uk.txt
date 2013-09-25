@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 31 Jul 2012 13:36:01 GMT
+Content-Type: text/html
+Cache-Control: max-age=480
+Date: Wed, 25 Sep 2013 03:23:01 GMT
+Connection: keep-alive
+Set-Cookie: Apache=184.84.222.3.311321380079381777; path=/
+Set-Cookie: mdr_browser=Akamai; expires=Wed, 25-Sep-2013 05:23:01 GMT; path=/; domain=.argos.co.uk
+

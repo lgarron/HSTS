@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.squidoo.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 00:40:17 GMT
+X-Varnish: 1993906580 1991822697
+Age: 13887
+Via: 1.1 varnish
+Connection: keep-alive
+

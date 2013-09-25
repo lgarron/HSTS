@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:28:28 GMT
+Content-Type: text/html
+Connection: close
+Set-Cookie: uprand=b25fc6633dbf8c167c88b4b35dec7c5d; path=/; domain=.depositfiles.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: web-cluster=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+

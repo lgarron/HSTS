@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:07:38 GMT
+Cache-Control: no-cache
+Pragma: No-Cache
+Content-Type: text/html; Charset=GB2312
+Expires: Tue, 24 Sep 2013 02:07:34 GMT
+Server: Microsoft-IIS/7.0
+Set-Cookie: kd%5Fsessionid=61a4f9c31c393b3426eeec07c61f3015; expires=Fri, 25-Oct-2013 16:00:00 GMT; domain=.kdnet.net; path=/
+Set-Cookie: ASPSESSIONIDSAARSBBB=MAOMAIPAKGPHAOOBMGIAKADI; path=/
+X-Powered-By: ASP.NET
+X-Via: 1.1 yfdx36:9087 (Cdn Cache Server V2.0)
+Connection: keep-alive
+

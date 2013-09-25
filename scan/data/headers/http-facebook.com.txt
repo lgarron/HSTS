@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Location: http://www.facebook.com/unsupportedbrowser
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: BCuIRanXIgRli1pWDS5zncO1oEV0fi56JyEhWkHf9N8=
+Date: Wed, 25 Sep 2013 00:43:38 GMT
+Connection: keep-alive
+Content-Length: 0
+

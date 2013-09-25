@@ -1,0 +1,17 @@
+HTTP/1.0 200 OK
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR IND UNI INT STA PRE COM NAV OTC DSP COR"
+Set-Cookie: XWWWSESSID=c1b2cec555e67e0977996ad2457b2af3; path=/; domain=.xuite.net
+Set-Cookie: otpw=deleted; expires=Tue, 25-Sep-2012 03:27:42 GMT; path=/; domain=.xuite.net
+Set-Cookie: loginAccountType=deleted; expires=Tue, 25-Sep-2012 03:27:42 GMT; path=/; domain=.xuite.net
+Set-Cookie: startTime=deleted; expires=Tue, 25-Sep-2012 03:27:42 GMT; path=/; domain=.xuite.net
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 03:27:43 GMT
+Server: Apache
+X-Cache: MISS from www-new-02.www.xuite.net
+X-Cache-Lookup: MISS from www-new-02.www.xuite.net:8000
+Via: 1.0 www-new-02.www.xuite.net:8000 (squid/2.7.STABLE5)
+Connection: close
+

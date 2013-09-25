@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-UA-Compatible: IE=edge,chrome=1
+Content-Type: text/html;charset=utf-8
+Vary: Accept-Encoding,X-AB-Device-Type
+X-Varnish: 2676228501 2676227562
+Via: 1.1 varnish
+Cache-Control: private,s-maxage=0
+Date: Wed, 25 Sep 2013 00:55:36 GMT
+X-Varnish: 3577091535 3577091050
+Age: 48
+Via: 1.1 varnish
+Connection: keep-alive
+Set-Cookie: X-AB-Device-Type=desktop; Expires=Wed, 01-Jan-2020 00:00:01 GMT; Path=/; Domain=.aftonbladet.se
+

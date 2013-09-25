@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:43:40 GMT
+Server: Apache
+Location: http://www.weebly.com
+Vary: Accept-Encoding,User-Agent
+X-Host: app-64-18.intern.weebly.net
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: sto-id-editor=CIHLHLAK; Domain=weebly.com; Path=/
+

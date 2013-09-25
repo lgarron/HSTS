@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Server: nginx/1.0.15
+X-Varnish: 1436864754 1436822306
+Vary: Accept-Encoding
+cache-control: max-age=0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 00:58:12 GMT
+X-NodeGroup: 16
+X-WebNode: web4.examiner.com
+Link: <http://www.examiner.com/>; rel="canonical"
+x-url: /
+Transfer-Encoding: chunked
+Content-Language: en
+x-host: www.examiner.com
+X-Varnish-Cache: HIT
+ETag: "1380070334"
+X-Generator: Drupal 7 (http://drupal.org)
+Via: 1.1 varnish
+Connection: Keep-Alive
+Last-Modified: Wed, 25 Sep 2013 00:52:14 +0000
+X-FRAME-OPTIONS: SAMEORIGIN
+X-Powered-By: PHP/5.3.19
+Age: 358
+

@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:53:01 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: userid=60ee3a05de96e043a4377e69b8eff18eaaf14095%7E614c5fe44eacf5be471cc614a51e9dfee2bc5f57; expires=Thu, 19-Aug-2060 11:32:42 GMT; path=/
+

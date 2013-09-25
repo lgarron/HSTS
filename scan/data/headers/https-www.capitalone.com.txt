@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:55:33 GMT
+Server: Apache
+Set-Cookie: v1st=10AC992FE2EBEEEF; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.capitalone.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Length: 118691
+Set-Cookie: WWWJSESSIONID=M2QNSC0FnhnJwh1NzGLwRqT4K4LVnFMGFKX7y0qL9q24ZSBTP2NJ!274451585!1324050012; path=/
+Set-Cookie: BADGE_CS=00b5bdfdbY5BCsMwDAR%2FVBLIoeTmOlulJZaNJBfSg%2F2RPL7GUJpDT0KzYkdrqga1ShJzKjeXD7BVAT0i1%2BCeUUownectTKSTn7Tnm2PKjlCT4A4BexQwHWuqauIMtPeutieJS%2Fb2z3JCw9iJz2oxQKrtCT8xK67vfvCCaPusjJehy0Ch4a%2FrnPa6mNlkb3NByeqODw%3D%3D; domain=.capitalone.com; expires=Friday, 25-Oct-2013 00:55:34 GMT; path=/
+Set-Cookie: BADGE=ENT_REGION_MAJOR^MTS::LM4GS4C4S|HP_TEST_GROUP^BAU|HP_LAYOUT_TEST_GROUP^04|ENT_LANGUAGE_PREFERENCE^ENG|HP_STRATEGY^BAU|ENT_TEST_GROUP^01|ENT_USER_STATE^BAU|HP_CHANNEL^MTS::LM4C1FE8Z|ENT_LOOK_AND_FEEL^capitalone-super-nav|HP_PRODUCT_TEST_GROUP^BAU|ENT_CUSTOMER_TYPE^MTS::LM4GNSE8Z|HP_SEGMENT^BAU|ENT_DEVICE_TYPE^MTS::MLILPIKG4|ENT_COUNTRY_CODE^USA|; domain=.capitalone.com; path=/
+Set-Cookie: BADGE_S=8434cf65XYzLCoMwEEW%2FyKLgorhL46jBvDATwS4yhOKiUKz0tcrHt7W7Ls89l9NZkmwyHgnBIbWD8TbkZQKN5B0M5JAhhAPz2zTC4ITRodjlG0tjemK6pgZAhlNcz494uS5zdn%2Bu8y1b4it1lnjHtP54ha6qpCp50cD%2B%2BDX%2FvRpGwYFwsvB7KymkFX1bpjc%3D; domain=.capitalone.com; path=/
+X-Powered-By: Servlet/2.5 JSP/2.1
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://www.capitalone.com/w3c/p3p.xml",CP="CAO DSP COR ADM DEV TAI PSA PSD IVA IVD CONo TELo OTP OUR DEL SAMo IND NAV"
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: cookie_capitalone_com=EG3mdQhLM9XbVKm9esJAEalYm3s+xYmiNLRWHgcW2ZnncN7F08uinx4W27kKbmFi4A/Ifly3amhL2g==; path=/
+

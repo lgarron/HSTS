@@ -1,0 +1,4 @@
+HTTP/1.1 301 MOVED PERMANENTLY
+Location: http://www.orbitz.com/
+Set-Cookie: NSC_xxx.pscjua.dpn.80_gxe=ffffffff09e4087545525d5f4f58455e445a4a423660;path=/;httponly
+

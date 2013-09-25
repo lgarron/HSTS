@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:43:38 GMT
+Server: Apache
+Location: http://www.jrj.com.cn/
+Cache-Control: max-age=180
+Expires: Wed, 25 Sep 2013 00:46:38 GMT
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

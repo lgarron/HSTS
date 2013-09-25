@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 01:39:57 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d064a0b458eb196620c44b7824429a9db1380073197823; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.likes.com
+Set-Cookie: __cfduid=d064a0b458eb196620c44b7824429a9db1380073197823; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.likes.com
+Location: https://likes.com/
+CF-RAY: b3400ee66050701
+

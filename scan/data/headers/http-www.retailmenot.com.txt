@@ -1,0 +1,17 @@
+HTTP/1.1 307 Temporary Redirect
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 00:43:58 GMT
+Location: /humanCheck.php?url=%2F
+Server: nginx
+Set-Cookie: userFlashVersion=1HmpYBl1Dl; expires=Mon, 24-Sep-2018 00:43:58 GMT; path=/; domain=retailmenot.com
+Set-Cookie: visitor=1HmpYBl1Dl; expires=Mon, 24-Sep-2018 00:43:58 GMT; path=/; domain=retailmenot.com
+Set-Cookie: session=1HmpYBl1Dl524231ceb01a9; expires=Wed, 25-Sep-2013 01:13:58 GMT; path=/; domain=retailmenot.com
+Set-Cookie: country_code=US; expires=Thu, 25-Sep-2014 00:43:58 GMT; path=/; domain=retailmenot.com
+Set-Cookie: rqid=1HmpYBl1Dl524231ceb01a9524231ceb49bd; path=/; domain=retailmenot.com
+UserFlashVersion: 1HmpYBl1Dl
+Vary: Accept-Encoding
+X-Request-Id: 1HmpYBl1Dl524231ceb01a9524231ceb49bd
+X-Session-Id: 1HmpYBl1Dl524231ceb01a9
+X-Visitor-Id: 1HmpYBl1Dl
+Connection: keep-alive
+

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.3
+Date: Wed, 25 Sep 2013 00:49:02 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Set-Cookie: hw=86400; Domain=.seznam.cz; expires=Thu, 26-Sep-2013 00:49:02 GMT; Path=/
+Set-Cookie: hint=MTM4MDA3MDE0MiwwOw==; Domain=.seznam.cz; expires=Fri, 01-Sep-2113 00:49:02 GMT; Path=/
+X-XRDS-Location: http://id.seznam.cz/yadis
+Expires: Wed, 25 Sep 2013 00:49:02 GMT
+Pragma: no-cache
+Set-Cookie: ng=1;Domain=.seznam.cz;Path=/
+

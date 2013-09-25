@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: SFDC
+Last-Modified: Tue, 24 Sep 2013 23:39:01 GMT
+Content-Type: text/html; charset=UTF-8
+X-Cnection: close
+Date: Wed, 25 Sep 2013 00:40:13 GMT
+Connection: keep-alive
+Set-Cookie: session_check=visited; expires=Wed, 25-Sep-2013 00:55:13 GMT; path=/
+

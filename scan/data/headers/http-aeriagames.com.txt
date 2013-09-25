@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 04:34:41 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze16
+Location: http://www.aeriagames.com
+Connection: close
+Vary: Accept-Encoding
+Content-Type: text/html
+

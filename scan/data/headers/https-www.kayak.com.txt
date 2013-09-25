@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+P3P: CP="ALL DSP LAW CUR ADM DEVi TAI PSA PSD IVA IVD CONi OUR SAM LEG UNI PUR"
+Date: Wed, 25 Sep 2013 01:24:48 GMT
+Connection: keep-alive
+Set-Cookie: Apache=q0H5BA-AAABQVK38dM-98-Q1VASg; path=/; expires=Tue, 21-Jun-16 01:24:48 GMT; domain=.kayak.com
+Set-Cookie: kayak=ENhJ3Rbj5YQd9OHXhoh_; Expires=Sat, 24-Sep-2016 01:24:48 GMT; Path=/; HttpOnly
+Set-Cookie: cluster=4; Expires=Wed, 25-Sep-2013 02:09:48 GMT; Path=/
+Set-Cookie: p1.med.bsc=2MnG97kZyc6n; Path=/; HttpOnly
+Set-Cookie: NSC_q4-tqbslmf=ffffffff094f2a5745525d5f4f58455e445a4a422a59;expires=Wed, 25-Sep-2013 01:44:48 GMT;path=/;httponly
+Cache-Control: no-cache
+Cache-Control: no-store
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+

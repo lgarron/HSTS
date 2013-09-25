@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Location: http://www22.verizon.com/
+Content-Type: text/html
+Expires: Wed, 25 Sep 2013 00:50:09 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Date: Wed, 25 Sep 2013 00:50:09 GMT
+Connection: keep-alive
+Set-Cookie: ak-sf=false; expires=Wed, 25-Sep-2013 00:55:09 GMT; path=//; domain=verizon.com
+Set-Cookie: AkaUTrackingID=E2BB00E046CA965F527FC26E647F0B11; expires=Mon, 28-Sep-2020 00:50:09 GMT; path=/; domain=verizon.com
+Set-Cookie: AkaSTrackingID=E162A9CD1218275EB5D3559043B28B27; path=/; domain=verizon.com
+

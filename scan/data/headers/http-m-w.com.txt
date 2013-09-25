@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.22 (Ubuntu)
+Location: http://www.merriam-webster.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 00:48:33 GMT
+X-Varnish: 2345775419
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: MISS
+

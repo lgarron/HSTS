@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: spanner/1.0.6
+Date: Wed, 25 Sep 2013 00:54:24 GMT
+Content-Type: text/html; charset=gbk
+Content-Length: 55400
+Connection: close
+Last-Modified: Tue, 24 Sep 2013 15:55:02 GMT
+Accept-Ranges: bytes
+Set-Cookie: spanner=MTAuMjI1LjczLjI1Mjo4MA==;path=/;secure;
+

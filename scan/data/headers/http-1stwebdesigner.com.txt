@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:27:08 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d7cb260c3e905f18694a092f9e6f203ce1380079627901; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.1stwebdesigner.com
+Set-Cookie: __cfduid=d7cb260c3e905f18694a092f9e6f203ce1380079627901; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.1stwebdesigner.com
+X-Powered-By: W3 Total Cache/0.9.3
+X-Pingback: http://www.1stwebdesigner.com/xmlrpc.php
+Location: http://www.1stwebdesigner.com/
+Cache-Control: max-age=3600
+Expires: Wed, 25 Sep 2013 04:27:03 GMT
+Vary: Accept-Encoding,User-Agent
+CF-RAY: b349dea6bc30669
+

@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.gstatic.com/
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Tue, 24 Sep 2013 15:00:43 GMT
+Expires: Thu, 24 Oct 2013 15:00:43 GMT
+Server: sffe
+Content-Length: 220
+X-XSS-Protection: 1; mode=block
+Cache-Control: public, max-age=2592000
+Age: 38119
+Alternate-Protocol: 80:quic
+

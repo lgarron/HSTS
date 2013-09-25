@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 01:03:14 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 326
+Connection: keep-alive
+Location: http://www.livejournal.com/
+Accept-Ranges: bytes
+X-Varnish: 840311000 833686366
+Age: 27726
+X-VWS-Id: bil1-varn29
+X-Gateway: bil1-swlb03.prod.livejournal.org
+X-Beta: http://varnish
+

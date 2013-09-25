@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html;charset=utf-8
+Date: Wed, 25 Sep 2013 03:26:38 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: http://en.netlog.com/
+Pragma: no-cache
+Server: nginx
+Set-Cookie: PHPSESSID=e2a3318c000abcfe1a99c708519e25dc; path=/
+Set-Cookie: language=EN_1; expires=Thu, 25-Sep-2014 03:26:38 GMT; path=/; domain=.netlog.com
+Connection: close
+

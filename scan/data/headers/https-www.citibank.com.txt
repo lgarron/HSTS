@@ -1,0 +1,6 @@
+HTTP/1.1 302 Moved Temporarily
+Server: ""
+Date: Wed, 25 Sep 2013 00:40:17 GMT
+Content-length: 0
+Location: http://www.citibank.com/us/index.htm
+

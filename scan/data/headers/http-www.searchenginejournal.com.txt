@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:26:36 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Pingback: http://www.searchenginejournal.com/xmlrpc.php
+Link: <http://sejr.nl/16Gzv3r>; rel=shortlink
+Access-Control-Allow-Origin: *
+ZK-WebNode: soyuz-web03
+ZK-LoadBalancer: soyuz-lb01
+ZK-Shenanigans: none
+

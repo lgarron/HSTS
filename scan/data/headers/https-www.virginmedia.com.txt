@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:32:22 GMT
+Server: Apache
+Location: http://www.virginmedia.com/
+Vary: Accept-Encoding
+P3P: CP="ALL DSP COR TAIa PSAa PSDa IVAa IVDa CONi OUR IND UNI"
+Content-Type: text/html; charset=UTF-8
+

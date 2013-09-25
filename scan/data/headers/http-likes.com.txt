@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 01:39:50 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=db8a8fb3bd1d143d59b0e3593829429c11380073190473; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.likes.com
+Set-Cookie: __cfduid=db8a8fb3bd1d143d59b0e3593829429c11380073190473; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.likes.com
+Vary: Accept-Encoding
+Cache-Control: private
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: s="!oyiyp9YNXzZu/2Cw05pEBQ==?gAJVAXN9cQFVBmV4cF9pZHECTeZjc4ZxAy4="; Domain=.likes.com; expires=Wed, 25 Sep 2013 02:39:50 GMT; Path=/
+CF-RAY: b3400c0796a065d
+

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:01:03 GMT
+Server: Apache/2.2.21 (FreeBSD) mod_ssl/2.2.21 OpenSSL/0.9.8q PHP/5.4.16-dev
+X-Powered-By: PHP/5.4.16-dev
+Content-language: en
+Set-Cookie: COUNTRY=USA%2C171.65.249.4; expires=Wed, 02-Oct-2013 01:01:03 GMT; path=/; domain=.php.net
+Last-Modified: Wed, 25 Sep 2013 06:20:15 GMT
+Vary: User-Agent,Accept-Encoding
+Connection: close
+Content-Type: text/html;charset=utf-8
+

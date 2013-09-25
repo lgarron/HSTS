@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 03:32:15 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: wordpress_wp_session=325c9b9f063d93b6f5d9c796657ed954%7C%7C1380166335%7C%7C1380081375; expires=Thu, 26-Sep-2013 03:32:15 GMT; path=/; domain=yoast.com
+X-Pingback: http://yoast.com/xmlrpc.php
+X-Powered-By: W3 Total Cache/0.9.3
+Location: http://yoast.com/
+

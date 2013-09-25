@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 60372
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.0
+Set-Cookie: countrysite1=WWW; domain=godaddy.com; expires=Thu, 25-Sep-2014 01:14:11 GMT; path=/
+Set-Cookie: countrysite1=WWW; domain=godaddy.com; expires=Thu, 25-Sep-2014 01:14:11 GMT; path=/
+Set-Cookie: ATL.SID.SALES=ipidj6LI%2fBizRVSQnsMH5nSeidqA098aFEn9UUPfDcg%3d; path=/; HttpOnly
+Set-Cookie: gdCassCluster.sePQKXdv2U=2; path=/
+Set-Cookie: vistorpromo1=firsttime; domain=godaddy.com; path=/
+Set-Cookie: MemBotChk=false; path=/
+Set-Cookie: SplitValue1=64; domain=godaddy.com; expires=Thu, 26-Sep-2013 01:14:11 GMT; path=/
+Set-Cookie: countrysite1=WWW; domain=godaddy.com; expires=Thu, 25-Sep-2014 01:14:11 GMT; path=/
+Set-Cookie: ATL.SID.SALES=ipidj6LI%2fBizRVSQnsMH5nSeidqA098aFEn9UUPfDcg%3d; path=/; HttpOnly
+Set-Cookie: gdCassCluster.sePQKXdv2U=2; path=/
+Set-Cookie: vistorpromo1=firsttime; domain=godaddy.com; path=/
+Set-Cookie: MemBotChk=false; path=/
+Set-Cookie: SplitValue1=64; domain=godaddy.com; expires=Thu, 26-Sep-2013 01:14:11 GMT; path=/
+Set-Cookie: mobile.redirect.browser=0; path=/
+Set-Cookie: preferences1=_sid=&countryFlag=us&gdshop_currencyType=USD; domain=godaddy.com; path=/
+Set-Cookie: flag1=cflag=us; domain=godaddy.com; expires=Thu, 25-Sep-2014 01:14:11 GMT; path=/
+Set-Cookie: currency1=potableSourceStr=USD; domain=godaddy.com; expires=Thu, 25-Sep-2014 01:14:11 GMT; path=/
+Set-Cookie: language1=en; domain=godaddy.com; expires=Thu, 25-Sep-2014 01:14:11 GMT; path=/
+Set-Cookie: PCSplitValue1=4; domain=godaddy.com; expires=Thu, 26-Sep-2013 01:14:11 GMT; path=/
+Set-Cookie: traffic=cookies=1&referrer=&sitename=www.godaddy.com&page=/&server=P3PWCORPWEB133&status=200 OK&querystring=&shopper=&privatelabelid=1&isc=&clientip=171.65.249.4&referringpath=&referringdomain=&split=64&pcsplit=4; domain=godaddy.com; path=/
+P3P: policyref="/w3c/p3p.xml", CP="COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR OUR IND"
+Date: Wed, 25 Sep 2013 01:14:10 GMT
+

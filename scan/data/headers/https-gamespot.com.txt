@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 01:11:22 GMT
+Location: http://www.gamespot.com/
+Server: Apache
+Vary: Accept-Encoding
+Connection: keep-alive
+

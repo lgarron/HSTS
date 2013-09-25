@@ -1,0 +1,10 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html
+Keep-Alive: timeout=300
+Location: http://bitsnoop.com/
+Content-Length: 154
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 16:23:15 GMT
+Connection: keep-alive
+Server: Hampsterbox/2.0
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:25:40 GMT
+Server: IBM_HTTP_Server
+Surrogate-Control: content="ESI/1.0"
+Set-Cookie: JSESSIONID=0000VzwKaQ2wPmvqEYcgeM_kBTQ:168l8jful; Path=/
+Set-Cookie: Registration=currentUserId:nfBBdcDcmnuODh89Yg9hwbtGFQMgZeQuu0YVAyBl5C67RhUDIGXkLrtGFQMgZeQu+jPDUWrBD3Rc3KSsbOS08uJdwdWTgMV8P3FGYlkXuII=; Expires=Mon, 24 Sep 2018 03:25:39 GMT; Path=/; Domain=cars.com
+Set-Cookie: affiliate=national; Expires=Wed, 16 Oct 2013 03:25:39 GMT; Path=/; Domain=cars.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-Control: no-cache="set-cookie, set-cookie2"
+P3P: policyref="/w3c/p3p.xml", CP="ALL DEM ONL PHY PUR CUR OUR BUS IND"
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Set-Cookie: cars_persist=423696044.20480.0000; expires=Wed, 25-Sep-2013 03:55:40 GMT; path=/
+

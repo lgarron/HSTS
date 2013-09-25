@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 02:07:32 GMT
+Server: Apache
+Location: http://www.heise.de/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

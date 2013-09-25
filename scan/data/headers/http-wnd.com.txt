@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+X-Powered-By: PHP/5.3.3
+X-Redirect: 1
+Location: http://www.wnd.com/
+Content-type: text/html
+Server: ch-sc-shield1
+Cache-Control: max-age=3600
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:36:11 GMT
+X-Varnish: 420662777 420623378
+Age: 2552
+Via: 1.1 varnish
+Connection: keep-alive
+

@@ -1,0 +1,6 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:18:19 GMT
+Server: nginx
+Location: http://about.me
+Content-Type: text/plain
+

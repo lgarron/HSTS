@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 02:07:28 GMT
+Content-Type: text/html
+Set-Cookie: ccode=US; path=/
+Set-Cookie: currently_viewing=index%3A%3Aindex; path=/
+Set-Cookie: adsViewed_index_sidebar=563; expires=Wed, 25-Sep-2013 03:07:28 GMT; path=/
+Set-Cookie: adsViewed_index_sidebar2=510; expires=Wed, 25-Sep-2013 03:07:28 GMT; path=/
+

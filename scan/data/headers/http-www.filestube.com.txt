@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:58:13 GMT
+Server: Apache
+Set-Cookie: geoip=US%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; expires=Thu, 25-Sep-2014 00:58:13 GMT; path=/
+Set-Cookie: geoip=US%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; expires=Thu, 25-Sep-2014 00:58:13 GMT; path=/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

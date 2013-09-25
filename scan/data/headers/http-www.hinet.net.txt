@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:21:51 GMT
+Server: Apache
+Last-Modified: Fri, 16 Aug 2013 03:50:02 GMT
+ETag: "13240-2b25-4e4087c3bae80"
+Accept-Ranges: bytes
+Content-Length: 11045
+Content-Type: text/html
+Set-Cookie: NSC_Q80_xxx.ijofu.ofu=ffffffffaf18221045525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 03:24:24 GMT;path=/
+

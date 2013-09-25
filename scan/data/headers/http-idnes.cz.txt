@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Length: 0
+Content-Type: text/html
+Expires: Wed, 01 Jan 1997 12:00:00 GMT
+Location: http://www.idnes.cz/
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASP.NET_SessionId=y14rh3b5cseloef4wyheutt0; path=/; HttpOnly
+debug-info: 404.aspx: http://idnes.cz:80
+X-AspNet-Version: 4.0.30319
+X-Powered-By: iDNES iweb44
+Date: Wed, 25 Sep 2013 00:53:03 GMT
+Connection: close
+

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:35:52 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: PHPSESSID=cqel4jbav35ukce4hfvcscjn67; path=/; domain=.dreamstime.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: firstvisit=1380072952; expires=Tue, 16-Sep-2014 01:35:52 GMT; path=/; domain=.dreamstime.com
+Set-Cookie: dtlanguage=en; expires=Thu, 25-Sep-2014 01:35:52 GMT; path=/; domain=.dreamstime.com
+Set-Cookie: http_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.dreamstime.com
+Set-Cookie: http_ref_date=2013-09-24+20%3A35%3A52; expires=Thu, 25-Sep-2014 01:35:52 GMT; path=/; domain=.dreamstime.com
+Set-Cookie: lastvisit=1380072952; expires=Thu, 25-Sep-2014 01:35:52 GMT; path=/; domain=.dreamstime.com
+Set-Cookie: revisit=1; expires=Thu, 25-Sep-2014 01:35:52 GMT; path=/; domain=.dreamstime.com
+

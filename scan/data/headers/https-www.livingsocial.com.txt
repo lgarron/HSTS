@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+X-Frame-Options: SAMEORIGIN
+X-UA-Compatible: IE=Edge,chrome=1
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 2b05a7f75f1f4d30cadc1643d31dcef6
+X-Runtime: 0.078869
+X-Rack-Cache: miss
+Date: Wed, 25 Sep 2013 03:23:12 GMT
+Connection: keep-alive
+Set-Cookie: ref_code=broader_roadblock_dm_none_qt_none-v3newnavtreatment; domain=livingsocial.com; path=/; expires=Wed, 02-Oct-2013 03:23:11 GMT
+Set-Cookie: root_visit=1; domain=livingsocial.com; path=/; expires=Wed, 25-Sep-2013 03:23:41 GMT
+Set-Cookie: vanity_id=d086ef34623d908d184ed60fa405b642; path=/; expires=Fri, 25-Oct-2013 03:23:11 GMT
+Set-Cookie: preferred_city_id=13; domain=.livingsocial.com; path=/; expires=Sun, 25-Sep-2016 03:23:12 GMT
+Set-Cookie: _browse_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWE4MDhhZGU5ZGVkZGZkNzhhZThlNmQwNjM1MmE1NzYyBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMStMRlJ4eXVDWFVOVmtwU1hoZ3RpQ1M4bVRmVktXOXNVV2ppNFdVbWNpWUk9BjsARkkiCWFzaWQGOwBGIiU3ODk3MTRjNzc3MWEzZWRhZDMwNmRiZDhhZWFmZWQxNw%3D%3D--97a47130985d317a64522949818f117cf46a9885; path=/; HttpOnly
+

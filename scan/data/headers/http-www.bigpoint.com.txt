@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:29:24 GMT
+Server: Apache
+Set-Cookie: ABTesting7389=deleted; expires=Tue, 25-Sep-2012 03:29:23 GMT; path=/; domain=.bigpoint.com
+Set-Cookie: BIGPOINT2_FRONTEND=d3d985bc3d3041acc939409e7599592c; path=/; domain=.bigpoint.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+P3P: CP="CAO PSA OUR"
+Set-Cookie: bpLandingPage_fallback=http%253A%252F%252Fwww.bigpoint.com%252F; expires=Fri, 25-Oct-2013 03:29:24 GMT; path=/; domain=bigpoint.com
+Set-Cookie: bpRecognition13361=YToxOntzOjY6ImxvY2FsZSI7czoyOiJlbiI7fQ%3D%3D; expires=Thu, 26-Sep-2013 03:29:24 GMT; path=/; domain=.bigpoint.com
+Set-Cookie: bpRecognition13361=YToxOntzOjY6ImxvY2FsZSI7czoyOiJlbiI7fQ%3D%3D; expires=Thu, 26-Sep-2013 03:29:24 GMT; path=/; domain=.bigpoint.com
+Set-Cookie: bptid=12bc1daf0b436b1c65a20193cfad920f; path=/
+Set-Cookie: bptid=12bc1daf0b436b1c65a20193cfad920f; path=/
+Set-Cookie: bptid=12bc1daf0b436b1c65a20193cfad920f; path=/
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=utf-8
+X-XTM-Node: pool-57-www-024156
+Connection: Close
+

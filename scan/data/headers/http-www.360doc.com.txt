@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.1
+Date: Wed, 25 Sep 2013 03:35:59 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 187690
+Connection: keep-alive
+Vary: Accept-Encoding
+Content-Location: http://www.360doc.com/index.html
+Last-Modified: Wed, 25 Sep 2013 03:34:10 GMT
+Accept-Ranges: bytes
+ETag: W/"b6563c19a0b9ce1:14b7a"
+X-Powered-By: ASP.NET
+

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:22:44 GMT
+Content-Type: text/html; charset=utf-8
+X-Served-By: web1 (via varnish1)
+Cache-Control: public, max-age=30
+X-Varnish: 1215451352 1215444654
+Age: 42
+Via: 1.1 varnish
+X-Meta-Tbi-Varnish-Servers: www
+X-Meta-Tbi-Final-Client-Ip: 171.65.249.4
+Vary: Accept-Encoding
+

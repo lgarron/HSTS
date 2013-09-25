@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:01:09 GMT
+Cache-Control: max-age=600
+Expires: Wed, 25 Sep 2013 01:11:09 GMT
+Server: DNSPod URL V2.0
+Location: http://www.aili.com
+Content-Length: 0
+Connection: close
+

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Cache-Control: private, max-age=0, must-revalidate
+Content-length: 73444
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 01:14:50 GMT
+ETag: "0335ebc32a01a1a6885ed88bf9eb54e3"
+Server: nginx/1.2.6 + Phusion Passenger 3.0.19
+Set-Cookie: partner_id=; domain=bleacherreport.com; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+Status: 200
+Vary: User-Agent
+X-Powered-By: Phusion Passenger (mod_rails/mod_rack) 3.0.19
+X-Rack-Cache: pass
+X-Runtime: 50
+Connection: keep-alive
+

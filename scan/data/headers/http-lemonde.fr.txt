@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.lemonde.fr/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 00:40:16 GMT
+X-Varnish: 1980202467
+Age: 0
+Via: 1.1 varnish
+X-Varnish-Cache: MISS
+X-Varnish-Server: indus.lemonde.fr
+

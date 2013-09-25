@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:29:29 GMT
+Server: Apache
+X-Powered-By: PHP/5.2.6
+Set-Cookie: PHPSESSID=6d8cb2207897a4cca9dfda9828039aed; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=6d8cb2207897a4cca9dfda9828039aed; expires=Thu, 25-Sep-2014 03:29:29 GMT; path=/; domain=.focus.cn
+Location: http://house.focus.cn/jiameng/sitemap.php
+Vary: Accept-Encoding,User-Agent
+X-Server: F98
+Connection: close
+Content-Type: text/html
+

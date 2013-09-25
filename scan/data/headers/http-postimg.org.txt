@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 03:24:09 GMT
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=10
+Location: http://postimg.org/auth.php?logout=1&back=Lw==
+

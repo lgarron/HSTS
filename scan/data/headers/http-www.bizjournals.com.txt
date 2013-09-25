@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:39:22 GMT
+Server: Apache
+Set-Cookie: bizj=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.www.bizjournals.com
+Set-Cookie: U=e1FWxnUvWcn0EahOVUMGNg04f49a79; expires=Thu, 25-Sep-2014 03:39:22 GMT; path=/; domain=.bizjournals.com
+X-UIN: e1FWxnUvWcn0EahOVUMGNg04f49a79
+Set-Cookie: bizj=YToxOntzOjM6IlVJTiI7czozMDoiZTFGV3huVXZXY24wRWFoT1ZVTUdOZzA0ZjQ5YTc5Ijt9%7C1380080362%7C0c5ccb86044dfcb4d7d7b462bd3d60af95d5c7c5a041fb45bcddb70e061e3f88; expires=Thu, 25-Sep-2014 03:39:22 GMT; path=/; domain=.bizjournals.com
+ServerID: 14
+Vary: Accept-Encoding
+Content-Type: text/html
+

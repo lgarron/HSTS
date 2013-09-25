@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:43:56 GMT
+Server: Apache/2.2.9 (Debian)
+Location: http://www.goodgamestudios.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+

@@ -1,0 +1,8 @@
+HTTP/1.1 302
+Date: Wed, 25 Sep 2013 01:33:21 GMT
+Connection: close
+Server: OKWS/3.1.15.9
+Location: http://www.okcupid.com/
+P3P: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT", policyref="http://okcupid.com/w3c/p3p.xml"
+Set-Cookie: guest=16544922560062109629; Expires=Thu, 25 Sep 2014 01:33:21 GMT; Path=/; Domain=okcupid.com; HttpOnly
+

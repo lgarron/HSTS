@@ -1,0 +1,12 @@
+HTTP/1.1 302 Moved Temporarily
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:26:49 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=dceee670bf0d78a1bd8ba9e3bd307f5601380079609361; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.cloudflare.com
+Set-Cookie: __cfduid=dceee670bf0d78a1bd8ba9e3bd307f5601380079609361; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.cloudflare.com
+Location: https://www.cloudflare.com/
+CF-RAY: b349d7687c20292
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+

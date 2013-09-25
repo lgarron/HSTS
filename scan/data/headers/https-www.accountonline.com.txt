@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Server: ""
+Date: Wed, 25 Sep 2013 02:37:54 GMT
+Content-length: 0
+Location: https://www.accountonline.com/cards/svc/OutsideView.do?forward=PreRegister&siteId=CB
+

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 132638
+Vary: Accept-Encoding
+Server: VocServer
+Date: Wed, 25 Sep 2013 01:23:57 GMT
+Last-Modified: Wed, 25 Sep 2013 01:18:48 GMT
+Expires: Wed, 25 Sep 2013 01:24:57 GMT
+Cache-Control: max-age=60
+Age: 21
+Via: 1.1 p124.232.136.15-p220.168.248.214-i1.cache.voc.com.cn:80 (VocCache/1.2_7_S9)
+

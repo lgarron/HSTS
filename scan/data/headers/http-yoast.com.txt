@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:32:14 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Last-Modified: Wed, 25 Sep 2013 03:29:37 GMT
+Expires: Wed, 25 Sep 2013 04:29:37 GMT
+Pragma: public
+Cache-Control: public
+X-Powered-By: W3 Total Cache/0.9.3
+Vary: 
+X-Pingback: http://yoast.com/xmlrpc.php
+

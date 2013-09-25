@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 37434
+Content-Type: text/html; charset=utf-8
+Vary: User-Agent
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+Set-Cookie: ASP.NET_SessionId=0vr1ru4wgnarz2ntutze5t3j; domain=888.com; path=/; HttpOnly
+Set-Cookie: MainCookie=Srv=EB-08&OSR=486413&RefType=NoReferrer; domain=888.com; expires=Wed, 24-Sep-2014 02:12:04 GMT; path=/
+X-Powered-By: ASP.NET
+srv: 4238324
+Date: Wed, 25 Sep 2013 02:12:04 GMT
+

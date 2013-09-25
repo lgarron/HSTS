@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.facebook.com/
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: ID/8g7axckQMEr7JM98Rm/p7q2BwgQA+x4Hcq05NnG0=
+Date: Wed, 25 Sep 2013 00:43:38 GMT
+Connection: keep-alive
+Content-Length: 0
+

@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:20:50 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d5ac14e9cd8ea07455018ecb9672b447f1380079249778; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.almasryalyoum.com
+Set-Cookie: __cfduid=d5ac14e9cd8ea07455018ecb9672b447f1380079249778; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.almasryalyoum.com
+Expires: Sun, 11 Mar 1984 12:00:00 GMT
+ETag: "1380079064"
+Cache-Control: public, max-age=300
+Last-Modified: Wed, 25 Sep 2013 03:17:44 GMT
+X-AH-Environment: prod
+Vary: Accept-Encoding
+X-Varnish: 2179282140 2179266059
+Age: 182
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 129
+CF-RAY: b3494af18a7070d
+

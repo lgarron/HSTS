@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Wed, 25 Sep 2013 01:22:30 GMT
+Etag: "610a8cbadf4c9639c0a5fa76bc77c25f"
+Content-Type: text/html
+Content-Length: 105923
+Date: Wed, 25 Sep 2013 01:22:01 GMT
+Connection: keep-alive
+Set-Cookie: BBC-UID=e552f402b31adb89914961a4517643a1aa1d66e594f4416efaf144643df5ebd00curl/7.24.0%20(x86_64-apple-darwin12.0)%20libcurl/7.24.0%20OpenSSL/0.9.8y%20zlib/1.2.5; expires=Sun, 24-Sep-17 01:22:01 GMT; path=/; domain=bbc.co.uk
+X-Cache-Action: HIT
+X-Cache-Hits: 16
+X-Cache-Age: 30
+Cache-Control: private, max-age=0, must-revalidate
+X-LB-NoCache: true
+Vary: X-CDN,X-Requested-With
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 110108
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+Set-Cookie: brand=mywebmd; domain=.webmd.com; path=/
+Set-Cookie: VisitorId=32595a7d-2796-47db-b7a7-9b49967564c3; domain=.webmd.com; expires=Mon, 25-Sep-2023 00:44:55 GMT; path=/
+Set-Cookie: brand=mywebmd; domain=.webmd.com; path=/
+Set-Cookie: VisitorId=32595a7d-2796-47db-b7a7-9b49967564c3; domain=.webmd.com; expires=Mon, 25-Sep-2023 00:44:55 GMT; path=/
+Set-Cookie: refpath=; domain=.webmd.com; path=/
+Set-Cookie: webmd_geoLoc=; domain=webmd.com; path=/
+Access-Control-Allow-Origin: http://www.webmd.com
+Date: Wed, 25 Sep 2013 00:44:55 GMT
+

@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.freeones.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 03:24:28 GMT
+Age: 70
+Connection: close
+

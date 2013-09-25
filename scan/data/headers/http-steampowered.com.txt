@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://store.steampowered.com/
+Vary: Accept-Encoding
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 00:48:03 GMT
+X-Varnish: 1778725316 1778709282
+Age: 59
+Via: 1.1 varnish
+Connection: keep-alive
+

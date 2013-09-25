@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Date: Wed, 25 Sep 2013 02:36:08 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: _xiamitoken=aff1e68ec4d36af746113f1bb657a994; expires=Tue, 01-Oct-2013 21:00:00 GMT; path=/; domain=.xiami.com; httponly
+Cache-Control: must-revalidate
+Pragma: no-cache
+

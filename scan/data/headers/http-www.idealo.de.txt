@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:59:38 GMT
+Server: Apache
+Cache-Control: private
+Content-Language: de-DE
+Set-Cookie: abt=0; domain=.idealo.de; path=/; expires=Mon, 30-Sep-2013 00:59:38 GMT
+Set-Cookie: JSESSIONID=aNeo2tQl34g8; path=/
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://www.idealo.de/w3c/p3p.xml", CP="NOI STP CUR OUR"
+Content-Type: text/html; charset=UTF-8
+

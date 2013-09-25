@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 01:37:26 GMT
+Content-Length: 0
+Connection: keep-alive
+Location: /citylist
+Content-Language: zh-CN
+Set-Cookie: lb.dp=185008394.20480.0000; path=/
+Pragma: no-cache
+Cache-Control: must-revalidate, no-cache, private
+

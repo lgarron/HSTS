@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: IBM_HTTP_Server
+Location: https://www.usaa.com/inet/ent_logon/ent_login_redirect.jsp
+Content-Type: text/html; charset=iso-8859-1
+RTSS: 1
+Date: Wed, 25 Sep 2013 02:36:02 GMT
+Connection: keep-alive
+Set-Cookie: dcenv=2a; path=/; domain=usaa.com
+Set-Cookie: aksession=1380076862~id=cookieKqZmw/O6ULflA58KSVNEEoEZy1jCxNfjHzfFJErgAmQp0A3nLg/SFTb4FegWaav93Q4XSnAnXwqw2R8oBqAo0HFmNMkPPT5z42/t6MmSz4T1kbwbHLnJrz2c/P0PHunkhb3QeuJMD8+p5jOmdETmZMJxbpEGRfE8gkHEkcq4Dd8JaGC5jN6rYFRBrt2Nj2m5; expires=Wed, 25-Sep-2013 02:41:02 GMT; path=/; domain=www.usaa.com
+

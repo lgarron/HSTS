@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:55:36 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Set-Cookie: PHPSESSID=70b163c1eb75e17eba42907d5ac4c00c; path=/; domain=.letitbit.net
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: fcheck=1; expires=Thu, 26-Sep-2013 00:55:36 GMT; path=/; domain=.letitbit.net
+Set-Cookie: lang=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.letitbit.net
+Set-Cookie: jspcid=eed65d07bb1f822d1d7fd430aa5d0c3ef8a3df286ae12801aa60aeaf53ef78f69adbda52de67f1114e9b14fb4c76b1cfe0326f072bdd; expires=Thu, 26-Sep-2013 00:55:36 GMT; path=/; domain=.letitbit.net
+Connection: close
+Content-Type: text/html; charset=utf-8
+

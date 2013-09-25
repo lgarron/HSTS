@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:15:44 GMT
+Server: Apache
+Set-Cookie: vrglweb=no; path=/; domain=.virgilio.it; expires=Wed, 25-Sep-2013 02:45:44 GMT
+Accept-Ranges: bytes
+Content-Type: text/html; charset=ISO-8859-1
+

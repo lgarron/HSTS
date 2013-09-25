@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:40:03 GMT
+Server: Apache
+Set-Cookie: BBC-UID=a5f2f402a3d03e63c5568c6841daf6146395875360e0218122a2f363849495850curl%2f7%2e24%2e0%20%28x86%5f64%2dapple%2ddarwin12%2e0%29%20libcurl%2f7%2e24%2e0%20OpenSSL%2f0%2e9%2e8y%20zlib%2f1%2e2%2e5; expires=Thu, 25-Sep-14 00:40:03 GMT; path=/; domain=.bbc.co.uk;
+Location: http://www.bbc.co.uk/
+Content-Type: text/html; charset=iso-8859-1
+

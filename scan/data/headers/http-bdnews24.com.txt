@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Age: 0
+Cache-Control: public, max-age=300
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 25 Sep 2013 03:21:54 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+Via: 1.1 varnish
+X-Cache: HIT #12/0s
+X-Cache-Backend: webdirector
+X-Cache-Host: pres1
+X-UA: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; VOSA 1.0)
+X-Varnish: 1323546051 1323544675
+Connection: keep-alive
+

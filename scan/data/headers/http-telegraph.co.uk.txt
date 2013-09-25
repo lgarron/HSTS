@@ -1,0 +1,7 @@
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.telegraph.co.uk/
+Date: Wed, 25 Sep 2013 00:53:39 GMT
+Connection: keep-alive
+

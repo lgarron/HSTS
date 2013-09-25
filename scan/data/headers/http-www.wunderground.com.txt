@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:55:26 GMT
+Server: Apache/1.3.42 (Unix) PHP/5.3.2
+Cache-control: no-cache, must-revalidate, no-cache="Set-Cookie", private
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Pragma: no-cache
+X-CreationTime: 0.318
+Set-Cookie: DT=1380070526:22764:365-n5; path=/; expires=Fri, 01-Jan-2020 00:00:00 GMT; domain=.wunderground.com
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:36:55 GMT
+Server: Apache/2.2.3 (Red Hat)
+Set-Cookie: CFID=33176385;expires=Fri, 18-Sep-2043 03:36:55 GMT;path=/
+Set-Cookie: CFTOKEN=67639167;expires=Fri, 18-Sep-2043 03:36:55 GMT;path=/
+Set-Cookie: JSESSIONID=d43055c8ae6bb83e6c191d14272a6d3ed610TR;path=/
+Set-Cookie: CFGLOBALS=urltoken%3DCFID%23%3D33176385%26CFTOKEN%23%3D67639167%26jsessionid%23%3Dd43055c8ae6bb83e6c191d14272a6d3ed610TR%23lastvisit%3D%7Bts%20%272013%2D09%2D24%2023%3A36%3A55%27%7D%23timecreated%3D%7Bts%20%272013%2D09%2D24%2023%3A36%3A55%27%7D%23hitcount%3D2%23cftoken%3D67639167%23cfid%3D33176385%23;expires=Fri, 18-Sep-2043 03:36:55 GMT;path=/
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

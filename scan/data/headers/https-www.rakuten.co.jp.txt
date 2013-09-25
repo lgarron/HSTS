@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:46:45 GMT
+Server: Apache
+Set-Cookie: Apache=171.65.249.4.214541380070005756; path=/; expires=Thu, 25-Sep-14 00:46:45 GMT
+Content-Type: text/html; charset=euc-jp
+

@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-Length: 63
+Location: http://www.swagbucks.com/
+Date: Wed, 25 Sep 2013 01:33:20 GMT
+

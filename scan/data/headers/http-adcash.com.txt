@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: or2
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 01:14:04 GMT
+Keep-Alive: timeout=5
+Location: https://www.adcash.com/index.php
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Connection: close
+Set-Cookie: adcash_panel=2616730336632616539373630353662643165333734683365333937343833346; expires=Thu, 26-Sep-2013 03:14:04 CEST; path=/; HttpOnly
+Content-Length: 0
+

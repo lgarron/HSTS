@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Cache-Control: max-age=37
+Date: Wed, 25 Sep 2013 00:51:34 GMT
+Connection: keep-alive
+Set-Cookie: mdr_browser=desktop; expires=Thu, 31-dec-2099 00:00:00 GMT; path=/; domain=.welt.de
+

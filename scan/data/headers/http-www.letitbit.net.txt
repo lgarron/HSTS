@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx/1.1.19
+Date: Wed, 25 Sep 2013 00:55:34 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: PHPSESSID=d119d9a41c600eadf09dba810b741b93; path=/; domain=.letitbit.net
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: fcheck=1; expires=Thu, 26-Sep-2013 00:55:34 GMT; path=/; domain=.letitbit.net
+Set-Cookie: lang=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.letitbit.net
+Set-Cookie: jspcid=983772892b6e3a0c924fcf585aedf08ab7b1134797ef98a570d1560423385ee85bcbc8342de841a85f757aea281b34ad0d2d5fc460e6; expires=Thu, 26-Sep-2013 00:55:34 GMT; path=/; domain=.letitbit.net
+X-My-Name: s5
+

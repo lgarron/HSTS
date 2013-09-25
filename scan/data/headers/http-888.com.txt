@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 142
+Content-Type: text/html; charset=UTF-8
+Location: http://www.888.com/
+Vary: User-Agent
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+srv: 4237324
+Date: Wed, 25 Sep 2013 02:12:02 GMT
+

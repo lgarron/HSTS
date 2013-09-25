@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=300
+ApID: ph21
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Content-Length: 250622
+Date: Wed, 25 Sep 2013 01:19:21 GMT
+X-Varnish: 16539808 16526423
+Age: 255
+Connection: keep-alive
+Via: varnish ph22
+

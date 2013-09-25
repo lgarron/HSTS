@@ -1,0 +1,12 @@
+HTTP/1.1 302 Moved Temporarily
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 01:34:33 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d9340f44b0c0275539c65fa3f37043b981380072873295; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.nerdbux.com
+Set-Cookie: __cfduid=d9340f44b0c0275539c65fa3f37043b981380072873295; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.nerdbux.com
+Location: http://www.nerdbux.com/
+CF-RAY: b33f90215ca012a
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+

@@ -1,0 +1,14 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Wed, 25 Sep 2013 03:24:23 GMT
+Server: vipshop/VipS
+Content-Type: application/json;charset=UTF-8
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Set-Cookie: vip_wh=VIP_NH; expires=Fri, 25-Oct-2013 03:24:23 GMT; path=/; domain=.vipshop.com
+Set-Cookie: vip_rip=128.12.244.4; expires=Fri, 25-Oct-2013 03:24:23 GMT; path=/; domain=.vipshop.com
+Set-Cookie: vip_ipver=31; expires=Fri, 25-Oct-2013 03:24:23 GMT; path=/; domain=.vipshop.com
+Location: http://shop.vipshop.com/home.php
+Age: 1
+X-Via: 1.1 jszjsx49:8080 (Cdn Cache Server V2.0), 1.1 mgdls130:6060 (Cdn Cache Server V2.0)
+Connection: keep-alive
+

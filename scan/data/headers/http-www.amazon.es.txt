@@ -1,0 +1,20 @@
+HTTP/1.1 405 MethodNotAllowed
+Date: Wed, 25 Sep 2013 01:11:24 GMT
+Server: Server
+Set-Cookie: session-id=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+Set-Cookie: session-id-time=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+Set-Cookie: session-token=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+Set-Cookie: ubid-acbes=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+Set-Cookie: at-acbes=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+Set-Cookie: lc-acbes=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+Set-Cookie: x-acbes=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+Set-Cookie: x-wl-uid=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+Set-Cookie: sess-at-acbes=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+Set-Cookie: UserPref=-; path=/; domain=.www.amazon.es; expires=Tue, 25-Sep-2001 01:11:24 GMT
+x-amz-id-1: 0PFNQ1890RHSPA60FGR8
+allow: POST, GET
+x-amz-id-2: 6rfkWPOeAaWVjHMXF5v554OKMNSbNJOCSjMSgUgNIXal24UhtWZdxw==
+Vary: Accept-Encoding,User-Agent
+nnCoection: close
+Content-Type: text/html; charset=ISO-8859-15
+

@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 222
+Content-Type: text/html; charset=UTF-8
+Location: http://www.exblog.jp/
+Server: Microsoft-IIS/7.5
+Date: Wed, 25 Sep 2013 01:20:50 GMT
+

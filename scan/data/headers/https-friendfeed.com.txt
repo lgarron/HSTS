@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:23:37 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Content-Length: 13158
+Vary: Cookie
+Server: FriendFeedServer/0.1
+Cache-Control: private
+X-Frame-Options: DENY
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Set-Cookie: AT=13491993133177137322_1380079417; Domain=.friendfeed.com; Path=/
+

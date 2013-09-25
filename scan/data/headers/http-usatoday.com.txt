@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 147
+Content-Type: text/html; charset=UTF-8
+Location: http://www.usatoday.com/
+Server: Microsoft-IIS/7.5
+P3P: CP="CAO CUR ADM DEVa TAIi PSAa PSDa CONi OUR OTRi IND PHY ONL UNI COM NAV DEM", POLICYREF="URI"
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Wed, 25 Sep 2013 01:00:57 GMT
+

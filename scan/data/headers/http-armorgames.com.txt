@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:25:30 GMT
+Server: Apache
+Last-Modified: Wed, 25 Sep 2013 03:24:10 GMT
+ETag: "2a6b1-4e72cc9610a80"
+Accept-Ranges: bytes
+Content-Length: 173745
+Cache-Control: max-age=3600, public
+Expires: Wed, 25 Sep 2013 04:25:30 GMT
+Vary: Accept-Encoding,User-Agent
+X-Hostname: ag-node10.nexcess.net
+Pragma: public
+P3P: policyref="/w3c/p3p.xml", CP="CAO DSP COR CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
+Connection: close
+Content-Type: text/html
+

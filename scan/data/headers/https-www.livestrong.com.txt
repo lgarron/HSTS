@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Apache
+ETag: "b555733d5e9d05f6e9ad93147d8545f1:1379040874"
+Last-Modified: Fri, 13 Sep 2013 02:54:34 GMT
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 02:35:14 GMT
+Connection: keep-alive
+Set-Cookie: dmsp=current; expires=Wed, 02-Oct-2013 02:35:14 GMT; path=/
+Set-Cookie: dmp=desktop:default; expires=Wed, 02-Oct-2013 02:35:14 GMT; path=/
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-Powered-By: PHP/5.3.9-ZS5.6.0 ZendServer/5.0
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVA IVD CON OUR LEG UNI"
+Cache-Control: no-cache, no-store, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Expires: Sat, 26 Jul 1997 00:00:00 GMT
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 00:50:46 GMT
+Connection: keep-alive
+Set-Cookie: deb088d138aa52ddbeb48990e3e58a5e=gnq2orcja6ubg9tfo6rv8d5ed4; path=/
+Set-Cookie: pdd=D; expires=Thu, 26-Sep-2013 00:50:45 GMT; path=/; domain=.pch.com
+Set-Cookie: pci=mtnp0l6aWoINfOfO; expires=Thu, 25-Sep-2014 00:50:45 GMT; path=/; domain=.pch.com
+

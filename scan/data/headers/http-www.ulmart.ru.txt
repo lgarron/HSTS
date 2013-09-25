@@ -1,0 +1,19 @@
+HTTP/1.1 405 Method Not Allowed
+Server: nginx/1.3.7
+Date: Wed, 25 Sep 2013 03:32:09 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 1081
+Connection: keep-alive
+Set-Cookie: route=e0ac9cd08a645a3f4fe968105f6cd442
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Set-Cookie: JSESSIONID=2vRY5FDJpz9yPjUgQcJjHA__.Node0202; Domain=.ulmart.ru; Path=/
+Set-Cookie: city=18413; Domain=ulmart.ru; Expires=Wed, 09-Oct-2013 03:32:09 GMT; Path=/
+Set-Cookie: um_visitor=1; Domain=ulmart.ru; Expires=Thu, 25-Sep-2014 03:32:09 GMT; Path=/
+Set-Cookie: ieCheck=1; Domain=ulmart.ru; Expires=Wed, 09-Oct-2013 03:32:09 GMT; Path=/
+Cache-Control: private, must-revalidate, no-cache, no-store
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: renewCitySettings=0; Domain=ulmart.ru; Expires=Thu, 25-Sep-2014 03:32:09 GMT; Path=/
+Allow: GET
+Set-Cookie: utmpid30=WfkcilJCWTlIug4RAw1+Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/
+

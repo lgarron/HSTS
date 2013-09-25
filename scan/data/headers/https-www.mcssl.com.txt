@@ -1,0 +1,11 @@
+HTTP/1.1 302 Object moved
+Date: Wed, 25 Sep 2013 03:48:04 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON DSP COR CUR ADM DEV TAI PSA PSD IVA IVD CONo HIS TELo OTP OUR DEL SAM OTR UNR IND PUR OTC"
+X-Powered-By: ASP.NET
+Location: http://www.1shoppingcart.com/app/adtrack.asp?AdID=77067
+Content-Length: 176
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDSQDBQBTS=CODNGBCBOHMPABKKKLCOEJLI; path=/
+Cache-control: private
+

@@ -1,0 +1,14 @@
+HTTP/1.0 200 OK
+Date: Wed, 25 Sep 2013 00:41:57 GMT
+Server: Apache
+Accept-Ranges: bytes
+Cache-Control: max-age=300
+Expires: Wed, 25 Sep 2013 00:46:57 GMT
+Vary: Accept-Encoding
+Content-Type: text/html
+Age: 152
+Content-Length: 0
+Powered-By-ChinaCache: HIT from 0105711338
+Powered-By-ChinaCache: MISS from 06047153PO
+Connection: close
+

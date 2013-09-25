@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Wed, 25 Sep 2013 03:25:45 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Expires: Wed, 25 Sep 2013 03:25:45 GMT
+Vary: Cookie
+Last-Modified: Wed, 25 Sep 2013 03:25:45 GMT
+Cache-Control: no-transform, max-age=0
+P3P: CP="CAO PSA OUR"
+Set-Cookie: csrftoken=FeJWafYup6QelUQia89eQeXcPdq60D8s; expires=Wed, 24-Sep-2014 03:25:45 GMT; Max-Age=31449600; Path=/
+Set-Cookie: sessionid="gAJ9cQEu:1VOfjV:GPtkYv1f6cFZMRsyYXG9QTKI8R4"; expires=Sat, 23-Sep-2023 03:25:45 GMT; httponly; Max-Age=315360000; Path=/
+Vary: Accept-Encoding
+

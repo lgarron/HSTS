@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:26:48 GMT
+Server: Apache/2.4.6 (Unix) OpenSSL/1.0.0-fips mod_bwlimited/1.4
+X-Powered-By: PHP/5.3.27
+Cache-Control: private
+Pragma: private
+X-UA-Compatible: IE=7
+Set-Cookie: bbsessionhash=2b069082a78da5ad5b3ae187a8d4bce3; path=/; HttpOnly
+Set-Cookie: bblastvisit=1380079608; expires=Thu, 25-Sep-2014 03:26:48 GMT; path=/
+Set-Cookie: bblastactivity=0; expires=Thu, 25-Sep-2014 03:26:48 GMT; path=/
+Vary: User-Agent
+Content-Type: text/html; charset=windows-1256
+X-Page-Speed: 108_1_cn
+Content-Length: 0
+X-XSS-Protection: 1; mode=block
+Expires: Wed, 25 Sep 2013 03:26:48 GMT
+Alternate-Protocol: 80:quic
+

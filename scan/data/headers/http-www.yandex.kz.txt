@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 00:54:01 GMT
+Connection: close
+Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+Location: http://pass.yandex.kz/?retpath=http%3A%2F%2Fwww.yandex.kz%2F
+Content-Length: 0
+Expires: Wed, 25 Sep 2013 00:54:02 GMT
+Last-Modified: Wed, 25 Sep 2013 00:54:02 GMT
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Set-Cookie: Cookie_check=CheckCookieCheckCookie; Domain=.yandex.kz; Path=/
+Set-Cookie: yandexuid=3856157381380070442; Expires=Sat, 23-Sep-2023 00:54:01 GMT; Domain=.yandex.kz; Path=/
+X-XRDS-Location: http://openid.yandex.ru/server_xrds/
+

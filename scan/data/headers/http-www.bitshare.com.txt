@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/0.8.50
+Date: Wed, 25 Sep 2013 01:56:22 GMT
+Content-Type: text/html
+Connection: close
+Set-Cookie: PHPSESSID=jv39l2ihi43c3afmt3epablsv4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+

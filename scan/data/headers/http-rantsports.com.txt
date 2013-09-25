@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Location: http://www.rantsports.com/
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:29:44 GMT
+X-Varnish: 1896260711
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Cache: MISS
+Set-Cookie: incap_ses_163_52399=LcbsNHvwlF/RJFZ52BdDAvlXQlIAAAAAnTNeugRpzEDXU+JuyVdiSQ==; path=/; Domain=.rantsports.com
+Set-Cookie: ___utmvmFIuaIsB=xoBddZHKmsP; path=/; Max-Age=900
+Set-Cookie: ___utmvaFIuaIsB=uvuTrmx; path=/; Max-Age=900
+Set-Cookie: ___utmvbFIuaIsB=pZH
+    XAMOsalu: jtO; path=/; Max-Age=900
+Set-Cookie: visid_incap_52399=LXGFd9EnRImd/j0Bn0ur8PlXQlIAAAAAQUIPAAAAAADmZMGn25sDm//bpQj01ikB; expires=Thu, 24 Sep 2015 07:29:34 GMT; path=/; Domain=.rantsports.com
+X-Iinfo: 8-10072836-10072837 NNNN CT(6 -1 0) RT(1380079609729 0) q(0 0 0 0) r(0 0) U6
+X-CDN: Incapsula
+

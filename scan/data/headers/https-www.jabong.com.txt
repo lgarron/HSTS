@@ -1,0 +1,20 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 02:24:47 GMT
+Content-Type: text/html; charset=utf-8
+nnCoection: close
+Set-Cookie: PHPSESSID=f3lhve9pt2j351qq49bb12rmq1; expires=Fri, 25-Oct-2013 02:24:47 GMT; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: split_test_detail_page=newDetailV2; expires=Wed, 09-Oct-2013 02:24:47 GMT; path=/
+Set-Cookie: split_test_cdn_ec=static; expires=Wed, 09-Oct-2013 02:24:47 GMT; path=/
+Set-Cookie: split_test_stripe=No; expires=Wed, 09-Oct-2013 02:24:47 GMT; path=/
+Set-Cookie: split_test_solr_scoring_formula=newFormula; expires=Wed, 09-Oct-2013 02:24:47 GMT; path=/
+Set-Cookie: split_test_solr_scoring_url=oldUrl; expires=Wed, 09-Oct-2013 02:24:47 GMT; path=/
+Set-Cookie: split_test_floating_cart=newFloating; expires=Wed, 09-Oct-2013 02:24:47 GMT; path=/
+Set-Cookie: split_test_navbar_name=name_new_arrivals; expires=Wed, 09-Oct-2013 02:24:47 GMT; path=/
+Location: http://www.jabong.com/
+X-Server: jade-web1
+Set-Cookie: NSC_kbef_iuuq=ffffffffc3a0470145525d5f4f58455e445a4a42366b;expires=Tue, 24-Sep-2013 19:28:14 GMT;path=/;secure;httponly
+

@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 00:45:16 GMT
+Location: http://www.retailmenot.com/
+Server: nginx
+Set-Cookie: userFlashVersion=Uva3o9G9pY; expires=Mon, 24-Sep-2018 00:45:16 GMT; path=/; domain=retailmenot.com
+Set-Cookie: visitor=Uva3o9G9pY; expires=Mon, 24-Sep-2018 00:45:16 GMT; path=/; domain=retailmenot.com
+Set-Cookie: session=Uva3o9G9pY5242321c243e9; expires=Wed, 25-Sep-2013 01:15:16 GMT; path=/; domain=retailmenot.com
+Set-Cookie: country_code=US; expires=Thu, 25-Sep-2014 00:45:16 GMT; path=/; domain=retailmenot.com
+Set-Cookie: rqid=Uva3o9G9pY5242321c243e95242321c29c53; path=/; domain=retailmenot.com
+UserFlashVersion: Uva3o9G9pY
+Vary: Accept-Encoding
+X-Request-Id: Uva3o9G9pY5242321c243e95242321c29c53
+X-Session-Id: Uva3o9G9pY5242321c243e9
+X-Visitor-Id: Uva3o9G9pY
+Connection: keep-alive
+

@@ -1,0 +1,15 @@
+HTTP/1.0 200 OK
+Date: Wed, 25 Sep 2013 00:43:05 GMT
+Server: Apache
+Accept-Ranges: bytes
+Cache-Control: max-age=180
+Expires: Wed, 25 Sep 2013 00:46:05 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=GB2312
+Content-Language: zh-CN
+Age: 34
+Content-Length: 140563
+X-Cache: HIT from CNC-JSWX-254-131.fastcdn.com
+X-Cache: MISS from CT-ZJNB-152-196.fastcdn.com
+Connection: close
+

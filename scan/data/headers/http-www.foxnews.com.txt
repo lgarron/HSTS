@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-FoxNews-EdgeTTL: 90s
+Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=30
+Date: Wed, 25 Sep 2013 00:45:23 GMT
+Connection: keep-alive
+

@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-length: 0
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 03:27:17 GMT
+Location: http://sweetim.sweetpacks.com/
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASPSESSIONIDSASQBQAQ=IFKKJOPAMPKMNDHAEJGJPIJB; path=/
+X-Powered-By: ASP.NET
+Connection: keep-alive
+

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Last-Modified: Wed, 25 Sep 2013 00:50:02 GMT
+P3P: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+Content-Length: 88362
+Date: Wed, 25 Sep 2013 00:54:29 GMT
+X-Varnish: 401925264 401882633
+Age: 93
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: SERVERID=w2; path=/
+

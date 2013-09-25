@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:50:36 GMT
+Server: Apache
+Set-Cookie: ffadult_apr=1; path=/; domain=.adultfriendfinder.com; expires=Fri, 25-Oct-2013 00:50:36 GMT
+Set-Cookie: ffadult_apr_session=1; path=/; domain=.adultfriendfinder.com; expires=Wed, 25-Sep-2013 00:55:36 GMT
+Set-Cookie: ffadult_who=r,Qn708DFIm5NApGWGlET0lbi1GA2YmM_rUoUsIwxmcBEbXEflD8DowFDpjUtKWa6v63HKFK/F25m1DblfWdbYljpULzlcLko4yUaN29UHL7UxcFaktbTfh0fQvrL5iCfX; path=/; domain=.adultfriendfinder.com
+Set-Cookie: v_hash=_english_0; path=/; domain=.adultfriendfinder.com; expires=Fri, 25-Oct-2013 00:50:36 GMT
+Set-Cookie: IP_COUNTRY=United States; path=/; domain=.adultfriendfinder.com; expires=Fri, 25-Oct-2013 00:50:36 GMT
+Set-Cookie: ffadult_tr=r,px0jscUPCvh8s7jwzf9Shr0SN4J7q2IiqoRc_QRycUf0JlsUTTu3xfgduiTQs3La; path=/; domain=.adultfriendfinder.com; expires=Fri, 25-Oct-2013 00:50:36 GMT
+Set-Cookie: LOCATION_FROM_IP=country&United+States&area_code&650&longitude&-122.1720&country_name&United+States&lat&37.4178&region_name&California&country_code&US&region&CA&state&California&zip&94305&city&Stanford&postal_code&94305&latitude&37.4178&lon&-122.1720&dma_code&807&country_code3&USA; path=/; domain=.adultfriendfinder.com; expires=Fri, 25-Oct-2013 00:50:36 GMT
+Set-Cookie: HISTORY=20130924-1-Dc; path=/; domain=.adultfriendfinder.com; expires=Fri, 25-Oct-2013 00:50:36 GMT
+Set-Cookie: AB_TRACKING=CZaKYafWMdPusEvCK0gagC; path=/; domain=.adultfriendfinder.com; expires=Fri, 25-Oct-2013 00:50:36 GMT
+Set-Cookie: REFERRAL_URL=; path=/; domain=.adultfriendfinder.com; expires=Wed, 25-Sep-2013 12:50:36 GMT
+Set-Cookie: click_id_time=1059409132_2013-09-24 17:50:36; path=/; domain=.adultfriendfinder.com; expires=Fri, 25-Oct-2013 00:50:36 GMT
+X-PERF: 0.493701,0.049131,TS_52_0.1542560,DB_12_0.0137030,FS_42_0.0087340,PK_8_0.0056580,SV_3_0.0152710,CE_37_0.1009940,CD_49_0.0823240,TM_33_0.0636300
+ETag: TESTBED
+P3P: CP="DSP LAW"
+Content-Length: 99211
+X-ApacheServer: ii104-36.friendfinderinc.com
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html;charset=UTF-8
+

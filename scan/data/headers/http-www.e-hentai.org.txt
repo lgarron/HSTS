@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://e-hentai.org/
+Vary: Accept-Encoding
+Content-Type: text/html
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 02:35:13 GMT
+X-Varnish: 2262736674
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

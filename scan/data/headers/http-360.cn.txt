@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:43:36 GMT
+Server: Apache
+P3P: CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+Set-Cookie: B=ID=843401380069816:V=2:S=d70ac97423; path=/; expires=Sun, 17-Jun-2038 23:59:59 GMT; domain=.360.cn
+Set-Cookie: UT=T=1380069816:F=MzYwLmNu:S=1; path=/; domain=.360.cn
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

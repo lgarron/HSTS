@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:09:49 GMT
+Server: Apache/2.2.22 (Unix)
+Location: http://www.viva.co.id/
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: serverid=web3; path=/
+Cache-control: private
+

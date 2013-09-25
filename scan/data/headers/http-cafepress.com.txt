@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.cafepress.com/
+Date: Wed, 25 Sep 2013 03:28:10 GMT
+Connection: keep-alive
+

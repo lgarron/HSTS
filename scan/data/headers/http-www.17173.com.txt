@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:22:51 GMT
+Content-Type: text/html; charset=gb2312
+Connection: keep-alive
+Vary: Accept-Encoding
+Expires: Wed, 25 Sep 2013 03:23:36 GMT
+Cache-Control: max-age=70
+My-Cache: HIT from WebGroup_122.17173.com
+Power-by: url-hash34.17173.com
+

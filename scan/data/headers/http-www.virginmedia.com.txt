@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:32:19 GMT
+Server: Apache
+Set-Cookie: Legacy_company=non-customer; path=/; domain=.virginmedia.com
+Set-Cookie: hp-v3=type%253Dnon-customer%2526; expires=Tue, 15-Sep-2015 03:32:19 GMT; path=/
+Set-Cookie: hp-v3=type%253Dnon-customer%2526group%253Ddefault%2526; expires=Tue, 15-Sep-2015 03:32:19 GMT; path=/
+Vary: Accept-Encoding
+P3P: CP="ALL DSP COR TAIa PSAa PSDa IVAa IVDa CONi OUR IND UNI"
+Content-Type: text/html; charset=UTF-8
+

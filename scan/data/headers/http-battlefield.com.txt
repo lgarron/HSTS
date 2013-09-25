@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.battlefield.com/
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:22:15 GMT
+X-Varnish: 2104704786
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Cache: MISS
+X-Geoip-Country-Code: US
+

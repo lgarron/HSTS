@@ -1,0 +1,7 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 00:48:39 GMT
+Location: http://www.yandex.ru/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Transfer-Encoding: chunked
+

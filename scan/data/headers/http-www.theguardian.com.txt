@@ -1,0 +1,24 @@
+HTTP/1.1 302 Found
+Server: Apache
+X-GU-jas: 8a9a6a3aa58564eb6a6b0f8666a9e606!1154479330@qtp-881581266-1935
+Content-Type: text/html; charset=utf-8
+P3P: CP="CAO CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa CONa TELa OUR IND ONLi UNI PURi NAV STA PRE LOC"
+Location: http://www.theguardian.com/us
+X-GU-tm: 51
+X-GU-httpd: 102539237
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:03:40 GMT
+Via: 1.1 varnish
+Age: 37
+Connection: keep-alive
+X-Cache: HIT
+X-GU-Edition: us
+X-Served-By: cache-sv60-SJC3
+X-GU-Varnish: HIT
+X-Cache-Hits: 4
+Pragma: no-cache
+Cache-Control: no-cache
+Vary: Accept-Encoding,User-Agent
+X-GU-Platform: desktop
+

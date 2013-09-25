@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.intel.com/content/www/us/en/homepage.html
+Date: Wed, 25 Sep 2013 03:21:35 GMT
+Connection: keep-alive
+Set-Cookie: detected_bandwidth=HIGH; path=/; domain=.intel.com
+Set-Cookie: src_countrycode=US; path=/; domain=.intel.com
+

@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:56:53 GMT
+Server: Apache
+Location: http://www.trulia.com/
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: TruliaLBcookie=2182812588.20480.0000; path=/
+

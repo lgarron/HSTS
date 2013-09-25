@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=DF1BA77D698332D8F7B30FE99308E12A; Path=/; HttpOnly
+Set-Cookie: ziplocale=en; Domain=.zippyshare.com; Expires=Sat, 23-Sep-2023 00:44:53 GMT; Path=/
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 25 Sep 2013 00:44:52 GMT
+Connection: close
+Set-Cookie: ZIPWEB=ZIPWEB02; path=/
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:07:29 GMT
+Server: Apache
+X-Pect: The Spanish Inquisition
+Location: http://www.heise.de/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

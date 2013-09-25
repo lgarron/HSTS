@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Status: 200
+X-Powered-By: Phusion Passenger (mod_rails/mod_rack) 3.0.12
+X-Runtime: 66
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: mobile_view=false; domain=ask.fm; path=/
+Set-Cookie: 
+Set-Cookie: country_id=3; domain=ask.fm; path=/; expires=Thu, 25-Sep-2014 00:47:59 GMT
+Set-Cookie: 
+Set-Cookie: country_code=US; domain=ask.fm; path=/; expires=Thu, 25-Sep-2014 00:47:59 GMT
+Set-Cookie: 
+Set-Cookie: language_id=1; domain=ask.fm; path=/; expires=Thu, 25-Sep-2014 00:47:59 GMT
+Set-Cookie: 
+Set-Cookie: l=; domain=ask.fm; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+Set-Cookie: _ask.fm_session=BAh7CDoQX2NzcmZfdG9rZW4iMUtJK09XeGd1VGt4Nmg4V1JZK0FBaFNMOThmbWN4dlI3c2RPSzlNdzNDaUU9OhBvbGRfZ2V0X3VybCIGLzoPc2Vzc2lvbl9pZCIlMTY0OTRmYmZhYTc2MWM1MGVlMjBmYjY4ZjEwMWY1YmI%3D--e0353d42d98a4f2cc8df277cfa6899b0a061a134; path=/; HttpOnly
+ETag: "a791edb588b7f380758bc4c1f3908db2"
+Cache-Control: private, max-age=0, must-revalidate
+X-XSS-Protection: 1; mode=block
+Content-Length: 17872
+Server: nginx/1.0.15 + Phusion Passenger 3.0.12 (mod_rails/mod_rack)
+

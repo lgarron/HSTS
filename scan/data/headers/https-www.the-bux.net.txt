@@ -1,0 +1,19 @@
+HTTP/1.1 302 Moved Temporarily
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 02:35:14 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d1294aa0b8f20d2d079a630994010fbc11380076514149; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
+Set-Cookie: __cfduid=d1294aa0b8f20d2d079a630994010fbc11380076514149; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.the-bux.net
+Set-Cookie: PHPSESSID=7ucpdksbkb2eb9bqsd7up9hft1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+location: ./?view=home
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=; path=/; expires=Thursday, 01-Jan-1970 00:00:01 GMT
+Set-Cookie: cookie_id=; path=/; expires=Thursday, 01-Jan-1970 00:00:01 GMT
+Set-Cookie: password=; path=/; expires=Thursday, 01-Jan-1970 00:00:01 GMT
+Set-Cookie: user_id=; path=/; expires=Thursday, 01-Jan-1970 00:00:01 GMT
+CF-RAY: b3451e5689d0291
+

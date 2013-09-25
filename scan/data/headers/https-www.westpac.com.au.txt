@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:32:22 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Wed, 25 Sep 2013 03:05:22 GMT
+ETag: "cdd9-4e72c86252080"
+Accept-Ranges: bytes
+Content-Length: 52697
+Cache-Control: max-age=0
+Expires: Wed, 25 Sep 2013 03:32:22 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=utf-8
+Set-Cookie: prd-WestpacWeb1-p1-az=!1YspFZGn9qwtpZtwsapIqjHuWaN/2ye75ismdJMnzkHKQAS5YEscyLq8ylx24LUtbTlvRYv0b0NCag==; path=/
+

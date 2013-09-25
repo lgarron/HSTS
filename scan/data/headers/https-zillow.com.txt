@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:17:43 GMT
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.4; JBoss-4.0.3SP1 (build: CVSTag=JBoss_4_0_3_SP1 date=200510231054)/Tomcat-5.5
+Cache-Control: max-age=1209600
+Expires: Wed, 09 Oct 2013 01:17:44 GMT
+Location: http://www.zillow.com/
+Set-Cookie: JSESSIONID=696CA54F6F6C7C84F38D91F3881EB94A; Path=/
+Set-Cookie: JSESSIONID=696CA54F6F6C7C84F38D91F3881EB94A; Path=/
+Via: 1.1 www.zillow.com:443
+Vary: User-Agent
+Content-Type: text/plain
+Set-Cookie: F5P=1914750986.0.0000; path=/
+

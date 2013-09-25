@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:45:19 GMT
+Server: Apache
+Last-Modified: Tue, 24 Sep 2013 12:16:40 GMT
+ETag: "15bea-4e7201be7fa00"
+Accept-Ranges: bytes
+Content-Length: 89066
+Cache-Control: max-age=86400
+Expires: Thu, 26 Sep 2013 00:45:19 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=gb2312
+

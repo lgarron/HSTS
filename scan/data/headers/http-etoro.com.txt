@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:21:34 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Location: http://www.etoro.com/
+Content-Length: 207
+Content-type: text/html
+

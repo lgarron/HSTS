@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+t-srvr: Tue Sep 24 17:44:22 CDT 2013
+P3P: CP=CAO PSA OUR
+Pragma: No-cache
+OM_pathInfoOmniName: CmsContentView
+s-cs: 0
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Cache-Control: private, max-age=900
+Expires: Wed, 25 Sep 2013 00:58:39 GMT
+Date: Wed, 25 Sep 2013 00:43:39 GMT
+Connection: keep-alive
+s-srvr: aixwcs380p.prod.ch3.s.com, prd3 ;akamai_cache
+

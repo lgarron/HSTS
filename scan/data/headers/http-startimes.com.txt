@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Length: 148
+Content-Type: text/html; charset=windows-1256
+Location: http://www.startimes.com/f.aspx
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASP.NET_SessionId=cexgdtrvahwp0heleiv5kk4t; path=/; HttpOnly
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:21:35 GMT
+

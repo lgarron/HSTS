@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Location: http://www.google.hu/
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 00:44:03 GMT
+Server: gws
+Content-Length: 218
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 251273
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 3.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: .ASPXAUTH=; domain=marketwatch.com; expires=Tue, 12-Oct-1999 05:00:00 GMT; path=/; HttpOnly
+Set-Cookie: kayla=g=fd2219838b374c92bedd88c13ad737ac; domain=.marketwatch.com; expires=Tue, 25-Sep-2018 00:44:55 GMT; path=/
+Set-Cookie: mw5_loc={"Country":"US","Region":"CA","City":"STANFORD","Continent":"NA","County":["SANTACLARA"]}; domain=.marketwatch.com; path=/
+Set-Cookie: mw5_prefs=mox=False&tth=False&exp=9/24/2015; domain=.marketwatch.com; expires=Thu, 24-Sep-2015 05:00:00 GMT; path=/
+X-Powered-By: ASP.NET
+X-MACHINE: sbkdfinwebp03
+Date: Wed, 25 Sep 2013 00:44:54 GMT
+

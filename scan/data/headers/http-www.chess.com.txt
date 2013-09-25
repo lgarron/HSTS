@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private
+Pragma: no-cache
+P3P: CP="ALL DSP COR LAW CURa ADMa DEVa TAIa OUR BUS IND ONL UNI COM NAV DEM CNT"
+Cache-Control: private, must-revalidate
+Pragma: no-cache
+Expires: -1
+Date: Wed, 25 Sep 2013 03:23:36 GMT
+Connection: keep-alive
+Set-Cookie: PHPSESSID=ph58qrp463tqs5dnlrmtml6b26; path=/; domain=.chess.com; HttpOnly
+

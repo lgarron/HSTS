@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:43:39 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: geoip_country=US; path=/; domain=.championat.com; expires=Sat, 07 Dec 2211 17:50:52 GMT
+X-Frontend: 5
+

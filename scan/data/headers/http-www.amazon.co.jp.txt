@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:40:14 GMT
+Server: Server
+Set-Cookie: skin=noskin; path=/; domain=.amazon.co.jp; expires=Wed, 25-Sep-2013 00:40:14 GMT
+pragma: no-cache
+x-amz-id-1: 15HR0PWQFK2G8ZY76DPA
+cache-control: no-cache
+expires: -1
+x-amz-id-2: 8G33gdoA2J+wOXV1VFpEewZoYaJox1cKkmIqD77pqqhjfVctaJuBhiu4kndY87WN
+Vary: Accept-Encoding,User-Agent
+nnCoection: close
+Content-Type: text/html; charset=Shift_JIS
+

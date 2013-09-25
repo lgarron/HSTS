@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=BDFEE5A477E84A8C96EF388D4F963FF3; Path=/
+X-Src-Appserver: tungsten
+Content-Type: text/html;charset=UTF-8
+Content-Language: da-DK
+Content-Length: 271226
+Date: Wed, 25 Sep 2013 03:29:10 GMT
+Cneonction: close
+Set-Cookie: NSC_MC_fc-qspe.fdf_IUUQ_OPOF=ffffffffaf100a2445525d5f4f58455e445a4a423662;expires=Wed, 25-Sep-2013 03:31:10 GMT;path=/;secure;httponly
+

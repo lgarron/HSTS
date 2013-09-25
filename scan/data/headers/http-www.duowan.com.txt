@@ -1,0 +1,13 @@
+HTTP/1.0 200 OK
+Server: nginx/1.2.7
+Date: Wed, 25 Sep 2013 01:09:56 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Expires: Wed, 25 Sep 2013 01:14:56 GMT
+Cache-Control: max-age=300
+X-UA-Compatible: IE=EmulateIE7
+X-Cache: MISS from kickseed
+Via: 1.0 kickseed (squid/3.1.8)
+Powered-By-ChinaCache: MISS from CNC-BZ-3-3L1.6
+Connection: close
+

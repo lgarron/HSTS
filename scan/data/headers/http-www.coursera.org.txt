@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 184
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 02:36:49 GMT
+Location: https://www.coursera.org/
+Server: nginx/1.2.8
+X-Frame-Options: SAMEORIGIN
+Connection: keep-alive
+

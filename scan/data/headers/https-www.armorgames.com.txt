@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:25:31 GMT
+Server: Apache
+Location: http://www.armorgames.com/
+Cache-Control: max-age=3600
+Expires: Wed, 25 Sep 2013 04:25:31 GMT
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

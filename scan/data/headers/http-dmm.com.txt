@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:36:03 GMT
+Server: Apache
+Pragma: no-cache
+Cache-Control: no-cache
+Location: http://www.dmm.com
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

@@ -1,0 +1,7 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 01:20:45 GMT
+Server: Apache/2.0.63 (Unix) Ganesh/2.2.0
+Location: http://www.uol.com.br/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:37:47 GMT
+X-Powered-By: ASP.NET
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+Link: <http://www.aufeminin.com>; rel="alternate"; hreflang="fr"
+Link: <http://www.enfemenino.com>; rel="alternate"; hreflang="es"
+Link: <http://www.alfemminile.com>; rel="alternate"; hreflang="it"
+Link: <http://www.gofeminin.de>; rel="alternate"; hreflang="de"
+Link: <http://www.sofeminine.co.uk>; rel="alternate"; hreflang="en-GB"
+Link: <http://www.ofeminin.pl>; rel="alternate"; hreflang="pl"
+Link: <http://www.wewomen.com>; rel="alternate"; hreflang="en-US"
+Link: <http://www.wewomen.ca>; rel="alternate"; hreflang="en-CA"
+Link: <http://www.wewomen.be>; rel="alternate"; hreflang="nl-BE"
+Link: <http://www.bemfeminino.com.br>; rel="alternate"; hreflang="pt"
+Content-Length: 126224
+Content-Type: text/html; Charset=utf-8
+Set-Cookie: afpperso=tcp=ok46; expires=Fri, 22-Sep-2023 22:00:00 GMT; domain=aufeminin.com; path=/
+Set-Cookie: afperso=nn=1&geo=152%2Dus&new%5Fref=25%2F09%2F2013+04%3A37%3A46&p%5Fpe=h1&new%5Fvisit=25%2F09%2F2013+04%3A37%3A46&tcs=ok46&DomUser=%2Ffr; domain=aufeminin.com; path=/
+Cache-control: no-cache
+Set-Cookie: AufemininLB=687931914.20480.0000; path=/
+

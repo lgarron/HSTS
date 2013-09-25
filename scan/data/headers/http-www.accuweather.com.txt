@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 3.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+ServerName: gweb-06
+Cache-Control: private, no-cache, no-store, must-revalidate
+Date: Wed, 25 Sep 2013 00:55:30 GMT
+Connection: keep-alive
+Set-Cookie: AID=daa5ad86-ae6a-454f-aff8-934b279f8358; expires=Thu, 25-Sep-2014 00:55:31 GMT; path=/
+Set-Cookie: acm=lid=1&lgi=en-us&pt=accuweather&ptu=&pti=&pty=&mt=0&lc0=337263&cc0=US&ct0=Stanford&cn0=United+States&rg0=NAM&st0=CA&on0=Stanford&uf0=STNX&zp0=94305&ls0=-1&dp0=n&dma=807&lc1=349727&cc1=US&ct1=New+York&cn1=United+States&rg1=nam&st1=NY&on1=New+York&uf1=NYC&zp1=10017&ls1=-1&dp1=n&lc2=347936&cc2=US&ct2=Miami&cn2=United+States&rg2=nam&st2=FL&on2=Miami&uf2=MIA&zp2=33128&ls2=-1&dp2=n&rco0=United+States&rcn0=United+States&rcc0=us&rrn0=North+America&rrc0=nam&rro0=North+America&rco1=China&rcn1=China&rcc1=cn&rrn1=Asia&rrc1=asi&rro1=Asia&rco2=United+Kingdom&rcn2=United+Kingdom&rcc2=gb&rrn2=Europe&rrc2=eur&rro2=Europe&gm0=7&lc3=347625&cc3=US&ct3=Los+Angeles&cn3=United+States&rg3=nam&st3=CA&on3=Los+Angeles&uf3=59L&zp3=90012&ls3=-1&dp3=n; expires=Thu, 25-Sep-2014 00:55:31 GMT; path=/
+Set-Cookie: DeviceV2=br=Unknown&mo=Unknown&pt2=f&isM=0&isT=0&gif=2&w=800&h=600; expires=Thu, 25-Sep-2014 00:55:31 GMT; path=/
+Set-Cookie: aco=il=0&vip=0&gkey=337263&gdma=807&gct=Stanford&gst=CA&gzp=94305&gcc=US; expires=Wed, 25-Sep-2013 01:25:31 GMT; path=/
+Set-Cookie: ADCConditionsV1=tp=71%c2%b0&cc=MostlySunny&df=D&tp2=71&ic2=2&ism=0; expires=Wed, 25-Sep-2013 01:05:31 GMT; path=/
+

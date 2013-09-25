@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Expires: Wed, 25 Sep 2013 01:13:12 GMT
+Content-Type: text/html;charset=utf-8
+Cache-Control: max-age=120
+Date: Wed, 25 Sep 2013 01:14:50 GMT
+Connection: keep-alive
+X-Device: desktop
+X-Cache: HIT:95
+X-Served-By: pol-web-18
+Set-Cookie: BIGipServerlb-pol-web_varnish=3322551980.20480.0000; path=/
+

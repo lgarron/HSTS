@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:43:58 GMT
+Server: Apache
+X-Powered-By: PHP/5.2.8
+Set-Cookie: K_SID=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%223c9f925743f9b52cb6a520b888fdf34f%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22171.65.249.4%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22curl%2F7.24.0+%28x86_64-apple-darwin12.0%29+libcurl%2F7.24%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1380069838%3B%7Db384fe6e7bf612a5132f23b250725ab1; expires=Wed, 25-Sep-2013 02:43:58 GMT; path=/; domain=.kompas.com
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: BIGipServerPool_Welcomepage_Kompas.com=588067850.20480.0000; path=/
+

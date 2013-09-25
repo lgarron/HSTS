@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:45:09 GMT
+Server: Apache/2.2.14 (Ubuntu)
+X-Powered-By: PHP/5.3.2-1ubuntu4.18
+Set-Cookie: OWLYSID=eba0ab4458240c1ba59f8ee51391a9a43e127fa5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: /url/shorten-url
+X-Gridnum: 59
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

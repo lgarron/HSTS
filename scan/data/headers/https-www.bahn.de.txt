@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+X-SP: 438
+Location: https://www.bahn.de/p/view/index.shtml
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 0
+Cache-Control: max-age=1800
+Date: Wed, 25 Sep 2013 03:21:51 GMT
+Connection: keep-alive
+

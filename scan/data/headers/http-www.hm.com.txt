@@ -1,0 +1,10 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Apache
+Location: http://www.hm.com/entrance.ahtml?orguri=/
+Content-Length: 0
+HostID: xapH6fud
+Content-Type: text/plain
+Cache-Control: max-age=60
+Date: Wed, 25 Sep 2013 02:00:58 GMT
+Connection: keep-alive
+

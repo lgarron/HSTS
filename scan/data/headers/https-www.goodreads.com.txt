@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.2
+Date: Wed, 25 Sep 2013 00:43:59 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Status: 200 OK
+CS-Page-Type: LoggedOutHomepage
+X-Request-Id: 1cd9b4bd63153a9ef442df284b3842b6
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "e6176284860551681c2a561e11e49749"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: csid=BAhJIhg2OTktNjc5OTY5MC0zMTY3NDA3BjoGRVQ%3D--45750d4f90226b29d9834b3cb4e7b1700ac6524f; path=/; expires=Sun, 25-Sep-2033 00:43:59 GMT
+Set-Cookie: _session_id2=606c97de4427867ed0fc2d8795efb2ae; path=/; expires=Wed, 25-Sep-2013 06:43:59 GMT; HttpOnly
+X-Runtime: 0.124372
+

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, private
+Set-Cookie: csrftoken2=375e0363aa5b83ac76d805eac4ccc993; Domain=.justin.tv; expires=Wed, 24-Sep-2014 03:22:58 GMT; Max-Age=31449600; Path=/
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Vary: Cookie, Accept-Language
+Date: Wed, 25 Sep 2013 03:22:58 GMT
+Connection: keep-alive
+

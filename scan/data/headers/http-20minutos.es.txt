@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Content-Type: text/html
+Location: http://www.20minutos.es/
+X-20M-WebServer: frontal-03
+Content-Length: 178
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:28:22 GMT
+X-Varnish: 1917782498 1917768674
+Age: 107
+Via: 1.1 varnish
+Connection: keep-alive
+X-20M-Cache: 01
+

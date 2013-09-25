@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Set-Cookie: TI_PREFS=default; path=/; domain=.ew.com
+Location: http://www.ew.com/
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:33:29 GMT
+X-Varnish: 347236413
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

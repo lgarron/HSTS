@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.2.6
+Content-Type: text/html
+Content-Length: 184
+Location: https://www.airbnb.com/?cdn_locale_redirect=1
+Strict-Transport-Security: max-age=86400; includeSubdomains
+Date: Wed, 25 Sep 2013 03:29:30 GMT
+Connection: keep-alive
+Set-Cookie: mdr_browser=desktop; expires=Wed, 25-Sep-2013 05:29:30 GMT; path=/; domain=.airbnb.com
+

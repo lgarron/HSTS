@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+Cache-Control: no-cache, private, must-revalidate
+Location: http://motherless.com/
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:13:11 GMT
+Age: 0
+Connection: keep-alive
+

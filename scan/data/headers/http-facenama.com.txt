@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 01:24:51 GMT
+Server: LiteSpeed
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0
+X-Powered-By: PHP/5.3.26
+Set-Cookie: sesfacenamacom=6f449ac120037e9dff4d8808e7812a31; path=/; domain=.facenama.com; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: http://facenama.com/home?v=1
+Content-Type: text/html
+

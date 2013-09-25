@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 02:36:04 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 145202
+Connection: keep-alive
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: private, no-cache, no-cache="Set-Cookie", no-store, must-revalidate, max-age=0, proxy-revalidate, no-transform
+Expires: Mon, 3 Jul 2000 15:55:03 GMT
+Set-Cookie: MSESID0=55564562358698997413%2C0%2C0%2C0%2CW4CU5O%2C0%2C6%2Cb20ede0dc000b2172167c7b7f539e792; Path=/; Domain=.bayt.com; HttpOnly
+Set-Cookie: BSESINFO0=44%2CZ8YRM7%2C%2C; Path=/; Domain=.bayt.com; HttpOnly
+Set-Cookie: brID=55564562437226180790; Path=/; Expires=Thu, 01-Jan-2060 01:00:00 GMT; Domain=.bayt.com; HttpOnly
+Set-Cookie: user-prefs=locale xx lang en; Path=/; Domain=.bayt.com
+Set-Cookie: user-prefs-lang=en; Path=/; Domain=.bayt.com
+Set-Cookie: user-prefs-locale=xx; Path=/; Domain=.bayt.com
+Set-Cookie: is_mobile_user=2; Path=/; Max-Age=86400; Domain=.bayt.com
+Set-Cookie: user_iso=us; Path=/; Max-Age=604800
+Set-Cookie: user_role=jobseeker; Path=/; Max-Age=1800
+MIME-Version: 1.0
+

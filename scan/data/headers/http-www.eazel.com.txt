@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Set-Cookie: PHPSESSID=e5834b390670316311276df0199a5bd6; path=/; domain=eazel.com
+Pragma:
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, max-age=300
+Vary: Accept-Encoding
+Date: Wed, 25 Sep 2013 02:20:49 GMT
+Age: 56017
+Connection: keep-alive
+

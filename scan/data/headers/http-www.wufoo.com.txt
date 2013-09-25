@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:22:32 GMT
+Set-Cookie: SSLB=1; path=/; domain=.wufoo.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-UA-Compatible: IE=Edge,chrome=1
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PHPSESSID=2t091brkb6r3bofr6e0jd0l2h1; path=/; domain=.wufoo.com
+Vary: Accept-Encoding
+RTSS: 1-1163-4
+Set-Cookie: ep201=lS1VuBJNaKzVG3ooa99ay6K6rbI=;expires=Wed, 25-Sep-2013 03:52:33 GMT;path=/;domain=.wufoo.com;
+Set-Cookie: ep202=GLKr1w9sJgSI0zBwq5W9iCmLnl0=;expires=Thu, 25-Sep-2014 09:11:19 GMT;path=/;domain=.wufoo.com;
+X-Powered-By: Bananas and Rum
+

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=utf-8
+Content-Language: de-DE
+Last-Modified: Wed, 25 Sep 2013 00:53:07 GMT
+Server: Apache
+X-UA-Compatible: IE=Edge,chrome=1
+Cache-Control: public, max-age=19
+Expires: Wed, 25 Sep 2013 00:54:03 GMT
+Date: Wed, 25 Sep 2013 00:53:44 GMT
+Connection: keep-alive
+

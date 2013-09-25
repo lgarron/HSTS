@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:17:01 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Server: Apache/2.2.22 (FreeBSD)
+X-Powered-By: PHP/5.3.16
+Set-Cookie: kohanasession=32bf7fce9f36967a63a03285e062aea8; expires=Wed, 25-Sep-2013 04:17:01 GMT; path=/; domain=.turbobit.net
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: kohanasession=e94e2bf6b0dfe07e8f4e69842485a94501d9c957%7E32bf7fce9f36967a63a03285e062aea8; expires=Wed, 25-Sep-2013 04:17:01 GMT; path=/; domain=.turbobit.net
+Set-Cookie: compid=1bb3c1d12c88b85cd48646e00eb03f3ce3fc25f3%7E3721585B914DDB4D74FF3FED8FAF8173; expires=Thu, 25-Sep-2014 01:17:01 GMT; path=/; domain=.turbobit.net
+Set-Cookie: user_isloggedin=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: pay_design=65d944fcdca6ee5f156077756f6ba0bf7f232d5b%7Enew; expires=Thu, 26-Sep-2013 01:17:01 GMT; path=/; domain=.turbobit.net
+Set-Cookie: user_lang=ru; path=/
+

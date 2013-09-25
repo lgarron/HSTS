@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Server: Apache/2.2.22
+Location: http://www.worldstarhiphop.com/videos/
+Vary: Accept-Encoding
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 00:54:33 GMT
+X-Varnish: 1284819260 1284777266
+Age: 261
+Via: 1.1 varnish
+Connection: keep-alive
+

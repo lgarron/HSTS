@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:37:48 GMT
+Server: Apache
+Location: http://www.webutation.net/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+

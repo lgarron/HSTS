@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:32:28 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: keep-alive
+X-Powered-By: PHP/5.3.27
+Set-Cookie: PHPSESSID=bb93f83f13712c8ba3ea7493970949e3; path=/; domain=.drom.ru; HttpOnly
+Set-Cookie: cookie_cityid=0; expires=Tue, 07-Jul-2015 03:32:28 GMT; path=/; domain=.drom.ru
+Set-Cookie: cookie_regionid=0; expires=Tue, 07-Jul-2015 03:32:28 GMT; path=/; domain=.drom.ru
+Set-Cookie: DromCurrencyCookie=1; expires=Sat, 23-Sep-2023 03:32:28 GMT; path=/; domain=.drom.ru
+Set-Cookie: ca=TFlCUgAB; expires=Wed, 25-Sep-2013 20:00:00 GMT; path=/; domain=.drom.ru
+Pragma: 
+Last-Modified: Wed, 25 Sep 2013 03:32:28 GMT
+Cache-Control: private, no-cache="set-cookie"
+Expires: 
+

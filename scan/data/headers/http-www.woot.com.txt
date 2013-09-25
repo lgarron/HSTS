@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Cache-control: no-cache="set-cookie"
+Content-length: 113703
+Date: Wed, 25 Sep 2013 03:25:34 GMT
+Expires: -1
+Pragma: no-cache
+Set-Cookie: __utmx=; domain=.woot.com; expires=Tue, 24-Sep-2013 03:25:33 GMT; path=/
+Set-Cookie: __utmxx=; domain=.woot.com; expires=Tue, 24-Sep-2013 03:25:33 GMT; path=/
+Set-Cookie: Cart=; domain=.woot.com; expires=Tue, 25-Sep-2012 03:25:34 GMT; path=/
+Set-Cookie: CartCount=; domain=.woot.com; expires=Tue, 25-Sep-2012 03:25:34 GMT; path=/
+Set-Cookie: AWSELB=0B0BF7B5026AD48E4D1EA4C1ACB5C5843D8D669D1C92A87CD1256A5477824F1C51FE25BAD5E6CF7989B349AE108BA1E54AB79E5A3C31C4BE36D00544C7DE65DCACE8F399D6;PATH=/;MAX-AGE=600
+Via: 1.1 aicache6
+X-Forwarded-Server: RETAILWEB036
+Connection: keep-alive
+

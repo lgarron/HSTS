@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/0.9.8e-fips-rhel5 PHP/5.3.16
+Location: http://www.grindtv.com/
+Content-Type: text/html; charset=iso-8859-1
+X-Cacheable: YES
+Date: Wed, 25 Sep 2013 02:35:11 GMT
+X-Varnish: 1022750739
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: MISS
+

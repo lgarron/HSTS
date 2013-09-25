@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: WP Engine/1.2.0
+Date: Wed, 25 Sep 2013 03:25:13 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Keep-Alive: timeout=20
+X-Pingback: http://www.leadpages.net/xmlrpc.php
+Location: http://www.leadpages.net/
+Vary: Accept-Encoding
+X-Cacheable: non200
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: HIT: 267
+X-Cache-Group: normal
+X-Type: default
+

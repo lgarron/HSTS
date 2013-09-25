@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 03:24:01 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-Men: 20
+P3P: policyref="/p3p.xml", CP="DSP COR DEV ADM CUR OUR IND UNI INT STA"
+Set-Cookie: lang=en_US; expires=Fri, 25-Sep-2015 03:24:01 GMT; path=/
+Location: /en
+X-slb: slb1
+

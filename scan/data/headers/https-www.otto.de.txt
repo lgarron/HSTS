@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:35:40 GMT
+Server: Apache
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Location: http://www.otto.de/is-bin/INTERSHOP.enfinity/WFS/Otto-OttoDe-Site/de_DE/-/EUR/OV_BrowseCatalog-Storefront
+Vary: Accept-Encoding
+P3P: policyref="http://www.otto.de/w3c/p3p.xml",CP="NON DSP COR CURa ADMa DEVa TAIa OUR BUS IND PHY ONL UNI PUR COM NAV DEM"
+WServer: 4
+Accept-Ranges: bytes
+Content-Type: httpd/unix-directory
+sslbox: cache 2-5
+Connection: Keep-Alive
+

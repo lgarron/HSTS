@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 52015
+Content-Type: text/html; charset=utf-8
+Set-Cookie: rbx-ip=; path=/; HttpOnly
+Set-Cookie: RBXSource=rbx_acquisition_time=9/24/2013 10:27:01 PM&rbx_acquisition_referrer=&rbx_medium=Direct&rbx_source=&rbx_campaign=&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0; expires=Fri, 25-Oct-2013 03:27:01 GMT; path=/
+Set-Cookie: rbx-ip=; path=/; HttpOnly
+Set-Cookie: RBXSource=rbx_acquisition_time=9/24/2013 10:27:01 PM&rbx_acquisition_referrer=&rbx_medium=Direct&rbx_source=&rbx_campaign=&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0; expires=Fri, 25-Oct-2013 03:27:01 GMT; path=/
+Set-Cookie: RobloLang=language=&country=; path=/
+Set-Cookie: GuestData=UserID=-1195984337; expires=Sun, 10-Feb-2041 04:27:01 GMT; path=/
+Set-Cookie: RBXMarketing=FirstHomePageVisit=1; expires=Sun, 10-Feb-2041 04:27:01 GMT; path=/
+P3P: CP="CAO DSP COR CURa ADMa DEVa OUR IND PHY ONL UNI COM NAV INT DEM PRE"
+Date: Wed, 25 Sep 2013 03:27:01 GMT
+

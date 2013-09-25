@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Length: 140
+Content-Type: text/html; charset=utf-8
+Location: http://m.fanatik.com.tr
+Server: Microsoft-IIS/8.0
+Date: Wed, 25 Sep 2013 03:27:50 GMT
+Set-Cookie: fastclient=1;Max-Age=1;Version=1
+Set-Cookie: NSC_gbobujl-qfstjtufodz=ffffffffd6fb027045525d5f4f58455e445a4a423660;path=/;httponly
+

@@ -1,0 +1,9 @@
+HTTP/1.1 301 Unknown Error
+Server: Varnish
+Retry-After: 0
+Location: http://www.t-online.de/
+Date: Wed, 25 Sep 2013 00:44:01 GMT
+X-Varnish: 803059669
+Via: 1.1 varnish
+Connection: close
+

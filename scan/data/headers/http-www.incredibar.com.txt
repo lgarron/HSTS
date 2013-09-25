@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-length: 0
+Date: Wed, 25 Sep 2013 02:13:21 GMT
+Server: Microsoft-IIS/7.5
+Set-Cookie: DefaultDID=10588; expires=Tue, 24-Sep-2013 02:13:21 GMT; path=/
+Set-Cookie: upn2=1595059132156680906; domain=incredibar.com; expires=Fri, 25-Sep-2048 02:13:21 GMT; path=/
+Set-Cookie: did=10588; domain=incredibar.com; expires=Fri, 27-Sep-2013 02:13:21 GMT; path=/
+Set-Cookie: ppd=; domain=incredibar.com; expires=Fri, 27-Sep-2013 02:13:21 GMT; path=/
+Set-Cookie: cdate=433401201; domain=incredibar.com; expires=Sun, 30-Dec-2035 22:00:00 GMT; path=/
+X-AspNet-Version: 4.0.30319
+X-AspNetMvc-Version: 3.0
+X-Powered-By: ASP.NET
+Connection: keep-alive
+

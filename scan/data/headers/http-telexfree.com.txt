@@ -1,0 +1,11 @@
+HTTP/1.1 301 //www.telexfree.com/
+Server: Varnish
+Location: //www.telexfree.com/
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:27:57 GMT
+X-Varnish: 2128791957
+Age: 0
+Via: 1.1 varnish
+Connection: close
+gzip: false
+

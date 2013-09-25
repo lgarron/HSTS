@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 01:22:44 GMT
+Content-Type: text/html; charset=UTF-8
+X-Served-By: web2 (via varnish2)
+Location: http://www.businessinsider.com/
+Content-Length: 0
+X-Varnish: 1259074488 1258946615
+Age: 676
+Via: 1.1 varnish
+X-Meta-Tbi-Varnish-Servers: www
+X-Meta-Tbi-Final-Client-Ip: 171.65.249.4
+Vary: Accept-Encoding
+

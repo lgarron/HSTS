@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=120, stale-while-revalidate=120, stale-if-error=36000
+Date: Wed, 25 Sep 2013 03:33:29 GMT
+Content-Length: 224210
+Content-Type: text/html; charset=iso-8859-1
+Last-Modified: Wed, 25 Sep 2013 03:11:09 GMT
+Server: Apache
+Vary: accept-encoding,x-wap-profile,profile,X-OperaMini-Phone,UA-pixels
+pics-label: (pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline DE v2.0" l r (nz 1 vz 1 lz 1 oz 1 cz 1) "http://www.rsac.org/ratingsv01.html" l r (n 0 s 0 v 0 l 0))
+X-Cache: HIT from lima
+X-MadeOn: 14f86b5c5f053001eb34183f3ec4dfd7
+Expires: Wed, 25 Sep 2013 03:14:04 GMT
+Connection: keep-alive
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:01:07 GMT
+Server: Apache
+tr-request-id: UkI10wpcqkQAADpTAXcAAAEh
+from-tr: trafrt006iad.io.askjeeves.info
+Content-Type: text/html; charset=iso-8859-1
+Location: http://www.ask.com
+

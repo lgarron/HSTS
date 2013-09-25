@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:20:52 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze16
+Set-Cookie: PHPSESS=2b3pl1lgppolmv0tm8o70jjtjk07hub0; path=/
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+Pragma: no-cache
+Set-Cookie: is_scrollmode=1
+Set-Cookie: PHPSESSID=deleted; expires=Tue, 25-Sep-2012 03:20:51 GMT
+Set-Cookie: PhpDugL=deleted; expires=Tue, 25-Sep-2012 03:20:51 GMT
+Set-Cookie: phpDugL=deleted; expires=Tue, 25-Sep-2012 03:20:51 GMT
+Set-Cookie: promo_block=1; expires=Thu, 25-Sep-2014 03:20:52 GMT; path=/
+Set-Cookie: promo_block2=1; expires=Thu, 25-Sep-2014 03:20:52 GMT; path=/
+Set-Cookie: user_param=a%3A2%3A%7Bs%3A16%3A%22default_hot_view%22%3Bi%3A0%3Bs%3A16%3A%22default_com_view%22%3BN%3B%7D; expires=Fri, 25-Oct-2013 03:20:52 GMT; path=/
+

@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Server: Varnish
+Retry-After: 0
+Location: http://www.zerohedge.com/
+Content-Type: text/html; charset=utf-8
+Content-Length: 445
+Date: Wed, 25 Sep 2013 03:28:00 GMT
+X-Varnish: 446066198
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Cache: MISS
+

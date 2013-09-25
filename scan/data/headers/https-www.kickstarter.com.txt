@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Wed, 25 Sep 2013 00:56:51 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Status: 302 Found
+Location: http://www.kickstarter.com/
+Cache-Control: no-cache
+Set-Cookie: _ksr_session=BAh7BkkiD3Nlc3Npb25faWQGOgZFVEkiJWU1ZmFmN2JjYTZhZmJmNDU0ZDJiNTAxMzZjMGIyMzVjBjsAVA%3D%3D--0312e25aa4022f8acb1b45687454dc8984c21b1c; path=/
+Set-Cookie: request_time=Wed%2C+25+Sep+2013+00%3A56%3A51+-0000; path=/
+X-Request-Id: 9aa71e5fadd4ed9d7da79e3c676e521a
+X-Runtime: 0.009778
+

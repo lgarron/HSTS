@@ -1,0 +1,15 @@
+HTTP/1.0 200 OK
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 03:20:19 GMT
+ETag: "20026-24456-4e729bc9e29c0"
+Last-Modified: Tue, 24 Sep 2013 23:45:51 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Length: 148566
+Age: 44
+X-Cache: HIT from dedi-srv123.alb.nl.weservit.nl
+X-Cache-Lookup: HIT from dedi-srv123.alb.nl.weservit.nl:80
+Via: 1.0 dedi-srv123.alb.nl.weservit.nl:80 (squid/2.6.STABLE21)
+Connection: close
+

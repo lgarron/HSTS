@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.4.1
+Date: Wed, 25 Sep 2013 01:18:42 GMT
+Content-Type: text/html
+Connection: close
+Set-Cookie: agent=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+Location: http://www.flipkart.com/
+Set-Cookie: cl=EHCIEBAK; Domain=www.flipkart.com; Expires=Wed, 25-Sep-2013 01:46:59 GMT; Path=/
+

@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:23:42 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-Powered-By: PHP/5.2.17
+Set-Cookie: check_pc_mobile=pc; expires=Fri, 01-Sep-2113 03:23:42 GMT; path=/
+

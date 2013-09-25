@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+X-Seen-By: sputnik6.aus_dsp
+X-Seen-By: s26.aus_pp
+Date: Wed, 25 Sep 2013 00:43:42 GMT
+Server: public.app35.aus.wixpress.com
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Expires: -1
+Cache-Control: max-age=604800
+Cache-Control: no-cache
+ETag: "be6b836976d853db083dfa964bf07abf50926"
+Pragma: no-cache
+Content-Language: en
+Content-Type: text/html;charset=UTF-8
+Vary: User-Agent,Accept-Encoding
+Content-Length: 49152
+Set-Cookie: _wixUIDX=null-user-id;Path=/;Domain=.wix.com;Expires=Mon, 24-Mar-2014 00:43:42 GMT
+Set-Cookie: _wixCIDX=c8d3aabf-ca6e-4a0d-9eda-f38389cf5787;Path=/;Domain=.wix.com;Expires=Mon, 24-Mar-2014 00:43:42 GMT
+Set-Cookie: _wix_browser_sess=b7f03e27-c464-47c2-b732-aab6a66d9947;Path=/;Domain=.wix.com
+Via: 1.0 wix.com
+

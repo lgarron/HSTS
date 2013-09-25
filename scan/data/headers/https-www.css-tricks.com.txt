@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:37:04 GMT
+Server: Apache
+X-Pingback: http://css-tricks.com/xmlrpc.php
+Location: https://css-tricks.com/
+X-Powered-By: PleskLin
+Content-Type: text/html; charset=UTF-8
+

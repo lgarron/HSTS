@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.2.2
+Date: Wed, 25 Sep 2013 00:02:25 GMT
+Content-Type: text/html
+Location: http://www.kankan.com/
+Expires: Wed, 25 Sep 2013 01:02:25 GMT
+Cache-Control: max-age=3600
+Age: 2472
+Content-Length: 184
+Connection: keep-alive
+Via: http/1.1 c0364 (c0364)
+

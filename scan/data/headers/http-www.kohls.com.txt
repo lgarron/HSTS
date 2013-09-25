@@ -1,0 +1,16 @@
+HTTP/1.1 403 Forbidden
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 263
+Expires: Wed, 25 Sep 2013 03:22:07 GMT
+Cache-Control: max-age=0, no-cache, no-store, private
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 03:22:07 GMT
+Connection: close
+Set-Cookie: K_SOFT=a1; expires=Wed, 29-Jan-2014 03:22:07 GMT; path=/
+Set-Cookie: c_atg_akaau=1380080227~id=9202cffa7bf98703cfb4714f7ec1f1c4; path=/
+X-Origin-CC: 
+X-Origin-TTL: Wed, 25 Sep 2013 03:22:07 GMT
+X-K-DEBUG: ;ATG
+

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Wed, 25 Sep 2013 01:19:10 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 213703
+Connection: keep-alive
+Vary: Accept-Encoding
+Status: 200 OK
+X-Runtime: 773ms
+Set-Cookie: scribd_ubtc=u%3D670aee10-07ae-0131-0be3-0025902ded10%26h%3DLhcJbcm27tiJ%2BZJx3AoOLCPi8lVs%2BZpuAGVOOhuQWw0%3D; domain=.scribd.com; path=/; expires=Mon, 25 Sep 2028 01:19:09 GMT
+Set-Cookie: _scribd_session=BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzE1YzI2ZWZkOWNmNTEyNmNmM2ZjOWFiYWMyNTkyZDI%3D--bd6c6e828dbe40f9f5d3f0b729561b674d613fb4; domain=.scribd.com; path=/; expires=Fri, 01 Jan 2016 00:00:00 GMT; HttpOnly
+X-Bot: 1
+Expires: Wed, 25 Sep 2013 01:19:09 GMT
+Cache-Control: no-cache
+X-Cache-For: none
+X-Debug: Homepage with no cache
+

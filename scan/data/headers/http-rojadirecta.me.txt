@@ -1,0 +1,14 @@
+HTTP/1.0 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:50:52 GMT
+Server: Apache
+Location: http://www.rojadirecta.me/
+Cache-Control: max-age=21600
+Expires: Wed, 25 Sep 2013 07:50:52 GMT
+Content-Length: 234
+Content-Type: text/html; charset=iso-8859-1
+Age: 5691
+X-Cache: HIT from dedi-srv103.alb.nl.weservit.nl
+X-Cache-Lookup: HIT from dedi-srv103.alb.nl.weservit.nl:80
+Via: 1.0 dedi-srv103.alb.nl.weservit.nl:80 (squid/2.6.STABLE21)
+Connection: close
+

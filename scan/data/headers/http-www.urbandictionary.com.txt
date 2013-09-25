@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600, public
+Content-Type: text/html; charset=utf-8
+Etag: "b92d38f8f00bf4f87f01053fa86342e0"
+Status: 200 OK
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: e0171b6c-6a1c-4c56-9552-7a04f9b87cf9
+X-Runtime: 0.087540
+X-Ua-Compatible: chrome=1
+X-Xss-Protection: 1; mode=block
+Via: 1.1 varnish
+Content-Length: 33359
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 02:29:30 GMT
+Via: 1.1 varnish
+Age: 1312
+Connection: keep-alive
+X-Served-By: cache-v36-ASH, cache-sv62-SJC3
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 17
+X-Timer: S1380074876.481345415,VS0,VS22,VE22,VE1294070
+Vary: Accept-Encoding
+

@@ -1,0 +1,12 @@
+HTTP/1.0 200 OK
+Date: Wed, 25 Sep 2013 00:42:02 GMT
+Server: Apache
+Accept-Ranges: bytes
+Cache-Control: max-age=300
+Expires: Wed, 25 Sep 2013 00:47:02 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Age: 199
+Via: 1.0 c3.w3.woc (squid)
+Connection: close
+

@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:27:04 GMT
+Server: Apache
+Set-Cookie: static_visitor=1380079624374; expires=Thu, 25-Sep-2014 03:27:04 GMT; path=/; domain=.asana.com
+Set-Cookie: asana_orig_attr=%7B%22source%22%3A%22%22%2C%22query_string%22%3A%22%22%2C%22landing_page%22%3A%22%5C%2F%22%2C%22useragent%22%3A%22curl%5C%2F7.24.0+%28x86_64-apple-darwin12.0%29+libcurl%5C%2F7.24.0+OpenSSL%5C%2F0.9.8y+zlib%5C%2F1.2.5%22%2C%22timestamp%22%3A1380079624%7D; expires=Fri, 25-Oct-2013 03:27:04 GMT; path=/
+Set-Cookie: asana_attr=%7B%22source%22%3A%22%22%2C%22query_string%22%3A%22%22%2C%22landing_page%22%3A%22%5C%2F%22%2C%22useragent%22%3A%22curl%5C%2F7.24.0+%28x86_64-apple-darwin12.0%29+libcurl%5C%2F7.24.0+OpenSSL%5C%2F0.9.8y+zlib%5C%2F1.2.5%22%2C%22timestamp%22%3A1380079624%7D; expires=Wed, 25-Sep-2013 04:27:04 GMT; path=/
+Connection: keep-alive
+

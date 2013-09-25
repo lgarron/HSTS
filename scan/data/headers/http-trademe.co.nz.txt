@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 148
+Content-Type: text/html; charset=UTF-8
+Location: http://www.trademe.co.nz/
+Date: Wed, 25 Sep 2013 02:37:53 GMT
+X-UA-Compatible: IE=Edge
+Set-Cookie: TS0141ee74=015f4a28c148b0fe3de222aef668034275bded91a833996e69d1a4bd48814cd702ca4eed53; Path=/
+

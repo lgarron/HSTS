@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:48:34 GMT
+Server: Apache/2.2.21 (Fedora)
+X-Powered-By: PHP/5.3.8
+Set-Cookie: qtrans_cookie_test=qTranslate+Cookie+Test; path=/; domain=www.clicksor.com
+X-Pingback: http://www.clicksor.com/xmlrpc.php
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

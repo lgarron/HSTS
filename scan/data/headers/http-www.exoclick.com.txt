@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:58:07 GMT
+Content-Type: text/html
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=5h00vp9r9uf7uiq8p903p6ala6; path=/; domain=.exoclick.com; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: lng=EN; expires=Sat, 24-Sep-2016 00:58:07 GMT; path=/; domain=exoclick.com
+

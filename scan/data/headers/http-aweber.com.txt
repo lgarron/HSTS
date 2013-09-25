@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:03:19 GMT
+Location: http://www.aweber.com/
+Set-Cookie: cookie_aweber_referrer_id=99; expires=Thu, 25-Sep-2014 01:03:19 GMT; path=/; domain=.aweber.com
+Set-Cookie: affiliate_id_is_active=1; expires=Wed, 25-Sep-2013 02:03:19 GMT; path=/; domain=.aweber.com
+Content-Type: text/html
+Connection: close
+Cache-Control: no-cache
+Set-Cookie: TS8fba11=9bda3c557ee98cee545549ded4aa7904f9dbbf75cf4135d552423657; Path=/
+Transfer-Encoding: chunked
+

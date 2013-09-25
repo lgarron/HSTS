@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Server: server/10001a
+Date: Wed, 25 Sep 2013 00:46:47 GMT
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=15
+Set-Cookie: PHPSESSID=34moh1u8sbr6s5phemva57mbg6; path=/; domain=.babylon.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: visitorID=1380070007-2432079213; expires=Mon, 24-Mar-2014 00:46:47 GMT; path=/; domain=.babylon.com
+Set-Cookie: affilID=55555; expires=Fri, 25-Oct-2013 00:46:47 GMT; path=/; domain=.babylon.com
+Set-Cookie: lang=en; expires=Mon, 24-Mar-2014 00:46:47 GMT; path=/; domain=.babylon.com
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Location: http://www.babylon.com/
+

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.3
+Date: Wed, 25 Sep 2013 03:37:14 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: cookie_test=1; Domain=.auto.ru; expires=Thu, 26-Sep-2013 03:37:14 GMT; Version=1; Path=/
+Set-Cookie: autoru_sid=e8fca0a4f9dc74be_162cb8b5ad00d80a9b99e25010b06d34; Domain=.auto.ru; expires=Thu, 26-Sep-2013 03:37:14 GMT; Version=1; Path=/; HttpOnly=1
+Set-Cookie: daily_stats_commercial_news_main_23341%40news5_2013-09-25=1; Domain=.auto.ru; expires=Thu, 26-Sep-2013 03:37:14 GMT; Version=1; Path=/
+Set-Cookie: daily_stats_commercial_news_main_23322%40news5_2013-09-25=1; Domain=.auto.ru; expires=Thu, 26-Sep-2013 03:37:14 GMT; Version=1; Path=/
+

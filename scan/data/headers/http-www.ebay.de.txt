@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: ebay=%5Esbf%3D%23%5E; Domain=.ebay.de; Path=/
+Set-Cookie: dp1=bu1p/QEBfX0BAX19AQA**54236dec^; Domain=.ebay.de; Expires=Fri, 25-Sep-2015 01:20:44 GMT; Path=/
+Set-Cookie: cssg=52b431311410a54c64957575fff166f1; Domain=.ebay.de; Path=/
+Set-Cookie: s=CgAD4ACBSQ4vsNTJiNDMxMzExNDEwYTU0YzY0OTU3NTc1ZmZmMTY2ZjGQZL9B; Domain=.ebay.de; Path=/
+Set-Cookie: nonsession=CgADKACBbqDvsNTJiNDMxMzExNDEwYTU0YzY0OTU3NTc1ZmZmMTY2ZjQAywABUkJBdDGiUtEs; Domain=.ebay.de; Expires=Thu, 25-Sep-2014 01:20:44 GMT; Path=/
+Cache-Control: private
+Pragma: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 37412
+Date: Wed, 25 Sep 2013 01:20:44 GMT
+

@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.1
+Date: Wed, 25 Sep 2013 03:21:30 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 39147
+Connection: keep-alive
+X-Powered-By: Phusion Passenger (mod_rails/mod_rack) 3.0.15
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "99a74536c7c380f85a0382f9b6023d34"
+X-Request-Id: 9be638da1f6081097b7bf39c827ed526
+X-Runtime: 0.077481
+Set-Cookie: tracker=id%3D%3E%7Cuser_id%3D%3E%7Csource%3D%3E%7Csource_domain%3D%3E%7Ckeywords%3D%3E%7Cclicked_at%3D%3E2013-09-24+20%3A21%3A30+-0700%7Clanding_page%3D%3Ehttps%3A%2F%2Fwww.myfitnesspal.com%2F%7Csearch_engine%3D%3E%7Clp_category%3D%3E%7Clp_subcategory%3D%3E%7Ccp%3D%3E%7Ccr%3D%3E%7Cs1%3D%3E%7Cs2%3D%3E%7Ckw%3D%3E%7Cmt%3D%3E; path=/; expires=Thu, 25-Sep-2014 03:21:30 GMT
+Set-Cookie: _session_id=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTk4MTg0MzFmMWRmMzRjMGIzZWJhMmVkYmEyYjg1ZGUyBjsAVEkiEGV4cGlyeV90aW1lBjsARlU6IEFjdGl2ZVN1cHBvcnQ6OlRpbWVXaXRoWm9uZVsISXU6CVRpbWUNJWMcwPDr5FUJOgtAX3pvbmVJIghVVEMGOwBUOg1uYW5vX251bWkC%2FAI6DW5hbm9fZGVuaQY6DXN1Ym1pY3JvIgd2QEkiH1BhY2lmaWMgVGltZSAoVVMgJiBDYW5hZGEpBjsAVEl1OwcNFmMcwPDr5FUJOwhJIghVVEMGOwBUOwlpAvwCOwppBjsLIgd2QEkiEF9jc3JmX3Rva2VuBjsARkkiMXlEMTJZM1M3S1FLMXdQVUNPY0VXMndNNkF2b2lpcktoQ2FQZTA1RTRneGM9BjsARg%3D%3D--a450f8bc719e2c14fc82ce62626dcc6fb24d4cd9; path=/; HttpOnly
+Status: 200
+

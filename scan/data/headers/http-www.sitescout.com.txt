@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:35:38 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.27
+X-Pingback: http://www.sitescout.com/xmlrpc.php
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

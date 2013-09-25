@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: CY-PR.comDate: Wed, 25 Sep 2013 02:15:38 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+P3P: policyref="/bitrix/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+X-Powered-CMS: Bitrix Site Manager (4e5ae780bafe80205a12dbdf8ce6388c)
+Set-Cookie: PHPSESSID=9d8b9987213379a52064c9e2b1f2780d; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+

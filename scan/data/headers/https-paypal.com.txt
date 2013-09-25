@@ -1,0 +1,6 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://www.paypal.com/
+Strict-Transport-Security: max-age=14400
+Connection: Keep-Alive
+Content-Length: 0
+

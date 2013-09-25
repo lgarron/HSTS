@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+P3P: CP="Potato"
+Cache-Control: no-cache
+Expires: now
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 01:22:36 GMT
+Connection: keep-alive
+Set-Cookie: FW_PIN_HASH=R1840530192; path=/
+Set-Cookie: JSESSIONID=164B0A6657AA888BB8766F69335D67C2; Path=/
+

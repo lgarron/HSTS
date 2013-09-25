@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 79612
+Content-Type: text/html; charset=utf-8
+Set-Cookie: user_guid=21f775dc-2ad6-40fc-a05b-5058c440ba12; domain=.docstoc.com; expires=Mon, 25-Sep-2023 03:25:46 GMT; path=/
+Set-Cookie: first_time=1; domain=.docstoc.com; path=/
+Set-Cookie: session.docstoc=8ca11fe3-4fa3-4214-8350-44899d4be80a; domain=www.docstoc.com; path=/
+Set-Cookie: memguid.docstoc=34a23c94-39d3-4f72-9388-44e36e3e6fe3; domain=www.docstoc.com; expires=Fri, 31-Dec-9999 23:59:59 GMT; path=/
+Set-Cookie: fingerprint={"FingerprintId":null,"DMA":"c4ca4238a0b923820dcc509a6f75849b","City":"45ebe6bd838f67040a398bf6fd40841d","Region":"3e8d115eb4b32b9e9479f387dbe14ee1","Country":"7516fd43adaa5e0b8a65a672c39845d2","Fonts":null,"Plugins":null,"UserAgent":null,"IpAddress":"128.12.244.4","Resolution":null}; domain=docstoc.com; expires=Fri, 31-Dec-9999 23:59:59 GMT; path=/
+Set-Cookie: pages_visited=1; path=/
+Set-Cookie: general=custStatSurv=1,1,10/25/2013 8:25:46 PM; domain=docstoc.com; expires=Thu, 25-Sep-2014 03:25:46 GMT; path=/; HttpOnly
+Set-Cookie: cartItemCount2=0; domain=.docstoc.com; expires=Fri, 25-Oct-2013 03:25:46 GMT; path=/; HttpOnly
+serverID: web04
+Date: Wed, 25 Sep 2013 03:25:45 GMT
+

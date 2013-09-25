@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=utf-8
+Location: http://www.mcafee.com/index.aspx
+Server: Microsoft-IIS/7.0
+X-AspNet-Version: 2.0.50727
+SN: SJV3
+Date: Wed, 25 Sep 2013 03:23:42 GMT
+Accept-Ranges: bytes
+Cache-Control: no-store
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+x-cdn: Served by WebAcceleration
+Transfer-Encoding: chunked
+Connection: Keep-Alive
+

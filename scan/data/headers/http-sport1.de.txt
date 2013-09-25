@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.sport1.de/
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 290
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 02:35:13 GMT
+Age: 91
+Connection: keep-alive
+Server: nmdn-cache/1.0
+X-Cache: HIT
+

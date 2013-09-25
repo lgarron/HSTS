@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Server: Fengine/1.4.6
+Date: Wed, 25 Sep 2013 01:39:36 GMT
+Content-Type: text/html
+Location: http://vnexpress.net/
+server: web_142.72
+

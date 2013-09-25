@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:28:22 GMT
+Server: Apache
+Location: http://www.autotrader.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: BIGipServerwww=109699082.61475.0000; path=/
+

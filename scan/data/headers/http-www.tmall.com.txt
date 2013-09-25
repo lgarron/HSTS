@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Date: Wed, 25 Sep 2013 01:12:12 GMT
+Content-Type: text/html; charset=GB2312
+Connection: keep-alive
+Vary: Accept-Encoding
+Expires: Wed, 25 Sep 2013 01:12:12 GMT
+Cache-Control: max-age=0
+Set-Cookie: mall_fp_ab=2012b; expires=Tue, 15-Oct-2013 01:12:12 GMT; path=/; domain=.tmall.com
+

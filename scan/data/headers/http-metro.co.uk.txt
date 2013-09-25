@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:21:19 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: http://metro.co.uk/xmlrpc.php
+Link: <http://wp.me/2Vnvc>; rel=shortlink
+

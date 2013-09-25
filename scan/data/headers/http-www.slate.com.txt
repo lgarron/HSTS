@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=450, private, must-revalidate
+Content-Type: text/html; charset=UTF-8
+ETag: "9a836d-33359-4e72aa06d4140"
+Expires: Wed, 25 Sep 2013 01:00:02 GMT
+Last-Modified: Wed, 25 Sep 2013 00:49:33 GMT
+Server: Apache/2.2.23 (Amazon)
+X-Varnish: 84114946
+Date: Wed, 25 Sep 2013 00:52:45 GMT
+Connection: keep-alive
+Set-Cookie: Origin_Type=default; expires=Tue, 24-Dec-2013 00:52:45 GMT; path=/; domain=slate.com
+

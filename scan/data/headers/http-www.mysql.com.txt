@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:05:35 GMT
+Server: Apache/2.2
+Set-Cookie: MySQL_S=0bsq8kjqda80sksljhf68ib3kkl6j8f5; path=/; domain=mysql.com; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+

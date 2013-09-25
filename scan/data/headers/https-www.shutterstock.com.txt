@@ -1,0 +1,9 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 01:11:42 GMT
+Server: Apache
+Set-Cookie: ssssidd=7380f5ef0660b342dfc443312ad37fc4; path=/; expires=Fri, 25-Oct-2013 01:11:42 GMT
+x-shutterstock-data: IyNlbiNVUyMjXl5FTkReXg==
+Location: http://www.shutterstock.com/index.mhtml
+Content-Type: text/html; charset=iso-8859-1
+X-Cache: MISS from www.shutterstock.com
+

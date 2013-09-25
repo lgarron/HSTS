@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.3 (Red Hat)
+Location: http://www.cbc.ca/
+Cache-Control: max-age=30
+Expires: Wed, 25 Sep 2013 03:31:33 GMT
+Content-Type: text/html; charset=iso-8859-1
+Edge-Control: dca=esi
+X-Origin-Server: web19_sb10_cache02
+Content-Length: 226
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:31:17 GMT
+Connection: keep-alive
+

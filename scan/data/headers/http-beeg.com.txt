@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.6
+Date: Wed, 25 Sep 2013 01:13:12 GMT
+Content-Type: text/html
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.5
+Set-Cookie: uniqid=7oxEuIu; expires=Thu, 25-Sep-2014 01:13:12 GMT; path=/; domain=beeg.com
+Set-Cookie: firsttime=1380071592; expires=Thu, 25-Sep-2014 01:13:12 GMT; path=/; domain=beeg.com
+Set-Cookie: firsttimeref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=beeg.com
+Set-Cookie: lasttime=1380071592; expires=Thu, 25-Sep-2014 01:13:12 GMT; path=/; domain=beeg.com
+Set-Cookie: pageview=1; expires=Thu, 25-Sep-2014 01:13:12 GMT; path=/; domain=beeg.com
+X-ALL-KEY: beeg.com-main_-/-main
+X-ALL: YES
+

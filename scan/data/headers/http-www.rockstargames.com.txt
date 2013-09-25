@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Apache
+Cache-Control: max-age=30
+Expires: Tue, 24 Sep 2013 23:36:01 GMT
+ApacheAddr: 10.100.0.241
+Content-Type: text/html; charset=UTF-8
+V-Serv: rewrdmzvar2
+Date: Wed, 25 Sep 2013 03:35:37 GMT
+X-Varnish: 2048358555 2048358362
+Age: 6
+Via: 1.1 varnish
+X-Cache-Varnish: HIT
+Content-Length: 37370
+Connection: keep-alive
+

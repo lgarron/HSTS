@@ -1,0 +1,16 @@
+HTTP/1.0 200 OK
+Date: Wed, 25 Sep 2013 00:45:09 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Cache-Control: s-maxage=3600, must-revalidate, max-age=0
+Last-Modified: Thu, 19 Sep 2013 06:37:41 GMT
+Vary: Accept-Encoding
+Content-Length: 49268
+Content-Type: text/html; charset=utf-8
+X-Cache: MISS from cp1019.eqiad.wmnet
+X-Cache-Lookup: HIT from cp1019.eqiad.wmnet:3128
+Age: 4
+X-Cache: HIT from cp1003.eqiad.wmnet
+X-Cache-Lookup: HIT from cp1003.eqiad.wmnet:80
+Connection: close
+

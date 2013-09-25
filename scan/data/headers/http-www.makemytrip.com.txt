@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:36:53 GMT
+Server: Apache
+Set-Cookie: AB=mhp_i7; expires=Fri, 25-Oct-2013 03:36:53 GMT; path=/; domain=www.makemytrip.com
+Set-Cookie: PHPSESSID=gq2jtsh02julqthaok740on350; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
+Content-Type: text/html
+Set-Cookie: NMF5DOTCOM_DEF=722100234.20480.0000; expires=Wed, 25-Sep-2013 03:39:53 GMT; path=/
+

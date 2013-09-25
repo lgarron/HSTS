@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+X-UA-Compatible: IE=edge,chrome=IE6
+Cache-Control: no-cache
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 03:21:41 GMT
+Content-Length: 1
+Connection: keep-alive
+Set-Cookie: JSESSIONID=hLd8SCWF8yL8VB6Z!739828108; domain=bhphotovideo.com; path=/
+Set-Cookie: cookieID=39488288211380079301717; domain=bhphotovideo.com; expires=Mon, 13-Oct-2081 06:35:48 GMT; path=/
+Set-Cookie: my_cookie=!bKlO3zdVrxlaTYaUH2vAGFYMGLFApo/U6x2iLPPDwfd9i40lzsWgYlOTFsKbU1nfM5TE921q9X/CwV7lZ6LEmLQ7lYaOuk9bqca5EhRUH8tC+A==;domain=.bhphotovideo.com; path=/
+Set-Cookie: TSc89b92=07ba85c3d1f743ccd957127641ce5defbda93f638b83b7bc524256c4; Path=/
+Set-Cookie: TS9668f3=7240d2eaa22f83f3922c3bebc237cd32bda93f638b83b7bc524256c460ac0ec537927618b092ce8572e98848; path=/; domain=bhphotovideo.com
+Set-Cookie: TS4e5f28=ff5f300c064cf59a55251d6fbb61455ebda93f638b83b7bc524256c41973b0556e627a10; path=/; domain=.bhphotovideo.com
+Set-Cookie: akaau=1380081101~id=e4cd7a09b3a3066f6d10d7df056e08c6; path=/
+

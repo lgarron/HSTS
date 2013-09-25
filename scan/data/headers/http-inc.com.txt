@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:38:15 GMT
+Server: Apache/2.2.3 (CentOS)
+Location: http://www.inc.com/
+Cache-Control: max-age=259200
+Expires: Sat, 28 Sep 2013 03:38:15 GMT
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

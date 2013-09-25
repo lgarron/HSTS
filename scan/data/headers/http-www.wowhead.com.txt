@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.8
+Set-Cookie: PHPSESSID=42i81cqil0fd27d6i9siffsdf3; path=/; domain=.wowhead.com; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: WOWHEADCACHE=1380167103; expires=Thu, 26-Sep-2013 03:45:03 GMT; path=/; domain=.wowhead.com
+Set-Cookie: WOWHEADNOCACHE=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.wowhead.com; httponly
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+X-Identity: 128.12.244.4
+X-Served-By: www03
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:44:08 GMT
+X-Varnish: 1184634068
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: MISS
+

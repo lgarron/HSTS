@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1809
+Strict-Transport-Security: max-age=63072000
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self' *.mega.co.nz http://*.mega.co.nz; script-src 'self' 'unsafe-eval' mega.co.nz data: blob:; style-src 'self' 'unsafe-inline' *.mega.co.nz data: blob:; frame-src 'self'; img-src 'self' *.mega.co.nz data: blob:
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Access-Control-Max-Age: 8640000
+Connection: Keep-Alive
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Date: Wed, 25 Sep 2013 02:35:12 GMT
+Server: Cherokee
+Location: http://www.infowars.com/
+Content-Length: 350
+Content-Type: text/html
+

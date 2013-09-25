@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 01:34:34 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d7e4eab878088bbcf0b29d6446934c7131380072874724; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.nerdbux.com
+Set-Cookie: __cfduid=d7e4eab878088bbcf0b29d6446934c7131380072874724; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.nerdbux.com
+X-Powered-By: PHP/5.4.17
+Set-Cookie: PHPSESSID=6e2db3fc45651a5c2bb6029c52bab5c9; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding
+CF-RAY: b33f90b03a7012a
+

@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:26:41 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d96e24b729e63ca406ebde832287405211380079599426; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.bubblews.com
+Set-Cookie: __cfduid=d96e24b729e63ca406ebde832287405211380079599426; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.bubblews.com
+X-Powered-By: PHP/5.3.10-1ubuntu3.8
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: session=1v2t4h5crnu718rm5gp0ac8nr4; path=/
+location: http://www.bubblews.com/splash
+CF-RAY: b349d3869b2012c
+

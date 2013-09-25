@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:22:56 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d0cc6960d528f8df888c62060830d8e041380079376474; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.elfagr.org
+Set-Cookie: __cfduid=d0cc6960d528f8df888c62060830d8e041380079376474; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.elfagr.org
+Location: http://www.elfagr.org/
+CF-RAY: b3497c6f80f0293
+

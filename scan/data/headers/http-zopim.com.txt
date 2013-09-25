@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:26:51 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=deb915f7cab6f3cf23cbc67eb0464e3ba1380079611736; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.zopim.com
+Set-Cookie: __cfduid=deb915f7cab6f3cf23cbc67eb0464e3ba1380079611736; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.zopim.com
+Location: http://www.zopim.com/
+Expires: Wed, 25 Sep 2013 07:26:51 GMT
+Cache-Control: max-age=14400
+Cache-Control: public
+CF-RAY: b349d8559e8012e
+

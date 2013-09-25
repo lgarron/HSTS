@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:18:59 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 21982
+Connection: keep-alive
+X-Runtime: 36
+ETag: "188f0d9e2017f4dc2bacffe2a3db1aa0"
+Cache-Control: private, max-age=0, must-revalidate
+Vary: Accept-Encoding,
+X-Frame-Options: SAMEORIGIN
+X-Cacheable: NO:Cache-Control=max-age=0
+X-Varnish: 22393606
+Age: 0
+Via: 1.1 varnish
+X-Cache: MISS
+

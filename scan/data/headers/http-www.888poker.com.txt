@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 37284
+Content-Type: text/html; charset=utf-8
+Vary: User-Agent
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+Set-Cookie: ASP.NET_SessionId=oemcnevxwl1k2kjlbppwepvg; domain=888poker.com; path=/; HttpOnly
+Set-Cookie: MainCookie=Srv=EB-06&OSR=486413&RefType=NoReferrer; domain=888poker.com; expires=Wed, 24-Sep-2014 01:15:49 GMT; path=/
+X-Powered-By: ASP.NET
+srv: 4236324
+P3P: CP="Read our privacy policy at http://www.888.com/security-and-privacy/privacy-policy.htm"
+Date: Wed, 25 Sep 2013 01:15:49 GMT
+

@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:13:13 GMT
+Server: IBM_HTTP_Server
+Set-Cookie: TLTSID=A68E9506257F1025E9C7A346EE81E6D2; Path=/; Domain=.bankofamerica.com
+Set-Cookie: TLTUID=A68E9506257F1025E9C7A346EE81E6D2; Path=/; Domain=.bankofamerica.com; Expires=Wed, 25-09-2023 01:13:13 GMT
+X-FRAME-OPTIONS: DENY
+Cache-Control: no-cache, no-store, must-revalidate
+Set-Cookie: JS_PBI=0000bCsb_O5mLKa2-BMXkA87Tgu:17acb807i; Path=/; Secure
+Set-Cookie: BOFA_LOCALE_COOKIE=en-US; Path=/
+Set-Cookie: CONTEXT=en_US; Path=/; Domain=.bankofamerica.com
+Set-Cookie: INTL_LANG=en_US; Path=/; Domain=.bankofamerica.com
+Set-Cookie: LANG_COOKIE=en_US; Path=/; Domain=.bankofamerica.com
+Set-Cookie: hp_pf_anon=anon=((ct=+||st=+||fn=+||zc=+||lang=en_US)); Path=/; Domain=.bankofamerica.com; Secure
+Set-Cookie: BOA_0020=20130925:0:O:34799140-5704-48b9-b6bb6b08cae5fb33; Expires=Sat, 23-Sep-23 01:13:13 GMT; Path=/; Domain=.bankofamerica.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Vary: Accept-Encoding
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Set-Cookie: WPID=F2S3;path=/;domain=.bankofamerica.com;
+Set-Cookie: SID=001FB460D400524238A9;path=/;domain=.bankofamerica.com;
+X-Serviced-By: /homepage/overview.go--roB0OyLXPEX4dsH86JNRTQ==--c8mnL+x7MYBbJGiurQnEjw==
+

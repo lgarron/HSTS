@@ -1,0 +1,13 @@
+HTTP/1.0 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:15:50 GMT
+Server: Apache
+Location: http://www.chinabyte.com/
+Cache-Control: max-age=600
+Expires: Wed, 25 Sep 2013 03:25:50 GMT
+Content-Length: 233
+Content-Type: text/html; charset=iso-8859-1
+Age: 398
+X-Cache: HIT from bj137
+Via: 1.0 bj137:80 (squid/2.6.STABLE23)
+Connection: close
+

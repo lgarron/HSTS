@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 24 Sep 2013 20:02:37 GMT
+Server: nginx/1.0.4
+Content-Type: text/html
+Transfer-Encoding: chunked
+X-Powered-By: PHP/5.3.6
+Location: http://www.uyan.cc/
+JiaTag: de2a570993d722c9422fba59eaa5a397
+Age: 26979
+X-Via: 1.1 hbbd86:8106 (Cdn Cache Server V2.0), 1.1 mgdls130:6060 (Cdn Cache Server V2.0)
+Connection: keep-alive
+

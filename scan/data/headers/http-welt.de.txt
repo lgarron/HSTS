@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.welt.de/
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 227
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 00:51:34 GMT
+Age: 2
+Connection: keep-alive
+

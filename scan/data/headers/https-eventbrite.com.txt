@@ -1,0 +1,14 @@
+HTTP/1.1 301 MOVED PERMANENTLY
+Server: nginx
+Date: Wed, 25 Sep 2013 01:31:41 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Location: https://www.eventbrite.com/
+Set-Cookie: SS=AE3DLHSt7ngG2M0IK64VKPVP4o9Bpjwv6g; Domain=.eventbrite.com; httponly; Path=/; secure
+Set-Cookie: mgref=typeins; Domain=.eventbrite.com; expires=Thu, 25-Sep-2014 01:31:41 GMT; httponly; Max-Age=31536000; Path=/
+Set-Cookie: mgrefby=; Domain=.eventbrite.com; expires=Thu, 25-Sep-2014 01:31:41 GMT; httponly; Max-Age=31536000; Path=/
+Set-Cookie: SP=AGQgbbnSA3bwE8H5td503ZHz4N09zAwAU4W2OSG3vrlNm1WdveYL_H1FcEc7rlaRwdqZUkOHEkuxG9pPIGX59m5wssas3ig99IwTROeT4yT7Cp6ixD3x_dg5RYUiThgBF5pqh9Kpe3bgk-7uXCup-BC-j-DVs-VjysU6DDcoSCvZ1Pb_PMzuztTzgCvO-a1iz4wQEnRXR466qQky-pNMwa8zOOb-s9pbYGeOYObJM2ZgguCDdySKt_E; Domain=.eventbrite.com; httponly; Path=/
+Set-Cookie: SERVERID=djc25; path=/
+Cache-control: private
+

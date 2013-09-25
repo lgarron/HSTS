@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.1
+Date: Wed, 25 Sep 2013 01:18:39 GMT
+Content-Type: text/html
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: agent=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Set-Cookie: VID=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; domain=www.flipkart.com; httponly
+Set-Cookie: VID=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; domain=.www.flipkart.com; httponly
+Set-Cookie: VID=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; domain=flipkart.com; httponly
+Set-Cookie: VID=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; httponly
+Set-Cookie: VID=2.VI138007191986403322417.1380071919.VS138007191986894630342; expires=Mon, 24-Mar-2014 01:18:39 GMT; path=/; domain=.flipkart.com; httponly
+Set-Cookie: NSID=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; domain=www.flipkart.com; httponly
+Set-Cookie: NSID=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; domain=.www.flipkart.com; httponly
+Set-Cookie: NSID=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; domain=flipkart.com; httponly
+Set-Cookie: NSID=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; httponly
+Set-Cookie: NSID=2.SI138007191986941127182.1380071919.VI138007191986403322417; expires=Mon, 24-Mar-2014 01:18:39 GMT; path=/; domain=.flipkart.com; httponly
+Set-Cookie: T=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; domain=www.flipkart.com; httponly
+Set-Cookie: T=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; domain=.www.flipkart.com; httponly
+Set-Cookie: T=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; domain=flipkart.com; httponly
+Set-Cookie: T=a; expires=Wed, 25-Sep-2013 00:18:39 GMT; path=/; httponly
+Set-Cookie: T=TI138007191987847643855085924212087088514967379743736965687566368839; expires=Sat, 23-Sep-2023 01:18:39 GMT; path=/; domain=.flipkart.com; httponly
+Set-Cookie: cl=GOCIEBAK; Domain=www.flipkart.com; Expires=Wed, 25-Sep-2013 01:46:55 GMT; Path=/
+

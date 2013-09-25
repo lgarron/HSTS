@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:44:25 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Location: text_translation.aspx?lang=EN
+Set-Cookie: ASP.NET_SessionId=j33tn1hnakfz3qn5zhw4n3y3; path=/; HttpOnly
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Length: 3395
+

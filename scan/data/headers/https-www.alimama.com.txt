@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Date: Wed, 25 Sep 2013 00:44:31 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Set-Cookie: cookie2=23700980812562572aa3189cc6a97641;Domain=.alimama.com;Path=/;HttpOnly
+Set-Cookie: _tb_token_=3aYF6T4boam;Domain=.alimama.com;Path=/;HttpOnly
+Set-Cookie: t=d0f99c83acddf6952e2f98258184c5c8; Domain=.alimama.com; Expires=Sun, 25-Jun-2023 01:24:31 GMT; Path=/
+Set-Cookie: v=0; Domain=.alimama.com; Path=/
+Content-Language: zh-CN
+Content-Length: 0
+Expires: Wed, 25 Sep 2013 00:44:31 GMT
+Cache-Control: max-age=0
+

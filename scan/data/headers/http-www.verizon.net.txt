@@ -1,0 +1,16 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Location: http://www.verizon.net/central
+Content-Type: text/html; charset=utf-8
+Content-Length: 147
+Expires: Wed, 25 Sep 2013 03:22:14 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 03:22:14 GMT
+Connection: keep-alive
+Set-Cookie: ASP.NET_SessionId=s24i4sjetmogknrt5ae4hpqd; path=/; HttpOnly
+Set-Cookie: AkaUTrackingID=A1202727ED83AD1851FB1B63B6BC4E92; expires=Mon, 28-Sep-2020 03:22:14 GMT; path=/; domain=verizon.net
+Set-Cookie: AkaSTrackingID=6D3987512907910809DE3A9CF990DDF7; path=/; domain=verizon.net
+

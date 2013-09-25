@@ -1,0 +1,10 @@
+HTTP/1.1 405 MethodNotAllowed
+Date: Wed, 25 Sep 2013 00:55:32 GMT
+Server: Server
+x-amz-id-1: 1RFYWFYGRF2CD0MBE5DV
+allow: POST, GET
+x-amz-id-2: ubw+iyTnazMdC2OXTQqk7lCxnKdMGP3TSu0tTNeZKmBkE7P7HO/yog==
+Vary: Accept-Encoding,User-Agent
+nnCoection: close
+Content-Type: text/html; charset=ISO-8859-15
+

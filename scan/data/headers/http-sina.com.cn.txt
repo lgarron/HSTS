@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 00:47:16 GMT
+Content-Type: text/html
+Location: http://www.sina.com.cn/
+Expires: Wed, 25 Sep 2013 01:47:16 GMT
+Cache-Control: max-age=3600
+Age: 60
+Content-Length: 178
+X-Cache: HIT from xd33-83.sina.com.cn
+

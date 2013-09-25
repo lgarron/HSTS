@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:26:35 GMT
+Server: Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Expires: Wed, 25 Sep 2013 04:11:14 GMT
+Pragma: public
+Cache-Control: public, must-revalidate, proxy-revalidate
+Etag: 39165ebd7582b37ac7c2ddce7b79999f
+X-Powered-By: W3 Total Cache/0.9.3
+Vary: 
+X-Pingback: http://www.wpbeginner.com/xmlrpc.php
+Last-Modified: Wed, 25 Sep 2013 03:11:14 GMT
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

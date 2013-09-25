@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Length: 0
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: MC1=V=3&GUID=9bd07b9632734b6c9d8c79f3a9aa5e3e; domain=.msn.com; expires=Fri, 25-Sep-2015 00:55:39 GMT; path=/
+Set-Cookie: MC1=V=3&GUID=9bd07b9632734b6c9d8c79f3a9aa5e3e; domain=.msn.com; expires=Fri, 25-Sep-2015 00:55:39 GMT; path=/
+Set-Cookie: brdSample=82; domain=.msn.com; expires=Fri, 25-Sep-2015 00:55:39 GMT; path=/
+Set-Cookie: mh=MSFT; domain=.msn.com; expires=Fri, 25-Sep-2015 00:55:39 GMT; path=/
+Set-Cookie: CC=US; domain=.msn.com; expires=Fri, 25-Sep-2015 00:55:39 GMT; path=/
+Set-Cookie: CULTURE=EN-US; domain=.msn.com; expires=Wed, 02-Oct-2013 00:55:39 GMT; path=/
+Set-Cookie: _FS=NU=1; domain=.msn.com; path=/
+Set-Cookie: _SS=SID=7A43C40F6EBD49CF9746F86CE11A9901; domain=.msn.com; path=/
+Set-Cookie: MUIDB=2DB7A5A0E8116128210DA0F3E90261F5; expires=Fri, 25-Sep-2015 00:55:39 GMT; path=/
+Set-Cookie: SRCHD=D=3015415&MS=3015415&AF=NOFORM; expires=Fri, 25-Sep-2015 00:55:39 GMT; domain=.msn.com; path=/
+Set-Cookie: SRCHUID=V=2&GUID=A81A767D54FA43B69852E5183D731E87; expires=Fri, 25-Sep-2015 00:55:39 GMT; path=/
+Set-Cookie: SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20130925; expires=Fri, 25-Sep-2015 00:55:39 GMT; domain=.msn.com; path=/
+errorCodeCount: [0:0]
+X-AspNet-Version: 4.0.30319
+S: CO3SCH010143202
+Edge-control: no-store
+Date: Wed, 25 Sep 2013 00:55:39 GMT
+

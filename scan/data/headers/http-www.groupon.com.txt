@@ -1,0 +1,29 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.2.9
+Content-Type: text/html; charset=utf-8
+Content-Length: 134
+Status: 302
+X-Runtime: 61
+Cache-Control: private, max-age=0, must-revalidate, no-store, no-cache
+Location: http://www.groupon.com/app/subscriptions/new_zip?division_p=san-jose
+X-UA-Compatible: chrome=IE8
+X-Origin-Cache: MISS
+X-Origin-Cache-Key: http/www.groupon.com/?
+X-Grout-Id: 3461c21c-2581-11e3-8a2e-b2328ba74633
+X-Grout-App: pwa
+Vary: Accept-Encoding
+Date: Wed, 25 Sep 2013 01:24:21 GMT
+Connection: keep-alive
+Set-Cookie: locale=en_US; Max-Age=31536000; Expires=Thu, 25-Sep-2014 1:24:21 GMT; Domain=.; Path=/;
+Set-Cookie: s=3461ce60-2581-11e3-8a2e-b2328ba74633; Domain=.; Path=/;
+Set-Cookie: division=san-jose; path=/; expires=Fri, 25-Oct-2013 01:24:21 GMT
+Set-Cookie: b=629f2883-dff9-3c41-f08f-ba3b9930200b; domain=.groupon.com; path=/; expires=Mon, 25-Sep-2023 01:24:21 GMT
+Set-Cookie: s=3461ce60-2581-11e3-8a2e-b2328ba74633; domain=.groupon.com; path=/; expires=Wed, 25-Sep-2013 01:54:21 GMT
+Set-Cookie: email=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+Set-Cookie: visited=1; path=/; expires=Mon, 25-Sep-2023 01:24:21 GMT
+Set-Cookie: _thepoint=3fecd33e19f406945461b6ee604b3cc6; domain=.groupon.com; path=/; expires=Thu, 26 Sep 2013 01:24:21 GMT; HttpOnly
+Set-Cookie: b=629f2883-dff9-3c41-f08f-ba3b9930200b; expires=Sat, 23-Sep-2023 01:24:21 GMT; path=/; domain=.groupon.com
+Set-Cookie: bucket=443; expires=Sat, 23-Sep-2023 01:24:21 GMT; path=/; domain=.groupon.com
+X-Treatment-Name: OUT
+X-Bucket-Value: 443
+

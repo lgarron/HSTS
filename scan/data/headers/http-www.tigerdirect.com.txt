@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Microsoft-IIS/6.0
+X-SV: MIA01A
+X-Powered-By: ASP.NET
+Content-Type: text/html
+Cache-Control: private
+Date: Wed, 25 Sep 2013 03:23:39 GMT
+Connection: keep-alive
+Set-Cookie: DB=msImageSC=%2Fmicrosoft%2FMSelasticity%2Dbnr%5F620x150A%2Ejpg&Surveyflag=1&msImageID=%2Fmicrosoft%2FMSelasticity%2Dbnr%5F430x150A%2Ejpg&msProduct=335878&msRandX=1; path=/
+Set-Cookie: SRVR=WEBX10%2D07A; path=/
+Set-Cookie: Cart=Landing=http%3A%2F%2Fwww%2Etigerdirect%2Ecom%2Findexus%2Easp&Referer=; path=/
+Set-Cookie: SessionId=970931620130924231912128122444; expires=Wed, 24-Sep-2014 04:00:00 GMT; path=/
+Set-Cookie: SRCCODE=WEB1309; expires=Thu, 24-Oct-2013 04:00:00 GMT; path=/
+Set-Cookie: SSLB=0; path=/; domain=.tigerdirect.com
+

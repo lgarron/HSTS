@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache
+cache-control: max-age=15, public, s-maxage=30
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:35:45 GMT
+Age: 20
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish: HV107W107
+

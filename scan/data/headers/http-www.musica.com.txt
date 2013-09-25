@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:24:40 GMT
+Server: Microsoft-IIS/6.0
+Vary: User-Agent
+X-Powered-By: ASP.NET
+Content-Length: 41083
+Content-Type: text/html
+Set-Cookie: movil=NO; expires=Sat, 28-Sep-2013 22:00:00 GMT; path=/
+Set-Cookie: ip=us; expires=Thu, 26-Sep-2013 22:00:00 GMT; path=/
+Set-Cookie: ASPSESSIONIDCADTRBSB=NLGDGPGBBFEODHCOCJPMIBHG; path=/
+Cache-control: private
+

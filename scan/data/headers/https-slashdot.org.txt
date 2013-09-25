@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Server: Apache/2.2.3 (CentOS)
+SLASH_LOG_DATA: shtml
+Location: http://slashdot.org/index2.pl
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 03:26:39 GMT
+X-Varnish: 1109282813
+Age: 0
+Connection: keep-alive
+Vary: Accept-Encoding
+

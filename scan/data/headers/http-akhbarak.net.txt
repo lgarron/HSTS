@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: Spirula Web Server
+Date: Wed, 25 Sep 2013 00:51:28 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: http://www.akhbarak.net/
+

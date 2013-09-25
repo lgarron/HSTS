@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:33:17 GMT
+Content-Type: text/html
+Content-Length: 184
+Location: http://www.gutefrage.net/
+

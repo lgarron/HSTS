@@ -1,0 +1,10 @@
+HTTP/1.1 302 Moved Temporarily
+server: Apache-Coyote/1.1
+set-cookie: JSESSIONID=28BF24B0A2F8DC99; Path=/
+location: http://www.orbitz.com/
+content-length: 0
+date: Wed, 25 Sep 2013 03:29:39 GMT
+Connection: keep-alive
+Set-Cookie: NSC_JOu2s3r4deikrvveb50lfpcjwwizbbq=ffffffff09e444dc45525d5f4f58455e445a4a422f1b;path=/
+Set-Cookie: NSC_xxx.pscjua.dpn.443_gxe=ffffffff09e3087545525d5f4f58455e445a4a42378b;path=/;secure;httponly
+

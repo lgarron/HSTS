@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:32:42 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Cache-Control: public, max-age=300
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Age: 150
+Content-Length: 14715
+X-Cache: HIT from avocado.canonical.com
+X-Cache-Lookup: HIT from avocado.canonical.com:80
+Via: 1.1 avocado.canonical.com:80 (squid/2.7.STABLE7)
+Via: 1.1 www.ubuntu.com
+

@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Server: nginx/1.2.5
+Date: Wed, 25 Sep 2013 04:33:59 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=20
+Cache-Control: no-cache
+Pragma: no-cache
+Location: http://fucked-tube.com/en/
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+X-Powered-By: Perl Dancer (patched by Perlover) 1.91
+X-Runtime: 0.003048
+

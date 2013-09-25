@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 03:43:39 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: http://www.championat.com/
+X-Frontend: 4
+

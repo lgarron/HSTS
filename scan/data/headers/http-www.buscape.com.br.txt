@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Connection: keep-alive
+Set-Cookie: buscape=id_user=17165249420130924214956&cn=2029865370&xrb=8a7bd6d1391174ac55ccc056f45f41b2; Domain=.buscape.com.br; Expires=Mon, 24-Sep-2018 00:49:56 GMT; Path=/
+Set-Cookie: bpc=dupv=2013-09-24+21%3A49%3A56&duvcso=&uso=0&tzu=0&pr=0&cn=2029865370&xrbpc=e9000142eddcd79035534d4aaa66a610; Domain=.buscape.com.br; Expires=Mon, 24-Sep-2018 00:49:56 GMT; Path=/
+Set-Cookie: sessao3=rfin=NO-REFERRER&site_origem=9402546&cna=2029865370&stp=1&dppv=2013-09-24+21%3A49%3A56&id_entrada=site_origem%3D9402546&xr3=623a5cc5aeb996ff172afcc640560ae8; Domain=.buscape.com.br; Path=/
+P3P: policyref="http://www.buscape.com.br/w3c/p3p.xml", CP="PSA CONo OUR ONL BUS NOI"
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Content-Length: 42553
+Date: Wed, 25 Sep 2013 00:49:55 GMT
+

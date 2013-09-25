@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: at&t
+Content-Type: text/html; charset=UTF-8
+X-FRAME-OPTIONS: DENY
+X-Renderer: 160324482910080068794133557746525923153
+X-UA-Compatible: IE=EmulateIE7
+UXTIME: UkIedAoUAToAAFs5h98AAAh3 D=34719
+Expires: Wed, 25 Sep 2013 00:48:45 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 00:48:45 GMT
+Connection: keep-alive
+Set-Cookie: akaau=1380070425~id=99e7616740fbc53313d0e10b13dca4cb; path=/; domain=.att.com
+

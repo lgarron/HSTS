@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:32:06 GMT
+Content-Type: text/html; charset=windows-1252
+Connection: keep-alive
+Keep-Alive: timeout=2
+Vary: Accept-Encoding
+Set-Cookie: uid=null; expires=Wed, 25-Sep-2013 03:32:06 GMT; path=/; domain=.t411.me
+Set-Cookie: pass=null; expires=Wed, 25-Sep-2013 03:32:06 GMT; path=/; domain=.t411.me
+Set-Cookie: authKey=null; expires=Wed, 25-Sep-2013 03:32:06 GMT; path=/; domain=.t411.me
+X-Frame-Options: SAMEORIGIN
+

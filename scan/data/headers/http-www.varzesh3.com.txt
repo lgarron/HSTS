@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:50:12 GMT
+Server: Microsoft-IIS/6.0
+Content-Length: 94432
+Content-Type: text/html
+Set-Cookie: H0=01; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: G0%2DNoFlash=01; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: G0=01; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: F0=01%2C02; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: E0%2DNoFlash=02%2C01; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: E0=01%2C02%2C03; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: C0%2DNoFlash=05%2C02%2C04%2C01%2C03%2C06; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: C0=01%2C19%2C15%2C21%2C04%2C17%2C16%2C11%2C07%2C18%2C06%2C10%2C14%2C09%2C13%2C08%2C12%2C03%2C22%2C20%2C05%2C02; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: B0=01%2C02%2C03; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: A0=01; expires=Tue, 31-Dec-2013 20:30:00 GMT; path=/
+Set-Cookie: ASPSESSIONIDASDTCBAA=FAOAIFMAMCOCNLEGGPGBEKBN; path=/
+Cache-control: private
+

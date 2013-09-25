@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.3
+X-WPF-PageID: 25142 @ 2013-09-24 20:36:30.185344 release 2013-09-24 00:00:00 embargo None retract None
+X-WPF-CachePlus: requests: 470, 1506 - 320.4% M, 448 - 95.3% L, 18 - 3.8% G
+X-WPF-Timers: 6.182s
+Content-Type: text/html; charset=utf-8
+X-Cache-Lookup: HIT from django-rpc1.int.ngeo.com:80
+Cache-Control: max-age=391
+Expires: Wed, 25 Sep 2013 00:50:54 GMT
+Date: Wed, 25 Sep 2013 00:44:23 GMT
+Connection: keep-alive
+

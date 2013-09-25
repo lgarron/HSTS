@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 00:54:29 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=dd66d1ab88844fff37a54b2acd5eb36b41380070469010; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.ck101.com
+Set-Cookie: __cfduid=dd66d1ab88844fff37a54b2acd5eb36b41380070469010; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.ck101.com
+Location: http://ck101.com/
+CF-RAY: b33be4f52cd065d
+

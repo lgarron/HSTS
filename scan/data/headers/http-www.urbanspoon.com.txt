@@ -1,0 +1,18 @@
+HTTP/1.1 302 Found
+Server: nginx/1.2.0
+Date: Wed, 25 Sep 2013 03:35:33 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Status: 302 Found
+X-Spoon: usapp2
+X-Version: a06d730
+Location: http://www.urbanspoon.com/c/6/SF-Bay-Area-restaurants.html
+X-UA-Compatible: IE=Edge,chrome=1
+Cache-Control: no-cache
+Set-Cookie: city_id=6; path=/; expires=Mon, 25-Sep-2023 03:35:33 GMT
+Set-Cookie: _urbanspoon_session=BAh7CUkiD3Nlc3Npb25faWQGOgZFRkkiJTYzM2Y1MDhkYThjZDliNDljZmJjMzJlMDA1NTcyZTNjBjsAVEkiCnNwbGl0BjsARnsASSIYZ2FfY3VzdG9tX3ZhcmlhYmxlcwY7AEZbBzB7CToJc2xvdGkGOgluYW1lSSIHaWQGOwBGOgp2YWx1ZUAHOgpzY29wZWkGSSIScmVjZW50X2NpdGllcwY7AEZbBmkL--d3db79e70fec1d6f41562feffd5d20c93d1f2d1f; path=/; expires=Mon, 25-Sep-2023 03:35:33 GMT; HttpOnly
+X-Request-Id: c36dc55f2b9a044a5691610fe3d01aa6
+X-Runtime: 0.043455
+X-Rack-Cache: miss
+Set-Cookie: branch=urbanspoon;Max-Age=3600000;Path=/
+

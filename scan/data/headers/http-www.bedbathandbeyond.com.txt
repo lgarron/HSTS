@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+X-Cnection: close
+Content-Type: text/html; charset=UTF-8
+Content-Language: en-US
+X-Powered-By: Servlet/2.5 JSP/2.1
+X-Who-L: AN1001
+X-Who-R: AN-83.70-03
+Access-Control-Allow-Origin: *.bedbathandbeyond.com
+Access-Control-Allow-Origin: *.buybuybaby.com
+Access-Control-Allow-Origin: *.bedbathandbeyond.ca
+Access-Control-Allow-Origin: 206.17.85.130
+Access-Control-Allow-Origin: 206.17.85.129
+Date: Wed, 25 Sep 2013 03:43:36 GMT
+Content-Length: 1
+Connection: keep-alive
+Set-Cookie: BedBathUSLVPrdts=;expires=Thu, 10 Oct 2013 03:43:36 GMT; domain=www.bedbathandbeyond.com; path=/; HttpOnly
+Set-Cookie: JSESSIONID=H3JtSCbLJMqwVHYlXq40pdHp9vXXyPDQGl4CZC1JT09d8nL5Zh7L!339527524; path=/; HttpOnly
+Set-Cookie: BIGipServerWeblogic_Pool=1179894026.23323.0000; path=/
+Set-Cookie: TLTSID=81CCFBA371C2AAA79566AE64F62CDA3F;path=/;
+Set-Cookie: TLTUID=EDB35182669CBF876ADD4D66C5FCFBAC;expires=Mon, 18-May-2015 03:43:36 GMT;path=/;
+Set-Cookie: BBBDC=AN01;expires=Wed, 25-Sep-2013 04:43:36 GMT;path=/;domain=.bedbathandbeyond.com;
+

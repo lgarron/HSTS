@@ -1,0 +1,6 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:32:22 GMT
+Server: Apache
+Location: http://www.hotpepper.jp/
+Content-Type: text/html; charset=iso-8859-1
+

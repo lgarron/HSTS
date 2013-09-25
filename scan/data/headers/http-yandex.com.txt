@@ -1,0 +1,6 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Wed, 25 Sep 2013 03:39:17 GMT
+Content-Type: text/html
+Location: http://www.yandex.com/
+Content-Length: 154
+

@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Wed, 25 Sep 2013 02:35:12 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.23
+X-CF-Powered-By: WP 1.3.9
+X-Pingback: http://bigideamastermind.com/xmlrpc.php
+Set-Cookie: wfvt_3752454081=52424be03a7c0; expires=Wed, 25-Sep-2013 03:05:12 GMT; path=/
+Location: http://bigideamastermind.com/membership/login/index?_amember_redirect_url=aHR0cDovL2JpZ2lkZWFtYXN0ZXJtaW5kLmNvbS8%3D
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

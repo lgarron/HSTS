@@ -1,0 +1,9 @@
+HTTP/1.1 500 Internal Server Error
+Server: Apache-Coyote/1.1
+Content-Type: text/html;charset=utf-8
+X-Swa-ws: BHNLU
+Date: Wed, 25 Sep 2013 02:07:34 GMT
+Connection: keep-alive
+Set-Cookie: JSESSIONID=E84FD6210928146C66F03647BCE6BC69; Path=/flight
+Set-Cookie: DiscCookie=disc=; path=/; domain=.southwest.com; HttpOnly;
+

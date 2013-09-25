@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Server: Sun-ONE-Web-Server/6.1
+Date: Wed, 25 Sep 2013 03:23:38 GMT
+Content-type: text/html
+Connection: close
+

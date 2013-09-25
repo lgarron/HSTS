@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Apache/2.0.63 (Unix) mod_jk/1.2.27 mod_ssl/2.0.63 OpenSSL/0.9.7a
+ETag: 68b0a1bf5bf8c339bc097bd4468321e
+Last-Modified: Wed, 25 Sep 2013 02:05:52 GMT
+Content-Type: text/html
+Cache-Control: max-age=145
+Date: Wed, 25 Sep 2013 02:09:26 GMT
+Connection: keep-alive
+Set-Cookie: ak-mobile-detected=no; expires=Wed, 25-Sep-2013 08:09:26 GMT; path=/
+Access-Control-Allow-Origin: http://c.brightcove.com
+Vary: User-Agent
+

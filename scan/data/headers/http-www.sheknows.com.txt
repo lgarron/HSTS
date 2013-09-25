@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.15 (CentOS)
+X-Varnish: 2315827019 2315822877
+Vary: Accept-Encoding
+X-Cache-Hits: 11
+cache-control: max-age=300, public
+X-Cache: HIT
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:27:00 GMT
+expires: Wed, 25 Sep 2013 03:30:03 GMT
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Connection: keep-alive
+Age: 116
+Content-Length: 68511
+

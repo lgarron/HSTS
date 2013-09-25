@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:48:06 GMT
+Server: Apache/2.2.14 (Ubuntu)
+Set-Cookie: SESS9dd4d016da30aa43b8e02b23417e983e=c95a2a69e5d4d499a002bd136e251f0d; expires=Fri, 18-Oct-2013 04:21:26 GMT; path=/; domain=.infusionsoft.com
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 25 Sep 2013 00:48:06 GMT
+Cache-Control: store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Set-Cookie: LeadSource=www.infusionsoft.com; expires=Sat, 18-Jan-2014 18:34:46 GMT; path=/; domain=.infusionsoft.com
+Set-Cookie: Referer=deleted; expires=Tue, 25-Sep-2012 00:48:05 GMT; path=/; domain=.infusionsoft.com
+Set-Cookie: visits=deleted; expires=Tue, 25-Sep-2012 00:48:05 GMT; path=/; domain=.infusionsoft.com
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+

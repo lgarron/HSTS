@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 14907
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/8.0
+Set-Cookie: ARRAffinity=a7ec21c014dd3e91dabc4fa094485a48558d3dc032d1ff960ef597eaca69c521;Path=/;Domain=www.snapdo.com
+Set-Cookie: ASP.NET_SessionId=cexosgbykdwrvypgjm4snnkr; path=/; HttpOnly
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Powered-By: ARR/2.5
+X-Powered-By: ASP.NET
+Set-Cookie: WAWebSiteSID=6988c62e0c90450ab15e01844f44dc25; Path=/; HttpOnly
+Date: Wed, 25 Sep 2013 00:45:18 GMT
+

@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=iso-8859-1
+X-UA-Compatible: IE=edge,chrome=1
+Cache-Control: max-age=15
+Date: Wed, 25 Sep 2013 01:14:05 GMT
+Connection: keep-alive
+P3P: CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONi OUR SAMo OTRo BUS PHY ONL UNI PUR COM NAV INT DEM CNT STA PRE"
+Set-Cookie: SWID=0B119984-EFBB-4D2E-9674-ECA78F6632A6; path=/; expires=Wed, 25-Sep-2033 01:14:05 GMT; domain=go.com;
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:45:18 GMT
+Server: IBM_HTTP_Server
+Cache-Control: max-age=301
+Expires: Wed, 25 Sep 2013 00:50:19 GMT
+Content-Type: text/html
+Location: http://www.ibm.com/
+

@@ -1,0 +1,17 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Wed, 25 Sep 2013 01:19:57 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: _d2id=e519162a-8954-41c7-9cf8-85eecd9cb204-n; Path=/; Domain=.mercadolibre.com.mx; Expires=Thu, 25 Sep 2014 01:19:57 GMT
+Vary: Accept-Encoding
+X-Echelon-Lid: e-000011b745526511251380071997512
+Location: http://www.mercadolibre.com.mx/
+X-Nginx-Host: e-00001dd2
+X-Nginx-Pool: homes-frontend-web-mlm-pool
+X-Nginx-UpstreamHost: 172.16.171.43:8080
+X-Upstream-Server: Apache-Coyote/1.1
+X-Request-Id: e519162a-8954-41c7-9cf8-85eecd9cb204
+X-D2id: e519162a-8954-41c7-9cf8-85eecd9cb204
+

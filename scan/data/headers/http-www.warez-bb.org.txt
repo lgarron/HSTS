@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:45:07 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: close
+Set-Cookie: phpBB_WBB_data=a%3A2%3A%7Bs%3A11%3A%22autologinid%22%3Bs%3A0%3A%22%22%3Bs%3A6%3A%22userid%22%3Bi%3A-1%3B%7D; expires=Thu, 25-Sep-2014 03:45:02 GMT; path=/
+Set-Cookie: phpBB_WBB_sid=8cbf3e6f149ce54bddb2d862bb615235; path=/
+Set-Cookie: phpBB_WBB_fpass=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Cache-Control: private, pre-check=0, post-check=0, max-age=0
+Expires: 0
+Pragma: no-cache
+

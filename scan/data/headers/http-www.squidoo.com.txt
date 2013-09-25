@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Apache
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 00:40:18 GMT
+X-Varnish: 2559165222 2558180781
+Age: 6585
+Via: 1.1 varnish
+Connection: keep-alive
+

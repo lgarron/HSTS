@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+ServerID: tradus-117
+Content-Type: text/html
+X-Cacheable: NO:Not Cacheable TTL
+X-Varnish: 1850213866
+Date: Wed, 25 Sep 2013 01:57:12 GMT
+Connection: keep-alive
+Set-Cookie: TRADUSSESSID=dmdkepj6lpnmdp2v7842bunva3n7pcgd; expires=Fri, 18-Oct-2013 05:30:31 GMT; Max-Age=2000000; path=/; domain=.tradus.com
+

@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.google.com.tw/
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 00:45:01 GMT
+Expires: Fri, 25 Oct 2013 00:45:01 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 223
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 443:quic
+

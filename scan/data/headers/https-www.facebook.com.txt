@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Location: https://www.facebook.com/unsupportedbrowser
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: datr=uzFCUvhbuv7etK1_VeozDADu; expires=Fri, 25-Sep-2015 00:43:39 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: 3seOXw/FNLCN7WHAoQRA78QhqxuWMUNSVYyWH+i+pCA=
+Date: Wed, 25 Sep 2013 00:43:39 GMT
+Connection: keep-alive
+Content-Length: 0
+

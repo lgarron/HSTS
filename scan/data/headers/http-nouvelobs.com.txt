@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Cache-Control: public, max-age=60
+Location: http://tempsreel.nouvelobs.com/
+Expires: Wed, 25 Sep 2013 03:30:10 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+X-UA-Compatible: IE=edge,chrome=1
+Date: Wed, 25 Sep 2013 03:29:10 GMT
+X-Varnish: 2791515016
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: QWS
+Date: Wed, 25 Sep 2013 00:49:05 GMT
+Content-Type: text/html
+Content-Length: 299711
+Connection: keep-alive
+Expires: Wed, 25 Sep 2013 00:53:51 GMT
+Cache-Control: max-age=300
+Last-Modified: Wed, 25 Sep 2013 00:46:18 GMT
+X-Cache: HIT from 10.11.50.153
+X-Cache: HIT from 220.181.73.6
+

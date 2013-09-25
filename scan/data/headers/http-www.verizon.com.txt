@@ -1,0 +1,20 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Oracle-iPlanet-Web-Server/7.0
+Location: http://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx
+X-Powered-By: Servlet/2.5 JSP/2.1
+Expires: Wed, 25 Sep 2013 00:48:52 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Date: Wed, 25 Sep 2013 00:48:52 GMT
+Connection: keep-alive
+Set-Cookie: ONECMS_JSESSIONID=zRXrSCyJGM4GGQjZJ8l12fqYh2HtnqdZGZy0pkVxfTsmZ7yn16vv!-1849130945; path=/; HttpOnly
+Set-Cookie: GlobalSessionID=NESLvIQGhtBpVfp%2BWy5qdkGFw%3D%3D; domain=.verizon.com; expires=Tuesday, 24-Dec-2013 00:48:52 GMT; path=/
+Set-Cookie: GlobalSessionID=NESLvIQGhtBpVfp%2BWy5qdkGFw%3D%3D; domain=www.verizon.com; expires=Tuesday, 24-Dec-2013 00:48:52 GMT; path=/
+Set-Cookie: GlobalSessionID=NESLvIQGhtBpVfp%2BWy5qdkGFw%3D%3D; domain=www.verizonfios.com; expires=Tuesday, 24-Dec-2013 00:48:52 GMT; path=/
+Set-Cookie: HBXInitialVisit=Y; domain=.verizon.com; path=/
+Set-Cookie: ReferenceSessionCookie=09/24/2013 08:48:52 PM; domain=.verizon.com; path=/
+Set-Cookie: ReferenceSessionCookie=09/24/2013 08:48:52 PM; domain=www.verizonfios.com; path=/
+Set-Cookie: NSC_xxx22_tmbti_80_mcw=ffffffff895bc85645525d5f4f58455e445a4a423660;path=/;httponly
+Set-Cookie: ak-sf=false; expires=Wed, 25-Sep-2013 00:53:52 GMT; path=//; domain=verizon.com
+Set-Cookie: AkaUTrackingID=562A06E735E2A06A02693F3A56F605D4; expires=Mon, 28-Sep-2020 00:48:52 GMT; path=/; domain=verizon.com
+Set-Cookie: AkaSTrackingID=9433EC7532C7BA21218FD0064E7DFDE2; path=/; domain=verizon.com
+

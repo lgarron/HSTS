@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:34:31 GMT
+Server: Apache
+pragma: no-cache
+cache-control: no-cache,no-store,must-revalidate
+expires: 0
+Set-Cookie: TAUnique=%1%enc%3AwEcEovk4vluLIKfAuruhomZ%2BOk6pIzmPtXPE1WATopaQZpwqN%2FMzkQ%3D%3D; Domain=.tripadvisor.com; Path=/; Expires=Sat, 23 Sep 2023 01:34:31 GMT; HttpOnly
+Content-Length: 110311
+Vary: Accept-Encoding
+Content-Type: text/html;charset=UTF-8
+

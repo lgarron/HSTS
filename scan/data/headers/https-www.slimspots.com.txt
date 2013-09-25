@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://slimspots.com/
+Connection: close
+Date: Wed, 25 Sep 2013 03:21:41 GMT
+Server: lighttpd/1.4.31
+

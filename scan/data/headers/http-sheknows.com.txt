@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:27:00 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d8dc1ced81993d8212fcb2b841eb9fa211380079620114; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.sheknows.com
+Set-Cookie: __cfduid=d8dc1ced81993d8212fcb2b841eb9fa211380079620114; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.sheknows.com
+Location: http://www.sheknows.com/
+CF-RAY: b349db9bd390129
+

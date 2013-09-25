@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Length: 214821
+Content-Encoding: identity
+Content-Type: text/html; charset=iso-8859-1
+Expires: Wed, 25 Sep 2013 03:23:09 GMT
+Server: Footprint Distributor V4.8
+Vary: Accept-Encoding
+X-AspNet-Version: 2.0.50727
+X-Cache: MISS from accel3.kicker.de,MISS from accel7-2.kicker.de,HIT from accel7-4.kicker.de
+X-NB-AppVersion: 7.20.5010.25680
+X-NB-Info: AVersion: 7.20.5010.25680; BuildTime: 25.09.2013 05:22:01; TimeSpan: 00:00:06.0940877; CacheTime: 62
+X-NB-Powered-By: www50
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:22:09 GMT
+Connection: keep-alive
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.0.11
+Date: Wed, 25 Sep 2013 01:37:10 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: keep-alive
+Location: http://www.novinky.cz/
+

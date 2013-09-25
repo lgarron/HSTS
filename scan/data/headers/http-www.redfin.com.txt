@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-UA-Compatible: IE=8;FF=2;chrome=1
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Expires: Wed, 25 Sep 2013 03:26:04 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 03:26:04 GMT
+Connection: keep-alive
+Set-Cookie: RF_LAST_ACCESS=""; Domain=.redfin.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: RF_AUTH=""; Domain=.redfin.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: RF_ACCESS_LEVEL=""; Domain=.redfin.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: RF_BROWSER_ID=TocYSNk8xULgMiOLTrbdrgYEP0k%3D%3B%3BSjco6LUcq%2FLRkoz9WRso064paBI%3D; Domain=.redfin.com; Expires=Thu, 25-Sep-2014 03:26:03 GMT; Path=/
+Set-Cookie: JSESSIONID=92F7108D094E766A12051673424AFE4D; Path=/; HttpOnly
+

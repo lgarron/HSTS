@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 00:51:32 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Set-Cookie: __cfduid=d1ea82fcada8226a298a645e6e381eea91380070292049; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.4chan.org
+Set-Cookie: __cfduid=d1ea82fcada8226a298a645e6e381eea91380070292049; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.4chan.org
+Location: https://www.4chan.org/
+Cache-Control: max-age=120
+Expires: Wed, 25 Sep 2013 00:53:31 GMT
+CF-RAY: b33b9fd4650012a
+

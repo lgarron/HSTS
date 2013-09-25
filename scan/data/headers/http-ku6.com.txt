@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html; charset=iso-8859-1
+Location: http://www.ku6.com/
+Cache-Control: max-age=120
+Expires: Wed, 25 Sep 2013 01:21:36 GMT
+Vary: Accept-Encoding
+X-Cache-Lookup: HIT from R710-63:8082
+Date: Wed, 25 Sep 2013 01:20:39 GMT
+X-Cache: HIT
+X-Cache-Hits: 18
+

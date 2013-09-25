@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:15:53 GMT
+Server: Apache/2.2.24 (FreeBSD) PHP/5.4.16 mod_ssl/2.2.24 OpenSSL/0.9.8y DAV/2
+X-Powered-By: PHP/5.4.16
+Set-Cookie: PHPSESSID=unvflq4nisgdt960dc39regm24; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: jvzsession=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22fae6b924144d0b9c30cea8c1b23c510e%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22171.65.249.4%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A78%3A%22curl%2F7.24.0+%28x86_64-apple-darwin12.0%29+libcurl%2F7.24.0+OpenSSL%2F0.9.8y+zlib%2F1.2.5%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1380071753%3B%7Deb89dc7df8f8dc0c349028b11d91b900; expires=Wed, 25-Sep-2013 03:15:53 GMT; path=/; domain=.jvzoo.com
+Content-Type: text/html
+

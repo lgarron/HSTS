@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache
+Pragma: no-cache
+Set-Cookie: sessionid=MTkwNzcxMDgyMw%3D%3D; path=/
+Set-Cookie: steamCC_171_65_249_4=US; expires=Wed, 25-Sep-2013 02:09:51 GMT; path=/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:09:51 GMT
+X-Varnish: 1680614781
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

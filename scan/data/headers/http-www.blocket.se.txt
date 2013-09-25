@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:36:46 GMT
+Server: Apache
+Set-Cookie: ab_common=a; domain=.blocket.se; path=/; expires=Fri, 25-Oct-2013 02:36:46 GMT;
+Set-Cookie: btc=171.65.239.131.1380076606615057; path=/; max-age=63072000; domain=.blocket.se
+Vary: Accept-Encoding,User-Agent
+P3P: CP='NOI DSP COR PSAo PSDo'
+Content-Type: text/html; charset=ISO-8859-1
+

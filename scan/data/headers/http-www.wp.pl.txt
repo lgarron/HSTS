@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: aris
+Expires: Wed, 25 Sep 2013 01:19:12 GMT
+Last-Modified: Wed, 25 Sep 2013 01:19:12 GMT
+Pragma: no-cache
+Cache-Control: no-cache
+Content-type: text/html; charset=UTF-8
+Set-Cookie: reksticket=1380071952; expires=Fri, 27-Sep-2013 01:19:12 GMT; path=/; domain=.www.wp.pl
+Set-Cookie: rekticket=1380071952; expires=Fri, 27-Sep-2013 01:19:12 GMT; path=/; domain=.wp.pl
+Set-Cookie: statid=d1081c9d63886812afb24ebfe0df8fca:eeb612:1380071952:v3; path=/; expires=Sat, 24-Sep-16 01:19:12 GMT
+Set-Cookie: statid=d1081c9d63886812afb24ebfe0df8fca:eeb612:1380071952:v3; domain=.wp.pl; path=/; expires=Sat, 24-Sep-16 01:19:12 GMT
+Connection: close
+

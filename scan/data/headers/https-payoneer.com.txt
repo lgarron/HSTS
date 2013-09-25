@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Length: 27853
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Date: Wed, 25 Sep 2013 01:15:47 GMT
+Connection: keep-alive
+Set-Cookie: ASP.NET_SessionId=bnlv2qw3e5pgz1te14t54cwe; domain=.payoneer.com; path=/; HttpOnly
+X-Cdn: Served-By-Akamai
+

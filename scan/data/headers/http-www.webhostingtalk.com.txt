@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Pragma: private
+X-UA-Compatible: IE=7
+Vary: Accept-Encoding
+Content-Type: text/html; charset=ISO-8859-1
+Server: Varnish
+Content-Length: 151320
+Date: Wed, 25 Sep 2013 01:24:49 GMT
+X-Varnish: 823326430 823324904
+Age: 90
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT
+X-Cache-Hits: 12
+

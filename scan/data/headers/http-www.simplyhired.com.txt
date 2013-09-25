@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:36:01 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Keep-Alive: timeout=20
+Set-Cookie: gc=1; expires=Thu, 26-Sep-2013 03:36:02 GMT; path=/
+Set-Cookie: sess=ct%3D52425a22; path=/; domain=.simplyhired.com
+Set-Cookie: sh3=id%3D202146088352425a22505ea0.91348675%3Brv%3D172a4ca5%3Bcv%3D2; expires=Fri, 26-Sep-2014 03:36:02 GMT; path=/; domain=.simplyhired.com
+Set-Cookie: sh2=cso%3D52425a22%3Bslu%3D0%3Bref%3Dsh; expires=Fri, 26-Sep-2014 03:36:02 GMT; path=/; domain=.simplyhired.com
+Set-Cookie: shup=fvt%3D52425a22; expires=Fri, 25-Oct-2013 03:36:02 GMT; path=/
+Set-Cookie: sh_uid=id%3A198483534352425a224c9235.02073700; expires=Mon, 24-Sep-2018 03:36:02 GMT; path=/
+Set-Cookie: sh_sess=id%3A1380080162%2Csrc%3Adirect%2Cnu%3A1; expires=Wed, 25-Sep-2013 04:06:02 GMT; path=/
+Cache-Control: no-cache, must-revalidate
+P3P: CP="CAO DSP COR CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
+

@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 02:37:47 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: lang=EN; expires=Fri, 25-Oct-2013 02:37:47 GMT; path=/; domain=.lollipop-network.com
+Set-Cookie: lang=EN; expires=Fri, 25-Oct-2013 02:37:47 GMT; path=/; domain=.lollipop-network.com
+

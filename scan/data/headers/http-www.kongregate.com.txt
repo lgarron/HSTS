@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:21:28 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 191038
+Connection: close
+Status: 200 OK
+P3P: CP="ALL ADM DEV PSAi COM OUR OTRo STP IND ONL"
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "b6da73627c996d2670c1e2de6691728f"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: kong_svid=21dd7ce7-6c21-48e0-b85d-b90bd99af19b; path=/; expires=Sun, 25-Sep-2033 03:21:28 GMT
+Set-Cookie: tmp_visit_data=%7B%22landing_url%22%3A%22%2F%22%7D; path=/
+Set-Cookie: _kongregate_session=BAh7CkkiD3Nlc3Npb25faWQGOgZFRkkiJTU4YTllOWUxZjczOTc3ODM2M2E4MzYxOTA4NDdlYWI3BjsAVEkiCWluaXQGOwBGVEkiD3RyYW5zbGF0b3IGOwBGRkkiC2xvY2FsZQY7AEZJIgplbi1VUwY7AFRJIhBfY3NyZl90b2tlbgY7AEZJIjFleDJ4UTZmUldZbU90L3dyR3o5RHI1OU95R1d1d20wdjZLaFhpN3Q2YWZzPQY7AEY%3D--2770cd63ad57d05b30039e18f5413797b3eb702d; path=/; HttpOnly
+Set-Cookie: kong_user_data=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+X-Runtime: 0.059459
+

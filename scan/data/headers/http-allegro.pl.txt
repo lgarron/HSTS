@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+cache-control: private
+vary: X-InternalIP
+X-Backend: cn_1_168
+Date: Wed, 25 Sep 2013 00:43:59 GMT
+Age: 175
+Connection: keep-alive
+X-Hit: HIT 290
+X-Origin: s10753
+X-Frame-Options: SAMEORIGIN
+

@@ -1,0 +1,12 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private
+Pragma: no-cache
+P3P: CP="ALL DSP COR LAW CURa ADMa DEVa TAIa OUR BUS IND ONL UNI COM NAV DEM CNT"
+Location: http://www.chess.com/
+Date: Wed, 25 Sep 2013 03:23:37 GMT
+Connection: keep-alive
+Set-Cookie: PHPSESSID=2e5rckkg3demosk5nh3sfok0k0; path=/; domain=.chess.com; HttpOnly
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.3 (Red Hat)
+X-Served-By: n7-z01-0a2a10a6
+X-Powered-By: PHP/5.3.3
+X-Drupal-Cache: HIT
+Etag: "1380068286-0"
+Content-Language: en
+Link: <http://go.com/>; rel="shortlink",<http://go.com/>; rel="canonical"
+Cache-Control: public, max-age=3600
+Last-Modified: Wed, 25 Sep 2013 00:18:06 +0000
+Vary: Cookie,Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 00:40:05 GMT
+X-Varnish: 782558154 782490111
+Age: 1205
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Cache: HIT
+

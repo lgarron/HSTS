@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 150
+Content-Type: text/html; charset=UTF-8
+Location: https://secure.logmein.com/
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 00:54:20 GMT
+

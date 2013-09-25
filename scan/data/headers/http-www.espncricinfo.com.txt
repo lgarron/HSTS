@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Apache
+Cache-Control: public, max-age=60
+EMEA-Info: wci062  0.798
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 604454049 604444915
+X-Varnish-Cache: HIT
+X-Varnish-Hits: 737
+X-Varnish: 1693255546
+Date: Wed, 25 Sep 2013 00:44:54 GMT
+Connection: keep-alive
+

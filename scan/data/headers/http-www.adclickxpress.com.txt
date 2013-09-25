@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: BlockDOS
+Date: Tue, 24 Sep 2013 14:14:45 GMT
+Content-Type: text/html
+Connection: keep-alive
+X-Powered-By: PHP/5.4.16
+Set-Cookie: adclickxpress=m6mbdt4vtnaibkit9h8533kdt2; path=/; domain=.adclickxpress.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 02:07:36 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Pragma: no-cache
+Server: nginx
+Set-Cookie: tw_ses=sa9ver3jdtrpmid6hgo1ooi0a5; path=/; domain=.twoo.com
+Set-Cookie: tw_c=cookie_store524245689e8dd2.81935799736e4487528ea687ed6aad9a80ec69c8; expires=Wed, 23-Sep-2020 02:07:36 GMT; path=/; domain=.twoo.com
+Vary: Accept-Encoding
+Connection: close
+

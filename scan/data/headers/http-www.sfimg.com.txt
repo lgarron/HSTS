@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:20:55 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=lndnvh8k762bkevnshsumujgk4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: https://www.sfimg.com/
+Connection: close
+Content-Type: text/html; charset=utf-8
+

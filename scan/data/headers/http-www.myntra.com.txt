@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: MDP
+Date: Wed, 25 Sep 2013 01:34:40 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 25 Sep 2013 01:34:40 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: xid=04528c03e9ff216f843f0bf452b680cb; expires=Wed, 25-Sep-2013 01:44:40 GMT; path=/; domain=.myntra.com; httponly
+Set-Cookie: utm_track_1=a%3A4%3A%7Bs%3A10%3A%22utm_source%22%3Bs%3A6%3A%22direct%22%3Bs%3A10%3A%22utm_medium%22%3Bs%3A6%3A%22direct%22%3Bs%3A10%3A%22trackstart%22%3Bi%3A1380072880%3Bs%3A8%3A%22trackend%22%3Bi%3A1382664880%3B%7D; expires=Fri, 25-Oct-2013 01:34:40 GMT; path=/; domain=.myntra.com
+Set-Cookie: mab=productui%7C74%7C%7Cloginpopup%7C60%7C%7Ctelesales%7C11%7C%7Csplash%7C48%7C%7Cloginbox%7C13%7C%7CboostedSearch%7C94%7C%7CnewVsOld%7Cnew%3A28%7C%7CSocialShare%7C47%7C%7CLoginSplash%7C76%7C%7CColourSelect%7C97%7C%7CpayZipOrders%7C28%7C%7CHoverZoom%7C20%7C%7ChomeMostPopularWidget%7C46%7C%7CpayUserCloseOpt%7C58%7C%7CNewLayout%7C6%7C%7CstickySize%7C44%7C%7CsecureSignin%7C12%7C%7CnewSignupAB%7C15%7C%7CpaymentServiceEnabledAB%7C15%7C%7Ccheckout%7C41%7C%7CcouponAutoApplyTest%7C26%7C%7CSearchOptim%7C61%7C%7CloginSignupABTest%7C36%7C%7CWebEngageFeedback%7C84%7C%7CWebEngageNotifications%7C28%7C%7CLocationBreadcrumbABTest%7C86%7C%7Ccart_serialization_format%7C7%7C%7CstyleRevenueAdjusted5%7C94%7C%7ClocationBasedBanner%7C5%7C%7Corderplacement%7C38%7C%7Cnudge%7C3%7C%7CnudgeShow%7C79%7C%7CregV2%7C97%7C%7CregV2PhoneRequired%7C13%7C%7Cpdpv1%7C27%7C%7CnjswHP%7C10%7C%7CshowMyntraRecommendations%7C6; expires=Thu, 25-Sep-2014 01:34:40 GMT; path=/; domain=.myntra.com; httponly
+Set-Cookie: rem_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.myntra.com; httponly
+Set-Cookie: xidC_remember=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.myntra.com
+Set-Cookie: utrid=Alh4FkZPaBtdZ2sNSgJAMCMzNzQ4MTI3MTA%3D; expires=Mon, 24-Mar-2014 01:34:40 GMT; path=/; domain=.myntra.com; httponly
+Set-Cookie: lt_timeout=1; expires=Wed, 25-Sep-2013 02:04:40 GMT; path=/; domain=.myntra.com
+Set-Cookie: lt_session=1; path=/; domain=.myntra.com
+Set-Cookie: microsessid=648; expires=Wed, 25-Sep-2013 02:04:40 GMT; path=/; domain=.myntra.com
+

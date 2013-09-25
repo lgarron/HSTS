@@ -1,0 +1,15 @@
+HTTP/1.1 302 FOUND
+Server: nginx
+Date: Wed, 25 Sep 2013 00:54:20 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+set-cookie: bang=; Domain=dropbox.com; expires=Wed, 25 Sep 2013 00:54:20 GMT; Path=/; httponly
+set-cookie: flash=; Domain=dropbox.com; expires=Wed, 25 Sep 2013 00:54:20 GMT; Path=/; httponly
+location: https://www.dropbox.com/
+pragma: no-cache
+cache-control: no-cache
+x-dropbox-http-protocol: None
+x-frame-options: SAMEORIGIN
+x-dropbox-request-id: 0547b452b07750d1a48df0d0a02efbce
+X-RequestId: cf73ac51d4066ebdfc825e85226267c7
+

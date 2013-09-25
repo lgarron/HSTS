@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:35:57 GMT
+Server: Apache
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Cache-Control: no-cache, no-store, must-revalidate
+Expires: Tue, 20 Aug 1996 14:25:27 GMT
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=tubXqNJALyKGxgClr_sfu; path=/; HttpOnly
+Content-Type: text/html; charset=UTF-8
+Link: </labels.rdf>; /="/"; rel="meta" type="application/rdf+xml"; title="ICRA labels";
+Connection: close
+

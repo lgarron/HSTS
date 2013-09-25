@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.marriott.com/default.mi
+Date: Wed, 25 Sep 2013 02:35:58 GMT
+Connection: keep-alive
+

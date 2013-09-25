@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.14 (Ubuntu)
+Location: http://www.zeit.de/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 03:31:42 GMT
+X-Varnish: 2536499818 2536493252
+Age: 57
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT
+

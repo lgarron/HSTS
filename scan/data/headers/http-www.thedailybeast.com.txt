@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Age: 111
+Cache-Control: max-age=120
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:24:11 GMT
+ETag: "70b73b-13833-4e72cc108cf80"
+Expires: Wed, 25 Sep 2013 03:24:20 GMT
+Last-Modified: Wed, 25 Sep 2013 03:21:50 GMT
+Server: Apache
+Vary: User-Agent,Accept-Encoding
+Via: 1.1 varnish
+X-BackEnd: default
+X-Cache: HIT
+X-Cache-Hits: 81
+X-Cacheable: YES
+X-Restarts: 0
+X-UA-Device: pc
+X-Varnish: 947649449 947637895
+Connection: keep-alive
+

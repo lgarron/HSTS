@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Apache/2.2.22
+Date: Wed, 25 Sep 2013 03:21:09 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 162532
+Connection: keep-alive
+Vary: Accept-Encoding
+Apache/2.2.22: 
+Cache-Control: public, max-age=180
+Last-Modified: Wed, 25 Sep 2013 03:20:24 +0000
+Expires: Sun, 11 Mar 1984 12:00:00 GMT
+Vary: Cookie
+ETag: "1380079224"
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+X-Cache: HIT
+

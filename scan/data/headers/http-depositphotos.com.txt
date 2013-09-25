@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Wed, 25 Sep 2013 02:35:12 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+X-Powered-By: PHP/5.4.19
+Set-Cookie: lang=en; expires=Tue, 24-Dec-2013 02:35:12 GMT; path=/; domain=.depositphotos.com
+Set-Cookie: 10_search_lang=en; expires=Fri, 02-Jan-1970 00:00:00 GMT; path=/; domain=.depositphotos.com
+

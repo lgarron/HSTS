@@ -1,0 +1,7 @@
+HTTP/1.1 501 Method Not Implemented
+Allow: GET
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 00:54:28 GMT
+Age: 0
+Connection: close
+

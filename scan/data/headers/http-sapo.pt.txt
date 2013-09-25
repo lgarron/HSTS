@@ -1,0 +1,5 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.sapo.pt/
+Date: Wed, 25 Sep 2013 00:45:06 GMT
+Server: SAPOttpd/1.0
+

@@ -1,0 +1,5 @@
+HTTP/1.0 302 Found
+Location: http://jugem.jp/
+Content-Type: text/html
+Content-Length: 150
+

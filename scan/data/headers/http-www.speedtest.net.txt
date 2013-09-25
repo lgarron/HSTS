@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: private, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 01:16:05 GMT
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 25 Sep 2013 01:16:05 GMT
+P3P: CP="NOI DSP COR NID TAIo OUR IND UNI PRE"
+Pragma: no-cache
+Server: Apache/2.2.16 (Debian)
+Set-Cookie: stnetsid=f397hrpt1f490a0a4hs8sbcfc7; expires=Thu, 25-Sep-2014 01:16:05 GMT; path=/; domain=.speedtest.net
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.18-1~dotdeb.0
+Connection: close
+

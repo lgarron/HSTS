@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 00:44:18 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d71be12c71a250f187a602f666ef29c171380069858568; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.imgur.com
+Set-Cookie: __cfduid=d71be12c71a250f187a602f666ef29c171380069858568; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.imgur.com
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate
+X-Imgur-Cached: 0
+CF-RAY: b33af680b870669
+

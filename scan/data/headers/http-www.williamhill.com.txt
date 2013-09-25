@@ -1,0 +1,13 @@
+HTTP/1.0 200 OK
+Date: Wed, 25 Sep 2013 02:44:19 GMT
+Server: Apache
+Cache-Control: max-age=3600
+Expires: Wed, 25 Sep 2013 03:44:19 GMT
+SVRID: gibux116
+Content-Type: text/html; charset=UTF-8
+Age: 2506
+Content-Length: 43931
+X-Cache: HIT from gibux112.live.williamhill.com
+X-Cache-Lookup: HIT from gibux112.live.williamhill.com:80
+Connection: close
+

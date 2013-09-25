@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:20:28 GMT
+Content-Type: text/html
+Last-Modified: Wed, 25 Sep 2013 01:19:05 GMT
+ETag: "101fe5-469c7-4e72b0a0bd440"
+Cache-Control: max-age=61
+Expires: Wed, 25 Sep 2013 01:20:58 GMT
+P3P: CP="Telegraaf Media Groep does not have a P3P policy. Learn why here: http://corporate.tmg.nl/nl/faq-cookies"
+X-Cacheable: Yes:
+X-Varnish: 1345700354 1345695634
+Age: 31
+Via: 1.1 varnish
+X-Served-By: rammstein
+X-Cache: HIT
+Vary: Accept-Encoding
+X-Compressor: rammstein
+

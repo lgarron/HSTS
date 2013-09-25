@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/0.8.55
+Date: Wed, 25 Sep 2013 03:21:34 GMT
+Content-Type: image/gif
+Content-Length: 43
+Connection: keep-alive
+Expires: Wed, 25 Sep 2013 03:21:33 GMT
+Cache-Control: no-cache
+Last-Modified: Wed, 25 Sep 2013 03:21:33 GMT
+

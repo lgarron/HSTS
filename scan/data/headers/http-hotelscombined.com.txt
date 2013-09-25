@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Location: http://www.hotelscombined.com/
+P3P: CP="NOI DEVa TAIa OUR BUS UNI"
+Date: Wed, 25 Sep 2013 03:31:52 GMT
+Set-Cookie: dcid=dal01; path=/
+Set-Cookie: Tests=BBsbBUVgIEvAXvagoQyCdcAM27rE0qO%2bUna9TUqLy6B9UrEbwB7AbXFOnLBq%2beU1Qj5FpidtWhGPTMvE2bzO0g%2c00001BD1; expires=Thu, 25-Sep-2014 03:31:53 GMT; path=/
+Content-Length: 0
+Connection: Keep-alive
+

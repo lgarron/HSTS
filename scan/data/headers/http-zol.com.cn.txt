@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.0.14
+Date: Wed, 25 Sep 2013 01:23:21 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Location: http://www.zol.com.cn/
+Cache-Control: max-age=120
+Expires: Wed, 25 Sep 2013 01:23:49 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 191
+Age: 92
+Via: http/1.1 zats-101518467 (zcache-101518467 [cRs f ])
+

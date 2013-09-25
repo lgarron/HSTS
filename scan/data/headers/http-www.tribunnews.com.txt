@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:09:03 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Keep-Alive: timeout=5
+X-Powered-By: PHP/5.3.8
+Set-Cookie: ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22c45eee3c3d321ff46c5598b81038aaf2%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22128.12.244.4%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A78%3A%22curl%2F7.24.0+%28x86_64-apple-darwin12.0%29+libcurl%2F7.24.0+OpenSSL%2F0.9.8y+zlib%2F1.2.5%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1380079305%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7Da413a219f11b85c6b81e666ec3e9e54c; expires=Wed, 25-Sep-2013 15:21:45 GMT; path=/; domain=.tribunnews.com
+cache-control: must-revalidate
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: halbcookie=out3; path=/
+Cache-control: private
+

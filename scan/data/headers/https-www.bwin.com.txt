@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 29185
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASP.NET_SessionId=yhrlrpglb0sljtcxwmpa0w0l; domain=.bwin.com; path=/; HttpOnly
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: ASP.NET_SessionId=yhrlrpglb0sljtcxwmpa0w0l; domain=.bwin.com; path=/; HttpOnly
+Set-Cookie: ComeFromProduct=SPORTSBOOK; path=/
+Set-Cookie: PageBackground=; domain=.bwin.com; expires=Tue, 24-Sep-2013 02:35:33 GMT; path=/; HttpOnly
+Set-Cookie: __RequestVerificationToken=S0fNFGG-huLR-AgZuwtPzNXmm9UYiDFcJXkCgrVGXIsPb2ALEopJKZBYJf5cIOXTLoUfeg2; path=/; HttpOnly
+Set-Cookie: usersettings=cid=en-US&fv=false&ns=false&s=2; domain=.bwin.com; expires=Sat, 23-Sep-2023 02:35:33 GMT; path=/; HttpOnly
+X-UA-Compatible: IE=edge
+Date: Wed, 25 Sep 2013 02:35:33 GMT
+

@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: Apache
+P3P: policyref="http://www.olx.com/w3c/p3p.xml", CP="NON DSP COR CURa"
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 03:30:40 GMT
+Connection: keep-alive
+Cache-Control: no-cache=Set-Cookie,max-age=43200,s-maxage=43200
+

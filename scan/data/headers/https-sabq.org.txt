@@ -1,0 +1,12 @@
+HTTP/1.1 520 Origin Error
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 02:36:12 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d3d9b47cb82f5d8f9ea5ab8df1a23e7f41380076571968; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.sabq.org
+Set-Cookie: __cfduid=d3d9b47cb82f5d8f9ea5ab8df1a23e7f41380076571968; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.sabq.org
+Expires: Thu, 01 Jan 1970 00:00:01 GM
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+CF-RAY: b34534ecd91012a
+

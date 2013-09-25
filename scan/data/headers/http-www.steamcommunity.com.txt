@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://steamcommunity.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+X-Pad: avoid browser bug
+Date: Wed, 25 Sep 2013 01:09:51 GMT
+X-Varnish: 1680615048 1680474714
+Age: 83
+Via: 1.1 varnish
+Connection: keep-alive
+

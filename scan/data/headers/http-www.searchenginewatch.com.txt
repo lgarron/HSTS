@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:21:52 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=d625dfb00dfc0343e7c59db478f9b67f61380079311854; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.searchenginewatch.com
+Set-Cookie: __cfduid=d625dfb00dfc0343e7c59db478f9b67f61380079311854; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.searchenginewatch.com
+X-Powered-By: PHP/5.3.10-1ubuntu3.7
+Location: http://searchenginewatch.com/
+Vary: Accept-Encoding
+CF-RAY: b34963312cf012c
+

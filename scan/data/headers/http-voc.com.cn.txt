@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Server: VocServer
+Date: Wed, 25 Sep 2013 01:25:42 GMT
+Content-Type: text/html
+Content-Length: 182
+Connection: keep-alive
+Keep-Alive: timeout=10
+Location: http://www.voc.com.cn/
+

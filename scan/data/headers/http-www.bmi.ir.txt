@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Connection: close
+Date: Wed, 25 Sep 2013 03:30:31 GMT
+Location: /?AspxAutoDetectCookieSupport=1
+Content-Type: text/html
+Cache-Control: private
+X-AspNet-Version: 4.0.30319
+X-Powered-By: UrlRewriter.NET 2.0.0
+Set-Cookie: AspxAutoDetectCookieSupport=1; path=/
+X-Powered-By: ASP.NET
+

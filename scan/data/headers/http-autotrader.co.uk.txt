@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:35:35 GMT
+Server: Apache
+Set-Cookie: amfID=generic_curl_based_crawler; path=/;
+Set-Cookie: bucket=desktop; Domain=.autotrader.co.uk; path=/;
+Location: http://www.autotrader.co.uk/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

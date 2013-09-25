@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Length: 125
+Expires: -1
+Location: https://
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:32:01 GMT
+

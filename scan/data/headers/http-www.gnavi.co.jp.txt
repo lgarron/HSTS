@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:36:51 GMT
+Server: Apache
+Set-Cookie: GU=53efecc9d5139889e64cf69b1c21d646; path=/; domain=.gnavi.co.jp; expires=Tue, 24 Dec 2013 03:36:51 GMT
+Content-Type: text/html
+

@@ -1,0 +1,10 @@
+HTTP/1.0 200 OK
+Date: Wed, 25 Sep 2013 03:36:59 GMT
+Server: 
+Set-Cookie: LOGIN_LEVEL=""; Path=/
+Set-Cookie: ID_CK=""; Path=/
+Content-Length: 97895
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html;charset=UTF-8
+Connection: close
+

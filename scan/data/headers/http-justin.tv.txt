@@ -1,0 +1,10 @@
+HTTP/1.1 302 FOUND
+Server: nginx
+Date: Wed, 25 Sep 2013 03:22:57 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Language, Cookie
+Location: http://www.justin.tv/
+Content-Language: en
+Cache-Control: no-cache, no-store, private
+

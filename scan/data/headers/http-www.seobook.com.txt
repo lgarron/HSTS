@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.3 (Red Hat)
+X-Powered-By: PHP/5.2.17
+X-Drupal-Cache: HIT
+Etag: "1380077635-0"
+Content-Language: en_US
+Link: </node/4686>; rel="shortlink",</test-homepage>; rel="canonical"
+X-Generator: Drupal 7 (http://drupal.org)
+Cache-Control: public, max-age=0
+Last-Modified: Wed, 25 Sep 2013 02:53:55 +0000
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:26:06 GMT
+X-Varnish: 1992209033
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

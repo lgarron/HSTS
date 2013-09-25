@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.n-tv.de/
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 03:39:27 GMT
+Connection: keep-alive
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-store, no-cache, must-revalidate
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+

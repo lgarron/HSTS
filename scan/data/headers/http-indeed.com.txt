@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:21:40 GMT
+Server: Apache
+Location: http://www.indeed.com/
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: NSC_kpctfbsdi_tkd=ffffffff6fa0f0d445525d5f4f58455e445a4a423660;expires=Wed, 25-Sep-2013 02:21:40 GMT;path=/;httponly
+

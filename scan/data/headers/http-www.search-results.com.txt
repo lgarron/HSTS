@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-XSS-protection: 0
+Content-Language: en-US
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 25 Sep 2013 02:02:18 GMT
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: def-accepting=1; Domain=.www.search-results.com; Expires=Thu, 25-Sep-2014 02:02:18 GMT; Path=/
+Set-Cookie: def-ulsid=50d0a738-df7f-49b9-980a-e74a28d61143; Domain=.www.search-results.com; Path=/
+Set-Cookie: def-sh=""; Domain=.www.search-results.com; Expires=Wed, 26-Mar-2014 14:02:18 GMT; Path=/
+

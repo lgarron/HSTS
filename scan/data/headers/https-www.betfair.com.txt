@@ -1,0 +1,10 @@
+HTTP/1.1 302 Redirect
+Date: Wed, 25 Sep 2013 03:24:00 GMT
+nnCoection: close
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Location: http://www.betfairnj.com/
+Set-Cookie: vid=3660a993-4323-4142-bffd-d1f6fa8e3bb2; Domain=.betfair.com; Expires=Mon, 01-Dec-2022 09:00:00 GMT; Path=/
+Content-Length: 215
+

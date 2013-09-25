@@ -1,0 +1,16 @@
+HTTP/1.1 404 Not Found
+Server: Microsoft-IIS/5.0
+Date: Wed, 25 Sep 2013 04:34:25 GMT
+X-Powered-By: ASP.NET
+Content-Length: 3360
+Content-Type: text/html
+Set-Cookie: SID=c3ef0dc0%2D365f%2Dd1ea%2Dcc9c%2D615dc3c8e8b0; expires=Tue, 25-Sep-2018 04:34:24 GMT; domain=.fnac.com; path=/
+Set-Cookie: UID=0fb31b1fe%2D4cd7%2Dc5bc%2D423c%2D808831be4789; expires=Tue, 25-Sep-2018 04:34:24 GMT; domain=.fnac.com; path=/
+Set-Cookie: SITESERVER=; expires=Thu, 25-Sep-2008 04:34:24 GMT; domain=.fnac.com; path=/
+Set-Cookie: accept=ok; expires=Tue, 25-Sep-2018 04:34:24 GMT; domain=.fnac.com; path=/
+Set-Cookie: OrderInSession=0; domain=.fnac.com; path=/
+Set-Cookie: ORGN=FnacAff; expires=Tue, 25-Sep-2018 04:34:24 GMT; domain=.fnac.com; path=/
+Set-Cookie: TEST=ok; expires=Tue, 25-Sep-2018 04:34:24 GMT; domain=.fnac.com; path=/
+Set-Cookie: TTL=260920130634; expires=Tue, 25-Sep-2018 04:34:24 GMT; domain=.fnac.com; path=/
+Cache-control: private
+

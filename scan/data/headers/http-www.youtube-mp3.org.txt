@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache
+Set-Cookie: ux=3bf6fa63-2582-11e3-b5e2-ab7407c80c39|0|0|1380072703|1380504703|bbb379b8dffd46263abd2b1d3527987c; expires=Thu, 25-Sep-2014 01:31:43 PST
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Content-Length: 0
+Date: Wed, 25 Sep 2013 01:31:43 GMT
+Server: Google Frontend
+Alternate-Protocol: 80:quic,80:quic
+

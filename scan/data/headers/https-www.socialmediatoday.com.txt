@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: max-age=1209600
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 03:38:19 GMT
+Expires: Wed, 09 Oct 2013 03:38:19 GMT
+Location: http://socialmediatoday.com/
+Server: nginx
+Vary: Accept-Encoding
+Connection: keep-alive
+

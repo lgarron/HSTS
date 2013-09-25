@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+p3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Access-Control-Allow-Origin: *
+X-AspNetMvc-Version: 3.0
+DeepLinkUri: featured/
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 122697
+Date: Wed, 25 Sep 2013 02:36:01 GMT
+X-Varnish: 1162772172 1162753367
+Age: 133
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Host: varnish02
+X-Client-IP: 171.65.239.131
+X-Country: US
+

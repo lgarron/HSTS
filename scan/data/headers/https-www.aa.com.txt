@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache-Coyote/1.1
+X-dynaTrace-JS-Agent: true
+Location: /homePage.do
+Content-Type: text/html;charset=ISO-8859-1
+Content-Encoding: gzip
+Content-Length: 21
+Date: Wed, 25 Sep 2013 03:24:25 GMT
+Connection: keep-alive
+Set-Cookie: v1st=51410432A2DE06A4; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.aa.com
+Set-Cookie: JSESSIONID=CDE140F6693B69B8B56A9D5CC2F90052; Path=/; HttpOnly
+Set-Cookie: dtCookie=BDC31A4787486C2B062B1602A65149AB|AA.com|1; Path=/; Domain=.aa.com
+Set-Cookie: ROUTEID=.P111B03; path=/
+

@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 01:33:19 GMT
+Content-Type: text/html; charset: utf-8
+Connection: keep-alive
+Location: https://www.plugrush.com/
+Cache-Control: must-revalidate
+Expires: Sun, 10 Dec 1995 16:39:39 GMT
+Set-Cookie: pr=nm2c9mcctt4l5b5hp4bjiuals4; expires=Sat, 25-Sep-2038 07:33:19 GMT; path=/; domain=.plugrush.com
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+

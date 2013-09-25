@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 01:31:43 GMT
+Location: https://signup.netflix.com
+Vary: Accept-Encoding
+X-Netflix-nfzuul-instance: i-61973855
+X-Netflix-Zuul: zuul
+X-Netflix.client.instance: i-2bbe0744
+X-Originating-URL: http://www.netflix.com/
+X-Pad: avoid browser bug
+Connection: keep-alive
+

@@ -1,0 +1,13 @@
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:30:34 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: http://www.peopleperhour.com/
+Pragma: no-cache
+Server: nginx/1.4.1
+Set-Cookie: PHPSESSID=58bhvf0g8o9b1cpi9er0v37vo6; path=/; HttpOnly
+Set-Cookie: mid=1380079834081359800763291; expires=Mon, 04-Mar-2030 03:30:34 GMT; path=/
+Set-Cookie: YII_CSRF_TOKEN=c954472ad26eedb71aa3c8e692cd0a448e09578e; path=/
+Connection: keep-alive
+

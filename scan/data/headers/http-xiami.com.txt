@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Wed, 25 Sep 2013 02:36:07 GMT
+Content-Type: text/html
+Content-Length: 280
+Connection: keep-alive
+Location: http://www.xiami.com/
+Cache-Control: must-revalidate
+Pragma: no-cache
+

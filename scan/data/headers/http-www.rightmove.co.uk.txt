@@ -1,0 +1,17 @@
+HTTP/1.1 405 Method Not Allowed
+Date: Wed, 25 Sep 2013 01:15:46 GMT
+Set-Cookie: JSESSIONID=62F26CF702DAEFD8E3758DDFCC2068B1; Path=/; HttpOnly
+Set-Cookie: svr=1715; Domain=.rightmove.co.uk; Expires=Wed, 25-Sep-2013 09:15:46 GMT; Path=/
+Set-Cookie: permuserid=130925BOAFYKGUN6LP66P3IMJVDWIZP7; Domain=.rightmove.co.uk; Expires=Thu, 25-Sep-2014 01:15:46 GMT; Path=/
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Set-Cookie: cks_policy=TT; Domain=.rightmove.co.uk; Expires=Thu, 25-Sep-2014 01:15:46 GMT; Path=/
+Allow: GET
+Content-Length: 1085
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html;charset=utf-8
+Set-Cookie: TS9c0ed0=a09d80c1330df336442e32436ffbabfde41123a7c528a1fd5242394260ac0ec50e715858; Path=/
+Set-Cookie: TSec61d1=326b45bdfa828a05f6a82246661aa535e41123a7c528a1fd52423942a08c2c964aeb830737ada83fd81e74e8182b4a37c725ac6a; path=/; domain=.rightmove.co.uk
+

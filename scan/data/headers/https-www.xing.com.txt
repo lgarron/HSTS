@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache
+Cache-Control: private
+Pragma: no-cache
+Expires: Now
+X-LogJam-Request-Id: perlapp-production-37d7187a257c11e38a7a586ddb78c492
+X-Runtime: 0.030706
+Content-Type: text/html; charset=UTF-8
+X-UA-Compatible: IE=edge
+X-XSS-Protection: 1; mode=block
+Date: Wed, 25 Sep 2013 00:48:39 GMT
+Connection: keep-alive
+Set-Cookie: xing=|U2FsdGVkX19P85G9M3Dg_jxznhBM_S7eDBO3npn70mUmgdRbEEnRUOf_o8lS3Iuh|; path=/; HttpOnly
+Set-Cookie: c_=0x37D78EA4257C11E3AFFC586DDB78C492; path=/; expires=Tue Sep 20 02:48:39 2033; HttpOnly
+Set-Cookie: dtCookie=|XING|0; Path=/; Domain=.xing.com
+

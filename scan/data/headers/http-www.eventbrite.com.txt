@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:31:40 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Cookie, Accept-Encoding
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Set-Cookie: SP=AGQgbbl5yuWkZUXUj_pxe-u4RfdVcvknd8KIz0D8Kui-SwNKgRhq1KnYYCPgA1D4FTg5-RBpMytDxn4WYezCVWGgNjq-ugWWQJmxQuylnRZ9ZiEfkMmZ1vOaAtzk2ujIfh2vavPXVmfm0pVRNXo5Zxeeaq91GEu1TUj0B7_gIzzWwgvMLdsfTWuAfIFtNuke1VuRK3kQx5KaxLgMpF5aUgxFLYLR2rG6SqWECJydi-3iokOhJ5KXyAI; Domain=.eventbrite.com; httponly; Path=/
+Set-Cookie: G=v%3D1%26i%3D7d324804-86c6-4628-bac5-7919001d49f9%26a%3D36d%26s%3DAPDvTK49sTbE8sCgf01GwkWYGBnN3WUnxg; Domain=.eventbrite.com; expires=Thu, 25-Sep-2014 01:31:40 GMT; httponly; Path=/
+Set-Cookie: SS=AE3DLHSXgMRLDGKUwRTTo-ILtchH9ptilg; Domain=.eventbrite.com; httponly; Path=/; secure
+Set-Cookie: eblang=lo%3Den_US%26la%3Den-us; Domain=.eventbrite.com; expires=Thu, 25-Sep-2014 01:31:40 GMT; httponly; Path=/
+Set-Cookie: mgrefby=; Domain=.eventbrite.com; expires=Thu, 25-Sep-2014 01:31:40 GMT; httponly; Max-Age=31536000; Path=/
+Set-Cookie: csrftoken=1Qaq3BhUd0bC5Mj98C29DAlLWMF4LPcl; Domain=.eventbrite.com; expires=Wed, 24-Sep-2014 01:31:40 GMT; Max-Age=31449600; Path=/
+Set-Cookie: mgref=typeins; Domain=.eventbrite.com; expires=Thu, 25-Sep-2014 01:31:40 GMT; httponly; Max-Age=31536000; Path=/
+Set-Cookie: SERVERID=djc6; path=/
+Cache-control: private
+

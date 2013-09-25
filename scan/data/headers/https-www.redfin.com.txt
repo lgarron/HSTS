@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.redfin.com/
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 0
+Cache-Control: max-age=0
+Expires: Wed, 25 Sep 2013 03:26:04 GMT
+Date: Wed, 25 Sep 2013 03:26:04 GMT
+Connection: keep-alive
+

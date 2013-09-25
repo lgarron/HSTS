@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx/1.0.14
+Date: Wed, 25 Sep 2013 03:29:01 GMT
+Content-Type: text/html
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: starbaby_ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22e16f99044cb207d70445770837dc01fa%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22128.12.244.4%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A78%3A%22curl%2F7.24.0+%28x86_64-apple-darwin12.0%29+libcurl%2F7.24.0+OpenSSL%2F0.9.8y+zlib%2F1.2.5%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1380079741%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D559d918603adddd13b3b39fd8dcef063; expires=Wed, 25-Sep-2013 05:29:01 GMT; path=/; domain=.starbaby.cn
+Set-Cookie: starbaby_6b33_visitor_from=0%09www.starbaby.cn; expires=Thu, 26-Sep-2013 03:29:01 GMT; path=/; domain=.starbaby.cn
+Set-Cookie: starbaby_6b33_browse_count=1; expires=Wed, 25-Sep-2013 07:29:01 GMT; path=/; domain=.starbaby.cn
+Set-Cookie: starbaby_6b33_browse_count=1; expires=Wed, 25-Sep-2013 07:29:01 GMT; path=/; domain=.starbaby.cn
+

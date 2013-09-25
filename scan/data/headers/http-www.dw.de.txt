@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-UA-Compatible: IE=EmulateIE8; IE=EmulateIE9
+Content-Type: text/html;charset=UTF-8
+X-Varnish: 1372485931 1372478663
+Cache-Control: max-age=1
+Date: Wed, 25 Sep 2013 03:21:39 GMT
+Connection: keep-alive
+

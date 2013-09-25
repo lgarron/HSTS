@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Cache-Control: public, s-maxage=300, max-age=120
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 03:22:29 GMT
+Etag: "1380079154-0"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 25 Sep 2013 03:19:14 +0000
+Link: <http://www.billboard.com/>; rel="shortlink",<http://www.billboard.com/>; rel="canonical"
+Server: ECS (cpm/F858)
+X-Cache: HIT
+X-Drupal-Cache: HIT
+X-Trace: 1B41F2DF8CD3C3E400C95921ED4BB9796AF0D50055D12E76C5137D6D37
+Content-Length: 19425
+

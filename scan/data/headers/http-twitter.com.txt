@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+date: Wed, 25 Sep 2013 00:48:05 UTC
+location: https://twitter.com/
+server: tfe
+set-cookie: guest_id=v1%3A138007008551876394; Domain=.twitter.com; Path=/; Expires=Fri, 25-Sep-2015 00:48:05 UTC
+Content-Length: 0
+

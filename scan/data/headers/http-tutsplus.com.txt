@@ -1,0 +1,12 @@
+HTTP/1.1 302 Moved Temporarily
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 02:02:10 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=dc0ad584d5aa8d5aabdf56888562751f91380074530531; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.tutsplus.com
+Set-Cookie: __cfduid=dc0ad584d5aa8d5aabdf56888562751f91380074530531; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.tutsplus.com
+Cache-control: no-cache="set-cookie"
+Location: https://tutsplus.com/
+Set-Cookie: AWSELB=FDAF85D30201E09CDA7727A6377B53153B5282335FD1E3BF8ED2E5230F5469E427D9622561C79F7E6A50D65DB49D1126B25516A14E2CF24601D5AF1230D931BF8DD0641CE8;PATH=/;MAX-AGE=2592000
+CF-RAY: b342177d20b0291
+

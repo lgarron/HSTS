@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:31:01 GMT
+Server: IBM_HTTP_Server
+Location: http://www.hsbc.co.uk/1/2/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: UKPIB-EVRGRN-SY=3348416778.20480.0000; path=/
+

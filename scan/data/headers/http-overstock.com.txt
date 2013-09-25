@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:43:43 GMT
+Server: Apache
+Set-Cookie: SSLB=B; path=/; domain=www.overstock.com; expires=Wed, 25-Sep-2013 08:43:43 GMT
+Location: http://www.overstock.com/
+Content-Type: text/html; charset=iso-8859-1
+

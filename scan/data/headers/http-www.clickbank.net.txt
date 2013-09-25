@@ -1,0 +1,7 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:24:39 GMT
+Server: Apache/2.2.25 (FreeBSD) mod_jk/1.2.37 mod_ssl/2.2.25 OpenSSL/0.9.8y
+Location: http://www.clickbank.com
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+

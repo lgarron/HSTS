@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-Powered-By: PHP/5.3.19
+Esi-Enabled: 1
+Cache-Control: max-age=366; must-revalidate
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+X-Cacheable: YES:ttl:366.000
+Date: Wed, 25 Sep 2013 03:30:16 GMT
+X-Varnish: 1878838935 1878831490
+Age: 139
+Via: 1.1 varnish
+Connection: close
+X-Cache: HIT
+Set-Cookie: SRV=D; path=/
+

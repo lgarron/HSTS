@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Thu, 26 Sep 2013 00:40:11 GMT
+Vary: Accept-Encoding
+Content-Type: text/html
+X-Pad: avoid browser bug
+Cache-Control: max-age=900
+Date: Wed, 25 Sep 2013 00:48:18 GMT
+Age: 487
+Connection: keep-alive
+X-Cache: HIT
+

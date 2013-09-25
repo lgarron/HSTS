@@ -1,0 +1,35 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 169363
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 4.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:23:03 GMT
+Connection: keep-alive
+Set-Cookie: ASP.NET_SessionId=metwtsb5ykm4w5suynmtnnnc; path=/; HttpOnly
+Set-Cookie: LANDING_DOMAIN=www.kbb.com; domain=.kbb.com; path=/
+Set-Cookie: VisitorId=843f8aa7-0a8a-4f31-aae1-9e54a3ef34b1; domain=.kbb.com; expires=Fri, 25-Oct-2013 03:23:03 GMT; path=/
+Set-Cookie: SessionId=977d9a031fa9499bb80a0417e39aa2ce; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: Referer=kbb.com; domain=.kbb.com; path=/
+Set-Cookie: BIGipServerpool_kbb-B=2210980874.20480.0000; path=/
+

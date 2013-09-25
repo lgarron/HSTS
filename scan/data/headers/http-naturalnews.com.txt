@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 94109
+Content-Type: text/html
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASPSESSIONIDCQACTCAB=MLBKDHABFNMLLIDGKCAKDNPB; path=/
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 02:35:11 GMT
+Connection: Keep-alive
+Keep-Alive: timeout=15, max=100
+Via: 1.1 ID-0000627501251316 uproxy-2
+

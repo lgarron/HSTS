@@ -1,0 +1,10 @@
+HTTP/1.1 301 http://sulia.com/
+Server: Varnish
+Location: http://sulia.com/
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:36:50 GMT
+X-Varnish: 1078384971
+Age: 0
+Via: 1.1 varnish
+Connection: close
+

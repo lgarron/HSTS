@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.2
+Date: Wed, 25 Sep 2013 03:28:00 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: keep-alive
+Keep-Alive: timeout=20
+X-Powered-By: PHP/5.3.5
+

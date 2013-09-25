@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+P3P: CP="CAO DSP COR CUR ADMi DEVi TAIi PSAi PSDi IVAi IVDi CONi OUR DELi SAMi UNRi PUBi OTRi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT POL PRE"
+X-Frame-Options: SAMEORIGIN
+Content-Language: en-US
+Content-Length: 0
+Vary: Accept-Encoding
+Date: Wed, 25 Sep 2013 00:47:58 GMT
+X-FS-UUID: 507c57eb6cfe26133077521ef72a0000
+X-LI-UUID: UHxX62z+JhMwd1Ie9yoAAA==
+Age: 1
+X-Li-Fabric: PROD-ELA4
+Set-Cookie: _lipt=deleteMe; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: leo_auth_token="GST:8FeAqgA40HBg73nDTQcq2_LiNHWEhkmXmFELWhAJr6YleKXX4kAHkE:1380070079:2898d828550c21163e5371345f6a553b88936d0e"; Version=1; Max-Age=1799; Expires=Wed, 25-Sep-2013 01:17:58 GMT; Path=/
+Set-Cookie: sl="delete me"; Version=1; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: sl="delete me"; Version=1; Domain=.www.linkedin.com; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: s_leo_auth_token="delete me"; Version=1; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: JSESSIONID="ajax:5963717548813567303"; Version=1; Path=/
+Set-Cookie: visit="v=1&G"; Version=1; Max-Age=63072000; Expires=Fri, 25-Sep-2015 00:47:59 GMT; Path=/
+Set-Cookie: lang="v=2&lang=en-us"; Version=1; Domain=linkedin.com; Path=/
+Set-Cookie: bcookie="v=2&b778ce12-89ef-40ea-833b-815cc1c37ec8"; domain=.linkedin.com; Path=/; Expires=Fri, 25-Sep-2015 12:25:31 GMT
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache, no-store
+Connection: keep-alive
+X-Li-Pop: PROD-ELA4
+Set-Cookie: X-LI-IDC=C1
+

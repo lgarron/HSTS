@@ -1,0 +1,10 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Wed, 25 Sep 2013 00:53:00 GMT
+Content-Type: text/html
+Connection: close
+X-Powered-By: PHP/5.3.3
+Location: https://traffic.ad4game.com/www/admin/index.php
+X-host: www.ad4game.com
+X-servername: traffic.ad4game.com
+

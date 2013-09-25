@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:55:04 GMT
+Server: Apache
+Vary: Host,Accept-Encoding
+x-niconico-authflag: 0
+Set-Cookie: nicosid=1380070504.2004270588; expires=Sat, 23-Sep-2023 00:55:04 GMT; path=/; domain=.nicovideo.jp
+X-niconico-sid: 1380070504.2004270588
+Access-Control-Allow-Credentials: true
+Connection: close
+Content-Type: text/html
+Content-Language: ja
+

@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: Undisclosed-Webserver/0.1
+P3P: CP='PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA PRE CUR ADMa DEVa TAIo PSAo PSDo IVAo IVDo CONo TELo OTPi OUR UNRo PUBi OTRo IND DSP CAO COR'
+Last-Modified: Wed, 25 Sep 2013 00:54:24 GMT
+Location: http://www.time.com/time/
+Content-Type: text/html
+Content-Length: 0
+Date: Wed, 25 Sep 2013 00:54:25 GMT
+Connection: keep-alive
+

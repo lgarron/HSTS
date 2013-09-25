@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:37:49 GMT
+Set-Cookie: PHPSESSID=nass4anfjdjevvmnef117u35t5; path=/; domain=.tablica.pl
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Ocache: 1
+X-Utime: 0
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+

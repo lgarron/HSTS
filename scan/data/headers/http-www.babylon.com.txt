@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: server/10005a
+Date: Wed, 25 Sep 2013 00:46:47 GMT
+Content-Type: text/html
+Connection: close
+X-Powered-By: PHP/5.3.4
+Set-Cookie: PHPSESSID=p59n857dteob6btsngdc0udhe1; path=/; domain=.babylon.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: visitorID=1380070007-533563814; expires=Mon, 24-Mar-2014 00:46:47 GMT; path=/; domain=.babylon.com
+Set-Cookie: affilID=55555; expires=Fri, 25-Oct-2013 00:46:47 GMT; path=/; domain=.babylon.com
+Set-Cookie: lang=en; expires=Mon, 24-Mar-2014 00:46:47 GMT; path=/; domain=.babylon.com
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Set-Cookie: cart=deleted; expires=Tue, 25-Sep-2012 00:46:46 GMT; path=/; domain=.babylon.com
+

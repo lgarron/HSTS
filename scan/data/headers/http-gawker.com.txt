@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+Content-Length: 253810
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 00:56:56 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: keep-alive
+X-Served-By: cache-sv61-SJC3
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1380070614.533999205,VS0,VE1803
+Vary: Accept-Encoding
+x-cdn-view: mantle-root
+

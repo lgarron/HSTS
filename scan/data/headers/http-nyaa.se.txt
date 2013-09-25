@@ -1,0 +1,7 @@
+HTTP/1.1 302 Moved Temporarily
+Server: :3
+Date: Wed, 25 Sep 2013 03:32:06 GMT
+Content-Length: 0
+Connection: keep-alive
+Location: http://www.nyaa.se/
+

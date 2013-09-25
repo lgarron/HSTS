@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: zen
+Date: Wed, 25 Sep 2013 03:26:07 GMT
+Content-Type: text/html
+Connection: close
+Content-Length: 56725
+Content-Location: http://jang.com.pk/index.html
+Last-Modified: Wed, 25 Sep 2013 02:53:08 GMT
+Accept-Ranges: bytes
+ETag: "4c4cc75d9ab9ce1:c64"
+X-Powered-By: ASP.NET
+

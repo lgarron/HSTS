@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Apache
+Pragma: no-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 02:23:26 GMT
+X-Varnish: 748224724
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

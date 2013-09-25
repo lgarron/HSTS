@@ -1,0 +1,11 @@
+HTTP/1.1 406 Not Acceptable
+Date: Wed, 25 Sep 2013 03:29:03 GMT
+Server: Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_fcgid/2.3.6 mod_antiloris/0.4
+X-Powered-By: PHP/5.3.25
+Expires: Wed, 25 Sep 2013 04:29:03 GMT
+Pragma: public
+Cache-Control: max-age=3600, public
+Vary: User-Agent,Accept-Encoding
+Last-Modified: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Type: text/html
+

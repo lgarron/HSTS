@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+x-amz-id-2: Lq7ALeYs3LY90G9ZDwob5KhslGS/IRBTGiye4yhOokfwbA7I6OXcbC2udmu1OKtv
+x-amz-request-id: 6AB370CD6B8C25CE
+Date: Wed, 25 Sep 2013 04:34:23 GMT
+Location: http://www.envato.com/
+Content-Length: 0
+Server: AmazonS3
+

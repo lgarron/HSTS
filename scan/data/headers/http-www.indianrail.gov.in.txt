@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:02:10 GMT
+Server: Apache/2.0.58  HP-UX_Apache-based_Web_Server (Unix) DAV/2
+Last-Modified: Tue, 24 Sep 2013 10:15:02 GMT
+ETag: "dc79-76a0-4e71e68e95580"
+Accept-Ranges: bytes
+Content-Length: 30368
+Connection: close
+Content-Type: text/html
+

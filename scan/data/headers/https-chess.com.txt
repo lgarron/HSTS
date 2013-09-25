@@ -1,0 +1,14 @@
+HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 25 Sep 2013 03:23:36 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: PHPSESSID=oi8gr0n8g7dfssb3553pcjt3e3; path=/; domain=.chess.com; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private
+Pragma: no-cache
+P3P: CP="ALL DSP COR LAW CURa ADMa DEVa TAIa OUR BUS IND ONL UNI COM NAV DEM CNT"
+Cache-Control: private, must-revalidate
+pragma: no-cache
+expires: -1
+

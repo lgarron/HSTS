@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:31:58 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: /travel/globalgateway.jsp/global/public
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: BIGipServerba.com-port80=1014539939.20480.0000; path=/
+

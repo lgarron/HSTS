@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-Length: 0
+Content-Type: text/html
+Location: /anasayfa/
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASPSESSIONIDQSTQRDCT=FAOKMDBBOCCIHGHKAJIFPDFF; path=/
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 00:58:50 GMT
+

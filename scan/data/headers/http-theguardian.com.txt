@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 25 Sep 2013 01:03:40 GMT
+Location: http://www.theguardian.com/
+X-GU-tm: 01
+Transfer-Encoding: chunked
+Connection: Keep-Alive
+

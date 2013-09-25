@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=60
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:22:50 GMT
+Expires: Wed, 25 Sep 2013 03:23:50 GMT
+Server: nginx
+X-DT-Cache: HIT
+X-DT-LB-Host: lb-cache1.digitaltrends.com
+X-Node: web2.digitaltrends.com
+X-Pingback: http://www.digitaltrends.com/xmlrpc.php
+X-UA-Compatible: IE=edge
+Connection: close
+

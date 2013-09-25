@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+RlogId: t6e%60cckjkb9%3Fvo%7B2d71f%2B%3E051-14152be414b-0x37f57
+Set-Cookie: JSESSIONID=D3E240D64A4A0B4CBB20A21959C12F6B; Path=/
+Set-Cookie: ebay=%5Esbf%3D%23%5E;Domain=.ebay.co.uk;Path=/ 
+Set-Cookie: dp1=bu1p/QEBfX0BAX19AQA**5423707e^;Domain=.ebay.co.uk;Expires=Fri, 25-Sep-2015 01:31:42 GMT;Path=/ 
+Set-Cookie: s=CgAD4ACBSQ45+NTJiZTQxNDkxNDEwYTU2OGEyNzdjYjg3ZmY4NWIyZWG+Zluk;Domain=.ebay.co.uk;Path=/; HttpOnly 
+Set-Cookie: nonsession=CgADLAAFSQkQGMQDKACBbqD5+NTJiZTQxNDkxNDEwYTU2OGEyNzdjYjg3ZmY4NWIyZWEQUL6Y;Domain=.ebay.co.uk;Expires=Thu, 25-Sep-2014 01:31:42 GMT;Path=/ 
+Set-Cookie: lucky9=1410657;Domain=.ebay.co.uk;Expires=Mon, 24-Sep-2018 01:31:42 GMT;Path=/ 
+Content-Type: text/html;charset=utf-8
+Content-Language: en-US
+Content-Length: 0
+Date: Wed, 25 Sep 2013 01:31:41 GMT
+Server: eBay Server
+

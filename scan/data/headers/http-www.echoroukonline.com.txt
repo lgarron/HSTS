@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 03:25:14 GMT
+Content-Type: text/html
+Content-Length: 205
+Connection: keep-alive
+Location: /portal/
+Server: DZ-HTTP
+

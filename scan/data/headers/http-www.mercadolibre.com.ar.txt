@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 01:22:54 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Set-Cookie: _d2id=87ee7f07-321c-4fc5-b49e-33af7d3f1e43-n; Path=/; Domain=.mercadolibre.com.ar; Expires=Thu, 25 Sep 2014 01:22:54 GMT
+Vary: Accept-Encoding
+X-Echelon-Lid: e-00001ee433844131121380072174090
+Cache-Control: max-age=0, private, no-store, no-cache, must-revalidate
+Set-Cookie: dejavu=%7B%0A++%22session%22%3A+%22%22%2C%0A++%22abt%22%3A+%220.0683473963528396%22%0A%7D; Domain=.mercadolibre.com.ar; Expires=Sun, 09-May-2060 04:05:02 GMT; Path=/
+X-Echelon-Sort: 11
+Content-Language: es-AR
+X-Nginx-Host: e-00001357
+X-Nginx-Pool: homes-frontend-web-mla-pool
+X-Nginx-UpstreamHost: 172.16.157.78:8080
+X-Upstream-Server: Apache-Coyote/1.1
+X-Request-Id: 87ee7f07-321c-4fc5-b49e-33af7d3f1e43
+X-D2id: 87ee7f07-321c-4fc5-b49e-33af7d3f1e43
+

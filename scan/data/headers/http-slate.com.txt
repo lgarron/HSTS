@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.23 (Amazon)
+Location: http://www.slate.com/
+Cache-Control: max-age=450
+Expires: Wed, 25 Sep 2013 01:00:14 GMT
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 00:52:44 GMT
+X-Varnish: 782584344
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:40:15 GMT
+Content-Type: text/html; charset=Shift_JIS
+Connection: keep-alive
+Set-Cookie: skin=noskin; path=/; domain=.amazon.co.jp; expires=Wed, 25-Sep-2013 00:40:15 GMT
+pragma: no-cache
+x-amz-id-1: 07K22MMPBQX589N6GH94
+cache-control: no-cache
+expires: -1
+x-amz-id-2: CGVa95a3+NgmnFGvW5Y9DRonOnOsV0ulW/lZkL2UIZyFvYrZ+tSCHm4ViKR4hf8E
+Vary: Accept-Encoding,User-Agent
+nnCoection: close
+

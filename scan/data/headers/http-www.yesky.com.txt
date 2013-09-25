@@ -1,0 +1,13 @@
+HTTP/1.0 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:47:29 GMT
+Content-Type: text/html; charset=gb2312
+Vary: Accept-Encoding
+Expires: Wed, 25 Sep 2013 00:57:29 GMT
+Cache-Control: max-age=600
+Age: 33
+Content-Length: 262916
+X-Cache: HIT from bj208
+Via: 1.1 bj208:80 (squid/2.7.STABLE9)
+Connection: close
+

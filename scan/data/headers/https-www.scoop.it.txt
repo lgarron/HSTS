@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 00:55:31 GMT
+Server: Jetty(7.5.4.v20111024)
+P3P: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa IVAi IVDi CONi OUR OTRi IND PHY ONL UNI FIN COM NAV INT DEM STA"
+Pragma: no-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: http://www.scoop.it/
+Set-Cookie: userId=4e1e0e17-c0ca-414d-904b-3a38ce579910;Path=/;Expires=Sat, 23-Sep-2023 00:55:31 GMT
+Content-Type: text/plain; charset=UTF-8
+

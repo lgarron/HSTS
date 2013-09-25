@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Polyvore Web Server
+Date: Wed, 25 Sep 2013 03:28:12 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+P3P: policyref="/w3c/p3p.xml", CP="CAO DSP COR CURa ADMa DEVa OUR STP ONL UNI COM NAV INT STA PRE CNT"
+Cache-control: no-cache, no-store
+Set-Cookie: se=c&1380079692&v&5236332902199561068&s&1&t&1380079692; domain=.polyvore.com; path=/; expires=Sat, 23-Sep-2023 03:28:12 GMT
+Set-Cookie: v=915895035; domain=.polyvore.com; path=/; expires=Sat, 23-Sep-2023 03:28:12 GMT
+Set-Cookie: exps=EMAIL%3A%3Atest_b&off&EMAIL%3A%3Atest_a&on&EMAIL%3A%3Acontrol&a; domain=.polyvore.com; path=/; expires=Wed, 09-Oct-2013 03:28:12 GMT
+Vary: Accept-Encoding
+

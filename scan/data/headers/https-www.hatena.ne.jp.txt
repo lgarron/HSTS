@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 00:51:17 GMT
+Server: Plack::Handler::Starlet
+Content-Type: text/html; charset=utf-8
+X-UA-Compatible: IE=edge
+Location: http://www.hatena.ne.jp/
+Transfer-Encoding: chunked
+Set-Cookie: b=$1$fAQ9QSr0$spQJDWtfIuf5DZCPny2ry0; path=/; expires=Tue, 20-Sep-33 00:51:17 GMT; domain=.hatena.ne.jp
+Vary: Accept-Encoding,User-Agent
+

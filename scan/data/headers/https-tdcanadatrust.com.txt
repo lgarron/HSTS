@@ -1,0 +1,7 @@
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.tdcanadatrust.com/
+Date: Wed, 25 Sep 2013 03:29:08 GMT
+Connection: keep-alive
+

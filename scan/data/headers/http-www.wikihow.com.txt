@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Retry-After: 0
+Location: http://www.wikihow.com/Main-Page
+Cache-Control: max-age=600
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 01:17:16 GMT
+Connection: close
+X-C: cache-sv62-SJC3,M
+

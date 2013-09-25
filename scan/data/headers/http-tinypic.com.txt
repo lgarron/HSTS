@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: Apache
+Cache-Control: no-store, no-cache, must-revalidate
+Vary: Accept-Encoding
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 00:55:46 GMT
+X-Varnish: 1243929215 1243917631
+Age: 59
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Server: den2tpv11
+X-Cache: HIT
+

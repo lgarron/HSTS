@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.4.18
+Set-Cookie: PHPSESSID=efde9fab518c39d666b33ccdee6c1c51; path=/; domain=.thepiratebay.sx
+Set-Cookie: tpb_showArtist=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+Set-Cookie: language=en_EN; expires=Thu, 25-Sep-2014 01:14:01 GMT; path=/; domain=.thepiratebay.sx
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 25 Sep 2013 01:14:01 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 0
+Date: Wed, 25 Sep 2013 01:14:01 GMT
+Server: lighttpd
+

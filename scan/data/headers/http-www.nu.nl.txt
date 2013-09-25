@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: Apache
+Vary: Host
+Last-Modified: Wed, 25 Sep 2013 01:30:05 GMT
+Cache-Control: max-age=60
+Expires: Wed, 25 Sep 2013 01:36:53 GMT
+Content-Type: text/html; charset=utf-8
+P3P: policyref="http://www.nu.nl/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMa DEVa PSAa PSDa IVAa IVDa OUR IND UNI COM NAV INT STA"
+Content-Length: 82998
+Date: Wed, 25 Sep 2013 01:35:54 GMT
+X-Varnish: 2493839713 2493839672
+Age: 1
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache-Hits: 13
+X-Id: i054
+Via: 1.1 sanin507.ixa
+

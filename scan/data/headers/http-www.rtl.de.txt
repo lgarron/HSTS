@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:27:56 GMT
+Server: Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8g
+Set-Cookie: PHPSESSID=89a7b9f00e7d646fee55b56d6ddd26ad; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Content-Age: 12
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+

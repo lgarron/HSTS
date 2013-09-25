@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:36:00 GMT
+H1: wykop-04.srv
+Set-Cookie: PHPSESSID=8hfgvvirjhdhfge8bgc7hkg4v7; path=/; domain=.wykop.pl; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=7kekjqjtoqco9dq0tj700giv25; path=/; domain=.wykop.pl; HttpOnly
+Set-Cookie: lastVisitDate=2013-09-25+04%3A36%3A00; expires=Thu, 25-Sep-2014 02:36:00 GMT; path=/; domain=.wykop.pl
+X-Utime: 0
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: JSESSIONIDN=server4; path=/; domain=.wykop.pl
+

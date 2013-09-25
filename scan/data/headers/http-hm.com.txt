@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:59:34 GMT
+Server: Apache
+Location: http://www.hm.com//
+Cache-Control: max-age=3600
+Expires: Wed, 25 Sep 2013 02:59:34 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: www_http=2579315978.20480.0000; expires=Wed, 25-Sep-2013 03:00:58 GMT; path=/
+

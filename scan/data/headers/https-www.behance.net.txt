@@ -1,0 +1,9 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 00:55:38 GMT
+Server: Apache
+Cache-Control: must-revalidate, post-check=0, pre-check=0
+Location: http://www.behance.net/
+Server-N: 89
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: BehanceLLC=1499769024.20480.0000; path=/
+

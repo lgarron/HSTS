@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Set-Cookie: machId=5kBo0XSCVcMTHUrLHPp9ouH9gNLrFRfRHtPao331aGK2gYMs5ZByh9LK7w_flxMdTNcVn9vH4P1b_KPqW8V2DKu_gC99NVs7WII; Domain=.gumtree.com.au; Expires=Mon, 13-Oct-2081 06:38:39 GMT; Path=/
+Set-Cookie: bs=%7B%22st%22%3A%7B%7D%7D; Path=/
+Set-Cookie: up=%7B%22ln%22%3A%22719190435%22%2C%22ls%22%3A%22l%3D0%26r%3D0%26sv%3DLIST%26sf%3Ddate%22%7D; Expires=Mon, 24-Mar-2014 03:24:32 GMT; Path=/
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-AU
+Content-Length: 96648
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:24:32 GMT
+Connection: keep-alive
+Server: Wolfram Alpha v42
+

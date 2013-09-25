@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:50:50 GMT
+Server: PWS/8.0.16
+X-Px: rf-ms h0-s1096.p10-sjc ( h0-s1035.p10-sjc), ms h0-s1035.p10-sjc ( h0-s1032.p11-fra), ht h0-s1032.p11-fra.cdngp.net
+Cache-Control: max-age=10
+Expires: Wed, 25 Sep 2013 00:50:56 GMT
+Age: 5
+Content-Length: 37280
+Content-Type: text/html; charset=UTF-8
+X-XRDS-Location: http://www.jimdo.com/consumer-xrds.xml
+Connection: keep-alive
+

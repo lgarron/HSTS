@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.inmotionhosting.com/406.shtml
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 02:37:48 GMT
+X-Varnish: 1355873932
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

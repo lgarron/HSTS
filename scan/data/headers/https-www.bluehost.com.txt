@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:48:04 GMT
+Server: Apache/2.2.25 (CentOS)
+Expires: Sun, 28 Sep 2003 00:48:04 GMT
+Pragma: no-cache
+Cache-control: private, no-cache, no-store, no-cache=Set-Cookie, proxy-revalidate
+Set-Cookie: custid=C831156055807; domain=.bluehost.com; path=/; HttpOnly
+Set-Cookie: r=erickdan%5Edefault%5Ehttp%3A%2F%2Fwww.photocrati.com%2Fquestions%2F; path=/; expires=Tue, 24-Dec-2013 00:48:04 GMT
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: custid=C437116651867; domain=.bluehost.com; path=/; expires=Thu, 25-Sep-2014 00:48:04 GMT; HttpOnly
+Set-Cookie: custid=C113984338635; domain=.bluehost.com; path=/; expires=Thu, 25-Sep-2014 00:48:04 GMT; HttpOnly
+Set-Cookie: custid=C235196459847; domain=.bluehost.com; path=/; expires=Thu, 25-Sep-2014 00:48:04 GMT; HttpOnly
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+

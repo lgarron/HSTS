@@ -1,0 +1,6 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 00:55:39 GMT
+Server: Apache
+Location: http://www.aftonbladet.se/
+Content-Type: text/html; charset=iso-8859-1
+

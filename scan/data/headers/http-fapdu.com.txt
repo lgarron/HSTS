@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 02:34:59 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=dqhf4cn5rfjb8nt8r53heeet10; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Rating: RTA-5042-1996-1400-1577-RTA
+

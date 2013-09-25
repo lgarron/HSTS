@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:12:14 GMT
+Server: Server
+Location: http://www.imdb.com/
+Cneonction: close
+Content-Type: text/html; charset=iso-8859-1
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, max-age=0
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 02:35:40 GMT
+Expires: Wed, 25 Sep 2013 02:35:40 GMT
+Last-Modified: Wed, 25 Sep 2013 02:35:40 GMT
+Server: ngx_openresty/1.2.8.6
+Set-Cookie: csrftoken=d2a20e4b75e7a7206463b12ee9f6063a; expires=Wed, 24-Sep-2014 02:35:40 GMT; Max-Age=31449600; Path=/
+Set-Cookie: prezi-auth=-; Domain=.prezi.com; expires=Wed, 02-Oct-2013 04:35:40 GMT; httponly; Max-Age=612000; Path=/
+Set-Cookie: _ptref="bnVsbA:1VOex2:76Hsnmnz5i5r1qFWP2AOsJciF5c"; expires=Thu, 26-Sep-2013 02:35:40 GMT; Max-Age=86400; Path=/
+Vary: Cookie, Accept-Language
+Connection: keep-alive
+

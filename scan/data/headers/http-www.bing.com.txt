@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: private, max-age=0
+Content-Type: text/html
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Date: Wed, 25 Sep 2013 00:54:25 GMT
+Content-Length: 1
+Connection: keep-alive
+Set-Cookie: _FS=NU=1; domain=.bing.com; path=/
+Set-Cookie: _SS=SID=EA431C5517CE4A98AA736E3900ABE510; domain=.bing.com; path=/
+Set-Cookie: MUIDB=25ADD2DE743463C6255FD78D75276377; expires=Fri, 25-Sep-2015 00:54:25 GMT; path=/
+Set-Cookie: SRCHD=D=3015414&MS=3015414&AF=NOFORM; expires=Fri, 25-Sep-2015 00:54:25 GMT; domain=.bing.com; path=/
+Set-Cookie: SRCHUID=V=2&GUID=6C90AF99B137426A905EBD83F1DD14E6; expires=Fri, 25-Sep-2015 00:54:25 GMT; path=/
+Set-Cookie: SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20130925; expires=Fri, 25-Sep-2015 00:54:25 GMT; domain=.bing.com; path=/
+

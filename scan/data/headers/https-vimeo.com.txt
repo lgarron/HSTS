@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:48:09 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.14
+Expires: Tue, 24 Sep 2013 12:48:09 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Set-Cookie: ab_psb=1%7C0; expires=Sat, 23-Sep-2023 00:48:09 GMT; path=/; domain=.vimeo.com
+Vary: User-Agent,Accept-Encoding
+X-DNS-Prefetch-Control: on
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

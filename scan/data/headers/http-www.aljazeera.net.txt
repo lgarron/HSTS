@@ -1,0 +1,13 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 154
+Content-Type: text/html
+Expires: Wed, 25 Sep 2013 01:46:13 GMT
+Last-Modified: Wed, 25 Sep 2013 01:24:58 GMT
+Location: http://www.aljazeera.net/portal
+Server: Footprint Distributor V4.8
+X-UA-Compatible: IE=7
+Date: Wed, 25 Sep 2013 01:34:19 GMT
+Cache-Control: max-age=714
+Age: 114
+Connection: keep-alive
+

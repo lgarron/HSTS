@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:45:13 GMT
+Server: Apache/2.2.22 (Debian)
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Set-Cookie: JSESSIONID=D9DD780130669CCBB7801D403F0405DF.worker1; Path=/; HttpOnly
+Set-Cookie: JSESSIONID=D9DD780130669CCBB7801D403F0405DF.worker1; Domain=doodle.com; Path=/
+Set-Cookie: bro=guNY7cnAWan37AwT; Domain=doodle.com; Path=/
+Set-Cookie: locale=en_US; Domain=doodle.com; Path=/
+Vary: Accept-Encoding
+Content-Type: text/html;charset=UTF-8
+

@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 141
+Content-Type: text/html; charset=UTF-8
+Location: http://www.abc.es/
+Server: Microsoft-IIS/7.5
+IISExport: This web site was exported using IIS Export v4.2
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 03:25:07 GMT
+

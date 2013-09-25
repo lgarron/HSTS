@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-length: 123690
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Sep 2013 03:23:41 GMT
+Last-Modified: Wed, 25 Sep 2013 03:19:07 GMT
+Server: Apache/2.2.3 (Red Hat)
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding,User-Agent
+X-UA-Compatible: IE=edge
+Connection: keep-alive
+

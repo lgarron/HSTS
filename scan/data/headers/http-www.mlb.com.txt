@@ -1,0 +1,6 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 00:43:36 GMT
+Server: Sun-ONE-Web-Server/6.1
+Location: http://mlb.mlb.com/home
+Content-Type: text/html; charset=iso-8859-1
+

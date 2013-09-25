@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx_about/1.4.2_1
+Date: Wed, 25 Sep 2013 01:19:22 GMT
+Content-Type: text/html
+Connection: keep-alive
+Keep-Alive: timeout=15
+P3P: CP="IDC DSP COR DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=3600, private
+Set-Cookie: TMog=D9P1JM0BOkWAmuIZ; domain=.about.com; path=/; expires=Sun, 26-Jan-20 20:52:41 GMT
+Set-Cookie: Mint=D9P1JM0BOkWAmuIZ; domain=.about.com; path=/; expires=Wed, 25-Sep-13 01:49:22 GMT
+Set-Cookie: zBT=4; domain=.about.com; path=/; expires=Wed, 25-Sep-13 01:49:22 GMT
+Set-Cookie: zBsT=0; domain=.about.com; path=/; expires=Wed, 25-Sep-13 01:49:22 GMT
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.filmweb.pl/
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:22:45 GMT
+Connection: close
+X-Cache: MISS from blade713.non.3dart.com
+Server: Apache
+

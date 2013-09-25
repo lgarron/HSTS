@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Cache-Control: private, max-age=60
+Content-Length: 292739
+Content-Type: text/html; charset=utf-8
+Expires: Wed, 25 Sep 2013 01:01:59 GMT
+Last-Modified: Wed, 25 Sep 2013 01:00:59 GMT
+Vary: Accept-Encoding
+Server: NEWEGG
+GA: 0
+NEG-Created: 9/24/2013 6:00:59 PM
+Server: NEG-Server
+x-server-id: 15
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 00:56:41 GMT
+Age: 0
+Connection: keep-alive
+X-Served-By: E312
+X-Ver: 13070501
+X-Cache: MISS
+X-Cache-Hits: 0
+Set-Cookie: NSC_xxx.ofxfhh.dpn-WJQ=ffffffffaf18104345525d5f4f58455e445a4a4221f1;expires=Wed, 25-Sep-2013 01:30:59 GMT;path=/;httponly
+

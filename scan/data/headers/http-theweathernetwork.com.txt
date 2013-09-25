@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.theweathernetwork.com/
+Expires: Wed, 25 Sep 2013 02:09:11 GMT
+Content-Type: text/html; charset=iso-8859-1
+cache-control: s-maxage=10800, max-age=10800
+X-Varnish: 1838988335 1838984877
+Via: 1.1 varnish
+Vary: Accept-Encoding
+Date: Wed, 25 Sep 2013 03:45:00 GMT
+X-Varnish: 1821439240 1818027612
+Age: 6949
+Via: 1.1 varnish
+Connection: keep-alive
+X-IsCached: HIT
+

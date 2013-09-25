@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Set-Cookie: abgroup=gridgroup; expires=Wed, 24-Sep-2014 07:00:00 GMT; path=/
+Set-Cookie: fp_style=grid; expires=Wed, 24-Sep-2014 07:00:00 GMT; path=/
+Set-Cookie: bbsessionhash=67d07c9108b728949d250cf7d3c6122d; path=/; domain=.slickdeals.net; HttpOnly
+Set-Cookie: auuid=8a7e0efe-257b-11e3-b751-5283e361de7c; expires=Thu, 25-Sep-2014 00:43:48 GMT; path=/; domain=.slickdeals.net
+Set-Cookie: bblastactivity=1380069828; expires=Thu, 25-Sep-2014 00:43:48 GMT; path=/; domain=.slickdeals.net; secure
+Set-Cookie: sd_lr=0; domain=.slickdeals.net
+Set-Cookie: bbvisitday=20130924; expires=Fri, 25-Oct-2013 00:43:48 GMT
+Link: <http://slickdeals.net/>; rel="canonical"
+Expires: 0
+Cache-Control: private, post-check=0, pre-check=0, max-age=0
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+X-UA-Compatible: IE=edge
+Date: Wed, 25 Sep 2013 00:43:48 GMT
+Server: Apache
+

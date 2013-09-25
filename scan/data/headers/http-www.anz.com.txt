@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:37:50 GMT
+Server: Microsoft-IIS/6.0
+MicrosoftOfficeWebServer: 5.0_Pub
+X-Powered-By: ASP.NET
+Location: /personal/
+Content-Length: 0
+Content-Type: text/html
+Set-Cookie: ASPSESSIONIDCQRTBBDS=HIIKOCOAHHFHIKMENLDNKJIM; path=/
+Cache-control: private
+

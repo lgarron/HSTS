@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.5.1-2
+Set-Cookie: PHPSESSID=unhrkk0qosh6mn9vjtgep7m5k3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-type: text/html
+Vary: Accept-Encoding
+Date: Wed, 25 Sep 2013 02:38:51 GMT
+Server: lighttpd/2.0.0
+

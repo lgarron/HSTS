@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=B3F2CC13DB8202436F81D072B755E6A8; Path=/
+X-Src-Appserver: cadmium
+Content-Type: text/html;charset=UTF-8
+Content-Language: da-DK
+Content-Length: 271226
+Date: Wed, 25 Sep 2013 03:29:08 GMT
+nnCoection: close
+Set-Cookie: NSC_MC_fc-qspe.fdf_IUUQ_OPOF=ffffffffaf100a2245525d5f4f58455e445a4a423662;expires=Wed, 25-Sep-2013 03:31:09 GMT;path=/;secure;httponly
+

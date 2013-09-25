@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-cache
+Content-Length: 0
+Location: http://www.bing.com/
+Server: Microsoft-IIS/8.0
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: _HOP=I=1&TS=1380070466; domain=bing.com; path=/
+Edge-control: no-store
+X-MSEdge-Ref: Ref A: D30A4BA857E44285A2665EAA579C5DBF Ref B: AA5A67CD004001A98281BC77FF882B3E Ref C: Tue Sep 24 17:54:26 2013 PST
+Date: Wed, 25 Sep 2013 00:54:26 GMT
+

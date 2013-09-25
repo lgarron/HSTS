@@ -1,0 +1,16 @@
+HTTP/1.1 302 Found
+Server: Apache
+Location: http://www.espncricinfo.com/
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+X-Varnish: 604453912
+Via: 1.1 varnish
+X-Varnish-Cache: MISS
+Age: 0
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 00:44:54 GMT
+X-Varnish: 1693255372
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+

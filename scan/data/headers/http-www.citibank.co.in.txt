@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:20:51 GMT
+Content-type: text/html;charset=ISO-8859-1
+Set-cookie: JSESSIONID=513CE4EC936BEB0253E7EAEB8837E5FF;Domain=.citibank.co.in;Path=/
+

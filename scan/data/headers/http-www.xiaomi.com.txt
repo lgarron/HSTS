@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:27:53 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: max-age=5400
+X-Cacheable: MI-WWW-Cacheable
+Server: MIFE/3.0
+Expires: Wed, 25 Sep 2013 02:57:53 GMT
+Content-Length: 49391
+Powered-By-ChinaCache: HIT from 060010D3C7
+Age: 4065
+Powered-By-ChinaCache: HIT from 06043133SG
+

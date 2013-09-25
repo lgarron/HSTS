@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: mls/1.1
+Date: Wed, 25 Sep 2013 02:35:37 GMT
+Connection: keep-alive
+set-cookie: MEILISHUO_GLOBAL_KEY=4272bcc8cfe7d1d6e130925103537195;Path=/;domain=.meilishuo.com;expires=Sat, 25 Sep 2613 02:35:40 GMT;
+set-cookie: santorini_mm=da53dad6a0f924acd392ed2566da34a0;Path=/;domain=.meilishuo.com;
+Location: /welcome
+Cache-Control: no-cache,must-revalidate,no-store
+Pragma: no-cache
+Set-Cookie: SEASHELL=fMqQCFJCS/kYUg9FCZcAAg==; expires=Thu, 25-Sep-14 02:35:37 GMT; domain=meilishuo.com; path=/
+P3P: policyref="/w3c/p3p.xml", CP="CUR ADM OUR NOR STA NID"
+

@@ -1,0 +1,9 @@
+HTTP/1.1 500 Internal Server Error
+Server: Apache-Coyote/1.1
+Content-Type: text/html;charset=utf-8
+X-Cache-Lookup: MISS from news.com.au:80
+Cache-Control: max-age=177
+Expires: Wed, 25 Sep 2013 01:36:22 GMT
+Date: Wed, 25 Sep 2013 01:33:25 GMT
+Connection: keep-alive
+

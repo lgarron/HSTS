@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.3.11
+Content-Type: text/html; charset=utf-8
+Status: 301 Moved Permanently
+Location: http://www.indiegogo.com/
+X-UA-Compatible: IE=Edge,chrome=1
+Cache-Control: no-cache
+X-Request-Id: b2ac0deec8473bf3c9a324b9f376a915
+X-Runtime: 0.010839
+X-Rack-Cache: miss
+Date: Wed, 25 Sep 2013 03:21:07 GMT
+Connection: keep-alive
+Set-Cookie: _session_id=c02ccf5e6e785822e4bfb617c9d01efc; path=/; expires=Sat, 28-Sep-2013 03:21:07 GMT; HttpOnly
+

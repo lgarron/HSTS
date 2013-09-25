@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: t_Id=ZGVmYXVsdDpudWxs; Path=/
+Set-Cookie: tsession="2GvbMhk7Fh0Tam94RaNqpIJh0GI="; Version=1; Domain=mapquest.com; Max-Age=1800; Expires=Wed, 25-Sep-2013 01:21:33 GMT; Path=/
+Set-Cookie: tsexpiry=1; Domain=mapquest.com; Expires=Wed, 25-Sep-2013 01:06:33 GMT; Path=/
+Set-Cookie: psession="1RqGP4CWQD4/dWU/xr+sGGwsHbQ="; Version=1; Domain=mapquest.com; Max-Age=7776000; Expires=Tue, 24-Dec-2013 00:51:33 GMT; Path=/
+Set-Cookie: c_Id=MzgxOjY0MA%3D%3D; Expires=Wed, 25-Sep-2013 01:21:33 GMT; Path=/
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Content-Length: 131935
+Date: Wed, 25 Sep 2013 00:51:32 GMT
+

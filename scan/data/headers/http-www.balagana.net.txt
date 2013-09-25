@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+ETag: "zc2oqQ"
+Date: Wed, 25 Sep 2013 02:35:12 GMT
+Expires: Tue, 24 Sep 2013 12:16:42 GMT
+Content-Type: text/html
+Server: Google Frontend
+Content-Length: 1681
+Cache-Control: public, max-age=600
+Age: 0
+Alternate-Protocol: 80:quic,80:quic
+

@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.2.1
+Content-Type: text/html; charset=utf-8
+X-Web-Node: www199
+Location: http://www.last.fm/
+Expires: Wed, 25 Sep 2013 00:59:42 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 25 Sep 2013 00:59:42 GMT
+Connection: keep-alive
+

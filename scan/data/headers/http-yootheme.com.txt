@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:26:06 GMT
+Server: Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g
+Location: http://www.yootheme.com/
+Cache-Control: max-age=86400
+Expires: Thu, 26 Sep 2013 03:26:06 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+

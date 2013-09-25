@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:25:43 GMT
+Server: Apache
+Set-Cookie: cSessionId=326a440254a751f7e29b78301462.29137; Path=/; Secure
+Set-Cookie: vrsnsf=326a440254a751f7e29b78301462; Expires=Mon, 13-Oct-2081 06:39:49 GMT; Path=/
+Set-Cookie: siteId=527-22; Expires=Sat, 20-Sep-2014 03:25:43 GMT; Path=/
+Set-Cookie: JSESSIONID=326a440254a751f7e29b78301462.075; Path=/; HttpOnly
+Content-Type: text/html;charset=UTF-8
+

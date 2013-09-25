@@ -1,0 +1,16 @@
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: private,no-cache=Set-Cookie
+Content-Length: 157
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Location: /web/en-US/default.aspx?root=1
+X-AspNet-Version: 2.0.50727
+Server: Continental Airlines, Inc.
+Date: Wed, 25 Sep 2013 01:39:54 GMT
+Connection: keep-alive
+Set-Cookie: VanityURL=Null; path=/
+Set-Cookie: TLTSID=7A3C51BE42E582E18095888BD915214D; Path=/; Domain=.united.com
+Set-Cookie: TLTUID=7A3C51BE42E582E18095888BD915214D; Path=/; Domain=.united.com; expires=Wed, 25-09-2023 01:39:52 GMT
+Set-Cookie: v1st=14B14BE582F1CADA; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.united.com
+Set-Cookie: akaau=1380073494~id=8718901be5cafc4efd98cb8c5eabbd93; path=/
+

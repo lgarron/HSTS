@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:31:39 GMT
+Server: Apache
+Location: http://www.hp.com/
+Cache-Control: max-age=7200
+Expires: Wed, 25 Sep 2013 03:31:39 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+

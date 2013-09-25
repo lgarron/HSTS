@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.android.com/
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Wed, 25 Sep 2013 00:41:43 GMT
+Expires: Fri, 25 Oct 2013 00:41:43 GMT
+Server: sffe
+Content-Length: 220
+X-XSS-Protection: 1; mode=block
+Cache-Control: public, max-age=2592000
+Age: 416
+Alternate-Protocol: 80:quic
+

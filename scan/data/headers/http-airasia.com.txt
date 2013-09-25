@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 02:36:06 GMT
+Server: Apache
+Location: http://www.airasia.com/
+X-removedx: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+CData: 1 0 1 1 1 1 1 1 1
+X-Cache: MISS from aamy-sc4-4
+Connection: keep-alive
+Keep-Alive: timeout=122, max=100
+Set-Cookie: NSC_td-xxx.bjsbtjb.dpn-iuuq=ffffffffaf16143845525d5f4f58455e445a4a423660;expires=Tue, 24-Sep-2013 19:42:58 GMT;path=/;httponly
+

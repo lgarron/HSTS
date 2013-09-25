@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:31:40 GMT
+Server: Apache
+Set-Cookie: pid=S:2:9b8e9788e842c3fcb7465f6c42e0a9173db1b3a8b7e3a15c; domain=.cbssports.com; path=/; expires=Tuesday, 16-Feb-2021 23:12:40 GMT
+Set-Cookie: last_access=1380072700; domain=.cbssports.com; path=/
+Set-Cookie: anon=TRUE; domain=.cbssports.com; path=/; expires=Tuesday, 16-Feb-2021 23:12:40 GMT
+Cache-Control: private, no-store
+Expires: Wed, 25 Sep 2013 01:31:40 GMT
+P3P: CP="CAO DSP COR PSA PSD IVD CONi OUR IND" policyref="/w3c/p3p.xml"
+Content-Type: text/html
+Via: 1.1 www.cbssports.com
+X-Media: ws1852-fe.tm.cbsig.net:30000
+Vary: Accept-Encoding
+Connection: close
+

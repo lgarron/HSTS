@@ -1,0 +1,7 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 00:56:46 GMT
+Server: Apache
+Location: http://www.goo.ne.jp/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+

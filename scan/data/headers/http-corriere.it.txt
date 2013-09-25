@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 01:15:09 GMT
+Server: Apache
+Location: http://www.corriere.it/
+Content-Type: text/html; charset=iso-8859-1
+

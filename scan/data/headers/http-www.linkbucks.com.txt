@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:44:54 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 4.0.30319
+P3P: policyref="http://www.linkbucks.com/w3c/p3p.xml", CP="CUR ADM OUR NOR STA NID"
+Set-Cookie: ASP.NET_SessionId=qxnx3nn4ymk2ou0enxjtomda; path=/; HttpOnly
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Length: 10786
+

@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Server: ""
+Date: Wed, 25 Sep 2013 00:40:15 GMT
+Content-length: 0
+Location: https://online.citibank.com/US/Welcome.c
+Connection: close
+

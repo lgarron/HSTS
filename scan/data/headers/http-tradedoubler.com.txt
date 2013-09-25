@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 151
+Content-Type: text/html; charset=UTF-8
+Location: http://www.tradedoubler.com/
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 00:40:13 GMT
+Set-Cookie: BIGipServerTradeDoubler_HTTP_Pool=1700987658.20480.0000; path=/
+

@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 219
+Location: http://www.interia.pl/
+Date: Wed, 25 Sep 2013 00:43:43 GMT
+Server: IPL/2.1
+

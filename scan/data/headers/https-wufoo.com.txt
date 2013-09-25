@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:22:33 GMT
+Location: https://www.wufoo.com/
+Content-Type: text/html; charset=iso-8859-1
+Vary: Accept-Encoding
+RTSS: 1-1163-2
+Set-Cookie: ep201=4HxYSlgXujLsvANzVEpF53HHJYc=;expires=Wed, 25-Sep-2013 03:52:33 GMT;path=/;domain=.wufoo.com;
+Set-Cookie: ep202=qlkmHgO1sYXJZ1NeZPpTondWXak=;expires=Thu, 25-Sep-2014 09:11:19 GMT;path=/;domain=.wufoo.com;
+X-Powered-By: Bananas and Rum
+

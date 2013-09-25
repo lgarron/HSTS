@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 178
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 00:55:52 GMT
+Location: http://instagram.com/
+Server: nginx
+Connection: keep-alive
+

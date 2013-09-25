@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 00:45:01 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=windows-874
+Set-Cookie: PREF=ID=4a42d1e9475fad6e:FF=0:TM=1380069901:LM=1380069901:S=7xqicCdpH_yOLTea; expires=Fri, 25-Sep-2015 00:45:01 GMT; path=/; domain=.google.co.th
+Set-Cookie: NID=67=lkSPgv2EfDr8IvLL1aKF2UBZqVwegcvhP-9_kAThaQ_oShg_J12V9uOjMEzsVFQR6PBpY2pVCbC6ztmwps5bBW0gU1FmXTpAtxj4IxLJXO4XZNWGfYkj_2lAk0pXOfrO; expires=Thu, 27-Mar-2014 00:45:01 GMT; path=/; domain=.google.co.th; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic
+Transfer-Encoding: chunked
+

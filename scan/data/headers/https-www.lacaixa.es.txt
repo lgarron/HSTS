@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: IBM_HTTP_Server
+Last-Modified: Thu, 25 Jul 2013 09:39:19 GMT
+ETag: "865e-5e1a-ccdbdfc0"
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 03:31:26 GMT
+Connection: keep-alive
+

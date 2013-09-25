@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 00:43:57 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: PHPSESSID=4m6hvht0ln85qr2reu1uakciq7; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://www.smashingmagazine.com/xmlrpc.php
+Location: http://www.smashingmagazine.com/
+Content-Length: 0
+X-User-Agent: curl/7.24.0 (x86_64-apple-darwin12.0) libcurl/7.24.0 OpenSSL/0.9.8y zlib/1.2.5
+X-Continum-Cache: 1
+

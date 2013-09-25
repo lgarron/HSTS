@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 02:36:03 GMT
+Server: Apache
+Set-Cookie: ckcy=2; expires=Thu, 25-Sep-2014 02:36:03 GMT; path=/; domain=dmm.com; httponly
+Set-Cookie: dmm_service=BFsAAx1L; path=/; domain=dmm.com; httponly
+Pragma: no-cache
+Cache-Control: no-cache
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

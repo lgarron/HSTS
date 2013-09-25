@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache,max-age=604800
+Content-Length: 209
+Content-Type: text/html
+Last-Modified: Thu, 03 Feb 2011 15:39:00 GMT
+Accept-Ranges: bytes
+ETag: "042187ab8c3cb1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: Axis Bank Ltd3
+Date: Wed, 25 Sep 2013 03:27:06 GMT
+Set-Cookie: BIGipServerRetail_pool=625387712.47873.0000; path=/
+

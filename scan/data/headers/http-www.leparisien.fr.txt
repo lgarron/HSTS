@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Age: 79
+Cache-Control: max-age=120
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 03:23:10 GMT
+Expires: Wed, 25 Sep 2013 03:23:49 GMT
+Server: ECAcc (lax/2845)
+Vary: Host,Accept-Encoding
+X-Front: 02
+X-Powered-By: Oxalide [02]
+X-VarnCache: HIT 176
+Connection: close
+

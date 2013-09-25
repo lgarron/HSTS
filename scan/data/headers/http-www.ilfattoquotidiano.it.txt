@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:34:07 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Vary: Accept-Encoding
+Last-Modified: Wed, 25 Sep 2013 03:32:12 GMT
+Vary: Cookie,Accept-Encoding,User-Agent
+X-Pingback: http://www.ilfattoquotidiano.it/xmlrpc.php
+

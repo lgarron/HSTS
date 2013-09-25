@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:27:09 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d7e6c82250434e54532f3e8e101c106fc1380079629006; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.1stwebdesigner.com
+Set-Cookie: __cfduid=d7e6c82250434e54532f3e8e101c106fc1380079629006; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.1stwebdesigner.com
+X-Powered-By: W3 Total Cache/0.9.3
+Last-Modified: Wed, 25 Sep 2013 03:26:44 GMT
+Expires: Wed, 25 Sep 2013 04:26:44 GMT
+Pragma: public
+Cache-Control: max-age=3580, public, must-revalidate, proxy-revalidate
+Vary: Accept-Encoding,User-Agent
+X-Pingback: http://www.1stwebdesigner.com/xmlrpc.php
+CF-RAY: b349df14a090701
+

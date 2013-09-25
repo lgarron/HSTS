@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:43:35 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Last-Modified: Wed, 25 Sep 2013 00:42:48 GMT
+Vary: 
+X-Pingback: http://www.xda-developers.com/xmlrpc.php
+

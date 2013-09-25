@@ -1,0 +1,16 @@
+HTTP/1.0 200 OK
+Cache-Control: public,max-age=600
+Content-Length: 169742
+Content-Type: text/html
+Last-Modified: Wed, 25 Sep 2013 00:46:05 GMT
+Accept-Ranges: bytes
+ETag: "6892c09d88b9ce1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ARR/2.5
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 01:00:13 GMT
+Expires: Wed, 25 Sep 2013 01:10:13 GMT
+Age: 196
+Powered-By-ChinaCache: HIT from 06035183S5
+Connection: close
+

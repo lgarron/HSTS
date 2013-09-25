@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: nginx/1.1.19
+Date: Wed, 25 Sep 2013 00:51:24 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 26830
+Connection: keep-alive
+Status: 200 OK
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "a547d5923ef376711eb7e3c2b92f9968"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: token=T3UUDtdv7cY0Ah7z; path=/; secure
+X-Request-Id: 537c44b59ccf4b02e5573281f827f01e
+X-Runtime: 0.334948
+X-Cacheable: NO
+Accept-Ranges: bytes
+X-Varnish: 831084551
+Age: 0
+Via: 1.1 varnish
+X-Cache: MISS
+

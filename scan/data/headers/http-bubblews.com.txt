@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 03:26:39 GMT
+Content-Type: text/html
+Connection: keep-alive
+Set-Cookie: __cfduid=dec27b6de776f3affbdd9b6e53456862f1380079599228; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.bubblews.com
+Set-Cookie: __cfduid=dec27b6de776f3affbdd9b6e53456862f1380079599228; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.bubblews.com
+Location: http://www.bubblews.com/
+CF-RAY: b349d372920012d
+

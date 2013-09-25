@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: NWS/1.0. (Unix)
+Cache-Control: no-transform
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 00:43:39 GMT
+Connection: keep-alive
+Vary: User-Agent
+Vary: Accept
+Set-Cookie: test=naukri.com; expires=Wed, 16-Sep-2048 00:43:39 GMT; path=/; domain=.naukri.com
+

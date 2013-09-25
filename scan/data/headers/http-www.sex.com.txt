@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Apache
+Set-Cookie: lngCode=en; expires=Thu, 25-Sep-2014 03:20:48 GMT; path=/; domain=.sex.com
+Content-language: en
+Set-Cookie: country=US; expires=Thu, 26-Sep-2013 03:20:48 GMT; path=/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:20:48 GMT
+X-Varnish: 410232868
+Age: 0
+Connection: keep-alive
+X-Cache: MISS
+Via: so-1-s-019
+

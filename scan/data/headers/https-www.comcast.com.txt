@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Length: 57615
+Content-Type: text/html; charset=utf-8
+Expires: -1
+ETag:   
+Server: Microsoft-IIS/7.5
+Set-Cookie: website#sc_wede=1; path=/
+X-AspNet-Version: 4.0.30319
+Set-Cookie: SHS=0; domain=comcast.com; path=/
+Set-Cookie: BSD=1; domain=comcast.com; path=/
+Set-Cookie: PSC=UCID=2aa5c5ca-c63c-46c0-976f-9374d71f4019&CTY=Stanford&ST=CA&Z=94305&EX=False&VA=1025&RC.MKT=8947; domain=comcast.com; expires=Thu, 25-Sep-2014 01:36:10 GMT; path=/
+Set-Cookie: SC=RC.USID=5a5b4054-61cf-426b-9a9c-e550e17e31d4&RC.SEG=35%3d1%7c13%3d1%7c61%3d0%7c41%3d0%7c39%3d0%7c44%3d0%7c4%3d0%7c14%3d0%7c3%3d0%7c&EX=False&GEO=True&L1ID=8617&RC.AGT=670&RC.BIL=CSG&RC.CRPN=0&RC.FRCHN=0&RC.LOC=-9223372036854775808&RC.MGMTA=0&RC.MKT=8947&RC.PRIN=6000&RC.SYS=8155&RC.CORP=603&RC.FRCH=16299&L2ID=11493&L3ID=9049&L4ID=8928&RC.IFL=N; domain=comcast.com; path=/
+Date: Wed, 25 Sep 2013 01:36:11 GMT
+Set-Cookie: wwwcomcast_cookie=9ef48d4d8ed66ee0804a7c67280366b4;
+

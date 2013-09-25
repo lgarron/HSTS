@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.cliphunter.com/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+X-Cacheable: NO:Not Cacheable
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:30:15 GMT
+X-Varnish: 324945266
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Cache: MISS
+Set-Cookie: SRV=F; path=/
+

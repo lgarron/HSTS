@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Vary:
+X-Pingback: http://sozcu.com.tr/xmlrpc.php
+Content-Type: text/html; charset=UTF-8
+Content-Length: 131304
+Accept-Ranges: bytes
+Date: Wed, 25 Sep 2013 03:25:33 GMT
+X-Varnish: 945054005 945025202
+Age: 973
+Via: 1.1 varnish
+Connection: close
+X-Server: 135.6
+X-Cache: HIT
+

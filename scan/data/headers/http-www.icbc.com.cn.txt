@@ -1,0 +1,16 @@
+HTTP/1.0 200 OK
+Content-Length: 7248
+Content-Type: text/html
+Content-Location: http://www.icbc.com.cn/index.html
+Last-Modified: Wed, 04 Sep 2013 14:02:43 GMT
+Accept-Ranges: bytes
+ETag: "803b06c77a9ce1:1109"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 00:41:17 GMT
+Powered-By-ChinaCache: MISS from CHN-BJ-E-3CL
+Expires: Wed, 25 Sep 2013 00:46:17 GMT
+Age: 144
+Powered-By-ChinaCache: HIT from USA-DA-3-3T2
+Connection: close
+

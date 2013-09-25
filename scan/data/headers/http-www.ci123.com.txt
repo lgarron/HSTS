@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 01:22:13 GMT
+Server: CIS/1.0
+Content-Length: 225981
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Cache-Lookup: HIT from nj-252.ci123.com:80
+Content-Type: text/html; charset=UTF-8
+Last-Modified: Wed, 25 Sep 2013 01:16:03 GMT
+ETag: "f002e3-372bd-4e72aff32bac0"
+X-Cache: HIT from ctl-zj-205-079.si2.p01.i01
+X-Cache: HIT from ctl-hb-146-015.si1.c01.i02
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 00:58:19 GMT
+Content-Type: text/html
+Connection: keep-alive
+Cache-Control: no-cache, must-revalidate
+Location: http://mihanblog.com/
+Server: Toofun/1.0.1
+

@@ -1,0 +1,7 @@
+HTTP/1.1 302 Found
+Date: Wed, 25 Sep 2013 00:51:23 GMT
+Server: Apache
+Location: http://www.sporx.com/
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: F5S=2534123712.20480.0000; expires=Wed, 25-Sep-2013 23:46:19 GMT; path=/
+

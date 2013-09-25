@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0
+Expires: Wed, 25 Sep 2013 00:48:10 GMT
+X-AVG: agar06
+Location: http://www.avg.com/us-en/homepage
+Content-Type: text/html
+Date: Wed, 25 Sep 2013 00:48:11 GMT
+Connection: keep-alive
+Set-Cookie: AVGCookiePercentage=2013-09-25; expires=Sun, 27-Sep-2015 00:48:10 GMT; path=/; domain=.avg.com
+Set-Cookie: avg_tracking_redirect=uKEv4o7GoCRnbsI386+a6drqM+JNNMqvxrScV3BRR2rf+pEE1c4f; path=/; httponly
+

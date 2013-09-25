@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx/1.2.6
+Content-Type: text/html; charset=utf-8
+Content-Length: 34334
+Status: 200
+X-Frame-Options: SAMEORIGIN
+ETag: "eb04d2d3bb2963a4087cdda3395d5c56"
+Cache-Control: max-age=0, private, must-revalidate
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=86400; includeSubdomains
+Date: Wed, 25 Sep 2013 03:29:31 GMT
+Connection: keep-alive
+Set-Cookie: bev=1380079771_eTYfkOyzpFhOaCa2; domain=.airbnb.com; path=/; expires=Fri, 25-Sep-2015 03:29:31 GMT; secure
+Set-Cookie: _csrf_token=V2_.airbnb.com_f13818238091dc3c; domain=.airbnb.com; path=/; secure
+Set-Cookie: _user_attributes=%7B%22curr%22%3A%22USD%22%2C%22guest_exchange%22%3A1%2C%22ref%22%3A%22100%22%7D; domain=.airbnb.com; path=/; secure
+Set-Cookie: flags=268435456; domain=.airbnb.com; path=/; secure
+Set-Cookie: _airbed_session_id=f5e3953abfc407fe27f7770b9dd1db69; domain=.airbnb.com; path=/; secure; HttpOnly
+Set-Cookie: mdr_browser=desktop; expires=Wed, 25-Sep-2013 05:29:31 GMT; path=/; domain=.airbnb.com
+

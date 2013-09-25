@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/0.9.8e-fips-rhel5 PHP/5.3.16
+X-Powered-By: PHP/5.3.16
+Vary: Cookie
+X-Pingback: http://www.grindtv.com/xmlrpc.php
+Last-Modified: Wed, 25 Sep 2013 02:31:38 GMT
+Cache-Control: max-age=300, must-revalidate
+X-Grind-Server: web08
+Content-Type: text/html; charset=UTF-8
+X-Cacheable: YES
+Date: Wed, 25 Sep 2013 02:35:12 GMT
+X-Varnish: 2188190602 2188187203
+Age: 214
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT
+

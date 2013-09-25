@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 4.0.30319
+Access-Control-Allow-Origin: *.iadvize.com
+ChmCacheInfo: PageInfo: From Cache - ZC: From Cache
+Content-Type: text/html; charset=utf-8
+Content-Length: 133922
+X-Cache-Vary: removed
+X-SM-Cache: Forced
+X-TTL: 3600
+Date: Wed, 25 Sep 2013 03:30:48 GMT
+Connection: keep-alive
+X-Cache: HIT
+Cache-Control: public
+X-Cache-Hits: 68
+X-Age: 1486
+X-Server: zzsrpc13
+Set-Cookie: GEOCC=US;path=/;
+

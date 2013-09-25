@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 03:43:50 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: client_id=258836EC471252C02141423513007C2A357449E2B25AA01D9A9A03D47922867F; domain=.bandcamp.com; path=/; expires=Mon, 25-Sep-2023 03:43:49 GMT
+Set-Cookie: session=1%09r%3A%5B%22nilZ0f0x1380080629%22%5D%09t%3A1380080629; domain=.bandcamp.com; path=/; expires=Sat, 09-Nov-2013 03:43:49 GMT
+Set-Cookie: homepage=hambulls; domain=.bandcamp.com; path=/; expires=Thu, 26-Sep-2013 03:43:49 GMT
+Set-Cookie: session=1%09r%3A%5B%22nilZ0f0x1380080629%22%5D%09t%3A1380080629; domain=.bandcamp.com; path=/; expires=Sat, 09-Nov-2013 03:43:49 GMT
+Set-Cookie: BACKENDID=bender06-4; path=/; domain=.bandcamp.com
+

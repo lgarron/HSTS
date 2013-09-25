@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Sep 2013 00:48:07 GMT
+Content-Type: text/html
+Last-Modified: Wed, 25 Sep 2013 00:47:34 GMT
+Vary: Accept-Encoding
+Expires: Wed, 25 Sep 2013 00:49:07 GMT
+Cache-Control: max-age=60
+X-Powered-By: schi_v1.02
+Age: 9
+Content-Length: 722968
+X-Cache: HIT from 236-48.D07071992.sina.com.cn
+

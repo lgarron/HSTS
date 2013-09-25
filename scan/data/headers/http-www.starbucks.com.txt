@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 45082
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/7.0
+p3p: CP="CAO PSA OUR"
+Set-Cookie: ASP.NET_SessionId=rpdwhfy32oxzav2fm035l3tf; domain=.starbucks.com; path=/; HttpOnly
+Set-Cookie: skin=; domain=.starbucks.com; path=/
+X-Powered-By: ASP.NET
+Date: Wed, 25 Sep 2013 02:36:37 GMT
+Set-Cookie: bbbbbbbbbbbbbbb=BLBKMHADAAAAAAAAPCGBCOAAAAAAAAAAEADAGLCCNNCCAAAADAAAJEEFAEEFAAAA; HttpOnly
+

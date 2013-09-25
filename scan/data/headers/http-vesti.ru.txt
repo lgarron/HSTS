@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 03:21:00 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Keep-Alive: timeout=10
+Location: http://www.vesti.ru/
+X-Frontend: nginx2.srv.rfn.ru
+X-Request-ID: 030cfd0bfe2889e5b73d0e45d6909f2e
+Expires: Thu, 26 Sep 2013 03:21:00 GMT
+Cache-Control: max-age=86400
+Set-Cookie: ngx_uid=wKgJ1lJCVpw+bA2YA5IOAg==; path=/
+

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Cache-Control: public, s-maxage=120, max-age=120
+Content-Length: 172610
+Content-Type: text/html
+Expires: Wed, 25 Sep 2013 00:50:51 GMT
+Server: Apache
+X-Cache: MISS from squid18.teamtalk.com
+X-WR-MODIFICATION: Content-Length
+Date: Wed, 25 Sep 2013 00:48:51 GMT
+Connection: keep-alive
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Apache
+Last-Modified: Mon, 16 Sep 2013 15:07:15 GMT
+ETag: "4e24-4e6818f3aaec0"
+Cache-Control: no-cache, no-store, private
+Expires: Wed, 25 Sep 2013 01:15:52 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-UA-Compatible: IE=Edge
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Content-Language: en
+Date: Wed, 25 Sep 2013 01:15:52 GMT
+Connection: keep-alive
+

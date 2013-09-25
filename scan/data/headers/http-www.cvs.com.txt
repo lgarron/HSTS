@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: CVSCOM
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 25 Sep 2013 04:34:37 GMT
+Connection: keep-alive
+Set-Cookie: JSESSIONID=9210EC06005638A200146F6E4A267583.commerce_107; Path=/; Expires=Wed, 25-Sep-2013 16:34:37 GMT; HttpOnly
+Set-Cookie: akaau=1380083977~id=57d0c62ed1c9ad35831b7a8db1c4d77c; path=/
+

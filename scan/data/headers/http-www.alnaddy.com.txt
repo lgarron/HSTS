@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2013 03:21:45 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Cache-Control: max-age=600
+Expires: Wed, 25 Sep 2013 03:31:45 GMT
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: SERVERID=SRV4; path=/
+Cache-control: private
+

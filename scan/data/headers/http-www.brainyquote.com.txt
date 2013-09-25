@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Wed, 25 Sep 2013 00:48:46 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d3eecb5809bbf4920b2535e68d5f3879f1380070126171; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.brainyquote.com
+Set-Cookie: __cfduid=d3eecb5809bbf4920b2535e68d5f3879f1380070126171; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.brainyquote.com
+Age: 129
+Cache-Control: public, s-maxage=1200, max-age=1200
+Content-Language: en-US
+Expires: Wed, 25 Sep 2013 01:06:36 GMT
+Last-Modified: Wed, 25 Sep 2013 00:46:36 GMT
+Set-Cookie: JSESSIONID=E0C5364E615A5CE24A7AF6ADF023E872; Path=/; HttpOnly
+Set-Cookie: AWSELB=179BE30D1ABAC7229273423ED5D5A397A1A59865EF416049381AED3AFDEB5F08A17A5AF1F97178229D9EBEEA94B1A4731818A4DDFF21D126C8B8E3134EF7EF57E713FC3A7B227FE230431390AACEA8EB936A7BF1CF;PATH=/;HTTPONLY
+Vary: Accept-Encoding, User-Agent
+X-Cache-Hits: 59
+X-Page-Speed: 1.5.27.3-3005
+X-Varnish: 773629997 773626695
+X-Varnish-Cache: HIT
+CF-RAY: b33b5f09be00295
+

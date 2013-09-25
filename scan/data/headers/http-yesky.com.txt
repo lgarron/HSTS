@@ -1,0 +1,9 @@
+HTTP/1.0 301 Moved Permanently
+Server: nginx
+Date: Wed, 25 Sep 2013 00:47:58 GMT
+Content-Type: text/html
+Location: http://www.yesky.com/
+X-Cache: MISS from bj139
+Via: 1.1 bj139:80 (squid/2.7.STABLE9)
+Connection: close
+

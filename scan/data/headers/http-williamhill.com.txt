@@ -1,0 +1,13 @@
+HTTP/1.0 302 Moved Temporarily
+Date: Wed, 25 Sep 2013 02:37:17 GMT
+Server: Apache
+Location: http://www.williamhill.com/
+Cache-Control: max-age=3600
+Expires: Wed, 25 Sep 2013 03:37:17 GMT
+Content-Type: text/html; charset=iso-8859-1
+Age: 2928
+Content-Length: 0
+X-Cache: HIT from gibux110.live.williamhill.com
+X-Cache-Lookup: HIT from gibux110.live.williamhill.com:80
+Connection: close
+

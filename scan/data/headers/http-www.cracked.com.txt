@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Wed, 25 Sep 2013 00:52:38 GMT
+Expires: Wed, 25 Sep 2013 00:52:37 GMT
+Last-Modified: Wed, 25 Sep 2013 00:13:35 GMT
+Pragma: no-cache
+Server: ECS (lax/28BA)
+Set-Cookie: dmp=desktop:default; path=/; domain=.cracked.com; expires=Wednesday, 09-Oct-2013 00:52:38 GMT
+X-Cache: HIT
+x-dmp-cookie: desktop:default
+X-Powered-By: PHP/5.3.8
+X-UA-Compatible: IE=Edge,chrome=1
+Content-Length: 72918
+

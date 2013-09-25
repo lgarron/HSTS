@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 25 Sep 2013 03:23:49 GMT
+Server: Apache/2.2.22 (FreeBSD) DAV/2 PHP/5.3.10 with Suhosin-Patch mod_ssl/2.2.22 OpenSSL/0.9.8q
+X-Powered-By: PHP/5.3.10
+X-Pingback: http://cpanel.net/xmlrpc.php
+Location: https://cpanel.net/
+Cache-Control: max-age=300
+Expires: Wed, 25 Sep 2013 03:28:49 GMT
+Vary: Accept-Encoding,Cookie
+Content-Type: text/html; charset=UTF-8
+
