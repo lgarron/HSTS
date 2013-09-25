@@ -1,6 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Cache-Control: no-cache
-Content-length: 0
-Location: http://www.filestube.com/
-Connection: close
-

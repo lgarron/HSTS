@@ -1,6 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:20:01 GMT
-Server: Apache/2.2.14 (Unix)
-Location: http://www.pcgames.com.cn/
-Content-Type: text/html; charset=iso-8859-1
-

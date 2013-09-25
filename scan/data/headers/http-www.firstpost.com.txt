@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: W18-HTTP
-Last-Modified: Wed, 25 Sep 2013 04:59:18 GMT
-X-Pingback: http://www.firstpost.com/xmlrpc.php
-Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 05:09:07 GMT
-Connection: keep-alive
-

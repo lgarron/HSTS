@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:14:20 GMT
-Server: Apache
-Location: http://www.finn.no/
-Vary: Accept-Encoding
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: finnlb-finnweb=KJCFFLFA; Expires=Fri, 25-Oct-2013 15:14:20 GMT; Path=/
-

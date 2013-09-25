@@ -1,6 +1,0 @@
-HTTP/1.1 302 Object Moved
-Location: http://www.fanatik.com.tr/
-Content-Type: text/html
-Cache-Control: private
-Connection: close
-

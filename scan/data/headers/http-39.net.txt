@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx/0.7.64
-Date: Wed, 25 Sep 2013 05:20:03 GMT
-Content-Type: text/html
-Content-Length: 185
-Connection: keep-alive
-Location: http://www.39.net/
-X-NG: z1
-

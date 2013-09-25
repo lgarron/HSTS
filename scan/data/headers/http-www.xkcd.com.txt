@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Content-Type: text/html; charset=utf-8
-Accept-Ranges: bytes
-ETag: "3124512789"
-Last-Modified: Wed, 25 Sep 2013 04:00:06 GMT
-Content-Length: 6304
-Date: Wed, 25 Sep 2013 05:08:39 GMT
-Server: lighttpd/1.4.28
-

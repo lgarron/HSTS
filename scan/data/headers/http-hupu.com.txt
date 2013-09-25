@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: [SA: Life HoopCHINA/WEB-SERVER ][AD: http://www.hoopchina.com ]
-Date: Wed, 25 Sep 2013 05:11:02 GMT
-Content-Type: text/html
-Content-Length: 184
-Connection: keep-alive
-Location: http://www.hupu.com/
-X-Server: wwwhc-web-54.nba
-

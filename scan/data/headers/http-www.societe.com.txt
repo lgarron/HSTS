@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:15:16 GMT
-Server: Apache
-Set-cookie: mobileNavigation=0; path=/; domain=.societe.com; expires=Thu, 26-Sep-2013 05:15:16 GMT
-Vary: Accept-Encoding
-Content-Type: text/html
-

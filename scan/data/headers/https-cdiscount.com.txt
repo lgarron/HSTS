@@ -1,7 +1,0 @@
-HTTP/1.1 302 Object Moved
-Server: NS
-Location: http://www.cdiscount.com/
-Content-Type: text/html
-Cache-Control: private
-Connection: close
-

@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Location: http://www.caixa.gov.br/
-Set-Cookie: security=true; path=/
-Connection: close
-Content-Length: 0
-Content-Type: text/html; charset=UTF-8
-

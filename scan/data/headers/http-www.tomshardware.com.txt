@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache
-Content-Type: text/html; charset=UTF-8
-X-VARNISH-D: RpFpDp
-X-Served-By: bom-proxy-fr4
-Date: Wed, 25 Sep 2013 05:10:17 GMT
-Connection: keep-alive
-Set-Cookie: userConnected=deleted; expires=Tue, 25-Sep-2012 05:10:16 GMT; path=/; domain=.tomshardware.com
-

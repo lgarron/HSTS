@@ -1,6 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:22:33 GMT
-Server: Apache/2.2.24 (FreeBSD) PHP/5.4.16 mod_ssl/2.2.24 OpenSSL/0.9.8y DAV/2
-X-Powered-By: PHP/5.4.16
-Content-Type: text/html
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.4.2
-Date: Wed, 25 Sep 2013 05:11:11 GMT
-Content-Type: text/html; charset=utf-8
-Content-Length: 75694
-Connection: keep-alive
-Expires: Wed, 25 Sep 2013 05:41:11 GMT
-Cache-Control: max-age=1800
-

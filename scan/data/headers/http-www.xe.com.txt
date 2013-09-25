@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:15:04 GMT
-Server: Apache/2.2.22 (Ubuntu)
-Set-Cookie: ID=128.12.244.4.1380086104419421; path=/; expires=Tue, 20-Sep-33 05:15:04 GMT
-Vary: Accept-Encoding,User-Agent
-Connection: close
-Content-Type: text/html
-X-Pad: avoid browser bug
-

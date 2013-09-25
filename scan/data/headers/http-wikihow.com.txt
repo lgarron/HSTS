@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Location: http://www.wikihow.com/
-Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 05:15:08 GMT
-Connection: close
-X-wH-c: front1,m
-

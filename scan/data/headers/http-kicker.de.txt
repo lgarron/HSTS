@@ -1,7 +1,0 @@
-HTTP/1.0 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:17:56 GMT
-Content-Length: 0
-Location: http://www.kicker.de/
-X-Cache: MISS from accel5-2.kicker.de
-X-Cache: MISS from accel5-1.kicker.de
-

@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:19:50 GMT
-Server: Apache
-X-Powered-By: PHP/5.3.21
-Set-Cookie: faststats_hit=1; path=/
-Vary: User-Agent,Accept-Encoding
-Content-Type: text/html; charset=utf-8
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: SFDC
-Vary: Accept-Encoding
-Last-Modified: Wed, 25 Sep 2013 05:19:39 GMT
-Set-Cookie: web_core_geoCountry=us; Domain=.salesforce.com; Expires=Thu, 25-Sep-2014 05:19:39 GMT; Path=/
-Content-Type: text/html; charset=UTF-8
-Content-Length: 104820
-Date: Wed, 25 Sep 2013 05:19:39 GMT
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Set-Cookie: PHPSESSID=d442b909242dfa4099a94c3e70009a4a; path=/
-Expires: Thu, 19 Nov 1981 08:52:00 GMT
-Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-Pragma: no-cache
-Content-type: text/html; charset=utf-8
-nnCoection: close
-Date: Wed, 25 Sep 2013 05:21:10 GMT
-

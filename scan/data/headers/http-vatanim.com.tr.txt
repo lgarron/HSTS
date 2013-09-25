@@ -1,9 +1,0 @@
-HTTP/1.1 302 Object moved
-Cache-Control: private
-Content-Length: 156
-Content-Type: text/html
-Location: http://www.gazetevatan.com/root.asp
-Server: Microsoft-IIS/7.5
-Set-Cookie: ASPSESSIONIDCSSRQDBT=DPOPEHBBDGIAILFHOFIEDAHK; path=/
-Date: Wed, 25 Sep 2013 05:15:26 GMT
-

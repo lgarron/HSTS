@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-ETag: "Comp:medium/2471/15233/b5772e54"
-Last-Modified: Tue, 17 Sep 2013 15:10:46 GMT
-Content-Type: text/html
-X-Turbo-Control: set_public_response, set_mustbecachable_response, set_cachable_response
-Expires: Wed, 25 Sep 2013 05:07:46 GMT
-Date: Wed, 25 Sep 2013 05:07:46 GMT
-Connection: keep-alive
-

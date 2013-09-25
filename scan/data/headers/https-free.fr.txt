@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:15:29 GMT
-Server: Apache
-Location: http://www.free.fr/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-

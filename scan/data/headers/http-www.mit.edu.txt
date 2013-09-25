@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache/1.3.41 (Unix) mod_ssl/2.8.31 OpenSSL/0.9.8j
-Last-Modified: Wed, 25 Sep 2013 04:01:05 GMT
-ETag: "10e81f60-38b0-52426001"
-X-Cnection: close
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 05:12:54 GMT
-Connection: keep-alive
-

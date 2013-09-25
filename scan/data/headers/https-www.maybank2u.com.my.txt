@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: Sun-ONE-Web-Server/6.1
-Content-Type: text/html
-Last-Modified: Tue, 10 Jul 2001 17:24:18 GMT
-ETag: W/"78-3b4b3a42"
-Date: Wed, 25 Sep 2013 05:23:14 GMT
-Connection: keep-alive
-Set-Cookie: BIGIPSourceServerSite=m001;path=/;
-

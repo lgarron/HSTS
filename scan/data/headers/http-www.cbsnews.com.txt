@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Content-Language: en-US
-Content-Type: text/html; charset=UTF-8
-P3P: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa IVAi IVDi CONi OUR OTRi IND PHY ONL UNI FIN COM NAV INT DEM STA"
-Cache-Control: max-age=31
-Expires: Wed, 25 Sep 2013 05:08:59 GMT
-Date: Wed, 25 Sep 2013 05:08:28 GMT
-Connection: keep-alive
-

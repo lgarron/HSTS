@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:16:53 GMT
-Server: Apache/2.2.3 (CentOS)
-X-Powered-By: PHP/5.1.6
-Set-Cookie: source_ip=128.12.244.4; expires=Sat, 28-Sep-2013 16:36:53 GMT; path=/; domain=.imagevenue.com
-Set-Cookie: tsctr=1380086213T; expires=Wed, 29-Mar-2023 10:36:53 GMT; path=/; domain=.imagevenue.com
-Connection: close
-Content-Type: text/html; charset=UTF-8
-

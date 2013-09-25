@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Transfer-Encoding: chunked
-Location: http://lenovo.com/us/en/#ss
-Server: Microsoft-IIS/7.5
-X-Powered-By: Servlet/3.0 JSP/2.2
-Date: Wed, 25 Sep 2013 05:07:04 GMT
-

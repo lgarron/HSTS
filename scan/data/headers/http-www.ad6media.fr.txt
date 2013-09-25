@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 05:09:24 GMT
-Content-Type: text/html
-Connection: keep-alive
-Set-Cookie: lang=fr; expires=Tue, 24-Dec-2013 05:09:24 GMT; path=/; domain=.ad6media.fr
-

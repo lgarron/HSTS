@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache/2.2.3 (Red Hat)
-Content-Type: text/html
-X-Origin-Server: web21:sb10_cache03
-Cache-Control: public, max-age=30
-Expires: Wed, 25 Sep 2013 05:21:54 GMT
-Date: Wed, 25 Sep 2013 05:21:24 GMT
-Connection: keep-alive
-

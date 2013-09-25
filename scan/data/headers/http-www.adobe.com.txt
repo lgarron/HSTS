@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:18:37 GMT
-Server: Apache
-X-Adobe-Content: WCMS
-Accept-Ranges: bytes
-Cache-Control: max-age=900
-Expires: Wed, 25 Sep 2013 05:33:37 GMT
-Content-Type: text/html; charset=UTF-8
-

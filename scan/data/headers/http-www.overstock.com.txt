@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:06:43 GMT
-Set-Cookie: SSLB=A; path=/; domain=www.overstock.com
-Vary: Accept-Encoding
-Cache-Control: max-age=0, no-cache
-Content-Type: text/html;charset=iso-8859-1
-

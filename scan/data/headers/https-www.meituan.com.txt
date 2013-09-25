@@ -1,7 +1,0 @@
-HTTP/1.1 403 Forbidden
-Server: Tengine
-Date: Wed, 25 Sep 2013 05:16:23 GMT
-Content-Type: text/html
-Content-Length: 254
-Connection: keep-alive
-

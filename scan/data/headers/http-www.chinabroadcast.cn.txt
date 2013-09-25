@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache
-Content-Type: text/html
-Cache-Control: max-age=7200
-Date: Wed, 25 Sep 2013 05:21:57 GMT
-Connection: keep-alive
-

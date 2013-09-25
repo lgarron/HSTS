@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:05:52 GMT
-Server: nginx/0.8.32
-Content-Type: text/html
-Transfer-Encoding: chunked
-Age: 757
-X-Via: 1.1 zjjx163:8105 (Cdn Cache Server V2.0), 1.1 fjpt181:9080 (Cdn Cache Server V2.0)
-Connection: keep-alive
-

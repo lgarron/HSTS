@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:11:48 GMT
-Server: Apache
-Location: http://www.edmunds.com/
-Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: LAX1_RSID=c667d388189855b1099335f20b101f47;Max-Age=30;Path=/;Version=1;Domain=.edmunds.com;
-Set-Cookie: LAX1_RSID=c667d388189855b1099335f20b101f47;Max-Age=30;Path=/;Version=1;Domain=.edmunds-media.com;
-X-Environment: Prod-2
-

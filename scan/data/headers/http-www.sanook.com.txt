@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Etag: 120de9c3ed306ed7381f986224383f31
-Vary: Accept-Encoding
-Cache-Control: private, max-age=0
-Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 05:14:20 GMT
-Age: 202
-Connection: keep-alive
-

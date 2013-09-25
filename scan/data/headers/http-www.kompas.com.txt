@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:08:06 GMT
-Server: Apache
-Set-Cookie: K_SID=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%225912c58b898010107c2ea6d071000689%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22128.12.244.4%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_8_5%29+App%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1380085686%3B%7D6a4bc57264b00d09e55ca342c65cca27; expires=Wed, 25-Sep-2013 07:08:06 GMT; path=/; domain=.kompas.com
-Connection: close
-Content-Type: text/html; charset=UTF-8
-Set-Cookie: BIGipServerkompas.com_wp_pool=1796026890.20480.0000; path=/
-

@@ -1,6 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 05:14:23 GMT
-Content-Type: text/html; charset=utf-8
-Connection: close
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:19:06 GMT
-Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g
-X-Powered-By: PHP/5.2.6-1+lenny16
-Vary: Accept-Encoding
-Connection: close
-Content-Type: text/html
-X-Pad: avoid browser bug
-

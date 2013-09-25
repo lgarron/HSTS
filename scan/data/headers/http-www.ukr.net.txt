@@ -1,9 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: nginx
-Date: Wed, 25 Sep 2013 05:08:09 GMT
-Content-Type: text/html
-Content-Length: 154
-Connection: keep-alive
-Location: http://www.disney.com
-Set-Cookie: uid=1CpM/VJCb7kXXAh8BJ8NAg==; expires=Thu, 25-Sep-14 05:08:09 GMT; domain=.ukr.net; path=/
-

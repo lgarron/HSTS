@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 05:14:09 GMT
-Content-Type: text/html; charset=utf-8
-Connection: keep-alive
-Vary: Accept-Encoding
-P3P: CP="ALL ADM DEV PSAi COM OUR OTRo STP IND ONL"
-Set-Cookie: tmgioct=5242712135e8470973666150; expires=Sat, 23-Sep-2023 05:14:09 GMT; path=/; httponly
-

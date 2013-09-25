@@ -1,8 +1,0 @@
-HTTP/1.1 403 Forbidden
-Server: nginx
-Date: Wed, 25 Sep 2013 05:09:32 GMT
-Content-Type: text/html
-Content-Length: 564
-Connection: keep-alive
-Set-Cookie: CSNUtId=ac101911-5242-700c-7bc5-73a0141dac02; expires=Sat, 23-Sep-23 05:09:32 GMT; domain=.wayfair.com; path=/
-

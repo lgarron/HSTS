@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:11:42 GMT
-Server: Taleo Web Server 8
-Last-Modified: Fri, 30 Aug 2013 15:09:48 GMT
-Accept-Ranges: bytes
-Content-Length: 350
-Content-Type: text/html
-

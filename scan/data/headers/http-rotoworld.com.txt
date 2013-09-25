@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 148
-Content-Type: text/html; charset=UTF-8
-Location: http://www.rotoworld.com/
-Server: Microsoft-IIS/7.5
-X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 05:08:09 GMT
-Set-Cookie: pers_cookie_insert_nbc.rotoworld.com_80=1589891648.20480.0000; expires=Thu, 26-Sep-2013 05:08:10 GMT; path=/
-

@@ -1,9 +1,0 @@
-HTTP/1.0 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:19:14 GMT
-Server: Apache
-Location: http://www.typepad.com/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-Connection: keep-alive
-Keep-Alive: timeout=30, max=100
-

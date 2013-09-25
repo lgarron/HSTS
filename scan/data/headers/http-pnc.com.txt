@@ -1,6 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:09:35 GMT
-Location: https://www.pnc.com/webapp/unsec/Gateway.do?siteArea=/pnccorp/PNC/Home
-Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: NSC_q*epuew-w0-mc*80=ffffffff098b5a0245525d5f4f58455e445a4a4229f1;path=/;httponly
-

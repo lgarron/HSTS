@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Location: http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp
-Content-Type: text/html; charset=iso-8859-1
-Content-Length: 0
-Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 05:22:45 GMT
-Connection: keep-alive
-

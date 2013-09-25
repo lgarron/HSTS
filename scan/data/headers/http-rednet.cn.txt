@@ -1,9 +1,0 @@
-HTTP/1.1 302 Redirect
-Content-Length: 144
-Content-Type: text/html; charset=UTF-8
-Location: http://www.rednet.cn/
-Server: Microsoft-IIS/7.5
-Date: Wed, 25 Sep 2013 05:09:40 GMT
-Connection: Keep-alive
-Keep-Alive: timeout=15, max=100
-

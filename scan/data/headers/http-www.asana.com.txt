@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 05:11:19 GMT
-Location: https://asana.com/
-Server: Apache
-Connection: keep-alive
-

@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: zen
-Date: Wed, 25 Sep 2013 05:14:23 GMT
-Content-Type: text/html
-Connection: close
-Content-Length: 142
-Location: http://jang.com.pk/
-X-Powered-By: ASP.NET
-

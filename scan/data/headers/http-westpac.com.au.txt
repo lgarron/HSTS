@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:22:35 GMT
-Server: IBM_HTTP_Server
-Location: http://www.westpac.com.au/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: prd-WestpacWeb1-p1-az=!PcWbeVf3TNQAMPlwsapIqjHuWaN/217YfO1vol2FdQ05exV97h4jzoKR43OM3JI4cQS1hXX+WeNZ2Q==; path=/
-

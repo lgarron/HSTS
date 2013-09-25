@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:23:42 GMT
-Server: Apache/2.2.14
-Location: http://www.dnaindia.com/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-

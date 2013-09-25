@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:24:07 GMT
-Server: Microsoft-IIS/6.0
-X-Powered-By: ASP.NET
-Location: /personal.ashx
-Cache-Control: private
-Content-Length: 0
-

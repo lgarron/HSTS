@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:13:17 GMT
-Content-Type: text/html
-Connection: keep-alive
-Content-Length: 185
-Location: http://www.fumu.com/
-

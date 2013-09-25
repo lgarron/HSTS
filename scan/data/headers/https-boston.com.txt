@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:06:45 GMT
-Accept-Ranges: bytes
-Served-By: cage
-Content-Type: text/html
-Server: Boston.com Frontend
-Set-Cookie: bcpage=0;expires=Thu, 30-Aug-2018 05:06:44 GMT;path=/;domain=boston.com;
-

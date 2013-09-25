@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Content-Type: text/html
-Accept-Ranges: bytes
-Last-Modified: Wed, 25 Sep 2013 04:22:22 GMT
-Content-Length: 43694
-Date: Wed, 25 Sep 2013 05:16:32 GMT
-Server: ch-sc-dr1
-

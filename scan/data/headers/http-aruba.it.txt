@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:19:57 GMT
-Content-Length: 143
-Content-Type: text/html
-Location: http://www.aruba.it/
-Server: Microsoft-IIS/6.0
-X-Powered-By: ASP.NET
-

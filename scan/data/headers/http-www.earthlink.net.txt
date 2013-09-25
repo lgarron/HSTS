@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: elnws
-Date: Wed, 25 Sep 2013 05:09:37 GMT
-Content-Type: text/html;charset=UTF-8
-Connection: keep-alive
-Vary: Accept-Encoding
-Set-Cookie: WWWSLB=90
-Set-Cookie: JSESSIONID=A058342F0DCD7E977B0E9ACF3A025694; Path=/; HttpOnly
-

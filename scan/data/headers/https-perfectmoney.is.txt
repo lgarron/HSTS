@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 07:06:50 GMT
-Content-Type: text/html; charset=UTF-8
-Connection: keep-alive
-Keep-Alive: timeout=15
-Accept-Ranges: bytes
-X-Frame-Options: SAMEORIGIN
-

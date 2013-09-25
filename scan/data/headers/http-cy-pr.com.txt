@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: CY-PR.comDate: Wed, 25 Sep 2013 05:23:07 GMT
-Content-Type: text/html
-Content-Length: 178
-Connection: keep-alive
-Location: http://www.cy-pr.com/
-

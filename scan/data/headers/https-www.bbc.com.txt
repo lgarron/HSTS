@@ -1,9 +1,0 @@
-HTTP/1.1 302 Found
-Server: Apache
-Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 05:14:25 GMT
-Location: http://www.bbc.co.uk/
-Transfer-Encoding: chunked
-Connection: Keep-Alive
-Set-Cookie: BBC-UID=c5d2b48297910371e44934121060f5052effce253070f0dca2a9735f99b2dc3f0Mozilla%2f5%2e0%20%28Macintosh%3b%20Intel%20Mac%20OS%20X%2010%5f8%5f5%29%20AppleWebKit%2f537%2e36%20%28KHTML%2c%20like%20Gecko%29%20Chrome%2f29%2e0%2e1547%2e76%20Safari%2f537%2e26; expires=Sun, 24-Sep-17 05:14:25 GMT; path=/; domain=bbc.co.uk;
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:07:26 GMT
-Server: Apache
-Set-Cookie: JSESSIONID=689E9C6F17981018871E2167945BEE5A; Path=/; HttpOnly
-X-CB-Server: CAROL
-Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-Vary: Accept-Encoding,User-Agent
-Content-Type: text/html;charset=utf-8
-

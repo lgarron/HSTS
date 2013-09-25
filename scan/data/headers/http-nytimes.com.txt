@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:13:01 GMT
-Server: Apache
-Location: http://www.nytimes.com/
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

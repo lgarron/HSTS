@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache-Coyote/1.1
-Etag: 218ff53
-Expires: Wed, 25 Sep 2013 05:05:24 GMT
-Content-Type: text/html;charset=UTF-8
-Date: Wed, 25 Sep 2013 05:13:04 GMT
-Connection: keep-alive
-

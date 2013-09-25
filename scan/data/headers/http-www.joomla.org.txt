@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:26:14 GMT
-Server: Apache
-Set-Cookie: 912b085b9213021200bd7086c0dbccc9=fd3f5f8a981c75eb21c83ad711e3ecef; path=/
-P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
-Cache-Control: no-cache
-Pragma: no-cache
-Content-Type: text/html; charset=utf-8
-

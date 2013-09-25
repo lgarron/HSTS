@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 05:22:59 GMT
-Content-Type: text/html;charset=GBK
-Connection: keep-alive
-Set-Cookie: JSESSIONID=1E25DBAB1E133893367F76EEA5DFD069; Path=/
-Content-Length: 212991
-Set-Cookie: BIGipServerforum_web_pool=167837962.20480.0000; path=/
-

@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Type: text/html
-Location: http://bleacherreport.com/
-Server: nginx/1.2.6 + Phusion Passenger 3.0.19
-Status: 301
-Vary: User-Agent
-X-Powered-By: Phusion Passenger (mod_rails/mod_rack) 3.0.19
-Connection: keep-alive
-

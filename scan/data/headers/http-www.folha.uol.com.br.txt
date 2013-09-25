@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:25:53 GMT
-Server: Apache
-Content-Type: text/html
-Content-Length: 138673
-Vary: Accept-Encoding,User-Agent
-Cache-Control: no-store
-Pragma: no-cache
-

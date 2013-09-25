@@ -1,7 +1,0 @@
-HTTP/1.0 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:22:48 GMT
-Server: Apache/2.2.22 (Unix)
-Location: http://www.last.fm/
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

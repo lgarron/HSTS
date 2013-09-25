@@ -1,6 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.0.14
-Date: Tue, 24 Sep 2013 21:26:51 GMT
-Content-Type: text/html
-Connection: keep-alive
-

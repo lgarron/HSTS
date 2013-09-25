@@ -1,6 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: Oracle-iPlanet-Web-Server/7.0
-Date: Wed, 25 Sep 2013 05:17:26 GMT
-Location: http://www.norton.com/
-Content-length: 0
-

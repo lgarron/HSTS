@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx/1.2.9
-Date: Wed, 25 Sep 2013 05:06:42 GMT
-Content-Type: text/html
-Content-Length: 184
-Connection: close
-Location: http://www.porn.com/
-Set-Cookie: RNLBSERVERID=ded781; path=/
-

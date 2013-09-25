@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: VZW
-Date: Wed, 25 Sep 2013 05:25:03 GMT
-Location: http://www.verizonwireless.com/
-Content-length: 0
-Connection: close
-

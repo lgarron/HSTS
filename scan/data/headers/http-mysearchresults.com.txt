@@ -1,9 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:23:00 GMT
-Server: Apache/2.2.15 (Red Hat)
-Location: http://www.mysearchresults.com
-Content-Type: text/html; charset=iso-8859-1
-Connection: Keep-alive
-Keep-Alive: timeout=15, max=100
-Via: 1.1 ID-0000627501217310 uproxy-2
-

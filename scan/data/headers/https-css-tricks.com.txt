@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:16:15 GMT
-Server: Apache
-X-Pingback: http://css-tricks.com/xmlrpc.php
-Set-Cookie: redirect_count=1; path=/
-Location: http://css-tricks.com/
-X-Powered-By: PleskLin
-Content-Type: text/html; charset=UTF-8
-

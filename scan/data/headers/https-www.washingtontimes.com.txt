@@ -1,7 +1,0 @@
-HTTP/1.0 301 Moved Permanently
-Location: http://www.washingtontimes.com/
-Server: BIG-IP
-Connection: Keep-Alive
-Content-Type: text/html
-Content-Length: 0
-

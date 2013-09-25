@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:13:27 GMT
-Server: Apache
-Set-Cookie: TLTSID=359FB81C25A1102500BAE968EEB714D5; Path=/
-Set-Cookie: TLTUID=359FB81C25A1102500BAE968EEB714D5; Path=/; Expires=Wed, 25-Sep-2023 05:13:27 GMT
-Set-Cookie: Apache=128.12.244.4.1380086007087291; path=/
-Accept-Ranges: bytes
-Content-Type: text/html; charset=UTF-8
-

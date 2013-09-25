@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 142
-Content-Type: text/html; charset=UTF-8
-Location: http://chomikuj.pl/
-Server: Microsoft-IIS/7.5
-X-Server: m20
-Date: Wed, 25 Sep 2013 05:17:54 GMT
-Connection: close
-

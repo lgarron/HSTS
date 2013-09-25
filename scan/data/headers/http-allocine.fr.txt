@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 146
-Content-Type: text/html
-Location: http://www.allocine.fr/
-Server: Microsoft-IIS/6.0
-X-ServerName: WEBDIV1
-X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 05:13:21 GMT
-

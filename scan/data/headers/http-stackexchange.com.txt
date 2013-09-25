@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Cache-Control: private
-Content-Length: 44810
-Content-Type: text/html; charset=utf-8
-X-XRDS-Location: https://openid.stackexchange.com/xrds
-X-Frame-Options: SAMEORIGIN
-Date: Wed, 25 Sep 2013 05:11:24 GMT
-

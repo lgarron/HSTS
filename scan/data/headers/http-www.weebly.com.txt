@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:06:42 GMT
-Server: Apache
-Set-Cookie: wcid=sudjmpjgluje0vi7; expires=Wed, 09-Oct-2013 05:06:42 GMT; path=/
-Vary: Accept-Encoding,User-Agent
-X-Host: app-64-25.intern.weebly.net
-Content-Type: text/html; charset=UTF-8
-Set-Cookie: sto-id-editor=CPHLHLAK; Domain=weebly.com; Path=/
-

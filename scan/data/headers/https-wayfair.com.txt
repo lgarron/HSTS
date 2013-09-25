@@ -1,8 +1,0 @@
-HTTP/1.1 403 Forbidden
-Server: nginx
-Date: Wed, 25 Sep 2013 05:09:30 GMT
-Content-Type: text/html
-Content-Length: 564
-Connection: keep-alive
-Set-Cookie: CSNUtId=ac10190f-5242-700a-7bc5-73a0141d9202; expires=Sat, 23-Sep-23 05:09:30 GMT; path=/
-

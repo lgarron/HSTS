@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 04:57:00 GMT
-Server: Apache
-Accept-Ranges: bytes
-WebServer: VM-DMZ2-wwwsrc08
-Content-Type: text/html
-

@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 146
-Content-Type: text/html; charset=UTF-8
-Location: http://new.elfagr.org//
-Server: Microsoft-IIS/7.5
-X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 05:07:37 GMT
-Set-Cookie: presist=Iy30iho4N7+2hy3J3CbeWDcWXUJl6YbpZtpmKl5KZjZCSaem+FoSIVgTTGO3sx6ufrkmWtyt3h6x1qM=; path=/
-

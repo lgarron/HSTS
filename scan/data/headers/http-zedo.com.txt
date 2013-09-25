@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:21:19 GMT
-Server: Apache/2.2.25 (Unix) PHP/5.4.4
-X-Powered-By: PHP/5.4.4
-Location: http://www.zedo.com/
-Content-Type: text/html
-

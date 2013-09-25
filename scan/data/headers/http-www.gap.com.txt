@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache-Coyote/1.1
-Cache-Control: no-cache="set-cookie,set-cookie2"
-Content-Type: text/html;charset=UTF-8
-Date: Wed, 25 Sep 2013 05:19:32 GMT
-Connection: keep-alive
-

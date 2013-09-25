@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:11:18 GMT
-Server: Apache/2.2.15 (CentOS) mod_ssl/2.2.15 OpenSSL/1.0.0-fips
-Location: http://www.shutterfly.com/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-

@@ -1,6 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Location: http://www.hurriyet.com.tr/
-Connection: close
-Cache-Control: no-cache
-Pragma: no-cache
-

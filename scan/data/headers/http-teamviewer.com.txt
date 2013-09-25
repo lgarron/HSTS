@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 143
-Location: http://www.teamviewer.com/
-Server: Microsoft-IIS/7.5
-X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 05:09:22 GMT
-

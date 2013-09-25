@@ -1,7 +1,0 @@
-HTTP/1.1 401 Unauthorized
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 05:13:54 GMT
-Server: nginx
-WWW-Authenticate: Basic realm="Brave New Web Backend"
-Content-Length: 590
-

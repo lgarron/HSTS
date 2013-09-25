@@ -1,9 +1,0 @@
-HTTP/1.1 302 Moved
-Server: nginx
-Date: Wed, 25 Sep 2013 05:26:20 GMT
-Content-Type: text/html
-Connection: keep-alive
-X-Powered-By: PHP/5.3.10-1ubuntu3.8
-Set-Cookie: return_site=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.meneame.net
-Location: http://www.meneame.net/
-

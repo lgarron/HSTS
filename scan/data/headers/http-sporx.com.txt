@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:13:49 GMT
-Server: Apache
-Location: http://www.sporx.com/
-Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: BIGipServersporxf_pool=2047584448.20480.0000; path=/
-

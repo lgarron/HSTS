@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:24:41 GMT
-Server: Apache
-Accept-Ranges: bytes
-X-Powered-By: ModLayout/5.1
-Vary: Accept-Encoding
-Content-Type: text/html
-

@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: Apache
-Location: http://www.premierleague.com/en-gb.html
-Content-Length: 247
-Content-Type: text/html; charset=iso-8859-1
-Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 05:06:48 GMT
-Connection: keep-alive
-

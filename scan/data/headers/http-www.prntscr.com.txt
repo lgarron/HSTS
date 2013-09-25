@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.2.1
-Date: Wed, 25 Sep 2013 05:13:11 GMT
-Content-Type: text/html
-Connection: keep-alive
-X-Powered-By: PHP/5.4.6-1ubuntu1.2
-

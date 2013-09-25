@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:19:39 GMT
-Server: Apache
-Location: http://www.bigpoint.com/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-X-XTM-Node: pool-57-www-021097
-Connection: Close
-

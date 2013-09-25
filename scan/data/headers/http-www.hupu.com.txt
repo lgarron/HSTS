@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: [SA: Life HoopCHINA/WEB-SERVER ][AD: http://www.hoopchina.com ]
-Date: Wed, 25 Sep 2013 05:10:49 GMT
-Content-Type: text/html
-Connection: keep-alive
-Vary: Accept-Encoding
-X-Server: gbackendm-49
-

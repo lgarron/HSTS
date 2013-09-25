@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-X-Origin-Server: s222
-Last-Modified: Wed, 25 Sep 2013 05:15:04 GMT
-ETag: "2756990954"
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 05:19:51 GMT
-Connection: keep-alive
-

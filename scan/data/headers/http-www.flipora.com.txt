@@ -1,6 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: Apache-Coyote/1.1
-Location: http://login.flipora.com/login.jsp
-Content-Length: 0
-Date: Wed, 25 Sep 2013 05:14:47 GMT
-

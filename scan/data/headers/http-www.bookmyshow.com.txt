@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:18:20 GMT
-Server: BIGNET23
-Location: http://in.bookmyshow.com
-Cache-Control: max-age=0
-Expires: Wed, 25 Sep 2013 05:18:20 GMT
-Content-Type: text/html; charset=UTF-8
-

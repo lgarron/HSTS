@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.2.6
-Date: Wed, 25 Sep 2013 05:08:09 GMT
-Content-Type: text/html
-Connection: keep-alive
-P3P: CP="NON DSP COR ADMa OUR IND UNI COM NAV INT"
-Cache-Control: no-cache, no-store, must-revalidate
-Pragma: no-cache
-

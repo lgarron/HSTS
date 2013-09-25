@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: aris
-Location: http://www.wp.pl
-Content-type: text/html
-Set-Cookie: statid=c0e552beb4659ff4bf5c77c50ebc0b37:b24593:1380085996:v3; path=/; expires=Sat, 24-Sep-16 05:13:16 GMT
-Set-Cookie: statid=c0e552beb4659ff4bf5c77c50ebc0b37:b24593:1380085996:v3; domain=.wp.pl; path=/; expires=Sat, 24-Sep-16 05:13:16 GMT
-Connection: close
-

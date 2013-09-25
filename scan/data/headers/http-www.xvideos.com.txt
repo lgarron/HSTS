@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 05:19:02 GMT
-Content-Type: text/html
-Connection: keep-alive
-P3P: policyref="/p3p.xml", CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-

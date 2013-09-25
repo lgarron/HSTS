@@ -1,9 +1,0 @@
-HTTP/1.1 302 Found
-Cache-Control: private
-Content-Length: 136
-Content-Type: text/html; charset=utf-8
-Location: /en-us/default.aspx
-Server: Microsoft-IIS/7.5
-X-AspNet-Version: 4.0.30319
-Date: Wed, 25 Sep 2013 05:22:14 GMT
-

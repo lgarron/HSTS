@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:08:50 GMT
-Content-Type: text/html
-Connection: keep-alive
-Set-Cookie: CG=US:CA:Stanford; path=/
-Location: http://www.cnn.com/
-X-UA-Profile: desktop
-

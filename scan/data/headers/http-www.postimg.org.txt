@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:15:07 GMT
-Content-Type: text/html
-Connection: keep-alive
-Keep-Alive: timeout=10
-Location: http://postimg.org/
-

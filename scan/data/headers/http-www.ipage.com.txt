@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:18:48 GMT
-Content-Type: text/html; charset=iso-8859-1
-Connection: keep-alive
-Server: Apache
-X-Frame-Options: SAMEORIGIN
-Location: /ipage/index.html
-Set-Cookie: SESSION_ID=002cefd3b9ca3f2e2bec76e67ebac860; domain=.ipage.com; path=/
-

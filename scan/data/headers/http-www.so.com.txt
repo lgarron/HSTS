@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:17:16 GMT
-Content-Type: text/html
-Content-Length: 29336
-Last-Modified: Mon, 23 Sep 2013 10:43:06 GMT
-Connection: close
-Vary: Accept-Encoding
-Accept-Ranges: bytes
-

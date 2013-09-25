@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: AkamaiGHost
-Content-Length: 0
-Location: http://www.garmin.com/garmin/cms/site/us
-Date: Wed, 25 Sep 2013 05:19:15 GMT
-Connection: keep-alive
-

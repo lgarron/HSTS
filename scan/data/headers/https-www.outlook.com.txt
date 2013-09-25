@@ -1,8 +1,0 @@
-HTTP/1.1 302 Redirect
-Content-Length: 151
-Content-Type: text/html; charset=UTF-8
-Location: https://www.outlook.com/owa/
-Server: Microsoft-IIS/7.5
-X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 05:18:56 GMT
-

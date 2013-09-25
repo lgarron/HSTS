@@ -1,5 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Location: http://www.clicrbs.com.br/jsp/redirect.jsp?tab=00001&newsID=0&subTab=00000
-Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 05:21:37 GMT
-

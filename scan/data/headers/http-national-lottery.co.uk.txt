@@ -1,6 +1,0 @@
-HTTP/1.0 301 Moved Permanently
-location: http://national-lottery.co.uk/player/p/home.ftl
-Server: BigIP
-Connection: Keep-Alive
-Content-Length: 0
-

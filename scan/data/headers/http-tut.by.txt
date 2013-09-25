@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:16:31 GMT
-Content-Type: text/html
-Content-Length: 178
-Connection: close
-Location: http://www.tut.by/
-

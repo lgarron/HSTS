@@ -1,6 +1,0 @@
-HTTP/1.1 301 
-Content-Length: 0
-Location: http://www.expedia.com/
-P3P: policyref="/w3c/p3p.xml", CP="CAO DSP IND COR ADM CONo CUR CUSi DEV PSA PSD DELi OUR COM NAV PHY ONL PUR UNI"
-Date: Wed, 25 Sep 2013 05:19:46 GMT
-

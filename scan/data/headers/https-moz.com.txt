@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:10:30 GMT
-Content-Type: text/html
-Connection: keep-alive
-Location: http://moz.com
-Server-Name: dalmozwww03.dal.moz.com
-

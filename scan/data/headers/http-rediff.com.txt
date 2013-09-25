@@ -1,7 +1,0 @@
-HTTP/1.0 302 Moved Temporarily
-Server: AkamaiGHost
-Content-Length: 0
-Location: http://www.rediff.com/
-Date: Wed, 25 Sep 2013 05:06:42 GMT
-Connection: keep-alive
-

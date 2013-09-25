@@ -1,8 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:09:26 GMT
-Server: AllAbout/1.0.0
-Location: http://allabout.co.jp/
-Cache-Control: max-age=3600
-Expires: Wed, 25 Sep 2013 06:09:26 GMT
-Content-Type: text/html; charset=iso-8859-1
-

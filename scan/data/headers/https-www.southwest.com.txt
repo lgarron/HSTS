@@ -1,9 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: Apache-Coyote/1.1
-Location: http://www.southwest.com/flight/home.html;jsessionid=8DA1C13E94406AA18FF5A4155F611F2D
-X-Swa-ws: BADIS
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 05:21:27 GMT
-Connection: keep-alive
-Set-Cookie: JSESSIONID=8DA1C13E94406AA18FF5A4155F611F2D; Path=/flight
-

@@ -1,5 +1,0 @@
-HTTP/1.0 301 Moved Permanently
-Location: http://aweber.com/
-Connection: Keep-Alive
-Content-Length: 0
-

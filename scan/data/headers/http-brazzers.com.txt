@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:12:37 GMT
-Server: Apache
-Location: http://www.brazzers.com/
-Vary: Accept-Encoding
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

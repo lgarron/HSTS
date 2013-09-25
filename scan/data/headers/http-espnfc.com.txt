@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Content-Type: text/html;charset=UTF-8
-Cache-Control: max-age=600
-Date: Wed, 25 Sep 2013 05:13:43 GMT
-Connection: keep-alive
-P3P: CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONi OUR SAMo OTRo BUS PHY ONL UNI PUR COM NAV INT DEM CNT STA PRE"
-

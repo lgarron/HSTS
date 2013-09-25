@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:23:19 GMT
-Server: Apache/2.2.16 (Debian)
-X-Powered-By: PHP/5.3.8-1~dotdeb.1
-Cache-Control: max-age=0, private, no-store, no-cache, must-revalidate
-Vary: User-Agent,Accept-Encoding
-Connection: close
-Content-Type: text/html; charset=utf-8
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:24:57 GMT
-Server: Apache
-X-Powered-By: PHP/5.3.16
-Set-Cookie: favs=%7C%7C; expires=Thu, 25-Sep-2014 05:24:57 GMT; path=/; domain=.nudevista.com
-Set-Cookie: favs_count=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.nudevista.com
-Set-Cookie: exc=%7C%7C; expires=Thu, 25-Sep-2014 05:24:57 GMT; path=/; domain=.nudevista.com
-Content-Type: text/html
-

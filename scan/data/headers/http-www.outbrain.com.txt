@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:22:52 GMT
-Server: Apache
-X-Pingback: http://www.outbrain.com/xmlrpc.php
-Vary: Accept-Encoding,User-Agent
-Connection: close
-Content-Type: text/html; charset=UTF-8
-

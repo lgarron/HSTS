@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:15:03 GMT
-Server: Apache
-Location: http://www.dyndns.com/
-Vary: Accept-Encoding
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

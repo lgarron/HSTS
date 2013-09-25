@@ -1,6 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:25:18 GMT
-Server: Apache
-Location: http://www.nike.com/
-Content-Type: text/html; charset=iso-8859-1
-

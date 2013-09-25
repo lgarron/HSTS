@@ -1,6 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:08:52 GMT
-Server: Apache/2.0.63 (Unix) JRun/4.0
-Location: http://www.state.gov/index.htm
-Content-Type: text/html; charset=iso-8859-1
-

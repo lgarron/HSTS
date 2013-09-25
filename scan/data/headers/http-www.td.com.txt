@@ -1,9 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Location: http://www.td.com/about-tdbfg/our-business/index.jsp
-Content-Length: 236
-Content-Type: text/html; charset=iso-8859-1
-Vary: Accept-Encoding
-X-N: S
-Date: Wed, 25 Sep 2013 05:08:10 GMT
-Connection: keep-alive
-

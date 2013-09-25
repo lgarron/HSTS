@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: Polyvore Web Server
-Date: Wed, 25 Sep 2013 05:17:16 GMT
-Content-Type: text/html; charset=iso-8859-1
-Connection: keep-alive
-Location: http://www.polyvore.com/
-Vary: Accept-Encoding
-

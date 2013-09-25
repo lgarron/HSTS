@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/0.8.40
-Date: Wed, 25 Sep 2013 05:20:15 GMT
-Content-Type: text/html; charset=UTF-8
-Connection: close
-Set-Cookie: eco_sess=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2268290a74c2c69404b62e59c2ce7575ff%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A9%3A%22127.0.0.1%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_8_5%29+App%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221380086415%22%3B%7D2468b020e7763f939bfbb7cf5cd5b173; expires=Wed, 25-Sep-2013 17:20:15 GMT; path=/
-Vary: Accept-Encoding
-

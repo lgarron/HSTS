@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache
-P3P: CP='NO P3P'
-Content-Type: text/html; charset=utf-8
-Date: Wed, 25 Sep 2013 05:14:12 GMT
-Connection: keep-alive
-

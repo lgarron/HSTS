@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: n0
-Date: Wed, 25 Sep 2013 05:14:15 GMT
-Content-Type: text/html
-Content-Length: 150
-Connection: keep-alive
-Location: http://www.taringa.net/
-

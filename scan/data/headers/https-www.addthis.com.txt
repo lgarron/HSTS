@@ -1,9 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:07:51 GMT
-Server: Apache
-X-Powered-By: PHP/5.3.3
-Location: http://www.addthis.com/
-Vary: Accept-Encoding
-Connection: close
-Content-Type: text/html; charset=UTF-8
-

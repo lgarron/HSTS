@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:23:37 GMT
-Server: Apache
-Location: http://www.ryanair.com/en
-Vary: Accept-Encoding
-Content-Type: text/html
-

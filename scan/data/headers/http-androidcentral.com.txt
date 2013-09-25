@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: VISOR
-Date: Wed, 25 Sep 2013 05:13:37 GMT
-Content-Type: text/html
-Content-Length: 178
-Location: http://www.androidcentral.com/
-

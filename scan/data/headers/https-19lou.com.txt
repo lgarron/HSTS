@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 05:23:03 GMT
-Content-Type: text/html;charset=GBK
-Connection: keep-alive
-Set-Cookie: JSESSIONID=4D81B2A0942D3F8E3A1D1D24C287F772; Path=/
-Content-Length: 212991
-

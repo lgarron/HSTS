@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.2.7
-Date: Wed, 25 Sep 2013 05:17:26 GMT
-Content-Type: text/html
-Connection: close
-Vary: Accept-Encoding
-X-Powered-By: PHP/5.3.10-1ubuntu3.6
-

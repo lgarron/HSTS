@@ -1,5 +1,0 @@
-HTTP/1.0 301 Moved Permantenly
-Cache-Control: no-cache
-Connection: close
-Location: http://www.tv.com/
-

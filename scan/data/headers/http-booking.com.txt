@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:19:56 GMT
-Connection: keep-alive
-Location: http://www.booking.com/
-X-Recruiting: Like HTTP headers? Come write ours: booking.com/jobs
-

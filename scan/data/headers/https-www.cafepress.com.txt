@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 148
-Content-Type: text/html; charset=UTF-8
-Location: http://www.cafepress.com/
-CP: LVW25
-Date: Wed, 25 Sep 2013 05:09:30 GMT
-Connection: keep-alive
-

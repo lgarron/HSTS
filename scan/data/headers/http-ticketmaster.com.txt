@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:22:02 GMT
-Server: Apache
-Set-Cookie: SID=wbkobzr0uFnja6O4aNQetCzkR9XO__LhnctMw3YoWY7L9HZdjjQ9eQ6ZpZa66gKPra-GVPWLjhptb94u; path=/; domain=.ticketmaster.com
-Set-Cookie: BID=c_-bEi1hfytC1iwVc37OS_2MEUNhktANxQXJ7M5lVEo0-NGA1U86ChvnVrtyohzcYs1fi0C1VKhJVU8YcTeD; path=/; domain=.ticketmaster.com; expires=Fri, 01-Jan-2038 00:00:01 GMT
-Location: http://www.ticketmaster.com/
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

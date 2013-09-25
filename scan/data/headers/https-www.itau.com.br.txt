@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Last-Modified: Mon, 23 Sep 2013 20:06:34 GMT
-ETag: "32f89-15503-4e7128e8ee680"
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 05:11:02 GMT
-Connection: keep-alive
-

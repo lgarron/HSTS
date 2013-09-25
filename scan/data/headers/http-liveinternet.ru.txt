@@ -1,6 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:14:14 GMT
-Server: 0W/0.8e
-Content-Type: text/html; charset=windows-1251
-Location: http://www.liveinternet.ru/
-

@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:11:53 GMT
-Connection: keep-alive
-Retry-After: 0
-Location: http://www.y8.com/
-

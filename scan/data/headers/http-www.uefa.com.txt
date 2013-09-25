@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Cache-Control: public, max-age=120, must-revalidate
-Content-Type: text/html
-Server: Microsoft-IIS/7.5
-X-Powered-By: ASP.NET
-Date: Wed, 25 Sep 2013 05:23:23 GMT
-Connection: keep-alive
-

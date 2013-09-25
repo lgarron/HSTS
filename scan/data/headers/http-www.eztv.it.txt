@@ -1,5 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Location: https://eztv.it/
-Date: Wed, 25 Sep 2013 05:09:59 GMT
-Server: lighttpd/2.0.0
-

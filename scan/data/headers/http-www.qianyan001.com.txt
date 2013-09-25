@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:12:03 GMT
-Server: nginx/0.8.39
-Content-Type: text/html
-X-Via: 1.1 tjtg100:80 (Cdn Cache Server V2.0), 1.1 yfdx30:9494 (Cdn Cache Server V2.0)
-Connection: keep-alive
-

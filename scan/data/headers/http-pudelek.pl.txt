@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:26:19 GMT
-Content-Type: text/html
-Content-Length: 178
-Connection: close
-Location: http://www.pudelek.pl/
-Set-Cookie: SID=pudelg1; path=/
-

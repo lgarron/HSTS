@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Content-Type: text/html; charset=utf-8
-Cache-Control: max-age=86400
-Vary: Accept-Encoding
-Date: Wed, 25 Sep 2013 05:16:31 GMT
-Age: 20750
-Connection: keep-alive
-X-Hits: 143
-

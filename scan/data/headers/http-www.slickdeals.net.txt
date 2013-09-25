@@ -1,5 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Location: http://slickdeals.net/
-Date: Wed, 25 Sep 2013 05:06:50 GMT
-Server: Apache
-

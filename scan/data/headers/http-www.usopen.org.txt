@@ -1,9 +1,0 @@
-HTTP/1.1 303 See Other
-Server: IBM_HTTP_Server
-Location: http://www.usopen.org/index.html
-epKe-Alive: timeout=10, max=37
-Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 05:12:35 GMT
-Connection: keep-alive
-Set-Cookie: usta=198.189.255.205.141911380085955916; expires=Thu, 25-Sep-2014 05:12:35 GMT; path=/; domain=usopen.org
-

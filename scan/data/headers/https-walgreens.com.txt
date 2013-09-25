@@ -1,7 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Date: Wed, 25 Sep 2013 05:06:42 GMT
-Server: Apache
-Location: http://www.walgreens.com/
-Set-Cookie: JSESSIONID=5AueM3ZcMqMLdTxD1lwKGA**.p_dotcom98; Domain=.walgreens.com; Path=/
-Content-Type: httpd/unix-directory
-

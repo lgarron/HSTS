@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:19:35 GMT
-Server: Apache
-Location: http://www.capitalone.com/
-Cache-Control: max-age=0
-Expires: Wed, 25 Sep 2013 05:19:35 GMT
-Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: cookie_capitalone_com=BWrrx4LfDAYutF/acrY++BJnxMfz/KD2LQkY2ZcA+q9vAoQSdbPtSVrnu0OPToMPEMrEETg179FpHg==; path=/
-

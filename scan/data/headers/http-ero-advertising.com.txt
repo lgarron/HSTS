@@ -1,9 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: nginx/0.9.5
-Date: Wed, 25 Sep 2013 05:14:21 GMT
-Content-Type: text/html
-Connection: close
-X-Powered-By: PHP/5.3.5
-location: http://www.ero-advertising.com
-X-Compressor: 203
-

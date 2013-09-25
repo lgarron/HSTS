@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:25:05 GMT
-Server: LiteSpeed
-Connection: close
-X-Powered-By: PHP/5.2.17
-Content-Type: text/html
-

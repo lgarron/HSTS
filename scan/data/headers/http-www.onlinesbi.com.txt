@@ -1,5 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:13:08 GMT
-Location: https://www.onlinesbi.com/
-Content-Type: text/html; charset=iso-8859-1
-

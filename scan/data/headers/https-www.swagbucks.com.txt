@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Cache-Control: private
-Content-Length: 0
-Content-Type: text/html; charset=windows-1252
-P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
-Set-Cookie: __appname=app2; domain=.swagbucks.com; path=/; expires=Wed, 25-Sep-2013 07:01:00 GMT
-Set-Cookie: SBSESSIONID=aaaRwfb64zwew6tZBJtfu; path=/
-Date: Wed, 25 Sep 2013 05:18:19 GMT
-

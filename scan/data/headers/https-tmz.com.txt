@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:18:52 GMT
-Server: Apache/2.2.14 (Ubuntu)
-Location: http://www.tmz.com/
-Vary: Accept-Encoding
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

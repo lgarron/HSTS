@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:10:53 GMT
-Server: Apache
-Set-Cookie: pt=5e50d290eb510254fc25bc8d7c8b778b; expires=Thu, 26-Sep-2013 05:10:53 GMT
-Cache-Control: max-age=15
-Vary: Accept-Encoding
-Connection: close
-Content-Type: text/html
-

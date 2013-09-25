@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:13:26 GMT
-Location: http://slando.ua/
-Vary: Accept-Encoding
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

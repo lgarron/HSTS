@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx/0.8.55
-Date: Wed, 25 Sep 2013 05:13:22 GMT
-Content-Type: text/html
-Content-Length: 185
-Connection: close
-Location: http://www.lumosity.com/
-

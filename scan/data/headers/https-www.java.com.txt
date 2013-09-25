@@ -1,7 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: Sun-Java-System-Web-Server/7.0
-Date: Wed, 25 Sep 2013 05:16:34 GMT
-Location: https://www.java.com/en/
-Set-cookie: JSESSIONID=C0ED30C24585055697D537337805BD5C; Path=/
-Content-length: 0
-

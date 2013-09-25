@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:21:20 GMT
-Server: Apache/2.2.25 (Unix) PHP/5.4.4
-X-Powered-By: PHP/5.4.4
-X-Pingback: http://www.zedo.com/xmlrpc.php
-Link: <http://wp.me/P2QNRc-Xd>; rel=shortlink
-Content-Type: text/html; charset=UTF-8
-

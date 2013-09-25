@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Wed, 25 Sep 2013 05:11:46 GMT
-Content-Type: text/html; charset=utf-8
-Connection: close
-Vary: Accept-Encoding
-X-nc: HIT lax 249
-

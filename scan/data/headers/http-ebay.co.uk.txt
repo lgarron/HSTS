@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: Apache-Coyote/1.1
-ETag: 
-Last-Modified: Tue, 25 Sep 2013 04:23:30 GMT
-Location: http://www.ebay.co.uk
-RlogId: p4fug%60fvoiwi%3C%3Dsm%2Bpu56*2%3D4c200-141538e8d5f
-Content-Length: 0
-Date: Wed, 25 Sep 2013 05:19:12 GMT
-

@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 144
-Content-Type: text/html; charset=UTF-8
-Location: http://www.fixya.com/
-Server: Microsoft-IIS/7.5
-SRV: 0011100
-Date: Wed, 25 Sep 2013 05:11:56 GMT
-

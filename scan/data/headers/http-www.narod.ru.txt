@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:07:30 GMT
-Server: ZX_Spectrum/1997 (Sinclair_BASIC)
-Location: http://narod.yandex.ru/
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

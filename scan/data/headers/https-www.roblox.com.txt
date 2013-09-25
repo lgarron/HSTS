@@ -1,6 +1,0 @@
-HTTP/1.1 200 OK
-Content-Length: 152
-Refresh: 0;URL=http://www.roblox.com/
-P3P: CP="CAO DSP COR CURa ADMa DEVa OUR IND PHY ONL UNI COM NAV INT DEM PRE"
-Date: Wed, 25 Sep 2013 05:11:18 GMT
-

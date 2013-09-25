@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.0.8
-Date: Wed, 25 Sep 2013 05:14:30 GMT
-Content-Type: text/html; charset=utf-8
-Connection: keep-alive
-Expires: Mon, 24 Sep 2012 20:00:00 GMT
-Pragma: no-cache
-Cache-control: no-cache
-

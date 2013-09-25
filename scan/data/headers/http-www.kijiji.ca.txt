@@ -1,6 +1,0 @@
-HTTP/1.1 200 OK
-Content-Length: 0
-Server: confidential
-Date: Wed, 25 Sep 2013 05:06:45 GMT
-Connection: keep-alive
-

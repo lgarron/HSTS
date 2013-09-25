@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 05:16:08 GMT
-Location: http://www.whitepages.com/
-Connection: Keep-Alive
-Content-Length: 0
-

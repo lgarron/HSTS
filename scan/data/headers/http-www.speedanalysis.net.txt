@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.4.2
-Date: Wed, 25 Sep 2013 05:07:47 GMT
-Content-Type: text/html
-Connection: keep-alive
-Keep-Alive: timeout=2
-Vary: Accept-Encoding
-X-Powered-By: PHP/5.4.17
-

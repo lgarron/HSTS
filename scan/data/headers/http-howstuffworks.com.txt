@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Age: 1639
-Content-length: 237
-Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 04:56:22 GMT
-Location: http://www.howstuffworks.com/
-Server: Apache
-Connection: keep-alive
-

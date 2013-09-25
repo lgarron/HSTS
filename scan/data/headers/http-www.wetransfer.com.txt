@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-length: 184
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 05:06:39 GMT
-Location: https://www.wetransfer.com/
-Server: nginx/1.2.3
-Connection: keep-alive
-

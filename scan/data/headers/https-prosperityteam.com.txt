@@ -1,7 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Date: Wed, 25 Sep 2013 05:18:05 GMT
-Server: Apache
-X-Powered-By: PHP/5.2.17
-Location: http://prosperityteam.com/login.php
-Content-Type: text/html
-

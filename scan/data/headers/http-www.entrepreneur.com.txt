@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache/2.2.15 (Scientific Linux)
-X-Powered-By: PHP/5.3.3
-Content-Type: text/html; charset=UTF-8
-Cache-Control: max-age=300
-X-Varnish: 1372046136 1372035368
-Date: Wed, 25 Sep 2013 05:12:27 GMT
-Connection: keep-alive
-

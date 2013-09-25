@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:25:06 GMT
-Content-Type: text/html
-Content-Length: 178
-Connection: keep-alive
-Keep-Alive: timeout=15
-Location: http://www.slutload.com/
-

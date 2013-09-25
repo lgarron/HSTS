@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx/1.4.1
-Date: Wed, 25 Sep 2013 05:22:29 GMT
-Content-Type: text/html
-Connection: keep-alive
-Location: http://www.mama.cn/
-

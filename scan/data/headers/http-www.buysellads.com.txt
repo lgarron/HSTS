@@ -1,6 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:07:47 GMT
-Server: Apache/2.2.3 (Red Hat) PHP/5.3.27 DAV/2 mod_ssl/2.2.3 OpenSSL/0.9.8e-fips-rhel5
-Location: http://buysellads.com/
-Content-Type: text/html; charset=iso-8859-1
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:11:04 GMT
-Server: Plack::Handler::Starlet
-X-UA-Compatible: IE=edge
-Content-Type: text/html; charset=utf-8
-Vary: Cookie,Accept-Language,Accept-Encoding,User-Agent
-Transfer-Encoding: chunked
-Set-Cookie: b=$1$pIL0YPqo$0ZdaBwPH.bPeGpusxYT62/; path=/; expires=Tue, 20-Sep-33 05:11:04 GMT; domain=.hatena.ne.jp
-

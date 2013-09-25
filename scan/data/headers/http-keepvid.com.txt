@@ -1,4 +1,0 @@
-HTTP/1.1 200 OK
-Content-type: text/html
-Date: Wed, 25 Sep 2013 05:13:29 GMT
-

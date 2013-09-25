@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Content-Length: 174586
-Content-Type: text/html
-Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 05:21:35 GMT
-SUID: 121
-

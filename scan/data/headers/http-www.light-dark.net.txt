@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/0.8.55
-Date: Wed, 25 Sep 2013 05:09:10 GMT
-Content-Type: text/html
-Connection: keep-alive
-X-Powered-By: PHP/5.3.8
-

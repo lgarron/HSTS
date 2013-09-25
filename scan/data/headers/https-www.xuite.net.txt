@@ -1,9 +1,0 @@
-HTTP/1.0 301 Moved Permanently
-Location: http://xuite.net/
-Date: Wed, 25 Sep 2013 05:21:40 GMT
-Server: Apache
-X-Cache: MISS from www-new-04.www.xuite.net
-X-Cache-Lookup: MISS from www-new-04.www.xuite.net:8000
-Via: 1.0 www-new-04.www.xuite.net:8000 (squid/2.7.STABLE5)
-Connection: close
-

@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Content-Type: text/html; charset=utf-8
-Date: Wed, 25 Sep 2013 05:07:03 GMT
-Server: nginx/1.2.6 (Ubuntu)
-Vary: Accept-Encoding
-Connection: keep-alive
-

@@ -1,8 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: nginx
-Date: Wed, 25 Sep 2013 05:12:07 GMT
-Content-Type: text/html
-Content-Length: 154
-Connection: keep-alive
-Location: http://www.kaskus.co.id/
-

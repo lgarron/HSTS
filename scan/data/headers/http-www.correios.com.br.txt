@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Content-Length: 96741
-Content-Type: text/html
-Last-Modified: Wed, 25 Sep 2013 05:20:00 GMT
-Accept-Ranges: bytes
-ETag: "6c2096e1aeb9ce1:0"
-Server: Microsoft-IIS/7.5
-Date: Wed, 25 Sep 2013 05:21:24 GMT
-

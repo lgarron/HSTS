@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.2.7
-Date: Wed, 25 Sep 2013 05:07:07 GMT
-Content-Type: text/html
-Connection: keep-alive
-Cache-Control: no-cache
-X-Accel-Cache-Control: no-cache
-Set-Cookie: MARCA_idusr=UkJve8CoFCsAAHPbUUI-eefe6e23f1a7caeb1efa3c565e328198; expires=Sat, 24 Sep 2016 05:07:07 GMT; path=/; domain=.marca.com
-

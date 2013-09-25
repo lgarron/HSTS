@@ -1,5 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Location: http://ww2.cox.com
-Connection: close
-Cache-Control: no-cache
-Pragma: no-cache

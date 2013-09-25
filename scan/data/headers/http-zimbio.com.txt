@@ -1,6 +1,0 @@
-HTTP/1.1 204 No Content
-Server: nginx/0.7.61
-Date: Wed, 25 Sep 2013 05:18:21 GMT
-Connection: keep-alive
-Keep-Alive: timeout=20
-

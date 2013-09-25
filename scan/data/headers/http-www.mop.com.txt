@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/0.8.32
-Date: Wed, 25 Sep 2013 05:08:08 GMT
-Content-Type: text/html
-Connection: keep-alive
-Vary: Accept-Encoding
-Expires: Wed, 25 Sep 2013 05:11:09 GMT
-Cache-Control: max-age=180
-

@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: uServ/3.2.2
-Date: Wed, 25 Sep 2013 05:08:03 GMT
-Content-Type: text/html
-Content-Length: 255
-Connection: keep-alive
-Keep-Alive: timeout=15
-Location: http://www.ucoz.ru/
-

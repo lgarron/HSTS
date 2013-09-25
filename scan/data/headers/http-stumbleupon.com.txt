@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: Varnish
-Location: http://www.stumbleupon.com/
-Accept-Ranges: bytes
-Date: Wed, 25 Sep 2013 05:23:33 GMT
-Age: 0
-Connection: close
-

@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Location: http://www.bodybuilding.com/
-Server: BigIP
-Content-Length: 0
-Date: Wed, 25 Sep 2013 05:22:28 GMT
-Connection: keep-alive
-

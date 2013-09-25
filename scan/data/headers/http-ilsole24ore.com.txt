@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:06:20 GMT
-Server: Apache/2.0.46 (CentOS)
-Location: http://www.ilsole24ore.com/
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

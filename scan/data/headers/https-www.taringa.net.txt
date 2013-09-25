@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Server: n0
-Date: Wed, 25 Sep 2013 05:14:59 GMT
-Content-Type: text/html; charset=utf8
-Connection: keep-alive
-Location: http://www.taringa.net/
-

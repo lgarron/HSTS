@@ -1,7 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: AkamaiGHost
-Content-Length: 0
-Location: http://www.td.com/
-Date: Wed, 25 Sep 2013 05:08:10 GMT
-Connection: keep-alive
-

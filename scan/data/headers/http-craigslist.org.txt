@@ -1,4 +1,0 @@
-HTTP/1.1 302 Found
-Set-Cookie: cl_b=nJunN6Il4xGxQkupTPShOA7HM+Q;path=/;domain=.craigslist.org;expires=Fri, 01-Jan-2038 00:00:00 GMT
-Location: http://www.craigslist.org/
-

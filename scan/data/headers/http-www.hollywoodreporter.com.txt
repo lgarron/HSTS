@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx
-Content-Type: text/html; charset=utf-8
-X-Drupal-Cache: MISS
-ETag: "1380086064"
-Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
-Date: Wed, 25 Sep 2013 05:14:25 GMT
-Connection: keep-alive
-

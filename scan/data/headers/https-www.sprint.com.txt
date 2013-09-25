@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:13:34 GMT
-Server: Apache
-Set-Cookie: TLTSID=3A3DFFE625A1102500CCB7076D21FAA4; Path=/; Domain=.sprint.com
-Set-Cookie: TLTUID=3A3DFFE625A1102500CCB7076D21FAA4; Path=/; Domain=.sprint.com; Expires=Wed, 25-Sep-2023 05:13:34 GMT
-Set-Cookie: Apache=128.12.244.4.1380086014835593; path=/
-Accept-Ranges: bytes
-Content-Type: text/html; charset=UTF-8
-

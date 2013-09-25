@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 05:18:06 GMT
-Location: https://www.bt.com/
-Connection: Keep-Alive
-Content-Length: 0
-

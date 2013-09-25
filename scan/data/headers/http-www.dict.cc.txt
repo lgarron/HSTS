@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:15:42 GMT
-Server: Apache
-ETag: "ccad838b596c10171fed31be7110bd26"
-Content-Length: 38278
-Content-Type: text/html; charset=UTF-8
-

@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Cache-control: no-cache="set-cookie"
-Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 05:06:45 GMT
-Location: http://www.usmagazine.com/
-Server: Apache/2.2.3 (CentOS)
-Set-Cookie: AWSELB=F79F0FFB04DB5CA9182688B2524BCF1E5799586EC9027F7B766E42421C14391445F3BD8B4B0F8064E572EC90C46D2C80F5C616B7946707C68BFE2D9E7BF5F7004ECC7C0DC5;PATH=/
-Connection: keep-alive
-

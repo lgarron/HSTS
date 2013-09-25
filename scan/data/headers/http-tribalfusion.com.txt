@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:15:09 GMT
-Server: Apache/2.2.13 (Unix) PHP/5.3.0
-Last-Modified: Tue, 31 Jan 2012 03:56:19 GMT
-Etag: "468d0d-2421-4b7caf211c165"
-Accept-Ranges: bytes
-Content-Length: 9249
-Content-Type: text/html
-

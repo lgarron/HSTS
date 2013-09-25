@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-X-Powered-By: PHP/5.4.8--pl0-gentoo
-Cache-Control: no-cache, must-revalidate
-Expires: Sat, 26 Jul 1997 05:00:00 GMT
-Content-type: text/html
-Connection: close
-Date: Wed, 25 Sep 2013 05:12:38 GMT
-Server: lighttpd/1.4.26
-

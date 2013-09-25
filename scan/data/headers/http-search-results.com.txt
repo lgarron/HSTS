@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:17:23 GMT
-Server: Apache
-Location: http://www.search-results.com/
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-

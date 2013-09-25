@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:26:29 GMT
-Server: Apache
-Location: http://ezinearticles.com/
-Cache-Control: max-age=604800
-Expires: Wed, 02 Oct 2013 05:26:29 GMT
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-

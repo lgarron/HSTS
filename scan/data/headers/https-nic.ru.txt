@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.4.1
-Date: Wed, 25 Sep 2013 05:11:25 GMT
-Content-Type: text/html; charset=windows-1251
-Connection: keep-alive
-Cache-Control: no-store
-X-Cache: MISS from www.nic.ru
-

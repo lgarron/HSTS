@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 25 Sep 2013 05:16:27 GMT
-Server: Apache
-Location: http://www.7k7k.com/
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

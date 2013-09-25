@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache/2.4.1 (Unix) OpenSSL/1.0.0g
-Content-Type: text/html; charset=ISO-8859-1
-Content-Length: 1280
-Connection: close
-Date: Wed, 25 Sep 2013 05:11:32 GMT
-

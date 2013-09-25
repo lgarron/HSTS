@@ -1,7 +1,0 @@
-HTTP/1.1 200 OK
-X-Powered-By: PHP/5.4.19
-Content-type: text/html
-Connection: close
-Date: Wed, 25 Sep 2013 05:25:19 GMT
-Server: TinyURL/1.6
-

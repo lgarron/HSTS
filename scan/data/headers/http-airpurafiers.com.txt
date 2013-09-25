@@ -1,8 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:22:45 GMT
-Server: Apache/2.2.3 (CentOS)
-X-Powered-By: PHP/5.1.6
-Location: http://ww12.airpurafiers.com?
-Connection: close
-Content-Type: text/html; charset=UTF-8
-

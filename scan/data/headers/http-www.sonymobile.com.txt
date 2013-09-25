@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Cache-Control: no-cache
-Content-Type: text/html; charset=UTF-8
-Date: Wed, 25 Sep 2013 05:13:39 GMT
-Server: nginx
-Vary: Accept-Encoding
-Connection: close
-

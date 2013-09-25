@@ -1,8 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Content-length: 161
-Content-Type: text/html
-Date: Wed, 25 Sep 2013 05:19:14 GMT
-Location: https://www.coursera.org/
-Server: nginx/1.1.19
-Connection: keep-alive
-

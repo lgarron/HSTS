@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Location: http://www.asos.com
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-Server: NetNames
-Date: Wed, 25 Sep 2013 05:08:05 GMT
-Connection: keep-alive
-

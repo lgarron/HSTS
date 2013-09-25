@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:25:10 GMT
-X-Server: eweb1
-Content-Type: text/html
-Set-Cookie: ln=en; path=/; domain=.ilivid.com
-Cache-Control: max-age=3600
-Expires: Wed, 25 Sep 2013 06:25:10 GMT
-X-Stat-Server: eweb1
-

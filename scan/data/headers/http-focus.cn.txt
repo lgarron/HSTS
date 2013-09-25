@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:20:50 GMT
-Server: Apache
-Location: http://www.focus.cn
-Connection: close
-Content-Type: text/html; charset=iso-8859-1
-

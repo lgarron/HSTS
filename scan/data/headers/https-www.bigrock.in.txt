@@ -1,7 +1,0 @@
-HTTP/1.1 302 Found
-Date: Wed, 25 Sep 2013 05:13:44 GMT
-Server: Apache/2.2.3 (CentOS)
-Location: http://www.bigrock.in/index.php
-Vary: Accept-Encoding
-Content-Type: text/html; charset=iso-8859-1
-

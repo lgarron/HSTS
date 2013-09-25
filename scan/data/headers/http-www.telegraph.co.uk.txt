@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache
-Last-Modified: Wed, 25 Sep 2013 05:08:54 GMT
-ETag: tmg-1380085734518
-Content-Language: en-GB
-Content-Type: text/html;charset=UTF-8
-Date: Wed, 25 Sep 2013 05:10:20 GMT
-Connection: keep-alive
-

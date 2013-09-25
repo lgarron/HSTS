@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 05:15:34 GMT
-Content-Type: text/html
-Content-Length: 178
-Location: http://www.pornhub.com/
-Rating: RTA-5042-1996-1400-1577-RTA
-Set-Cookie: RNLBSERVERID=ded1687; path=/
-

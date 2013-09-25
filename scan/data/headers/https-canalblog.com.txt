@@ -1,6 +1,0 @@
-HTTP/1.1 301 Déplacé de façon Permanente
-Date: Wed, 25 Sep 2013 05:07:24 GMT
-Server: Apache
-Location: http://www.canalblog.com/
-Vary: Accept-Encoding,User-Agent
-

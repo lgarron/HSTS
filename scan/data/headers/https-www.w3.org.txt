@@ -1,8 +1,0 @@
-HTTP/1.1 307 Temporary Redirect
-Date: Wed, 25 Sep 2013 05:14:49 GMT
-Server: Apache/2
-Location: http://www.w3.org/
-Cache-Control: max-age=21600
-Expires: Wed, 25 Sep 2013 11:14:49 GMT
-Content-Type: text/html; charset=iso-8859-1
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 25 Sep 2013 05:22:13 GMT
-Server: Apache
-Cache-Control: no-cache
-Pragma: no-cache
-Set-Cookie: webSession=SessionInfo%3D6308861%253AA279E472C3488AC; path=/
-Set-Cookie: webVisitor=FirstVisit%3D1380086533049%26LastVisit%3D1380086533049; path=/; expires=Wed, 23-Sep-2020 05:22:12 GMT
-Content-Type: text/html
-

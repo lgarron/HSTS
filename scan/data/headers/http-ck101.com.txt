@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: Tengine
-Date: Wed, 25 Sep 2013 05:18:25 GMT
-Content-Type: text/html
-Connection: keep-alive
-X-Powered-By: PHP/5.4.19
-location: forum.php
-

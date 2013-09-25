@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: Apache
-Location: http://www.tripadvisor.it/
-Content-Type: text/plain; charset=utf-8
-Date: Wed, 25 Sep 2013 05:18:03 GMT
-Connection: keep-alive
-Set-Cookie: ServerPool=B; Domain=.tripadvisor.com; Path=/
-

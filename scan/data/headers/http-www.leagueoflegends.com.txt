@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 05:23:48 GMT
-Location: http://na.leagueoflegends.com/
-Server: Apache/2.2.16 (Amazon)
-Connection: keep-alive
-

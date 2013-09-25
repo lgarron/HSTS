@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Content-Length: 0
-Location: http://www.fool.com/
-Server: Microsoft-IIS/7.5
-X-Powered-By: web18
-Set-Cookie: v1st=86D7C563E033F181; path=/; expires=Wed, 19 Feb 2020 14:28:00 GMT; domain=.fool.com
-Date: Wed, 25 Sep 2013 05:23:54 GMT
-

@@ -1,7 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Date: Wed, 25 Sep 2013 05:16:27 GMT
-Location: http://java.com/en/
-Set-cookie: JSESSIONID=2D2E9A8B343F80A781BFD36E0A3FEE4C; Path=/
-Content-length: 0
-Set-Cookie: TS189f6d=5ce08585a75a159ca73487a4f7def6052e1326f6eb78ac15524271aa; Path=/
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Status: 200 OK
-Content-Type: text/html; charset=utf-8
-X-Runtime: 6
-ETag: "fbaedb7d97fb8bf249c573bd95916bdf"
-Cache-Control: private, max-age=13
-Date: Wed, 25 Sep 2013 05:16:12 GMT
-Connection: keep-alive
-

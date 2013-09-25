@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Cache-control: no-cache="set-cookie"
-Content-Type: text/html; charset=iso-8859-1
-Date: Wed, 25 Sep 2013 05:13:17 GMT
-Location: http://www.seroundtable.com/
-Server: Apache
-Set-Cookie: AWSELB=EB478D2110DCF40067759CEDFD05745625D3DA94ACC84407DD26ADF274D31763E02AAF9F2634FBA1A5A7E618E68286F2A500B1728ED45986B2073A4DEFD10D84FEF5348910;PATH=/;MAX-AGE=3600
-Connection: keep-alive
-

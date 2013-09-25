@@ -1,7 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Date: Wed, 25 Sep 2013 04:26:25 GMT
-Content-Type: text/html
-Connection: keep-alive
-Location: http://www.baomihua.com/
-

@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: gulfup.com
-Date: Tue, 24 Sep 2013 23:09:58 GMT
-Content-Type: text/html; charset=UTF-8
-Connection: keep-alive
-Cache-Control: private, no-cache="set-cookie"
-Expires: 0
-Pragma: no-cache
-

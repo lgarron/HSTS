@@ -1,9 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx/1.0.15
-Date: Wed, 25 Sep 2013 05:06:22 GMT
-Content-Type: text/html
-Content-Length: 185
-Connection: keep-alive
-Location: http://www.zendesk.com/
-X-Frame-Options: SAMEORIGIN
-

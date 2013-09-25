@@ -1,5 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-location: http://www.onet.pl
-server: edgeserver
-Connection: keep-alive
-

@@ -1,8 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Server: Apache-Coyote/1.1
-Location: http://www.walmart.com/
-RTS4: 1
-RTSS: 1-57-20
-Date: Wed, 25 Sep 2013 05:07:27 GMT
-Connection: keep-alive
-

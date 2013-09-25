@@ -1,9 +1,0 @@
-HTTP/1.0 301 Moved Permanently
-Server: Apache
-Date: Wed, 25 Sep 2013 05:07:06 GMT
-Content-Type: text/html
-Content-Length: 177
-Location: http://www.hefei.cc//
-X-Cache: MISS from cache62.house365.com
-Connection: close
-

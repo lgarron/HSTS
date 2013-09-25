@@ -1,8 +1,0 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx
-Content-Type: text/html
-Content-Length: 178
-Location: https://www.odesk.com/
-Date: Wed, 25 Sep 2013 05:13:06 GMT
-Connection: keep-alive
-

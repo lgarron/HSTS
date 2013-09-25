@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Server: Apache
-Expires: Wed, 25 Sep 2013 05:08:13 GMT
-Last-UpdatedL: Wed, 25 Sep 2013 05:06:02 GMT
-Host: betaus.reuters.com
-Content-Type: text/html;charset=UTF-8
-Date: Wed, 25 Sep 2013 05:10:38 GMT
-Connection: keep-alive
-
