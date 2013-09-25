@@ -1,6 +1,7 @@
 #!/bin/bash
 
 mkdir -p "results"
+mkdir -p "done"
 
 TOP_SITES_FILE="alexa-top-1m-2013-09-24.csv"
 CHROME_USER_AGENT="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.26"
@@ -10,7 +11,7 @@ function query {
   FILE="${2}"
   GROUP="${3}"
 
-  HEADERS=$(curl --user-agent "${CHROME_USER_AGENT}" "--max-time" 20 -sI "${URL_HERE}" | grep -i "strict-transport-security")
+  HEADERS=$(curl --user-agent "${CHROME_USER_AGENT}" "--max-time" 5 -sI "${URL_HERE}" | grep -i "strict-transport-security")
   RETURN_CODE="${?}"
   if [ "${RETURN_CODE}" = "0" ]
   then
@@ -36,6 +37,8 @@ function go {
     query "https://${URL}" "https-${URL}.txt" "${2}"
     query "https://www.${URL}" "https-www.${URL}.txt" "${2}"
   done
+
+  touch "done/${2}.txt"
 }
 
 START="${1}" # 2500
