@@ -45,9 +45,9 @@ function go {
   done
 }
 
-GROUP_SIZE="100"
+GROUP_SIZE="500"
 
-for i in $(seq ${GROUP_SIZE} ${GROUP_SIZE} 10000)
+for i in $(seq ${GROUP_SIZE} ${GROUP_SIZE} 100000)
 do
   # Take the last ${GROUP_SIZE} of the top ${i}.
   echo "${i}"
