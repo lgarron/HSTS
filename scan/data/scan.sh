@@ -13,19 +13,18 @@ function query {
   if [ -f "headers/${FILE}" ] ; then return ; fi
   if [ -f "exclude/${FILE}" ] ; then return ; fi
 
-  HEADERS=$(curl --user-agent "${CHROME_USER_AGENT}" "--max-time" 20 -sI "${URL_HERE}")
+  HEADERS=$(curl --user-agent "${CHROME_USER_AGENT}" "--max-time" 20 -sI "${URL_HERE}" | grep -i "strict-transport-security")
   RETURN_CODE="${?}"
   if [ "${RETURN_CODE}" = "0" ]
   then
     echo -e "\033[92m[+] ${URL_HERE}\033[0m"
-    echo -n "${HEADERS}" > "headers/${FILE}"
+    echo "${URL_HERE}" >> "secures.txt"
   elif [ "${RETURN_CODE}" = "143" ]
   then
     # Caused by `killall curl`.
     echo -e "\033[91m[-] Aborting ${URL_HERE} (error: ${RETURN_CODE})\033[0m"
   else
     echo -e "\033[91m[-] ${URL_HERE} (error: ${RETURN_CODE})\033[0m"
-    echo -n "${RETURN_CODE}" > "exclude/${FILE}"
   fi
 }
 
