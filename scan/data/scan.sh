@@ -23,8 +23,10 @@ function query {
   then
     # Caused by `killall curl`.
     echo -e "\033[91m[-] Aborting ${URL_HERE} (error: ${RETURN_CODE})\033[0m"
+    echo "${URL_HERE}" >> "fails.txt"
   else
     echo -e "\033[91m[-] ${URL_HERE} (error: ${RETURN_CODE})\033[0m"
+    echo "${URL_HERE}" >> "non-secures.txt"
   fi
 }
 
