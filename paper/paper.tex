@@ -66,8 +66,11 @@
 \newcommand{\td}[2]{\textcolor{red}{\textbf{[TODO: {\it{#1}} #2]}}}
 
 
-\newcommand{\code}[1]{\texttt{#1}}
 \newcommand{\site}[1]{\texttt{#1}}
+
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\quotedcode}[1]{{\vspace{0.5em}\normalfont{\code{#1}\vspace{0.5em}}}}
+
 
 % Display all indices for development.
 \newcommand{\draftonly}[1]{{\textcolor{orange}{#1}}}
@@ -114,6 +117,42 @@
 \label{sec:intro}
 
 \section{An Overview of HSTS}
+
+\todo{short description}
+
+There are three significantly distinct ways to send the HSTS header; these are describe clearly in 6797\todo{citation}:
+
+\quotation{\it
+The HSTS header field below stipulates that the HSTS Policy is to
+remain in effect for one year (there are approximately 31536000
+seconds in a year), and the policy applies only to the domain of the
+HSTS Host issuing it:
+
+\quotedcode{
+Strict-Transport-Security: max-age=31536000
+}
+
+The HSTS header field below stipulates that the HSTS Policy is to
+remain in effect for approximately six months and that the policy
+applies to the domain of the issuing HSTS Host and all of its
+subdomains:
+
+\quotedcode{
+Strict-Transport-Security: max-age=15768000 ; includeSubDomains
+}
+
+The HSTS header field below indicates that the UA must delete the
+entire HSTS Policy associated with the HSTS Host that sent the header
+field:
+
+\quotedcode{
+Strict-Transport-Security: max-age=0
+}
+}
+
+\todo{Browser must only accept the HSTS header when it is sent over HTTPS}
+\todo{Preload List}
+\todo{The preload list overrides site settings in Chrome. See later for Firefox details.}
 
 \section{Current Deployment by Top Sites}
 
