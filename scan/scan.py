@@ -5,6 +5,7 @@ import csv
 import requests
 import requests_cache
 import re
+import tldextract
 
 from itertools import groupby
 
@@ -70,6 +71,9 @@ def canonicalize(r, domain):
   else:
     return hsts + r.url
 
+def is_subdomain(domain):
+  res = tldextract.extract(domain)
+  return (res.subdomain not in ["", "www"])
 
 def go(domain):
   chains = []
@@ -86,7 +90,8 @@ def go(domain):
     else:
       # chains.append("[" + e + "]")
       chains.append("[X]")
-  print("".join(chains) + "," + domain)
+  sub = "sub" if is_subdomain(domain) else "top"
+  print("".join(chains) + "," + sub + "," + domain)
 
 inFile = open("data/hsts_list_test.csv", "r")
 inFile = open("data/hsts_list.csv", "r")
