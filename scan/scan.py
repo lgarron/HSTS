@@ -51,8 +51,8 @@ def load(url):
 
 prefixes = OrderedDict()
 prefixes["http://"] = "h"
-prefixes["http://www."] = "hw"
 prefixes["https://"] = "s"
+prefixes["http://www."] = "hw"
 prefixes["https://www."] = "sw"
 
 
