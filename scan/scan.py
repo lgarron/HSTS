@@ -19,7 +19,8 @@ requests_cache.install_cache(
   backend="sqlite"
 )
 
-excludes = shelve.open("data/excludes")
+# excludes = shelve.open("data/excludes")
+excludes = shelve.open("data/excludes_no_ssl")
 
 print_success = False
 
@@ -36,7 +37,7 @@ def load(url):
   }
 
   try:
-    r = requests.get(url, headers=headers, timeout=10)
+    r = requests.get(url, headers=headers, timeout=10, verify=False)
     if print_success: print("[success]", url)
   except Exception as e:
     # TODO: if failed, try only one-hop
