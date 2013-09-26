@@ -1,0 +1,26 @@
+[h +s][X][+s][X]              - 27 - s, straight, subdomain already
+[h +s][hw +s][+s][-sw +s]     - 23 - s, straight, canon-only
+[h +sw][hw +sw][-s +sw][+sw]  - 22 - sw, straight, canon-only
+[X][X][X][X]                  - 18 - fail
+[h +sw][hw +sw][X][+sw]       - 16 - sw, straight, other invalid
+[h +s][hw +sw][+s][+sw]       - 14 - Add s, N/A, both
+[h +s][hw +s][+s][+sw +s]     - 14 - s, straight, both
+[h +s][hw +sw +s][+s][+sw]    - 10 - s, HTTPS first, both (GOOD)
+[h][hw][+s][+sw]              - 9 - nothing
+[h +sw][hw +sw][+s +sw][+sw]  - 8 - sw, straight, both
+[h +s][hw +s][+s][X]          - 8 - s, straight, invalid other
+[h hw +sw][hw][X][+sw]        - 8 - sw, WWW first, invalid other
+[h +sw][hw +sw][+s][+sw]      - 7 - sw, straight, leave other
+[h hw][hw][X][+sw]            - 7 - Add w, N/A, invalid other
+[h +s +sw][hw +sw][+s][+sw]   - 6 - sw, HTTPS first, both (GOOD)
+[h -s +sw][hw +sw][-s][+sw]   - 6 - sw, HTTPS first, canon-only
+[h +s][hw +s][+s][+sw]        - 6 - sw, straight, leave other
+[h][X][+s][X]                 - 5 - subdomain already, c
+[h hw +sw][hw][-s +sw][+sw]   - 5 -
+[h hw][hw][X][X]              - 5 -
+[h hw][hw][-s +sw][+sw]       - 4 -
+[h +sw][X][X][+sw]            - 3 -
+[h +s hw +sw][hw][+s][+sw]    - 3 -
+[h][hw][X][X]                 - 3 -
+[h hw][hw][X][+sw hw]         - 3 -
+[h hw][hw][+s +sw][+sw]       - 3 -
