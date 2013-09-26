@@ -66,6 +66,9 @@
 \newcommand{\td}[2]{\textcolor{red}{\textbf{[TODO: {\it{#1}} #2]}}}
 
 
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\site}[1]{\texttt{#1}}
+
 % Display all indices for development.
 \newcommand{\draftonly}[1]{{\textcolor{orange}{#1}}}
 %\renewcommand{\draftonly}[1]{}
@@ -110,9 +113,39 @@
 \section{Introduction}
 \label{sec:intro}
 
-\section{An Overview HSTS}
+\section{An Overview of HSTS}
 
 \section{Current Deployment by Top Sites}
+
+Of the top 1000 sites in the Alexa rankings, $15$ are sending an HSTS header on a fresh request to their front page over HTTPS. The number of HSTS sites in the top $N$ grows roughly as ${1 \over 2}\sqrt{n}$. \todo{This includes sites sending a \code{max-age} of $0$, such as \site{facebook.com}.}
+
+These numbers were found by using \code{curl} with a current Google Chrome user agent string \code{Mozilla/5.0 (Macintosh; Intel Mac OS X 10\_8\_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36}. All results are from \todo{September 25, 2013}.
+
+\begin{table}[htdp]
+\label{alexa_table}
+\begin{center}
+\begin{tabular}{|r|c|l|}
+\hline
+$\#$ of top Alexa sites & \# HTTPS & \# HSTS\\
+\hline
+10 & 8 & 2 \\
+\hline
+100 & 64 & 4 \\	
+\hline
+1000 & 484 &15 \\
+\hline
+10000 & \todo{N/A} & 65\\
+\hline
+100000 & \todo{N/A} & \td{not final}{196}\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}%
+
+\begin{center}
+\includegraphics[width=70mm]{alexa_https.pdf}
+\includegraphics[width=70mm]{alexa_hsts.pdf}
+\end{center}
 
 \section{Common Deployment Patterns}
 
