@@ -62,7 +62,12 @@ def canonicalize(r, domain):
   hsts = ""
   if s not in ["http://", "http://www."]:
     if "strict-transport-security" in r.headers:
-      hsts = "+"
+      if "includesubdomains" in r.headers["strict-transport-security"].lower():
+        hsts = "*"
+      elif "max-age=0" in r.headers["strict-transport-security"]:
+        hsts = "0"
+      else:
+        hsts = "+"
     else:
       hsts = "-"
 

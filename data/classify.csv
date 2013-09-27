@@ -1,343 +1,343 @@
-[h +sw][hw +sw][-s +sw][+sw],top,aclu.org
-[h +sw][hw +sw][-s +sw][+sw],top,airbnb.ca
-[h +sw][hw +sw][-s +sw][+sw],top,airbnb.co.uk
-[h +sw][hw +sw][+s +sw][+sw],top,airbnb.com
-[h +sw][hw +sw][-s +sw][+sw],top,airbnb.com.au
-[h +sw][hw +sw][-s +sw][+sw],top,airbnb.es
-[h +sw][hw +sw][-s +sw][+sw],top,airbnb.it
-[h +sw][hw +sw][-s +sw][+sw],top,airbnb.nl
-[h +sw][hw +sw][-s +sw][+sw],top,airbnb.ru
-[h +s -https://www.aladdin.ie][hw +sw][+s][+sw],top,aladdinschools.appspot.com
+[h +sw][-s +sw][hw +sw][+sw],top,aclu.org
+[h *sw][-s *sw][hw *sw][*sw],top,airbnb.ca
+[h *sw][-s *sw][hw *sw][*sw],top,airbnb.co.uk
+[h *sw][*s *sw][hw *sw][*sw],top,airbnb.com
+[h *sw][-s *sw][hw *sw][*sw],top,airbnb.com.au
+[h *sw][-s *sw][hw *sw][*sw],top,airbnb.es
+[h *sw][-s *sw][hw *sw][*sw],top,airbnb.it
+[h *sw][-s *sw][hw *sw][*sw],top,airbnb.nl
+[h *sw][-s *sw][hw *sw][*sw],top,airbnb.ru
+[h +s -https://www.aladdin.ie][+s][hw +sw][+sw],top,aladdinschools.appspot.com
 [X][X][X][X],sub,alpha.irccloud.com
-[h +s][hw +s][+s][-sw],top,alteregoapp.com
-[h +s +https://www.intercom.io/][hw +sw +https://www.intercom.io/][+s][+sw],sub,api.intercom.io
+[h +s][+s][hw +s][-sw],top,alteregoapp.com
+[h +s +https://www.intercom.io/][+s][hw +sw +https://www.intercom.io/][+sw],sub,api.intercom.io
 [X][X][X][X],sub,api.mega.co.nz
-[h -s][hw -sw][-s][-sw],sub,api.recurly.com
-[h -s][X][-s][X],sub,api.simple.com
-[h +sw][hw +sw][-s +sw][+sw],top,apollo-auto.com
-[h +s +https://app-sc.recurly.com/login][hw -sw][+s][-sw],sub,app.recurly.com
-[h +s][hw +s][+s][+sw],top,apps.co
-[h +s][hw +sw][+s][+sw],top,appseccalifornia.org
-[h hw][hw][+s hw][+sw],top,ariba.com
-[h +s][hw +s][+s][+sw],top,arivo.com.br
-[h +s][X][+s][X],sub,bank.simple.com
-[X][hw +sw hw +sw][X][+sw],top,banking.co.at
-[h +s][hw][+s][+sw],top,bassh.net
-[X][X][+s +https://web.bccx.com/][X],top,bccx.com
-[h][hw h][+s][-sw h],top,bcrook.com
-[h +sw][hw +sw][-s +sw][+sw],top,bespokepost.com
-[h +https://netbetsport.fr/][hw +https://netbetsport.fr/][X][X],top,betnet.fr
-[h][hw][+s][+sw],top,binary.com
-[h +s][hw +s][+s][+sw +s],top,bitbucket.org
-[h +s][hw +s][+s][-sw +s],top,bitminter.com
-[h +s][X][+s][X],sub,blog.cyveillance.com
-[h +s][X][+s][X],sub,blog.linode.com
-[h +s][X][+s][X],sub,blog.torproject.org
-[h][hw h][+s][+sw +s],top,blogun.ru
-[h][hw h][-s][-sw -s],top,blueseed.co
-[h hw +sw][hw][X][+sw],top,boundless.com
-[X][X][-s][-sw +sw],top,braintreegateway.com
-[h +sw][hw +sw][-s +sw][+sw],top,braintreepayments.com
-[h +https://login.persona.org/][hw +https://login.persona.org/][-s +https://login.persona.org/][-sw +https://login.persona.org/],top,browserid.org
-[h +s][hw h +s][+s][-sw],top,bugcrowd.com
-[h +s][X][+s][-sw +s],sub,bugzilla.mozilla.org
-[X][X][+s][X],sub,business.medbank.com.mt
-[h +s][X][+s][X],top,carezone.com
-[h hw +sw][hw][X][+sw],top,carlolly.co.uk
-[h +sw][hw +sw][+s][+sw],top,cert.se
-[h][X][+s][X],sub,check.torproject.org
-[h +s][X][+s][X],top,cloudns.com.au
-[h +https://meocloud.pt/][hw +https://meocloud.pt/][+s +https://meocloud.pt/][+sw +https://meocloud.pt/],top,cloudpt.pt
-[h +s][hw -sw +s][+s][-sw],top,cloudsecurityalliance.org
-[h +s][hw +s][+s][-sw +s],top,cloudup.com
-[h +sw][hw +sw][-s +sw][+sw],top,codeur.com
-[h +s][hw +s][+s][-sw +s],top,coinbase.com
-[h +sw][hw +sw][-s +sw][+sw],top,commbank.com.au
-[h hw][hw][-s +sw hw][+sw],top,computerbase.de
-[h +sw][hw +sw][+s][+sw],top,conformal.com
-[h +s][X][+s][X],sub,controlcenter.gigahost.dk
-[h +s][hw +s][+s][-sw +s],top,conyac.cc
-[h +sw][X][-s +sw][+sw],top,cortalconsors.de
-[h +s][hw +sw][+s][+sw],top,crate.io
-[h +s][hw +s][+s][-sw +s],top,creativemarket.com
-[h +s][X][+s][X],sub,crm.onlime.ch
-[h][hw][+s][+sw],top,crocko.com
-[h -s +sw][hw +sw][-s][+sw],top,crowdcurity.com
-[h +sw][hw +sw][+s +sw][+sw],top,crowdtilt.com
-[h +s][hw +s][+s][+sw],top,crypto.cat
-[h][hw -s][-s][-sw -s],top,crypto.is
-[h -s +https://ctf.isis.poly.edu/][X][-s][X],sub,csawctf.poly.edu
-[h +sw][hw +sw][-s +sw][+sw],top,cueup.com
-[h hw +sw][hw][X][+sw],top,customerlobby.com
-[h hw][hw][X][X],top,cyberoam.com
-[h hw +sw -https://kintone.cybozu.com/us/][hw][X][+sw],top,cybozu.com
-[h +sw][hw +sw][+s +sw][+sw],top,cyphertite.com
-[h +sw][hw +sw][+s][+sw],top,cyveillance.com
-[h +s][hw +sw][+s][+sw],top,dashboard.io
-[h +s hw +sw][hw][+s][+sw],top,desktimeapp.com
-[h +s][hw +s][+s][-sw +s],sub,developer.mydigipass.com
-[h +sw][hw +sw][-s +sw][+sw],top,digitalocean.com
-[h +s][X][+s][X],sub,dist.torproject.org
-[X][X][+s +https://www.lookout.com/][X],sub,dm.lookout.com
-[X][X][+s +https://www.lookout.com/][X],sub,dm.mylookout.com
+[h -s][-s][hw -sw][-sw],sub,api.recurly.com
+[h -s][-s][X][X],sub,api.simple.com
+[h *sw][-s *sw][hw *sw][*sw],top,apollo-auto.com
+[h +s +https://app-sc.recurly.com/login][+s][hw -sw][-sw],sub,app.recurly.com
+[h +s][+s][hw +s][+sw],top,apps.co
+[h *s][*s][hw *sw][*sw],top,appseccalifornia.org
+[h hw][0s hw][hw][0sw],top,ariba.com
+[h *s][*s][hw *s][*sw],top,arivo.com.br
+[h +s][+s][X][X],sub,bank.simple.com
+[X][X][hw +sw hw +sw][+sw],top,banking.co.at
+[h *s][*s][hw][*sw],top,bassh.net
+[X][*s *https://web.bccx.com/][X][X],top,bccx.com
+[h][+s][hw h][-sw h],top,bcrook.com
+[h +sw][-s +sw][hw +sw][+sw],top,bespokepost.com
+[h +https://netbetsport.fr/][X][hw +https://netbetsport.fr/][X],top,betnet.fr
+[h][*s][hw][*sw],top,binary.com
+[h +s][+s][hw +s][+sw +s],top,bitbucket.org
+[h *s][*s][hw *s][-sw *s],top,bitminter.com
+[h *s][*s][X][X],sub,blog.cyveillance.com
+[h +s][+s][X][X],sub,blog.linode.com
+[h +s][+s][X][X],sub,blog.torproject.org
+[h][+s][hw h][+sw +s],top,blogun.ru
+[h][-s][hw h][-sw -s],top,blueseed.co
+[h hw +sw][X][hw][+sw],top,boundless.com
+[X][-s][X][-sw +sw],top,braintreegateway.com
+[h +sw][-s +sw][hw +sw][+sw],top,braintreepayments.com
+[h *https://login.persona.org/][-s *https://login.persona.org/][hw *https://login.persona.org/][-sw *https://login.persona.org/],top,browserid.org
+[h +s][+s][hw h +s][-sw],top,bugcrowd.com
+[h *s][*s][X][-sw *s],sub,bugzilla.mozilla.org
+[X][*s][X][X],sub,business.medbank.com.mt
+[h +s][+s][X][X],top,carezone.com
+[h hw *sw][X][hw][*sw],top,carlolly.co.uk
+[h *sw][*s][hw *sw][*sw],top,cert.se
+[h][+s][X][X],sub,check.torproject.org
+[h *s][*s][X][X],top,cloudns.com.au
+[h +https://meocloud.pt/][+s +https://meocloud.pt/][hw +https://meocloud.pt/][+sw +https://meocloud.pt/],top,cloudpt.pt
+[h *s][*s][hw -sw *s][-sw],top,cloudsecurityalliance.org
+[h +s][+s][hw +s][-sw +s],top,cloudup.com
+[h +sw][-s +sw][hw +sw][+sw],top,codeur.com
+[h +s][+s][hw +s][-sw +s],top,coinbase.com
+[h +sw][-s +sw][hw +sw][+sw],top,commbank.com.au
+[h hw][-s 0sw hw][hw][0sw],top,computerbase.de
+[h *sw][*s][hw *sw][*sw],top,conformal.com
+[h *s][*s][X][X],sub,controlcenter.gigahost.dk
+[h +s][+s][hw +s][-sw +s],top,conyac.cc
+[h *sw][-s *sw][X][*sw],top,cortalconsors.de
+[h *s][*s][hw *sw][*sw],top,crate.io
+[h +s][+s][hw +s][-sw +s],top,creativemarket.com
+[h +s][+s][X][X],sub,crm.onlime.ch
+[h][+s][hw][+sw],top,crocko.com
+[h -s +sw][-s][hw +sw][+sw],top,crowdcurity.com
+[h +sw][+s +sw][hw +sw][+sw],top,crowdtilt.com
+[h +s][+s][hw +s][+sw],top,crypto.cat
+[h][-s][hw -s][-sw -s],top,crypto.is
+[h -s *https://ctf.isis.poly.edu/][-s][X][X],sub,csawctf.poly.edu
+[h +sw][-s +sw][hw +sw][+sw],top,cueup.com
+[h hw +sw][X][hw][+sw],top,customerlobby.com
+[h hw][X][hw][X],top,cyberoam.com
+[h hw +sw -https://kintone.cybozu.com/us/][X][hw][+sw],top,cybozu.com
+[h *sw][*s *sw][hw *sw][*sw],top,cyphertite.com
+[h *sw][*s][hw *sw][*sw],top,cyveillance.com
+[h +s][+s][hw +sw][+sw],top,dashboard.io
+[h +s hw +sw][+s][hw][+sw],top,desktimeapp.com
+[h +s][+s][hw +s][-sw +s],sub,developer.mydigipass.com
+[h +sw][-s +sw][hw +sw][+sw],top,digitalocean.com
+[h +s][+s][X][X],sub,dist.torproject.org
+[X][+s +https://www.lookout.com/][X][X],sub,dm.lookout.com
+[X][+s +https://www.lookout.com/][X][X],sub,dm.mylookout.com
 [X][X][X][X],top,do(base_url
-[h +s][hw +sw][+s][+sw],top,do.com
-[h +sw][hw +sw][+s][+sw],top,docusign.net
-[h +s][hw +s][+s][-sw +s],top,domai.nr
-[h][X][+s][X],sub,download.jitsi.org
-[h +sw][hw +sw][-s +sw][+sw],top,doximity.com
-[h +s +sw][hw +sw][+s][+sw],top,dropbox.com
-[h +sw][hw +sw][-s +sw][+sw],top,dropcam.com
-[h +s][hw +s][+s][-sw +s],top,duckduckgo.com
-[h +s][hw +s][+s][-sw +s],top,ducksboard.com
-[h][X][+s][X],sub,ebanking.indovinabank.com.vn
-[h +s][hw +sw][+s][+sw],top,editorially.com
-[h hw +sw][hw][-s +sw][+sw],top,eff.org
-[h -s][hw -sw][-s][-sw],top,elanex.biz
-[h -s][hw -s][-s][-sw -s],top,emailprivacytester.com
-[h hw +sw][hw][-s +sw][+sw],top,engineyard.com
-[h +s][hw +sw +s][+s][+sw],top,entropia.de
-[h +sw][hw +sw][-s +sw][+sw],top,epay.bg
-[h +s][hw +s][+s][+sw +s],top,epoxate.com
+[h +s][+s][hw +sw][+sw],top,do.com
+[h *sw][*s][hw *sw][*sw],top,docusign.net
+[h +s][+s][hw +s][-sw +s],top,domai.nr
+[h][+s][X][X],sub,download.jitsi.org
+[h +sw][-s +sw][hw +sw][+sw],top,doximity.com
+[h +s *sw][+s][hw *sw][*sw],top,dropbox.com
+[h +sw][-s +sw][hw +sw][+sw],top,dropcam.com
+[h +s][+s][hw +s][-sw +s],top,duckduckgo.com
+[h +s][+s][hw +s][-sw +s],top,ducksboard.com
+[h][+s][X][X],sub,ebanking.indovinabank.com.vn
+[h +s][+s][hw +sw][+sw],top,editorially.com
+[h hw *sw][-s *sw][hw][*sw],top,eff.org
+[h -s][-s][hw -sw][-sw],top,elanex.biz
+[h -s][-s][hw -s][-sw -s],top,emailprivacytester.com
+[h hw +sw][-s +sw][hw][+sw],top,engineyard.com
+[h +s][+s][hw +sw +s][+sw],top,entropia.de
+[h +sw][-s +sw][hw +sw][+sw],top,epay.bg
+[h +s][+s][hw +s][+sw +s],top,epoxate.com
 [X][X][X][X],top,espra.com
-[h hw][hw][-s hw][+sw hw],top,etsy.com
-[h][hw][+s][+sw],top,eve-central.com
-[h hw +sw][hw][-s +sw][+sw],top,facebook.com
+[h hw][-s hw][hw][*sw hw],top,etsy.com
+[h][+s][hw][+sw],top,eve-central.com
+[h hw 0sw][-s 0sw][hw][0sw],top,facebook.com
 [X][X][X][X],top,factor.cc
-[h +sw][hw +sw][-s +sw][+sw],top,fastmail.fm
-[h +sw][hw +sw][-s +sw][+sw],top,fatzebra.com.au
-[h hw +s +sw][hw][+s][+sw],top,federalregister.gov
-[h +sw][hw +sw][X][+sw],top,feralhosting.com
-[h +s][hw +s][+s][+sw],top,filesfetcher.com
-[X][X][-s][X],sub,fj.simple.com
-[h +s][hw +sw][+s][+sw],top,flowdock.com
-[h +s][X][+s][X],sub,forum.linode.com
-[h][X][+s][X],sub,forum.quantifiedself.com
-[h +s][hw +s][+s][-sw +s],top,founderscard.com
-[h +s][hw +s][+s][+sw +s],top,foursquare.com
-[h hw][hw][-s +sw][+sw],top,gandi.net
-[h +s -sw +https://www.dropbox.com/][hw +https://www.dropbox.com/][+s][-sw],top,getdropbox.com
-[h][hw h][+s][+sw],top,getfirebug.com
-[h +s][hw +s][+s][-sw +s],top,github.com
-[h +s][hw +s][+s][+sw +s],top,gks.gs
-[h hw][hw][+s][+sw],top,gmu.edu
-[h +s][hw +s][+s][+sw +s],top,gocardless.com
-[h hw -sw][hw][-s -sw][-sw],top,google.com
-[h][hw +sw +https://login.corp.google.com/request?s=www.googleplex.com:443/uberproxy/&d=https://www.googleplex.com/%3Fupxsrf%3DAGxAqhbeUHr8h_ALCUJNa4zpWOQXFWBRUw:1380170805360&maxAge=1200&authLevel=2000000&rpMode=v2&keyIds=Do0][-s][+sw],top,googleplex.com
-[h +sw][hw +sw][-s +sw][+sw],top,gov.uk
-[h hw +sw][hw +sw][X][+sw],top,graffletopia.com
-[h +sw][hw +sw][+s +sw][+sw],top,grc.com
+[h +sw][-s +sw][hw +sw][+sw],top,fastmail.fm
+[h +sw][-s +sw][hw +sw][+sw],top,fatzebra.com.au
+[h hw +s +sw][+s][hw][+sw],top,federalregister.gov
+[h +sw][X][hw +sw][+sw],top,feralhosting.com
+[h +s][+s][hw +s][+sw],top,filesfetcher.com
+[X][-s][X][X],sub,fj.simple.com
+[h +s][+s][hw +sw][+sw],top,flowdock.com
+[h +s][+s][X][X],sub,forum.linode.com
+[h][*s][X][X],sub,forum.quantifiedself.com
+[h +s][+s][hw +s][-sw +s],top,founderscard.com
+[h +s][+s][hw +s][+sw +s],top,foursquare.com
+[h hw][-s +sw][hw][+sw],top,gandi.net
+[h +s -sw *https://www.dropbox.com/][+s][hw *https://www.dropbox.com/][-sw],top,getdropbox.com
+[h][*s][hw h][*sw],top,getfirebug.com
+[h +s][+s][hw +s][-sw +s],top,github.com
+[h +s][+s][hw +s][+sw +s],top,gks.gs
+[h hw][*s][hw][*sw],top,gmu.edu
+[h *s][*s][hw *s][*sw *s],top,gocardless.com
+[h hw -sw][-s -sw][hw][-sw],top,google.com
+[h][-s][hw *sw +https://login.corp.google.com/request?s=www.googleplex.com:443/uberproxy/&d=https://www.googleplex.com/%3Fupxsrf%3DAGxAqhbeUHr8h_ALCUJNa4zpWOQXFWBRUw:1380170805360&maxAge=1200&authLevel=2000000&rpMode=v2&keyIds=Do0][*sw],top,googleplex.com
+[h +sw][-s +sw][hw +sw][+sw],top,gov.uk
+[h hw +sw][X][hw +sw][+sw],top,graffletopia.com
+[h +sw][+s +sw][hw +sw][+sw],top,grc.com
 [h -https://www.cueup.com/fromGreplin +https://www.cueup.com/greplin][X][X][-sw],top,greplin.com
-[h +s][hw +s][+s][+sw +s],top,grepular.com
-[h +sw][hw +sw][-s +sw][+sw],top,hackerrank.com
-[h +s][hw +s][+s][-sw +s],top,hackpad.com
-[h +s][hw +s][+s][+sw +s],top,hasgeek.com
-[X][X][+s][+sw],top,haste.ch
-[h -s][hw -s][-s][+sw -s],top,headliner.fm
-[h hw +sw][hw][X][+sw],top,heroku.com
-[h +s][hw +https://www.heroku.com/][+s][-sw +https://www.heroku.com/],top,herokuapp.com
-[h +s][hw +s][+s][+sw +s],top,heyo.com
-[X][hw][X][+sw],top,host.sk
-[h +s][hw +sw][+s][+sw],top,hotwords.com
-[h +s][hw +s][+s][+sw],top,howrandom.org
+[h *s][*s][hw *s][*sw *s],top,grepular.com
+[h +sw][-s +sw][hw +sw][+sw],top,hackerrank.com
+[h +s][+s][hw +s][-sw +s],top,hackpad.com
+[h +s][+s][hw +s][+sw +s],top,hasgeek.com
+[X][*s][X][*sw],top,haste.ch
+[h -s][-s][hw -s][*sw -s],top,headliner.fm
+[h hw +sw][X][hw][+sw],top,heroku.com
+[h +s][+s][hw +https://www.heroku.com/][-sw +https://www.heroku.com/],top,herokuapp.com
+[h +s][+s][hw +s][+sw +s],top,heyo.com
+[X][X][hw][+sw],top,host.sk
+[h +s][+s][hw +sw][+sw],top,hotwords.com
+[h *s][*s][hw *s][*sw],top,howrandom.org
 [h hw -http://www.eprintcenter.com/ -http://h30495.www3.hp.com -https://h30495.www3.hp.com/ -https://h30495.www3.hp.com/c/46359/US/en/][X][X][X],top,hpconnected.com
-[h hw][hw][+s][-sw],top,hu-berlin.de
-[h +s][hw +s][+s][-sw +s],top,hubstaff.com
-[h +sw][hw +sw][-s +sw][+sw],top,icloud.com
-[X][X][+s][X],sub,id.mayfirst.org
+[h hw][+s][hw][-sw],top,hu-berlin.de
+[h +s][+s][hw +s][-sw +s],top,hubstaff.com
+[h *sw][-s *sw][hw *sw][*sw],top,icloud.com
+[X][+s][X][X],sub,id.mayfirst.org
 [X][X][X][X],top,include_subdomains
-[h +s][hw +s][+s][+sw +s],top,inertianetworks.com
-[h hw +sw][hw][X][+sw],top,instacart.com
-[h][hw h][+s h][+sw h],top,instinctmagazine.com
-[h +s +sw][hw +sw][+s][+sw],top,intercom.io
-[h hw][hw][-s hw][+sw],top,intuit.com
-[h +s][X][+s][X],sub,iop.intuit.com
-[h +s -https://login.iqbank.ru:443/auth/UI/Login?service=ibank&goto=https%3A%2F%2Fiqbank.ru%3A443%2F][X][+s][-sw],top,iqbank.ru
-[h -s +sw][hw +sw][-s][+sw],top,irccloud.com
-[h +sw][hw +sw][+s][+sw],top,itriskltd.com
-[h +s][hw +sw][+s][+sw],top,ixquick.com
-[h +s][hw +https://izea.com/][+s][-sw +https://izea.com/],top,izeaexchange.com
-[h -s][hw -s][-s][-sw -s],top,jitsi.org
-[h +sw][hw][-s hw][+sw],top,jottit.com
-[h hw][hw][X][+sw],top,jusbrasil.com.br
-[h +sw][hw +sw][-s +sw][+sw],top,kajabiapp.com
-[h +sw][hw +sw][+s][+sw],top,kernel.org
-[h +s][hw +s][+s][-sw +s],top,keyerror.com
-[h][hw +s][+s][+sw +s],top,kiwiirc.com
-[h +s][hw h +s][+s][-sw +s],top,lastpass.com
-[h +s][hw +s][+s][-sw +s],top,launchkey.com
-[h +s][hw +s][+s][-sw +s],top,launchpad.net
-[h +s +sw][hw +sw][+s][+sw],top,leapmotion.com
-[h +s][hw +sw][+s][+sw],top,ledgerscope.net
-[h +s][X][+s][X],sub,library.linode.com
-[h hw][hw][+s +sw][+sw],top,lighttpd.net
-[h +s hw +sw][hw][+s][+sw],top,linode.com
-[h +sw][hw +sw][+s][+sw],top,linx.net
-[h -s][hw -sw][-s][-sw],top,liqpay.com
-[h][X][-s +s][X],sub,lists.mayfirst.org
-[h +s][hw +sw +s][+s][+sw],top,lockify.com
-[h -s][hw -s][-s][-sw -s],top,logentries.com
-[h +s][X][+s][X],sub,login.persona.org
-[h +s][hw -http://pesquisa.sapo.pt/?q=www%20login&host=www.login.sapo.pt&ptr=1][+s][X],sub,login.sapo.pt
-[h][hw][+s][+sw],top,logotype.se
-[h +sw][hw +sw][+s +sw][+sw],top,lolicore.ch
-[h +sw][hw +sw][+s +sw][+sw],top,lookout.com
-[h +s][hw +s][+s][+sw +s],top,lovewithfood.com
-[h +s][hw +sw +s][+s][+sw],top,lumi.do
-[h +s][hw +sw][+s][+sw],sub,luneta.nearbuysystems.com
-[h hw +sw][hw][+s][+sw],top,madmimi.com
-[h +s][hw +sw +s][+s][+sw],top,makeyourlaws.org
-[h +s][X][+s][X],sub,manager.linode.com
-[h +s][hw +sw][+s][+sw],top,mandrillapp.com
-[h][hw][+s][+sw],top,mathway.com
-[h +s][hw +s][+s][-sw +s],top,mattmccutchen.net
-[X][hw +sw][X][+sw],top,mbnet.pt
-[h +s][hw +sw +s][+s][+sw],top,mcprohosting.com
-[h +s][hw +https://blog.mediacru.sh/][+s][+sw],top,mediacru.sh
-[h +s][hw +s][+s][+sw],top,mega.co.nz
-[h][X][+s][X],sub,members.mayfirst.org
-[h +s][X][+s][X],sub,members.nearlyfreespeech.net
-[h +s][hw +sw +s][+s][+sw],top,minestatus.net
+[h *s][*s][hw *s][*sw *s],top,inertianetworks.com
+[h hw +sw][X][hw][+sw],top,instacart.com
+[h][*s h][hw h][*sw h],top,instinctmagazine.com
+[h +s +sw][+s][hw +sw][+sw],top,intercom.io
+[h hw][-s hw][hw][0sw],top,intuit.com
+[h +s][+s][X][X],sub,iop.intuit.com
+[h *s -https://login.iqbank.ru:443/auth/UI/Login?service=ibank&goto=https%3A%2F%2Fiqbank.ru%3A443%2F][*s][X][-sw],top,iqbank.ru
+[h -s +sw][-s][hw +sw][+sw],top,irccloud.com
+[h *sw][*s][hw *sw][*sw],top,itriskltd.com
+[h +s][+s][hw +sw][+sw],top,ixquick.com
+[h +s][+s][hw +https://izea.com/][-sw +https://izea.com/],top,izeaexchange.com
+[h -s][-s][hw -s][-sw -s],top,jitsi.org
+[h *sw][-s hw][hw][*sw],top,jottit.com
+[h hw][X][hw][0sw],top,jusbrasil.com.br
+[h +sw][-s +sw][hw +sw][+sw],top,kajabiapp.com
+[h +sw][+s][hw +sw][+sw],top,kernel.org
+[h *s][*s][hw *s][-sw *s],top,keyerror.com
+[h][+s][hw +s][+sw +s],top,kiwiirc.com
+[h +s][+s][hw h +s][-sw +s],top,lastpass.com
+[h *s][*s][hw *s][-sw *s],top,launchkey.com
+[h +s][+s][hw +s][-sw +s],top,launchpad.net
+[h +s +sw][+s][hw +sw][+sw],top,leapmotion.com
+[h +s][+s][hw +sw][+sw],top,ledgerscope.net
+[h +s][+s][X][X],sub,library.linode.com
+[h hw][+s +sw][hw][+sw],top,lighttpd.net
+[h +s hw +sw][+s][hw][+sw],top,linode.com
+[h +sw][+s][hw +sw][+sw],top,linx.net
+[h -s][-s][hw -sw][-sw],top,liqpay.com
+[h][-s +s][X][X],sub,lists.mayfirst.org
+[h *s][*s][hw *sw *s][*sw],top,lockify.com
+[h -s][-s][hw -s][-sw -s],top,logentries.com
+[h *s][*s][X][X],sub,login.persona.org
+[h *s][*s][hw -http://pesquisa.sapo.pt/?q=www%20login&host=www.login.sapo.pt&ptr=1][X],sub,login.sapo.pt
+[h][*s][hw][*sw],top,logotype.se
+[h *sw][*s *sw][hw *sw][*sw],top,lolicore.ch
+[h +sw][+s +sw][hw +sw][+sw],top,lookout.com
+[h +s][+s][hw +s][+sw +s],top,lovewithfood.com
+[h +s][+s][hw +sw +s][+sw],top,lumi.do
+[h +s][+s][hw +sw][+sw],sub,luneta.nearbuysystems.com
+[h hw +sw][+s][hw][+sw],top,madmimi.com
+[h *s][*s][hw *sw *s][*sw],top,makeyourlaws.org
+[h +s][+s][X][X],sub,manager.linode.com
+[h +s][+s][hw +sw][+sw],top,mandrillapp.com
+[h][*s][hw][*sw],top,mathway.com
+[h *s][*s][hw *s][-sw *s],top,mattmccutchen.net
+[X][X][hw *sw][*sw],top,mbnet.pt
+[h +s][+s][hw +sw +s][+sw],top,mcprohosting.com
+[h *s][*s][hw *https://blog.mediacru.sh/][*sw],top,mediacru.sh
+[h +s][+s][hw +s][+sw],top,mega.co.nz
+[h][+s][X][X],sub,members.mayfirst.org
+[h +s][+s][X][X],sub,members.nearlyfreespeech.net
+[h +s][+s][hw +sw +s][+sw],top,minestatus.net
 [h -sw -https://www.skrill.com/en/][X][X][X],top,moneybookers.com
-[X][X][+s][+sw +s],top,mudcrab.us
-[h][hw h][+s h][+sw h],top,mwomercs.com
+[X][*s][X][*sw *s],top,mudcrab.us
+[h][0s h][hw h][0sw h],top,mwomercs.com
 [h +s][X][X][X],sub,my.alfresco.com
-[h +s][hw +s][+s][-sw +s],sub,my.onlime.ch
-[h +sw][hw +sw][-s +sw][+sw],top,mydigipass.com
-[h +sw +https://www.lookout.com/][hw +https://www.lookout.com/][X][+sw],top,mylookout.com
+[h +s][+s][hw +s][-sw +s],sub,my.onlime.ch
+[h +sw][-s +sw][hw +sw][+sw],top,mydigipass.com
+[h +sw +https://www.lookout.com/][X][hw +https://www.lookout.com/][+sw],top,mylookout.com
 [X][X][X][X],top,neg9.org
 [h -https://neonisi.herokuapp.com][X][X][X],top,neonisi.com
-[h][hw +s][+s][-sw +s],top,netzpolitik.org
-[h +sw][hw +sw][-s +sw][+sw],top,nitrous.io
-[h +sw][hw +sw][-s +sw][+sw],top,nodejitsu.com
-[h +sw][hw +sw][+s][+sw],top,noisebridge.net
-[h hw][hw][X][+sw hw],top,novell.com
-[h +s][hw +s][+s][+sw +s],top,npmjs.org
-[h hw +sw][hw][X][+sw],top,nsfwcorp.com
-[h hw][hw][+s +sw][+sw],top,nuget.org
-[h +s][hw][+s][-sw],top,obmenka.ua
-[h +s hw +sw][hw][+s][+sw],top,odesk.com
-[h +s][hw +sw][+s][+sw],top,onion.to
-[h hw][hw][-s +sw][+sw],top,ontario.ca
-[h -s +sw][hw +sw][-s][+sw],top,openshift.com
-[h +https://www.openshift.com][X][-s +https://www.openshift.com][X],sub,openshift.redhat.com
-[h hw][hw][X][+sw hw],top,opensuse.org
-[h +s][hw +sw][+s][+sw],top,oplop.appspot.com
-[h +s +sw][hw +sw][+s][+sw],top,organizze.com.br
+[h][+s][hw +s][-sw +s],top,netzpolitik.org
+[h *sw][-s *sw][hw *sw][*sw],top,nitrous.io
+[h *sw][-s *sw][hw *sw][*sw],top,nodejitsu.com
+[h +sw][+s][hw +sw][+sw],top,noisebridge.net
+[h hw][X][hw][+sw hw],top,novell.com
+[h +s][+s][hw +s][+sw +s],top,npmjs.org
+[h hw *sw][X][hw][*sw],top,nsfwcorp.com
+[h hw][*s *sw][hw][*sw],top,nuget.org
+[h *s][*s][hw][-sw],top,obmenka.ua
+[h +s hw +sw][+s][hw][+sw],top,odesk.com
+[h +s][+s][hw +sw][+sw],top,onion.to
+[h hw][-s +sw][hw][+sw],top,ontario.ca
+[h -s *sw][-s][hw *sw][*sw],top,openshift.com
+[h *https://www.openshift.com][-s *https://www.openshift.com][X][X],sub,openshift.redhat.com
+[h hw][X][hw][+sw hw],top,opensuse.org
+[h *s][*s][hw *sw][*sw],top,oplop.appspot.com
+[h +s +sw][+s][hw +sw][+sw],top,organizze.com.br
 [X][X][X][X],top,ottospora.nl
-[h +s][X][+s][X],sub,p.linode.com
-[h +s][hw +s][+s][-sw +s],top,packagist.org
-[h][hw][X][X],top,papyrefb2.net
-[h][hw h][+s +https://tls.passthepopcorn.me/][+sw +https://tls.passthepopcorn.me/],top,passthepopcorn.me
-[h +s][hw +sw][+s][+sw],top,passwd.io
-[h +https://p.linode.com/][X][+s][X],sub,paste.linode.com
-[h +https://p.linode.com/][X][+s][X],sub,pastebin.linode.com
-[h +s][X][+s][X],sub,pay.gigahost.dk
-[h +sw][X][+s][+sw],top,paycheckrecords.com
-[h +sw][X][X][+sw],top,paymill.com
-[X][X][+s +https://www.paymill.com/de-de +https://www.paymill.com/de-de/][X],top,paymill.de
-[h +s +sw -sw][X][+s][+sw],top,paypal.com
-[h +s +https://app.perfectaudience.com/][hw][+s][-sw],top,perfectaudience.com
-[h hw][hw][-s hw][+sw hw],top,petflow.com
-[h][hw][+s][+sw],top,pinboard.in
-[h +s][hw +sw +s][+s][+sw],top,pingler.com
-[h +s][hw +s][+s][-sw +s],top,piratenlogin.de
-[h +s][hw +sw][+s][+sw],top,pixi.me
-[h -s +sw][hw +sw][-s][+sw],top,playfire.com
-[h hw][hw][-s +sw][+sw],top,playvid.com
-[h +s][hw +s][+s][-sw +s],top,podio.com
-[X][hw +sw][X][+sw],top,portalbank.dk
-[h hw +sw][hw][X][+sw],top,posible.org.mx
-[h][hw][+s][+sw],top,prestabox.com
-[h hw][hw][+s hw][+sw hw],top,prestashop.com
-[h -s][hw -s][-s][-sw],top,privat24.ua
-[h -s +sw][hw +sw][-s][+sw],top,quantcast.com
-[h hw][hw][X][+sw],top,raiffeisen.at
-[h][hw h][X][X],top,rapidresearch.me
-[h][hw][+s][+sw],top,reactos.org
-[h hw -sw][hw][+s -sw][-sw],top,reg.ru
-[h hw][hw][+s +sw][+sw],top,rigassatiksme.lv
-[h +https://help.riseup.net/ +https://help.riseup.net/en][X][+s][+sw],top,riseup.net
-[h +s][hw +s][+s][-sw +s],top,roadtrippers.com
-[h +s][hw +sw][+s][+sw],top,romab.com
-[h +sw][hw +sw][-s +sw][+sw],top,roomorama.com
-[h +s][X][+s][X],sub,roundcube.mayfirst.org
-[h][hw h][+s][+sw +s],top,ruzuku.com
+[h +s][+s][X][X],sub,p.linode.com
+[h +s][+s][hw +s][-sw +s],top,packagist.org
+[h][X][hw][X],top,papyrefb2.net
+[h][+s +https://tls.passthepopcorn.me/][hw h][+sw +https://tls.passthepopcorn.me/],top,passthepopcorn.me
+[h *s][*s][hw *sw][*sw],top,passwd.io
+[h +https://p.linode.com/][+s][X][X],sub,paste.linode.com
+[h +https://p.linode.com/][+s][X][X],sub,pastebin.linode.com
+[h *s][*s][X][X],sub,pay.gigahost.dk
+[h +sw][+s][X][+sw],top,paycheckrecords.com
+[h *sw][X][X][*sw],top,paymill.com
+[X][*s *https://www.paymill.com/de-de *https://www.paymill.com/de-de/][X][X],top,paymill.de
+[h +s +sw -sw][+s][X][+sw],top,paypal.com
+[h +s +https://app.perfectaudience.com/][+s][hw][-sw],top,perfectaudience.com
+[h hw][-s hw][hw][0sw hw],top,petflow.com
+[h][*s][hw][*sw],top,pinboard.in
+[h +s][+s][hw +sw +s][+sw],top,pingler.com
+[h *s][*s][hw *s][-sw *s],top,piratenlogin.de
+[h *s][*s][hw +sw][+sw],top,pixi.me
+[h -s +sw][-s][hw +sw][+sw],top,playfire.com
+[h hw][-s +sw][hw][+sw],top,playvid.com
+[h +s][+s][hw +s][-sw +s],top,podio.com
+[X][X][hw +sw][+sw],top,portalbank.dk
+[h hw +sw][X][hw][+sw],top,posible.org.mx
+[h][+s][hw][+sw],top,prestabox.com
+[h hw][0s hw][hw][0sw hw],top,prestashop.com
+[h -s][-s][hw -s][-sw],top,privat24.ua
+[h -s +sw][-s][hw +sw][+sw],top,quantcast.com
+[h hw][X][hw][0sw],top,raiffeisen.at
+[h][X][hw h][X],top,rapidresearch.me
+[h][+s][hw][+sw],top,reactos.org
+[h hw -sw][+s -sw][hw][-sw],top,reg.ru
+[h hw][*s *sw][hw][*sw],top,rigassatiksme.lv
+[h *https://help.riseup.net/ *https://help.riseup.net/en][*s][X][*sw],top,riseup.net
+[h +s][+s][hw +s][-sw +s],top,roadtrippers.com
+[h *s][*s][hw *sw][*sw],top,romab.com
+[h +sw][-s +sw][hw +sw][+sw],top,roomorama.com
+[h +s][+s][X][X],sub,roundcube.mayfirst.org
+[h][+s][hw h][+sw +s],top,ruzuku.com
 [X][X][X][X],top,sah3.net
-[h +s][hw +s][+s][-sw +s],sub,sandbox.mydigipass.com
-[h -s +sw][hw +sw][-s][+sw],top,saturngames.co.uk
-[h +s][hw +s][+s][+sw +s],top,savingstar.com
-[h hw][hw][X][X],top,scmp.com
-[h][hw +s][+s][+sw +s],top,securityheaders.com
-[h -s -https://serverdensity.com -https://www.serverdensity.com/][hw +sw][-s][+sw],top,serverdensity.io
-[h +sw -http://www.shodanhq.com/][X][X][+sw],top,shodan.io
+[h +s][+s][hw +s][-sw +s],sub,sandbox.mydigipass.com
+[h -s *sw][-s][hw *sw][*sw],top,saturngames.co.uk
+[h +s][+s][hw +s][+sw +s],top,savingstar.com
+[h hw][X][hw][X],top,scmp.com
+[h][*s][hw *s][*sw *s],top,securityheaders.com
+[h -s -https://serverdensity.com -https://www.serverdensity.com/][-s][hw *sw][*sw],top,serverdensity.io
+[h *sw -http://www.shodanhq.com/][X][X][*sw],top,shodan.io
 [X][X][X][X],sub,shops.neonisi.com
-[h +s][hw +s][+s][+sw +s],top,silentcircle.com
+[h *s][*s][hw *s][*sw *s],top,silentcircle.com
 [X][X][X][X],top,silentcircle.org
-[h +s][hw +s][+s][-sw +s],top,silp.com
-[h +sw][hw +sw][+s][+sw],top,simple.com
-[h hw][hw][+s +sw][+sw],top,site24x7.com
-[h +s +sw][hw +sw][+s][+sw],top,skillfeed.com
-[h +s hw +sw][hw][X][+sw],top,slixa.com
-[X][hw][X][-sw],top,sol.io
-[h +https://secure.solve360.com/][hw +https://secure.solve360.com/][+s][+sw],top,solve360.com
-[h hw][hw][+s hw][+sw hw],top,sotmarket.ru
-[h +s][hw +sw +s][+s][+sw],top,speakerdeck.com
+[h +s][+s][hw +s][-sw +s],top,silp.com
+[h +sw][+s][hw +sw][+sw],top,simple.com
+[h hw][+s +sw][hw][+sw],top,site24x7.com
+[h +s +sw][+s][hw +sw][+sw],top,skillfeed.com
+[h *s hw *sw][X][hw][*sw],top,slixa.com
+[X][X][hw][-sw],top,sol.io
+[h +https://secure.solve360.com/][+s][hw +https://secure.solve360.com/][+sw],top,solve360.com
+[h hw][0s hw][hw][0sw hw],top,sotmarket.ru
+[h 0s][0s][hw 0sw 0s][0sw],top,speakerdeck.com
 [h +https://squareup.com/t/f_tv/c_may12_nationaldrtv +https://squareup.com][X][X][X],top,square.com
-[h +s][hw +s][+s][-sw +s],top,squareup.com
-[h][X][-s][X],sub,ssl.panoramio.com
-[h +s][hw +sw +s][+s][+sw],top,stacksocial.com
-[h +s][hw +sw][+s][+sw],top,startpage.com
-[h +s][hw +s][+s][+sw +s],top,stocktrade.de
-[h +s][hw +s][+s][+sw +s],top,stripe.com
-[h hw][hw][X][X],top,strongest-privacy.com
-[h +s][X][+s][X],sub,support.mayfirst.org
-[h -sw][hw -sw][-s -sw][-sw],top,surfeasy.com
+[h +s][+s][hw +s][-sw +s],top,squareup.com
+[h][-s][X][X],sub,ssl.panoramio.com
+[h +s][+s][hw +sw +s][+sw],top,stacksocial.com
+[h +s][+s][hw +sw][+sw],top,startpage.com
+[h +s][+s][hw +s][+sw +s],top,stocktrade.de
+[h *s][*s][hw *s][*sw *s],top,stripe.com
+[h hw][X][hw][X],top,strongest-privacy.com
+[h +s][+s][X][X],sub,support.mayfirst.org
+[h -sw][-s -sw][hw -sw][-sw],top,surfeasy.com
 [X][X][X][X],top,surkatty.org
-[h +sw][hw +sw][X][+sw],top,suse.com
-[h][hw][+s][+sw],top,t.co
-[h hw][hw][-s +sw][+sw],top,tchibo.com.tr
-[h hw][hw][-s +sw][+sw],top,tchibo.de
-[h hw][hw][-s +sw][+sw],top,tchibo.hu
-[h hw][hw][-s +sw][+sw],top,tchibo.pl
-[h +sw][hw +sw][-s +sw][+sw],top,thehunt.com
+[h +sw][X][hw +sw][+sw],top,suse.com
+[h][0s][hw][+sw],top,t.co
+[h hw][-s *sw][hw][*sw],top,tchibo.com.tr
+[h hw][-s *sw][hw][*sw],top,tchibo.de
+[h hw][-s *sw][hw][*sw],top,tchibo.hu
+[h hw][-s *sw][hw][*sw],top,tchibo.pl
+[h +sw][-s +sw][hw +sw][+sw],top,thehunt.com
 [h hw +sw][X][X][+sw],top,themightyquest.com
-[h +sw][hw +sw][+s +sw][+sw],top,therapynotes.com
-[h][hw][-s +sw][+sw],top,tokyotosho.info
-[h +sw][hw +sw][-s +sw][+sw],top,torproject.org
-[h +sw][hw +sw][-s +sw][+sw],top,transifex.com
-[h hw][hw][-s +sw][+sw],top,trillian.im
-[h hw +sw][hw][-s +sw][+sw],top,tweaky.com
-[h][hw][+s][+sw],top,tweetdeck.com
-[h hw][hw][+s hw][+sw],top,twilio.com
-[h +s][hw +s][+s][+sw +s],top,twitter.com
-[h +s][hw +s][+s][-sw +s],top,typekit.com
-[h +s][hw +s][+s][X],top,ubertt.org
-[h -http://colotest.udemy.com/ +sw][hw +sw][X][+sw],top,udemy.com
-[h][hw][+s h][+sw hw],top,ulozto.cz
-[h +sw][hw][X][+sw],top,united-domains.de
+[h +sw][+s +sw][hw +sw][+sw],top,therapynotes.com
+[h][-s +sw][hw][+sw],top,tokyotosho.info
+[h +sw][-s +sw][hw +sw][+sw],top,torproject.org
+[h *sw][-s *sw][hw *sw][*sw],top,transifex.com
+[h hw][-s +sw][hw][+sw],top,trillian.im
+[h hw 0sw][-s 0sw][hw][0sw],top,tweaky.com
+[h][+s][hw][+sw],top,tweetdeck.com
+[h hw][+s hw][hw][+sw],top,twilio.com
+[h +s][+s][hw +s][+sw +s],top,twitter.com
+[h +s][+s][hw +s][-sw +s],top,typekit.com
+[h *s][*s][hw *s][X],top,ubertt.org
+[h -http://colotest.udemy.com/ +sw][X][hw +sw][+sw],top,udemy.com
+[h][+s h][hw][+sw hw],top,ulozto.cz
+[h *sw][X][hw][*sw],top,united-domains.de
 [X][X][X][X],top,uprotect.it
-[h +sw][hw +sw][-s +sw][+sw],top,upsmychoicepromo.com
-[h hw][hw][-s hw][+sw hw],top,usertesting.com
-[h][hw][+s][+sw],top,vine.co
-[h hw +sw][hw][-s +sw][+sw],top,vizify.com
-[h -sw][hw -sw][-s -sw][-sw],top,vleaf.com
-[h +s][X][+s][X],sub,webmail.gigahost.dk
-[h +s][X][+s][X],sub,webmail.mayfirst.org
-[h +s][X][+s][X],sub,webmail.onlime.ch
-[h +s][hw +s][+s][-sw +s],top,weedmaps.com
-[h +sw][hw +sw][+s +sw][+sw],top,wepay.com
-[h +s][hw +sw +s][+s][+sw],top,what.cd
-[h +s +sw][hw +sw][+s][+sw],top,wholelifechallenge.com
-[h +sw][X][X][+sw],top,whonix.org
-[h +s][X][+s][X],sub,wiki.python.org
+[h *sw][-s *sw][hw *sw][*sw],top,upsmychoicepromo.com
+[h hw][-s hw][hw][0sw hw],top,usertesting.com
+[h][+s][hw][+sw],top,vine.co
+[h hw +sw][-s +sw][hw][+sw],top,vizify.com
+[h -sw][-s -sw][hw -sw][-sw],top,vleaf.com
+[h +s][+s][X][X],sub,webmail.gigahost.dk
+[h +s][+s][X][X],sub,webmail.mayfirst.org
+[h +s][+s][X][X],sub,webmail.onlime.ch
+[h +s][+s][hw +s][-sw +s],top,weedmaps.com
+[h +sw][+s +sw][hw +sw][+sw],top,wepay.com
+[h +s][+s][hw +sw +s][+sw],top,what.cd
+[h +s +sw][+s][hw +sw][+sw],top,wholelifechallenge.com
+[h *sw][X][X][*sw],top,whonix.org
+[h *s][*s][X][X],sub,wiki.python.org
 [X][X][X][X],top,wiz.biz
-[h hw +sw][hw][+s +sw][+sw],top,woopra.com
-[h hw +sw][hw][-s +sw][+sw],top,worldcubeassociation.org
-[h +s][hw +s][+s][+sw],top,writeapp.me
-[h +s -http://waitforit.wuaki.tv][X][+s][X],top,wuaki.tv
-[h +sw][hw +sw][-s +sw][+sw],top,yammer.com
-[h +s][X][+s][X],top,yande.re
-[h +sw][hw][X][+sw],top,zaarly.com
-[h hw][hw][-s +sw][+sw],top,zoho.com
-[h +sw][hw +sw][-s +sw][+sw],top,zoo24.de
+[h hw +sw][+s +sw][hw][+sw],top,woopra.com
+[h hw *sw][-s *sw][hw][*sw],top,worldcubeassociation.org
+[h +s][+s][hw +s][+sw],top,writeapp.me
+[h +s -http://waitforit.wuaki.tv][+s][X][X],top,wuaki.tv
+[h *sw][-s *sw][hw *sw][*sw],top,yammer.com
+[h +s][+s][X][X],top,yande.re
+[h +sw][X][hw][+sw],top,zaarly.com
+[h hw][-s +sw][hw][+sw],top,zoho.com
+[h *sw][-s *sw][hw *sw][*sw],top,zoo24.de
