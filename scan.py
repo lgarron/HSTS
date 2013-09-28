@@ -8,22 +8,31 @@ import re
 import tldextract
 
 from itertools import groupby
+from requests.exceptions import SSLError
 
 from collections import OrderedDict
 
 import shelve
 
 # Cache requests on disk.
-requests_cache.install_cache(
-  "data/cache",
+req = requests_cache.CachedSession(
+  "data/cache/requests",
   allowable_codes=range(1000), # Just cache everything (we care about 200, 301, 302).
   backend="sqlite"
 )
 
-# excludes = shelve.open("data/excludes")
-excludes = shelve.open("data/excludes_no_ssl")
+ssl_errors = shelve.open("data/cache/ssl_errors")
+excludes = shelve.open("data/cache/excludes")
 
 print_success = False
+print_exceptions = False
+
+def exclude(e, url):
+  # TODO: if failed, try only one-hop
+  exceptionName = type(e).__name__
+  excludes[url] = exceptionName
+  if print_success: print("[adding to excludes]", url, "[", exceptionName, "]")
+  return (None, exceptionName)
 
 def load(url):
 
@@ -38,16 +47,27 @@ def load(url):
   }
 
   try:
-    r = requests.get(url, headers=headers, timeout=10, verify=False)
-    if print_success: print("[success]", url)
+    r = req.get(url, headers=headers, timeout=10)
   except Exception as e:
-    # TODO: if failed, try only one-hop
-    exceptionName = type(e).__name__
-    excludes[url] = exceptionName
-    if print_success: print("[adding to excludes]", url, "[", exceptionName, "]")
-    return (None, exceptionName)
+    if not isinstance(e, SSLError):
+      return exclude(e, url)
+    try:
+      if print_exceptions:
+        print("\nSSLError:", e, "\n")
+      # TODO: This still doesn't work.
+      r = req.get(url, headers=headers, timeout=10, verify=False)
+      ssl_errors[url] = "ignoring"
+    except Exception as e2:
+      if print_exceptions:
+        print("\nException:", e2, "\n")
+      return exclude(e2, url)
+
+  ssl_error = " (with SSLError)" if str(url) in ssl_errors else ""
+  if print_success:
+    print("[success" + ssl_error + "]", url)
 
   return (r, None)
+
 
 prefixes = OrderedDict()
 prefixes["http://"] = "h"
@@ -60,27 +80,26 @@ def canonicalize(r, domain):
   s = re.sub(domain + ".*", "", r.url)
 
   hsts = ""
-  if s not in ["http://", "http://www."]:
-    if "strict-transport-security" in r.headers:
-      if "includesubdomains" in r.headers["strict-transport-security"].lower():
-        hsts = "*"
-      elif "max-age=0" in r.headers["strict-transport-security"]:
-        hsts = "0"
-      else:
-        hsts = "+"
-    else:
-      hsts = "-"
+  # if s not in ["http://", "http://www."]:
+  if "strict-transport-security" in r.headers:
+    hsts += "0" if "max-age=0" in r.headers["strict-transport-security"] else "+"
+    hsts += "*" if "includesubdomains" in r.headers["strict-transport-security"].lower() else ""
+  else:
+    hsts = "-"
+
+  ssl_error = "!" if str(r.url) in ssl_errors else ""
 
   if s in prefixes:
-    return hsts + prefixes[s]
+    return hsts, ssl_error, prefixes[s]
   else:
-    return hsts + r.url
+    # return hsts, ssl_error, r.url
+    return hsts, ssl_error, "Z"
 
 def is_subdomain(domain):
   res = tldextract.extract(domain)
   return (res.subdomain not in ["", "www"])
 
-def go(domain):
+def kind(domain):
   chains = []
   for prefix in prefixes.keys():
     r, e = load(prefix + domain)
@@ -88,15 +107,26 @@ def go(domain):
       chain = list(r.history) + [r]
 
       canon = [canonicalize(h, domain) for h in chain]
+
       # Remove redundant redirects (from an HSTS perspective):
       canon = [i[0] for i in groupby(canon)]
 
-      chains.append("[" + (" ".join(canon)) + "]")
+      chains.append(canon)
     else:
       # chains.append("[" + e + "]")
-      chains.append("[X]")
+      chains.append([["", "", "X"]])
+  return chains
+
+def go(domain):
+  k = kind(domain)
+  # print(k)
+  def brac(s):
+    return "[%s]" % s
+  kind_end = "".join([brac([canon[-1] for canon in chain][-1]) for chain in k])
+  kind_plain = "".join([brac(" ".join([canon[-1] for canon in chain])) for chain in k])
+  kind_hsts = "".join([brac(" ".join(["".join(canon) for canon in chain])) for chain in k])
   sub = "sub" if is_subdomain(domain) else "top"
-  print("".join(chains) + "," + sub + "," + domain)
+  print(kind_end + "," + kind_plain + "," + kind_hsts + "," + sub + "," + domain)
 
 inFile = open("data/hsts_list_test.csv", "r")
 inFile = open("data/hsts_list.csv", "r")
