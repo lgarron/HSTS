@@ -127,7 +127,7 @@
 
 \todo{short description}
 
-There are three significantly distinct ways to send the HSTS header; these are describe clearly in 6797\todo{citation}:
+There are three significantly distinct ways to send the HSTS header; these are described clearly in RFC 6797\cite{rfc}:
 
 \quotation{\it
 The HSTS header field below stipulates that the HSTS Policy is to
@@ -234,7 +234,7 @@ Again, the security guarantee of HSTS is relegated to the presence of a cache en
 
 \subsection{Clerical Mistakes}
 
-$30\%$ of HSTS sites in our survey also send an HSTS header over \h or \hw. While an RFC-conforming browser will ignore this, RFC 6797 also states that:
+$30\%$ of HSTS sites in our survey also send an HSTS header over \h or \hw. While an RFC-conforming browser will ignore this, RFC 6797\cite{rfc} also states that:
 
 \begin{quotation}\it
 An HSTS Host MUST NOT include the STS header field in HTTP responses conveyed over non-secure transport.
@@ -301,8 +301,10 @@ Any security-conscious site should strive to deploy this approach, if possible.
 
 \section{Browser Considerations}
 
-\section{Conclusion}
+\subsection{Preload List}
 
+
+\section{Conclusion}
 
 \bibliographystyle{./IEEEtran}
 \bibliography{paper}
