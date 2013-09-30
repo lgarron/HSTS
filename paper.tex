@@ -234,7 +234,7 @@ Again, the security guarantee of HSTS is relegated to the presence of a cache en
 
 \subsection{Clerical Mistakes}
 
-$30\%$ of HSTS sites in our survey also send an HSTS header over \h or \hw. While an RFC-conforming browser will ignore this, RFC 6797\cite{rfc} also states that:
+$30\%$ of HSTS sites in our survey also send an HSTS header over \h or \hw. While an RFC-conforming browser is required to ignore this, RFC 6797\cite{rfc} also states that:
 
 \begin{quotation}\it
 An HSTS Host MUST NOT include the STS header field in HTTP responses conveyed over non-secure transport.
@@ -301,7 +301,40 @@ Any security-conscious site should strive to deploy this approach, if possible.
 
 \section{Browser Considerations}
 
-\subsection{Preload List}
+\subsection{HSTS Browser Support}
+
+As of September 29, 2013, HSTS is currently supported in the desktop versions of Chrome, Firefox, and Opera. It is not supported in Internet Explorer or Safari.\cite{support}
+
+In addition, the mobile versions of Chrome (iOS and Android) and Firefox (Android) support HSTS like their desktop counterparts\cite{mdn}.
+
+\subsection{Chromium Preload List}
+
+The Chromium project maintains a list of sites in one of its source files\td{cite}{sts-list}. A site can request to be included in this list with a combination of several requirements including:
+
+\begin{itemize}
+\item \code{force-https} - enables HTTPS for a site by default (without expiration).
+\item \iSD - same as HSTS.
+\item \code{pins} - specific pinned certificates.
+\end{itemize}
+
+Google Chrome and Chromium employ this list directly, enforcing the specified security measures.
+
+\subsection{Opera}
+
+Opera shares the WebKit-derived Blink engine with Chromium, so it exhibits the same HSTS behavior as Chrome.\footnote{Opera originally implemented support in Presto engine\cite{opera}, but Opera is closed-source, and \todo{does not provide explicit documentation about HSTS support since the transition. It behaves like Chrome for preload sites according to the network console.}}
+
+\subsection{Firefox Preload List}
+
+Firefox ``seeds'' its list by starting with the Chromium preload list, but performs additional filtering. A site is included in the Firefox preload list if:
+
+\begin{itemize}
+\item It is in the Chromium list.
+\item It sends an HSTS header.
+\item The \code{max-age} sent is at least $10886400$ ($18$ weeks).
+\end{itemize}
+
+\subsection{Cache}
+\subsection{Storage Mechanism}
 
 
 \section{Conclusion}
