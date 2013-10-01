@@ -117,7 +117,11 @@
 \thispagestyle{fancy}
 
 \begin{abstract}
+HSTS (HTTP Strict Transport Security) has gained significant browser and server adoption since reaching IETF proposed status. However, there are several important deployment caveats. A scan of top websites reveals that many HSTS sites have not configured the header properly on all (sub)domains, which still leaves them open to several attacks HSTS is meant to solve.
 
+We survey current deployment stories, and find that many of them have simple intentions. Based on these, we describe common mistakes and difficulties with HSTS configuration, and offer concrete recommendations for deploying HSTS as effectively as possible.
+
+In addition, we survey aspects of HSTS browser implementations that sites should be aware of, including HSTS preload lists.
 \end{abstract}
 
 \section{Introduction}
