@@ -125,7 +125,7 @@ HSTS (HTTP Strict Transport Security) has gained significant browser and server 
 
 \section{An Overview of HSTS}
 
-\todo{short description}
+HSTS (HTTP Strict Transport Security) is a header that hosts can send to user agents to request heightened security for a domain. In particular, a header sent from \h will cause a browser to load all requests to the site form /s instead. This is generally touted as a mechanism to ``transform insecure URI references\ldots into secure URI references'', but it also enforces strict security in related mechanisms, such as preventing mixed content or ``click-through'' certificate overrides\cite{rfc}.
 
 There are three significantly distinct ways to send the HSTS header; these are described clearly in RFC 6797\cite{rfc}:
 
@@ -157,9 +157,9 @@ Strict-Transport-Security: max-age=0
 }
 }
 
-\todo{Browser must only accept the HSTS header when it is sent over HTTPS}
-\todo{Preload List}
-\todo{The preload list overrides site settings in Chrome. See later for Firefox details.}
+The specification also states that the HSTS must only be sent and accepted over HTTPS, and that the \iSD directive is ignored for domains when `max-age=0`.
+
+In addition, all browsers currently supporting HSTS also ship with a ``pre-loaded'' list of known HSTS hosts.
 
 \section{Current Deployment by Top Sites}
 
