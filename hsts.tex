@@ -161,6 +161,43 @@ The specification also states that the HSTS must only be sent and accepted over 
 
 In addition, all browsers currently supporting HSTS also ship with a ``pre-loaded'' list of known HSTS hosts.
 
+\section{Browser Considerations}
+
+\subsection{HSTS Browser Support}
+
+As of September 29, 2013, HSTS is currently supported in the desktop versions of Chrome, Firefox, and Opera. It is not supported in Internet Explorer or Safari.\cite{support}
+
+In addition, the mobile versions of Chrome (iOS and Android) and Firefox (Android) support HSTS like their desktop counterparts\cite{mdn}.
+
+\subsection{Chromium Preload List}
+
+The Chromium project maintains a list of sites in one of its source files\td{cite}{sts-list}. A site can request to be included in this list with a combination of several requirements including:
+
+\begin{itemize}
+\item \code{force-https} - enables HTTPS for a site by default (without expiration).
+\item \iSD - same as HSTS.
+\item \code{pins} - specific pinned certificates.
+\end{itemize}
+
+Google Chrome and Chromium employ this list directly, enforcing the specified security measures.
+
+Chrome considers HSTS to be part of the cache. The ``Empty the cache'' setting for clearing browsing data also wipes HSTS values.
+
+\subsection{Opera}
+
+Opera shares the WebKit-derived Blink engine with Chromium, so it exhibits the same HSTS behavior as Chrome.\footnote{Opera originally implemented support in Presto engine\cite{opera}, but Opera is closed-source, and \todo{does not provide explicit documentation about HSTS support since the transition. It behaves like Chrome for preload sites according to the network console.}}
+
+\subsection{Firefox Preload List}
+
+Firefox ``seeds'' its list by starting with the Chromium preload list, but performs additional filtering. A site is included in the Firefox preload list if:
+
+\begin{itemize}
+\item It is in the Chromium list.
+\item It sends an HSTS header.
+\item The \code{max-age} sent is at least $10886400$ ($18$ weeks).
+\end{itemize}
+
+
 \section{Current Deployment by Top Sites}
 
 Of the top 1000 sites in the Alexa rankings, $15$ are sending an HSTS header on a fresh request to their front page over HTTPS. The number of HSTS sites in the top $N$ grows roughly as ${1 \over 2}\sqrt{n}$. \todo{This includes sites sending a \code{max-age} of $0$, such as \site{facebook.com}.}
@@ -332,42 +369,6 @@ If all the redirect URLS and final destinations of a site are protected using \i
 If most pages are served from a subdomain like \sw, securing the entire domain requires an additional step. A simple solution is to make a request to an uncached resource on \s, such as a $1$-pixel \code{<img>} tag (or an iframe) with a cache-busting parameter: \site{\s/img.jpg?[unique-value]}. It is not necessary to prevent this resource from redirecting, as long as it serves an HSTS header itself.
 
 We have verified that the HSTS setting from the resource is recorded by Chrome. \todo{Firefox}
-
-\section{Browser Considerations}
-
-\subsection{HSTS Browser Support}
-
-As of September 29, 2013, HSTS is currently supported in the desktop versions of Chrome, Firefox, and Opera. It is not supported in Internet Explorer or Safari.\cite{support}
-
-In addition, the mobile versions of Chrome (iOS and Android) and Firefox (Android) support HSTS like their desktop counterparts\cite{mdn}.
-
-\subsection{Chromium Preload List}
-
-The Chromium project maintains a list of sites in one of its source files\td{cite}{sts-list}. A site can request to be included in this list with a combination of several requirements including:
-
-\begin{itemize}
-\item \code{force-https} - enables HTTPS for a site by default (without expiration).
-\item \iSD - same as HSTS.
-\item \code{pins} - specific pinned certificates.
-\end{itemize}
-
-Google Chrome and Chromium employ this list directly, enforcing the specified security measures.
-
-Chrome considers HSTS to be part of the cache. The ``Empty the cache'' setting for clearing browsing data also wipes HSTS values.
-
-\subsection{Opera}
-
-Opera shares the WebKit-derived Blink engine with Chromium, so it exhibits the same HSTS behavior as Chrome.\footnote{Opera originally implemented support in Presto engine\cite{opera}, but Opera is closed-source, and \todo{does not provide explicit documentation about HSTS support since the transition. It behaves like Chrome for preload sites according to the network console.}}
-
-\subsection{Firefox Preload List}
-
-Firefox ``seeds'' its list by starting with the Chromium preload list, but performs additional filtering. A site is included in the Firefox preload list if:
-
-\begin{itemize}
-\item It is in the Chromium list.
-\item It sends an HSTS header.
-\item The \code{max-age} sent is at least $10886400$ ($18$ weeks).
-\end{itemize}
 
 \section{Conclusion}
 
