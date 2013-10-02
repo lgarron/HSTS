@@ -171,7 +171,7 @@ In addition, the mobile versions of Chrome (iOS and Android) and Firefox (Androi
 
 \subsection{Chromium Preload List}
 
-The Chromium project maintains a list of sites in one of its source files\td{cite}{sts-list}. A site can request to be included in this list with a combination of several requirements including:
+The Chromium project maintains a list of sites in one of its source files\cite{sts-list}. A site can request to be included in this list with a combination of several requirements including:
 
 \begin{itemize}
 \item \code{force-https} - enables HTTPS for a site by default (without expiration).
@@ -277,7 +277,7 @@ $30\%$ of HSTS sites in our survey also send an HSTS header over \h or \hw. Whil
 An HSTS Host MUST NOT include the STS header field in HTTP responses conveyed over non-secure transport.
 \end{quotation}
 
-Sending the header over plain HTTP suggests an unfamiliarity with HSTS, \todo{apathy towards towards this specification}, or inadequate control over redirect configuration.
+Sending the header over plain HTTP suggests an unfamiliarity with HSTS, apathy towards the specification, or inadequate control over redirect configuration.
 
 In our scans, we also encountered two occasional mistakes:
 
@@ -295,9 +295,8 @@ In our scans, we also encountered two occasional mistakes:
 In practice, using \iSD~may mot be straightforward at the top-level (\s) of an existing site because there is at least one subdomain that may break over HSTS. Possibilities for this include:
 
 \begin{itemize}
-\item Such a large change is usually accompanied by increasing the scope of secure redirects (``\emph{if} we're going to do it, we may as well do it all at once''), which may break certain clients that rely on plain HTTP.
-\item \td{verify}{Insecure resources will fail to load and break pages that worked over HTTPS without HSTS (where they previously only caused a mixed-content warning).}
-\item The server for a subdomain is not configured to use HTTPS.
+\item Insecure resources may fail to load and break pages that worked over HTTPS without HSTS.
+\item Such a large change is usually accompanied by increasing the scope of secure redirects (``\emph{if} we're going to do it, we may as well do it all at once''), which may break certain clients that rely on plain HTTP.\item The server for a subdomain is not configured to use HTTPS.
 \item It may be impractical/expensive/risky to furnish every subdomain server with a valid CA-signed certificate.
 \item The browser will prevent the user from using self-signed certificates for any subdomains.
 \item The browser will enforce HTTPS is for all subdomains even if there are other security measures in place (such as local testing or gating for a corporate network) that would otherwise allow the continued use of plain HTTP.
@@ -352,7 +351,7 @@ In addition, every visit extends the expiration of HSTS.
 
 Every site should aim to ramp up its \code{max-age} as high as possible (at least to the popular default of $6$ or $12$ months).
 
-As advocated in RFC 6797\td{cite section 14.4 specifically}{\cite{rfc}}, \code{includeSubdomains} should also be sent whenever possible. Although section \ref{includeSubDomains-issues} discusses issues with \iSD for \s, it is usually safe to send \iSD~on any particular subdomain, including \sw.
+As advocated in section $14.4$ of RFC 6797\cite{rfc}, \code{includeSubdomains} should also be sent whenever possible. Although section \ref{includeSubDomains-issues} discusses issues with \iSD for \s, it is usually safe to send \iSD~on any particular subdomain, including \sw.
 
 \subsection{Redirect Immediately and Securely}
 
