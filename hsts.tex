@@ -382,9 +382,15 @@ In case all the redirect URLS and final destinations of a site are protected usi
 
 \subsection{Securing \s~from a subdomain}
 
-If most pages are served from a subdomain like \sw, securing the entire domain requires an additional step. A simple solution is to make a request to an uncached resource on \s, such as a $1$-pixel \code{<img>} tag. This is best done using a cache-control header, but simple cache-busting tricks work equally well. in current browsers. It is not necessary to prevent this resource from redirecting, as long as the redirect serves an HSTS header at its \s location.
+If most pages are served from a subdomain like \sw, securing the entire domain requires an additional step. A simple solution is to make a request to an uncached HSTS-serving resource on \s, such as a $1$-pixel \code{<img>}. This is best done using a cache-control header, but simple cache-busting tricks work equally well.
 
-This uncached-resource approach works in all current HSTS browsers. Such a solution is being used successfully in practice, e.g. by \site{https://www.icloud.com}.
+This uncached-resource approach works in all current HSTS browsers. In case a site would like to minimize resource fetches, the particular HSTS resource can:
+\begin{itemize}
+\item send a short-lived \code{cache-control} header for the resource instead, and/or
+\item be configured not redirect from \s~to \sw.
+\end{itemize}
+
+Such a solution is being used successfully in practice, e.g. by \site{https://www.icloud.com}.
 
 \section{Conclusion}
 
