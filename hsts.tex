@@ -267,17 +267,17 @@ A plurality of sites redirect straight to a final destination of \s, where they 
 
 A common pattern is to redirect to \sw~when the user types \site{\genericsite} into their browser. The initial redirecting first page is necessarily insecure. If the site does not set an HSTS for \s, then this insecure redirect occuers \emph{every time} the user types \site{\genericsite} into their browser.
 
-This is mitigated the browser cache retains an entry for \site{\genericsite}. However, it is undesirable to rely on the cache for such a critical security guarantee, and the protection does not apply for any other pages/resources on \h except the cached URL.
+This is mitigated the browser cache retains an entry for \site{\genericsite}. However, it is undesirable to rely on the cache for such a critical security guarantee, and the protection does not apply for any other pages/resources on \h~except the cached URL.
 
 \subsection{Accidental HSTS Expiration}
 
-It is possible to send an HSTS header at \h~along with a $30x$ redirect to $\sw$. However, browsers may cache $301$ aggressively by default. The browser will send \h visits directly to \sw, without visiting \s; thus, the browser will not see another HSTS header for \s, and it will slowly expire once the max-age is reached. If the max-age was set to a low value (e.g. for testing), the browser will also not see the updated value after the initial expiration.
+It is possible to send an HSTS header at \h~along with a $30x$ redirect to $\sw$. However, browsers may cache $301$ aggressively by default. The browser will send \h~visits directly to \sw, without visiting \s; thus, the browser will not see another HSTS header for \s, and it will slowly expire once the max-age is reached. If the max-age was set to a low value (e.g. for testing), the browser will also not see the updated value after the initial expiration.
 
 Again, the security guarantee of HSTS is relegated to the presence of a cache entry.
 
 \subsection{Clerical Mistakes}
 
-$30\%$ of HSTS sites in our survey also send an HSTS header over \h or \hw. While an RFC-conforming browser is required to ignore this, RFC 6797\cite{rfc} also states that:
+$30\%$ of HSTS sites in our survey also send an HSTS header over \h~or \hw. While an RFC-conforming browser is required to ignore this, RFC 6797\cite{rfc} also states that:
 
 \begin{quotation}\it
 An HSTS Host MUST NOT include the STS header field in HTTP responses conveyed over non-secure transport.
