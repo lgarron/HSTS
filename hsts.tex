@@ -125,14 +125,13 @@ HSTS (HTTP Strict Transport Security) has gained significant browser and server 
 
 \section{An Overview of HSTS}
 
-HSTS (HTTP Strict Transport Security) is a header that hosts can send to user agents to request heightened security for a domain. In particular, a header sent from \h will cause a browser to load all requests to the site form /s instead. This is generally touted as a mechanism to ``transform insecure URI references\ldots into secure URI references'', but it also enforces strict security in related mechanisms, such as preventing mixed content or ``click-through'' certificate overrides\cite{rfc}.
+HSTS (HTTP Strict Transport Security) is a header that a host sends to user agents to request heightened security for a domain. In particular, a conform any browser header that has received an HSTS header from \h will will automatically load future all requests to the site from \s instead. Thus, HSTS generally touted as a mechanism to ``transform insecure URI references\ldots into secure URI references''. However, it also also enforces strict security in related mechanisms, such as preventing mixed content and ``click-through'' certificate overrides\cite{rfc}.
 
 There are three significantly distinct ways to send the HSTS header; these are described clearly in RFC 6797\cite{rfc}:
 
 \quotation{\it
 The HSTS header field below stipulates that the HSTS Policy is to
-remain in effect for one year (there are approximately 31536000
-seconds in a year), and the policy applies only to the domain of the
+remain in effect for one year... and the policy applies only to the domain of the
 HSTS Host issuing it:
 
 \quotedcode{
@@ -171,7 +170,7 @@ In addition, the mobile versions of Chrome (iOS and Android) and Firefox (Androi
 
 \subsection{Chromium Preload List}
 
-The Chromium project maintains a list of sites in one of its source files\cite{sts-list}. A site can request to be included in this list with a combination of several requirements including:
+The Chromium project maintains a list of sites in one of its source files\cite{sts-list}. A site owner can request their site to be included in this list to enforce combination of several requirements including:
 
 \begin{itemize}
 \item \code{force-https} - enables HTTPS for a site by default (without expiration).
@@ -185,18 +184,25 @@ Chrome considers HSTS to be part of the cache. The ``Empty the cache'' setting f
 
 \subsection{Opera}
 
-Opera shares the WebKit-derived Blink engine with Chromium, so it exhibits the same HSTS behavior as Chrome.\footnote{Opera originally implemented support in Presto engine\cite{opera}, but Opera is closed-source, and \todo{does not provide explicit documentation about HSTS support since the transition. It behaves like Chrome for preload sites according to the network console.}}
+Opera shares the WebKit-derived Blink engine with Chromium, so it exhibits the same HSTS behavior as Chrome.\footnote{Opera originally implemented support in Presto engine\cite{opera}, but Opera is closed-source, and \todo{does not provide explicit documentation about HSTS support since the Blink transition. It behaves like Chrome for preload sites according to the network console.}}
 
 \subsection{Firefox Preload List}
 
-Firefox ``seeds'' its list by starting with the Chromium preload list, but performs additional filtering. A site is included in the Firefox preload list if:
+Mozilla ``seeds'' the Firefox preload list by starting with the domains in the Chromium preload list, performing its own filtering to keep the list fresh and observe the latest host settings. The Chromium list is processed a regularly run\cite{firefox-cron}\cite{firefox-cron-script} script\cite{firefox-script}, and the resulting preload list\cite{firefox-list} (along with the list of errors\cite{firefox-errors}) is committed to the \code{mozilla-central} repository.
+
+A site is included in the Firefox preload list if the following hold:
 
 \begin{itemize}
-\item It is in the Chromium list.
+\item It is in the Chromium list (with \code{force-https}).
 \item It sends an HSTS header.
 \item The \code{max-age} sent is at least $10886400$ ($18$ weeks).
 \end{itemize}
 
+Firefox enforces HSTS for all sites in its preload list, which is hard-coded and compiled into the main binary.
+
+The Firefox preload list also includes a boolean flag for \iSD. This flag is set to true if the script recorded \iSD in the site's HSTS header (regardless of the Chromium list setting).
+
+The Firefox preload list also includes an expiration time: after $18$ weeks, the data is considered stale and Firefox will ignore it (i.e. sites can use HSTS normally, but the browser will no longer use the preload list to enforce HTTPS on first load for any sites)\cite{firefox-cron-expiration}.
 
 \section{Current Deployment by Top Sites}
 
