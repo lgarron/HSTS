@@ -3,6 +3,38 @@ from hsts.items import HSTSItem
 import csv
 import re
 
+from scrapy.contrib.downloadermiddleware.redirect import RedirectMiddleware
+
+
+def process_response(self, request, response, spider):
+    if 'dont_redirect' in request.meta:
+        return response
+
+    print "HI there."
+
+    if request.method == 'HEAD':
+        if response.status in [301, 302, 303, 307] and 'Location' in response.headers:
+            redirected_url = urljoin(request.url, response.headers['location'])
+            redirected = request.replace(url=redirected_url)
+            print(type(request))
+            return self._redirect(redirected, request, spider, response.status)
+        else:
+            return response
+
+    if response.status in [302, 303] and 'Location' in response.headers:
+        redirected_url = urljoin(request.url, response.headers['location'])
+        redirected = self._redirect_request_using_get(request, redirected_url)
+        return self._redirect(redirected, request, spider, response.status)
+
+    if response.status in [301, 307] and 'Location' in response.headers:
+        redirected_url = urljoin(request.url, response.headers['location'])
+        redirected = request.replace(url=redirected_url)
+        return self._redirect(redirected, request, spider, response.status)
+
+    return response
+
+RedirectMiddleware.process_response = process_response
+
 
 class MySpider(BaseSpider):
     name = 'hsts'
