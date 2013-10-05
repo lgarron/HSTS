@@ -13,8 +13,9 @@ NEWSPIDER_MODULE = 'hsts.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 CONCURRENT_REQUESTS = 20
+DOWNLOAD_DELAY = 0.1
 # LOG_LEVEL = 'INFO'
 COOKIES_ENABLED = False
 DOWNLOAD_TIMEOUT = 15
-RETRY_ENABLED = False
+RETRY_ENABLED = True
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36"

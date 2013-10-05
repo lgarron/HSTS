@@ -14,6 +14,6 @@ PATH="$PATH:~/.local/bin"
 scrapy crawl hsts \
   -t json \
   -o "data/${BATCH_SIZE}/items-${START}.json" \
-  -a url_file="../data/alexa-top-100k-2013-09-24.csv" \
+  -a url_file="../data/top-1m.csv" \
   -a num="${BATCH_SIZE}" \
   -a start="${START}"
