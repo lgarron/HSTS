@@ -48,6 +48,7 @@ var stats = {};
 stats.hstsIndices = [];
 stats.maxAgeZeros = [];
 stats.iSD = [];
+stats.iSDTopLevel = [];
 stats.sendsHSTSOverPlainHTTP = [];
 stats.badHSTSHeader = [];
 stats.httpsSites = [];
@@ -71,16 +72,19 @@ for (var i in sites) {
       stats.httpsSites.push(page.index);
       if (hsts !== null) {
         // TODO: maybe use canonical version instead of the first here?
+        multiMapAdd(maxAges, page.index, hsts.maxAge);
         if(hsts.maxAge > 0) {
           stats.hstsIndices.push(page.index);
-          multiMapAdd(maxAges, page.index, hsts.maxAge);
           alexaHSTSList.push(page.url);
         }
         if(hsts.maxAge === 0) {
           stats.maxAgeZeros.push(page.index);
         }
-        if(hsts.iSD === 0) {
+        if(hsts.iSD) {
           stats.iSD.push(page.index);
+          if (page.www === "") {
+            stats.iSDTopLevel.push(page.index);
+          }
         }
       }
     }
