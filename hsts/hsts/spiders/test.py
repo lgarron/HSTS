@@ -31,8 +31,9 @@ class MySpider(BaseSpider):
     def get_start_urls(self, url_file):
         urls = []
 
-        self.regex = re.compile(r"^(https?://(www\.)?)([^/]*)(/.*)?")
+        self.regex = re.compile(r"^(https?://(www\.)?)(.*)")
         self.indices = {}
+        self.indices_www = {}
 
         inFile = open(url_file, "r")
         reader = csv.reader(inFile)
@@ -44,6 +45,7 @@ class MySpider(BaseSpider):
         for i in range(self.num):
             row = reader.next()
             self.indices[row[1]] = row[0]
+            self.indices["www." + row[1]] = row[0]
             for protocol in ["http", "https"]:
                 for www in ["", "www."]:
                     urls.append(protocol + "://" + www + row[1])
@@ -61,6 +63,8 @@ class MySpider(BaseSpider):
         item["urls"] = urls
 
         domain = self.regex.sub(r"\3", urls[0])
-        item["index"] = self.indices.get(domain, None)
+        item["index"] = self.indices.get(domain,
+            self.indices_www.get(domain, None)
+        )
 
         return [item]
