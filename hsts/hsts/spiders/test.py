@@ -6,6 +6,7 @@ import re
 
 class MySpider(BaseSpider):
     name = 'hsts'
+    handle_httpstatus_list = range(1000)
 
     def __init__(self,
             url_file="../data/alexa-top-100k-2013-09-24.csv",
