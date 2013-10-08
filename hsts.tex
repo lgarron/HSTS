@@ -206,9 +206,9 @@ The Firefox preload list also includes an expiration time: after $18$ weeks, the
 
 \section{Current Deployment by Top Sites}
 
-Of the top 1000 sites in the Alexa rankings, $15$ are sending an HSTS header on a fresh request to their front page over HTTPS. The number of HSTS sites in the top $N$ grows roughly as ${1 \over 2}\sqrt{n}$. \todo{This includes sites sending a \code{max-age} of $0$, such as \site{facebook.com}.}
+Over $1\%$ of the top $1000$ sites in the Alexa rankings are sending an HSTS header on a fresh request to their front page over HTTPS. This fraction decreases for further sites ($< 0.4\%$ of the top $10000$). Of these, a small but significant fraction are sending a \code{max-age} of $0$ or an improperly formatted HSTS header.
 
-These numbers were found by using \code{curl} with a current Google Chrome user agent string \code{Mozilla/5.0 (Macintosh; Intel Mac OS X 10\_8\_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36}. All results are from \todo{September 25, 2013}.
+These numbers were found by using a \code{python} script using a current Google Chrome user agent string \code{Mozilla/5.0 (Macintosh; Intel Mac OS X 10\_8\_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36}. All results are from early October 2013.
 
 \begin{table}[htdp]
 \label{alexa_table}
@@ -217,24 +217,28 @@ These numbers were found by using \code{curl} with a current Google Chrome user 
 \hline
 $\#$ of top Alexa sites & \# HTTPS & \# HSTS\\
 \hline
-10 & 8 & 2 \\
+10 & 7 & 1 \\
 \hline
-100 & 64 & 4 \\	
+100 & 71 & 5 \\	
 \hline
-1000 & 484 &15 \\
+1000 & 578 & 18 \\
 \hline
-10000 & \todo{N/A} & 65\\
+10000 & 4811 & 81\\
 \hline
-100000 & \todo{N/A} & \td{not final}{196}\\
+100000 & 41877 & 353\\
 \hline
 \end{tabular}
 \end{center}
 \end{table}%
 
 \begin{center}
-\includegraphics[width=70mm]{alexa_https.pdf}
 \includegraphics[width=70mm]{alexa_hsts.pdf}
 \end{center}
+
+\begin{center}
+\includegraphics[width=70mm]{max-age.pdf}
+\end{center}
+ 
 
 \section{Common Deployment Patterns}
 
@@ -289,13 +293,7 @@ An HSTS Host MUST NOT include the STS header field in HTTP responses conveyed ov
 
 Sending the header over plain HTTP suggests an unfamiliarity with HSTS, apathy towards the specification, or inadequate control over redirect configuration.
 
-In our scans, we also encountered two occasional mistakes:
-
-\begin{itemize}
-\item Sending two HSTS headers in the same requests.
-\item Using a comma instead of a semicolon to delimit the \iSD~directive.
-\end{itemize}
-
+In our scans, we also encountered various occasional mistakes, such as a comma instead of a semicolon, or removing the hyphen from \code{max-age}. A few sites, including \code{paypal.com}, also sent two HSTS headers in the same request sometimes.
 
 \section{Issues with Improving HSTS Configuration}
 
