@@ -49,18 +49,7 @@ def load(url):
   try:
     r = req.get(url, headers=headers, timeout=10)
   except Exception as e:
-    if not isinstance(e, SSLError):
-      return exclude(e, url)
-    try:
-      if print_exceptions:
-        print("\nSSLError:", e, "\n")
-      # TODO: This still doesn't work.
-      r = req.get(url, headers=headers, timeout=10, verify=False)
-      ssl_errors[url] = "ignoring"
-    except Exception as e2:
-      if print_exceptions:
-        print("\nException:", e2, "\n")
-      return exclude(e2, url)
+    return exclude(e, url)
 
   ssl_error = " (with SSLError)" if str(url) in ssl_errors else ""
   if print_success:
