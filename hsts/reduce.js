@@ -13,7 +13,7 @@ for (var i = 0; i < 10; i++) {
     if (!(data[j].index in sites)) {
       sites[data[j].index] = [];
     }
-    data[j].index = parseInt(data[j].index);
+    data[j].index = parseInt(data[j].index, 10);
     sites[data[j].index].push(data[j]);
   }
 }
@@ -35,7 +35,7 @@ function parseHSTS(page) {
 //   return parseHSTS(page) !== null;
 // }
 
-console.log("--------\nBeginning HSTS parsing sanity console.log statements.")
+console.log("--------\nBeginning HSTS parsing sanity console.log statements.");
 console.log(parseHSTS({protocol: "https", hsts: "max-age=0; includesubDOMAINS"}));
 console.log(parseHSTS({protocol: "https", hsts: "max-age=0"}));
 console.log(parseHSTS({protocol: "https", hsts: "max-age=\"5\";"}));
@@ -43,7 +43,7 @@ console.log(parseHSTS({protocol: "https", hsts: "max-age=0;"}));
 console.log(parseHSTS({protocol: "https", hsts: "max-age=;"}));
 console.log(parseHSTS({protocol: "https", hsts: "maxage=55"}));
 console.log(parseHSTS({protocol: "https", hsts: "max-age=55, includesubdomains"}));
-console.log("--------")
+console.log("--------");
 
 var hstsIndices = [];
 var maxAges = [];
