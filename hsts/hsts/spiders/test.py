@@ -1,7 +1,9 @@
 from scrapy.spider import BaseSpider
 from hsts.items import HSTSItem
+from scrapy.http import Request
 import csv
 import re
+import itertools
 
 
 class MySpider(BaseSpider):
@@ -26,45 +28,45 @@ class MySpider(BaseSpider):
         except:
             pass
 
-        self.start_urls = self.get_start_urls(url_file)
+        self.url_file = url_file
 
-    def get_start_urls(self, url_file):
-        urls = []
-
-        self.regex = re.compile(r"^(https?://(www\.)?)(.*)")
-        self.indices = {}
-        self.indices_www = {}
-
-        inFile = open(url_file, "r")
+    def start_requests(self):
+        inFile = open(self.url_file, "r")
         reader = csv.reader(inFile)
+        l = []
 
-        for i in range(1, self.start):
-            print("Skipping.")
+        for i in range(self.start - 1):
+            # Drop the item.
             reader.next()
 
-        for i in range(self.num):
-            row = reader.next()
-            self.indices[row[1]] = row[0]
-            self.indices["www." + row[1]] = row[0]
+        for index, url in itertools.islice(reader, self.num):
             for protocol in ["http", "https"]:
                 for www in ["", "www."]:
-                    urls.append(protocol + "://" + www + row[1])
+                    l.append(Request(
+                        protocol + "://" + www + url,
+                        meta={
+                            "index": index,
+                            "url": url,
+                            "protocol": protocol,
+                            "www": www
+                        }
+                    ))
 
-        return urls
+        return l
 
     def parse(self, response):
         item = HSTSItem()
         item["status"] = response.status
         item["hsts"] = response.headers.get("strict-transport-security", None)
+        item["location"] = response.headers.get("location", None)
 
-        urls = response.meta.get("redirect_urls", [])
-        urls.append(response.url)
-        item["url"] = self.regex.sub(r"\1\3", urls[0])
-        item["urls"] = urls
+        # urls = response.meta.get("redirect_urls", [])
+        # urls.append(response.url)
+        item["url"] = response.meta["url"]
+        # item["urls"] = urls
 
-        domain = self.regex.sub(r"\3", urls[0])
-        item["index"] = self.indices.get(domain,
-            self.indices_www.get(domain, None)
-        )
+        item["index"] = response.meta["index"]
+        item["protocol"] = response.meta["protocol"]
+        item["www"] = response.meta["www"]
 
         return [item]

@@ -10,4 +10,6 @@ class HSTSItem(Item):
     url = Field()
     status = Field()
     hsts = Field()
-    urls = Field()
+    location = Field()
+    protocol = Field()
+    www = Field()
