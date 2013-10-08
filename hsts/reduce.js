@@ -20,7 +20,6 @@ for (var i = 0; i < 10; i++) {
 
 var regex = /^max-age="?(\d+)"?(\s*;\s*(includeSubDomains)?)?\s*$/i;
 function parseHSTS(page) {
-  if (page.protocol !== "https") { return null; }
   if (page.hsts === null) { return null; }
   var res = regex.exec(page.hsts);
   // console.log(res);
@@ -47,11 +46,20 @@ console.log("--------");
 
 var stats = {};
 stats.hstsIndices = [];
-stats.maxAges = [];
 stats.maxAgeZeros = [];
 stats.iSD = [];
 stats.sendsHSTSOverPlainHTTP = [];
 stats.badHSTSHeader = [];
+stats.httpsSites = [];
+
+var maxAges = {};
+
+function multiMapAdd(arr, key, value) {
+  if (!(key in arr)) {
+    arr[key] = [];
+  }
+  arr[key].push(value);
+}
 
 var alexaHSTSList = [];
 
@@ -59,45 +67,62 @@ for (var i in sites) {
   for (var j in sites[i]) {
     var page = sites[i][j];
     var hsts = parseHSTS(page);
-    if (page.protocol === "https" && hsts !== null) {
-      // TODO: maybe use canonical version instead of the first here?
-      if(hsts.maxAge > 0) {
-        stats.hstsIndices.push(page.index);
-        stats.maxAges.push(hsts.maxAge);
-        alexaHSTSList.push(page.url);
-        // Take the first one we get to.
-        break;
-      }
-      if(hsts.maxAge === 0) {
-        stats.maxAgeZeros.push(page.index);
-      }
-      if(hsts.iSD === 0) {
-        stats.iSD.push(page.index);
+    if (page.protocol === "https") {
+      stats.httpsSites.push(page.index);
+      if (hsts !== null) {
+        // TODO: maybe use canonical version instead of the first here?
+        if(hsts.maxAge > 0) {
+          stats.hstsIndices.push(page.index);
+          multiMapAdd(maxAges, page.index, hsts.maxAge);
+          alexaHSTSList.push(page.url);
+        }
+        if(hsts.maxAge === 0) {
+          stats.maxAgeZeros.push(page.index);
+        }
+        if(hsts.iSD === 0) {
+          stats.iSD.push(page.index);
+        }
       }
     }
     else if (page.protocol === "http" && page.hsts) {
       stats.sendsHSTSOverPlainHTTP.push(page.index);
     }
-    else if (page.hsts !== null && hsts === null) {
+    if (page.hsts !== null && hsts === null) {
       stats.badHSTSHeader.push(page.index);
     }
   }
 }
 
+// From http://www.shamasis.net/2009/09/fast-algorithm-to-find-unique-items-in-javascript-array/
+Array.prototype.unique = function() {
+  var o = {}, i, l = this.length, r = [];
+  for(i=0; i<l;i+=1) o[this[i]] = this[i];
+  for(i in o) r.push(o[i]);
+  return r;
+};
+
 function sortNumbers(list) {
   return list.sort(function(a, b){return a - b;});
 }
 
+// Sort all the number stats arrays.
+for (i in stats) {
+  stats[i] = sortNumbers(stats[i].unique());
+}
+
+// Add the one non-number array.
+stats.maxAges = maxAges;
+
 console.log("# Indices of HSTS hosts (send a valid HSTS header over either HTTPS root URL with max-age > 0.");
-console.log(JSON.stringify(sortNumbers(stats.hstsIndices)));
+console.log(JSON.stringify(stats.hstsIndices));
 console.log("# max-age values of HSTS hosts, in seconds.");
-console.log(JSON.stringify(sortNumbers(stats.maxAges)));
+console.log(JSON.stringify(stats.maxAges));
 console.log("# Valid HSTS headers sent over HTTPS with max-age == 0.");
-console.log(JSON.stringify(sortNumbers(stats.maxAgeZeros)));
+console.log(JSON.stringify(stats.maxAgeZeros));
 console.log("# Sends HSTS over plain text.");
-console.log(JSON.stringify(sortNumbers(stats.sendsHSTSOverPlainHTTP)));
+console.log(JSON.stringify(stats.sendsHSTSOverPlainHTTP));
 console.log("# Sends a bad HSTS header over some protocol.");
-console.log(JSON.stringify(sortNumbers(stats.badHSTSHeader)));
+console.log(JSON.stringify(stats.badHSTSHeader));
 
 
 // Create HSTS host list.
@@ -112,21 +137,13 @@ for (i in chromiumHSTSJSON.entries) {
   }
 }
 
-// From http://www.shamasis.net/2009/09/fast-algorithm-to-find-unique-items-in-javascript-array/
-Array.prototype.unique = function() {
-  var o = {}, i, l = this.length, r = [];
-  for(i=0; i<l;i+=1) o[this[i]] = this[i];
-  for(i in o) r.push(o[i]);
-  return r;
-};
-
 
 var hstsList = alexaHSTSList.concat(chromiumHSTSList);
 // Strip www. prefix; we'll use the parent domain in the Python script.
 hstsList = hstsList.map(function(str) {return str.replace(/^www./, "");});
 hstsList = hstsList.unique().sort();
 
-console.log(hstsList);
+// console.log(hstsList);
 
 fs.writeFileSync("../data/hsts_list.csv", hstsList.join("\n"));
 fs.writeFileSync("../data/stats.json", JSON.stringify(stats, null, "  "));
