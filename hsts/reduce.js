@@ -18,16 +18,6 @@ for (var i = 0; i < 10; i++) {
   }
 }
 
-fs.writeFileSync(
-  "data/all.csv",
-  csvout.join("\n")
-);
-
-fs.writeFileSync(
-  "data/hsts-list-alexa-raw.csv",
-  hsts.join("\n")
-);
-
 var regex = /^max-age="?(\d+)"?(\s*;\s*(includeSubDomains)?)?\s*$/i;
 function parseHSTS(page) {
   if (page.protocol !== "https") { return null; }
