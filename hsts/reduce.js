@@ -45,12 +45,14 @@ console.log(parseHSTS({protocol: "https", hsts: "maxage=55"}));
 console.log(parseHSTS({protocol: "https", hsts: "max-age=55, includesubdomains"}));
 console.log("--------");
 
-var hstsIndices = [];
-var maxAges = [];
-var maxAgeZeros = [];
-var iSD = [];
-var sendsHSTSOverPlainHTTP = [];
-var badHSTSHeader = [];
+var stats = {};
+stats.hstsIndices = [];
+stats.maxAges = [];
+stats.maxAgeZeros = [];
+stats.iSD = [];
+stats.sendsHSTSOverPlainHTTP = [];
+stats.badHSTSHeader = [];
+
 var alexaHSTSList = [];
 
 for (var i in sites) {
@@ -60,24 +62,24 @@ for (var i in sites) {
     if (page.protocol === "https" && hsts !== null) {
       // TODO: maybe use canonical version instead of the first here?
       if(hsts.maxAge > 0) {
-        hstsIndices.push(page.index);
-        maxAges.push(hsts.maxAge);
+        stats.hstsIndices.push(page.index);
+        stats.maxAges.push(hsts.maxAge);
         alexaHSTSList.push(page.url);
         // Take the first one we get to.
         break;
       }
       if(hsts.maxAge === 0) {
-        maxAgeZeros.push(page.index);
+        stats.maxAgeZeros.push(page.index);
       }
       if(hsts.iSD === 0) {
-        iSD.push(page.index);
+        stats.iSD.push(page.index);
       }
     }
     else if (page.protocol === "http" && page.hsts) {
-      sendsHSTSOverPlainHTTP.push(page.index);
+      stats.sendsHSTSOverPlainHTTP.push(page.index);
     }
     else if (page.hsts !== null && hsts === null) {
-      badHSTSHeader.push(page.index);
+      stats.badHSTSHeader.push(page.index);
     }
   }
 }
@@ -87,15 +89,15 @@ function sortNumbers(list) {
 }
 
 console.log("# Indices of HSTS hosts (send a valid HSTS header over either HTTPS root URL with max-age > 0.");
-console.log(JSON.stringify(sortNumbers(hstsIndices)));
+console.log(JSON.stringify(sortNumbers(stats.hstsIndices)));
 console.log("# max-age values of HSTS hosts, in seconds.");
-console.log(JSON.stringify(sortNumbers(maxAges)));
+console.log(JSON.stringify(sortNumbers(stats.maxAges)));
 console.log("# Valid HSTS headers sent over HTTPS with max-age == 0.");
-console.log(JSON.stringify(sortNumbers(maxAgeZeros)));
+console.log(JSON.stringify(sortNumbers(stats.maxAgeZeros)));
 console.log("# Sends HSTS over plain text.");
-console.log(JSON.stringify(sortNumbers(sendsHSTSOverPlainHTTP)));
+console.log(JSON.stringify(sortNumbers(stats.sendsHSTSOverPlainHTTP)));
 console.log("# Sends a bad HSTS header over some protocol.");
-console.log(JSON.stringify(sortNumbers(badHSTSHeader)));
+console.log(JSON.stringify(sortNumbers(stats.badHSTSHeader)));
 
 
 // Create HSTS host list.
@@ -127,3 +129,4 @@ hstsList = hstsList.unique().sort();
 console.log(hstsList);
 
 fs.writeFileSync("../data/hsts_list.csv", hstsList.join("\n"));
+fs.writeFileSync("../data/stats.json", JSON.stringify(stats, null, "  "));
