@@ -294,7 +294,7 @@ These numbers were found by using a \code{python} script using the \code{scrapy}
 \end{center}
 \end{figure}
 
-\subsection{The Alexa + Chromium HSTS Dataset}
+\subsection{The Alexa + Chromium HSTS Sites}
 
 For the rest of this paper, we will discuss sites from two sources:
 
@@ -316,7 +316,7 @@ The {\ma} values group naturally into several buckets, which are displayed in fi
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[width=70mm]{max-age.pdf}
-\caption{HSTS \code{max-age} settings of sites in the Alexa + Chromium dataset. (Each site is placed in the highest valid bucket.)}
+\caption{HSTS \code{max-age} settings of sites in the Alexa + Chromium HSTS Sites. (Each site is placed in the highest valid bucket.)}
 \label{fig:max-age}
 \end{center}
 \end{figure}
@@ -324,22 +324,49 @@ The {\ma} values group naturally into several buckets, which are displayed in fi
 
 \section{Common Deployment Patterns}
 
-We considered sites in the Alexa + Chromium dataset.
-\todo{Clean up with final numbers}
+The minimum use of HSTS is to secure a single canonical domain; either {\site{\genericsite}} or {\site{www.\genericsite}}. However, it is usually desirable to do some of the following:
 
-Most sites redirect straight to 
+\begin{itemize}
+\item Secure all visited (sub)domains (e.g. protect any resource on second load).
+\item Secure {\site{\genericsite}} and {\site{www.\genericsite}}.
+\item Secure all (sub)domains of {\site{\genericsite}}.
+\end{itemize}
 
-\subsection{Redirect straight to {\s}}
+Most HSTS sites redirect straight to a canonical URL, adding \code{HSTS} and modifying the presence of \code{www} consistently. However, there is wide variation in redirect schemes and HSTS header. We considered all of the Alexa + Chromium HSTS sites which only redirected to common subdomains of a main domain. There were $409$ of these, including some Chromium sites that do not send HSTS headers.
 
-A plurality of sites redirect straight to a final destination of {\s}, where they serve an HSTS header.
+\subsection{Redirect to {\s}}
 
-\subsection{Redirect straight to {\sw}}
+A plurality of $78$ sites redirect straight to a final destination of {\s}, where they serve an HSTS header, including $31$ who are subdomains themselves.
 
-Redirecting through {\s} with HSTS.
+Of these, $19$ serve an HSTS header with {\iSD} over {\s}, automatically protecting all subdomains.
+
+$27$ sites did not send an HSTS header over {\sw}, and left it unprotected in all cases.
+
+All but $1$ of these were straight redirects.
+
+\subsection{Redirect to {\sw}}
+
+$37$ sites redirected straight to {\sw}. Although $10$ of them set {\iSD} over {\sw}, only $9$ secured both {\s} and {\sw} at their root URLs -- and only $2$ did both.
+
+$34$ additional sites directed straight to {\sw} but did not allow a valid connection over {\s}. $18$ of these sent {\iSD}.
+
+All but $4$ of these were straight redirects.
 
 \subsection{Redirect to HTTPS}
 
-\subsection{Redirect to \code{www}}
+$24$ sites did not add or remove {\code{www}}. All sites sent an HSTS header over both {\s} and {\sw}. $6$ sent {\iSD} over both, and the rest sent it over neither.
+
+Most of these sent HSTS over both {\s} and {\sw}, with roughly $1/4$ of each using {\iSD}.
+
+All but $4$ of these were straight redirects.
+
+\subsection{Canonical Redirect for HTTP Only}
+
+$23$ sites served either {\s} or {\sw} but consistently redirected plain HTTP requests to {\s}. Another $23$ similarly sent plain HTTP to {\sw} instead, although $13$ of them redirected to {\s} first.
+
+\subsection{Miscellanous}
+The remaining sites usually matched the patterns above, with particular anomalies.
+
 
 \section{Common Mistakes}
 % \todo{Or, as Buzzfeed would call it: 3 Ways Your "Secure" Site is Horribly Broken.}
