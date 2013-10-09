@@ -41,10 +41,10 @@
 \newcommand{\ma}{{\code{max-age}}}
 
 \newcommand{\genericsite}{example.com}
-\newcommand{\h}{{\site{http://\genericsite}}}
-\newcommand{\s}{{\site{https://\genericsite}}}
-\newcommand{\hw}{{\site{http://www.\genericsite}}}
-\newcommand{\sw}{{\site{https://www.\genericsite}}}
+\newcommand{\h}{{\site{http://{\allowbreak}\genericsite}}}
+\newcommand{\s}{{\site{https://{\allowbreak}\genericsite}}}
+\newcommand{\hw}{{\site{http://{\allowbreak}www.\genericsite}}}
+\newcommand{\sw}{{\site{https://{\allowbreak}www.\genericsite}}}
 
 
 \documentclass{acm_proc_article-sp}
@@ -141,7 +141,7 @@ HSTS (HTTP Strict Transport Security) has gained significant browser and server 
 
 \section{An Overview of HSTS}
 
-HSTS (HTTP Strict Transport Security) is a header that a host sends to user agents to request heightened security for a domain. In particular, a conform any browser header that has received an HSTS header from \h will will automatically load future all requests to the site from \s instead. Thus, HSTS generally touted as a mechanism to ``transform insecure URI references\ldots into secure URI references''. However, it also also enforces strict security in related mechanisms, such as preventing mixed content and ``click-through'' certificate overrides\cite{rfc}.
+HSTS (HTTP Strict Transport Security) is a header that a host sends to user agents to request heightened security for a domain. In particular, a conform any browser header that has received an HSTS header from {\h} will will automatically load future all requests to the site from {\s} instead. Thus, HSTS generally touted as a mechanism to ``transform insecure URI references\ldots into secure URI references''. However, it also also enforces strict security in related mechanisms, such as preventing mixed content and ``click-through'' certificate overrides\cite{rfc}.
 
 There are three significantly distinct ways to send the HSTS header; these are described clearly in RFC 6797\cite{rfc}:
 
@@ -172,7 +172,7 @@ Strict-Transport-Security: max-age=0
 }
 }}
 
-The specification also states that the HSTS must only be sent and accepted over HTTPS, and that the \iSD~directive is ignored for domains when `max-age=0`.
+The specification also states that the HSTS must only be sent and accepted over HTTPS, and that the {\iSD} directive is ignored for domains when `max-age=0`.
 
 In addition, all browsers currently supporting HSTS also ship with a ``pre-loaded'' list of known HSTS hosts.
 
@@ -190,7 +190,7 @@ The Chromium project maintains a list of sites in one of its source files\cite{s
 
 \begin{itemize}
 \item \code{force-https} - enables HTTPS for a site by default (without expiration).
-\item \iSD~- same as HSTS.
+\item {\iSD} - same as HSTS.
 \item \code{pins} - specific pinned certificates.
 \end{itemize}
 
@@ -216,11 +216,11 @@ A site is included in the Firefox preload list if the following hold:
 
 Firefox enforces HSTS for all sites in its preload list, which is hard-coded and compiled into the main binary.
 
-The Firefox preload list also includes a boolean flag for \iSD. This flag is set to true if the script recorded \iSD~in the site's HSTS header (regardless of the Chromium list setting).
+The Firefox preload list also includes a boolean flag for \iSD. This flag is set to true if the script recorded {\iSD} in the site's HSTS header (regardless of the Chromium list setting).
 
 The Firefox preload list also includes an expiration time: each script run sets a timeout of $18$ weeks from the time it is run, after which Firefox will ignore it (i.e. sites can use HSTS normally, but the browser will no longer use the preload list to enforce HTTPS on first load for any sites)\cite{firefox-cron-expiration}. Since the release cycle shortens the time HSTS is useful in the browser to significantly less than $18$ weeks, the issue might be addressed in the future, any sites considering HSTS should check current Mozilla policies before selecting a {\ma}.
 
-Firefox considers HSTS to be part of ``Site Preferences’’ in its ``Clear Recent History’’ feature.
+Firefox considers HSTS to be part of ``Site Preferences'' in its ``Clear Recent History'' feature.
 
 \section{Current Deployment}
 
@@ -229,10 +229,10 @@ Firefox considers HSTS to be part of ``Site Preferences’’ in its ``Clear Recent 
 We automatically surveyed the top $100000$ sites in the Alexa global rankings\cite{alexa} by making \code{GET} requests to four root URLs each:
 
 \begin{itemize}
-\item \h
-\item \hw
-\item \s
-\item \sw
+\item {\h}
+\item {\hw}
+\item {\s}
+\item {\sw}
 \end{itemize}
 
 Although sites may use complicated HSTS mechanisms, we assume that front pages are a sufficient proxy of HSTS behavior. If sites are likely to go for maximum protection and/or simplest configuration, this is a fair assumption.
@@ -289,7 +289,7 @@ For the rest of this paper, we will discuss sites from two sources:
 \item Sites from the Chromium HSTS Preload list with \code{force-https} set to \code{true}.
 \end{itemize}
 
-Since there is no registry of sites using HSTS (the Chromium preload is closest) and no ``typical’’ site using HSTS
+Since there is no registry of sites using HSTS (the Chromium preload is closest) and no ``typical'' site using HSTS
 
 \subsection{Common \code{max-age} Settings}
 
@@ -315,11 +315,11 @@ We considered sites in the Alexa + Chromium dataset.
 
 Most sites redirect straight to 
 
-\subsection{Redirect straight to \s}
+\subsection{Redirect straight to {\s}}
 
-A plurality of sites redirect straight to a final destination of \s, where they serve an HSTS header.
+A plurality of sites redirect straight to a final destination of {\s}, where they serve an HSTS header.
 
-\subsection{Redirect straight to \sw}
+\subsection{Redirect straight to {\sw}}
 
 Redirecting through {\s} with HSTS.
 
@@ -332,23 +332,23 @@ Redirecting through {\s} with HSTS.
 
 \subsection{Permanently Insecure Redirects}
 
-A common pattern is to redirect to \sw~when the user types \site{\genericsite} into their browser. Assuming the parent domain is not on the preload list, the initial redirect is necessarily insecure on a fresh browser. If the site does not set an HSTS header for \s, then this insecure redirect occurs \emph{every time} the user types \site{\genericsite} into their browser.
+A common pattern is to redirect to {\sw} when the user types \site{\genericsite} into their browser. Assuming the parent domain is not on the preload list, the initial redirect is necessarily insecure on a fresh browser. If the site does not set an HSTS header for {\s}, then this insecure redirect occurs \emph{every time} the user types \site{\genericsite} into their browser.
 
-This is mitigated the browser cache retains an entry for \site{\genericsite}. However, it is undesirable to rely on the cache for such a critical security guarantee, and the protection does not apply for any other pages/resources on \h~except the specific cached URL.
+This is mitigated the browser cache retains an entry for \site{\genericsite}. However, it is undesirable to rely on the cache for such a critical security guarantee, and the protection does not apply for any other pages/resources on {\h} except the specific cached URL.
 
 \subsection{Unprotected Subdomains}
 
-Unless a site sets \iSD~on \s, neither of \s~or \sw~automatically set HSTS for each other. Assuming only one of these is visited by a normal user, the other will be unprotected.
+Unless a site sets {\iSD} on {\s}, neither of {\s} or {\sw} automatically set HSTS for each other. Assuming only one of these is visited by a normal user, the other will be unprotected.
 
 \subsection{Accidental HSTS Expiration}
 
-It is reasonable to send an HSTS header at \h~along with a $30x$ redirect to $\sw$. However, browsers may cache $301$ redirects  aggressively by default. The browser will send \h~visits directly to \sw, without visiting \s; thus, the browser will not see another HSTS header for \s, and HSTS will eventually expire once the {\ma} is reached. If the {\ma} is updated on the server, the browser will also not see the updated value.
+It is reasonable to send an HSTS header at {\h} along with a $30x$ redirect to {\sw}. However, browsers may cache $301$ redirects  aggressively by default. The browser will send {\h} visits directly to {\sw}, without visiting {\s}; thus, the browser will not see another HSTS header for {\s}, and HSTS will eventually expire once the {\ma} is reached. If the {\ma} is updated on the server, the browser will also not see the updated value.
 
 Again, this reduces the security guarantee for HSTS to the cache for known URLs, and will eventually fail to protect other resources.
 
 \subsection{Clerical Mistakes}
 
-$30\%$ of HSTS sites in our survey also send an HSTS header over \h~or \hw. While an RFC-conforming browser is required to ignore this, RFC 6797\cite{rfc} also states that:
+$30\%$ of HSTS sites in our survey also send an HSTS header over {\h} or {\hw}. While an RFC-conforming browser is required to ignore this, RFC 6797\cite{rfc} also states that:
 
 \begin{quotation}\it
 An HSTS Host MUST NOT include the STS header field in HTTP responses conveyed over non-secure transport.
@@ -362,12 +362,12 @@ In our scans, we also encountered various occasional mistakes, such as using a c
 
 \subsection{Canonical Subdomain}
 
-If the canonical domain for a site is \sw, the user may rarely load a page/resource from \s. This makes it more difficult to secure a fresh visit to \s, should the user visit it directly later. It also fails to protect any other subdomains.
+If the canonical domain for a site is {\sw}, the user may rarely load a page/resource from {\s}. This makes it more difficult to secure a fresh visit to {\s}, should the user visit it directly later. It also fails to protect any other subdomains.
 
 \subsection{Implications of \iSD}
 \label{includeSubDomains-issues}
 
-In practice, using \iSD~may mot be straightforward at the top-level (\s) of an existing site because there is at least one subdomain that may break over HSTS. Possibilities for this include:
+In practice, using {\iSD} may mot be straightforward at the top-level ({\s}) of an existing site because there is at least one subdomain that may break over HSTS. Possibilities for this include:
 
 \begin{itemize}
 \item Insecure resources will fail to load and break pages that worked over HTTPS without HSTS.
@@ -399,7 +399,7 @@ and serve well-formed  HSTS header:
 \begin{itemize}
 \item with every HTTPS request,
 \item with a long \code{max-age} (18 weeks minimum, $1$ year recommended), and
-\item with \iSD.
+\item with {\iSD}.
 \end{itemize}
 
 To be fully correct, the site must also:
@@ -408,7 +408,7 @@ To be fully correct, the site must also:
 \item never send an HSTS header over plain HTTP.
 \end{itemize}
 
-This protects all future requests to the site or any of its subdomains. If the canonical site is \s, any requests to the site will automatically extend the expiration date (including for subdomains).
+This protects all future requests to the site or any of its subdomains. If the canonical site is {\s}, any requests to the site will automatically extend the expiration date (including for subdomains).
 
 In addition, once a site is committed to HSTS, it should:
 \begin{itemize}
@@ -427,7 +427,7 @@ In addition, every visit extends the expiration of HSTS.
 
 Every site should aim to ramp up its \code{max-age} as high as possible (at least to the popular default of $6$ or $12$ months).
 
-As advocated in section $14.4$ of RFC 6797\cite{rfc}, a site should aim to send \code{includeSubdomains} whenever possible. Although section \ref{includeSubDomains-issues} discusses issues with \iSD~for \s, it is usually safe to send \iSD~on any particular subdomain, including \sw.
+As advocated in section $14.4$ of RFC 6797\cite{rfc}, a site should aim to send \code{includeSubdomains} whenever possible. Although section \ref{includeSubDomains-issues} discusses issues with {\iSD} for {\s}, it is usually safe to send {\iSD} on any particular subdomain, including {\sw}.
 
 \subsection{Redirect Immediately and Securely}
 
@@ -437,16 +437,16 @@ Any redirect served over HTTPS should include an HSTS header, to ensure that the
 
 A site should redirect HTTP requests to the HTTPS version the request before performing other canonicalization steps like adding/removing \code{www}. This ensures that HSTS will be applied to future redirects on the same domain.
 
-In case all the redirect URLS and final destinations of a site are protected using \iSD~at the destination, a two-hop redirect and a separate HSTS setting for the redirect (sub)domain may seem redundant. However, the first redirect will be eliminated once HSTS in place, and continues to protect the redirect in case \iSD~needs to be removed.
+In case all the redirect URLS and final destinations of a site are protected using {\iSD} at the destination, a two-hop redirect and a separate HSTS setting for the redirect (sub)domain may seem redundant. However, the first redirect will be eliminated once HSTS in place, and continues to protect the redirect in case {\iSD} needs to be removed.
 
-\subsection{Securing \s~from a subdomain}
+\subsection{Securing {\s} from a subdomain}
 
-If most pages are served from a subdomain like \sw, securing the entire domain requires an additional step. A simple solution is to make a request to an uncached HSTS-serving resource on \s, such as a $1$-pixel \code{<img>}. This is best done using a cache-control header, but simple cache-busting tricks work equally well.
+If most pages are served from a subdomain like {\sw}, securing the entire domain requires an additional step. A simple solution is to make a request to an uncached HSTS-serving resource on {\s}, such as a $1$-pixel \code{<img>}. This is best done using a cache-control header, but simple cache-busting tricks work equally well.
 
 This uncached-resource approach works in all current HSTS browsers. In case a site would like to minimize resource fetches, the particular HSTS resource can:
 \begin{itemize}
 \item send a short-lived \code{cache-control} header for the resource instead, and/or
-\item be configured not redirect from \s~to \sw.
+\item be configured not redirect from {\s} to {\sw}.
 \end{itemize}
 
 Such a solution is being used successfully in practice, e.g. by \site{https://www.icloud.com}.
@@ -455,7 +455,7 @@ Such a solution is being used successfully in practice, e.g. by \site{https://ww
 
 Although a site should serve a plain HTTP request once if it is received, it is useful to protect them from ever doing so, by making sure they are likely to visit over HTTPS first (and are protected from future insecure visits if HSTS is enabled).
 
-Once a site is committed to HTTPS, it should ensure that all links on the website are updated to HTTPS (or protocol-relative URLs) and that automatically generated links (e.g. shortened URLs, ``copy link’’ buttons, API-generated links) are generated with \code{https://}. This will help ensure that future incoming visits are secured immediately.
+Once a site is committed to HTTPS, it should ensure that all links on the website are updated to HTTPS (or protocol-relative URLs) and that automatically generated links (e.g. shortened URLs, ``copy link'' buttons, API-generated links) are generated with \code{https://}. This will help ensure that future incoming visits are secured immediately.
 
 
 \section{Conclusion}
