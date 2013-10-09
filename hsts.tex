@@ -114,6 +114,8 @@
 
 \maketitle
 
+\todo{Authors}
+
 % Page numbers on first page.
 \thispagestyle{fancy}
 
@@ -123,6 +125,8 @@ HSTS (HTTP Strict Transport Security) has gained significant browser and server 
 
 \section{Introduction}
 \label{sec:intro}
+
+\cite{coderrr-blog}
 
 \section{An Overview of HSTS}
 
@@ -295,6 +299,7 @@ The {\ma} values group naturally into several buckets, which are displayed in fi
 
 \section{Common Deployment Patterns}
 
+We considered sites in the Alexa + Chromium dataset.
 \todo{Clean up with final numbers}
 
 Most sites redirect straight to 
@@ -450,6 +455,8 @@ These results remind us that HSTS, while effective, should not be treated like s
 
 We note that most of the issues stem from the fact that HSTS can only protect the current domain and not subdomains. Our survey shows that sites are likely to end up with unintentional security weaknesses given the currently available information. Thus, we hope that future work will either address related domains at the specification level, or that the issues and solutions identified in this paper are clearly available to sites considering HSTS -- leading to a more secure web.
 
+
+\todo{Acknowledgments?}
 
 \bibliographystyle{./IEEEtran}
 \bibliography{hsts}
