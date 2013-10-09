@@ -1,69 +1,36 @@
-% Template appropriated from another paper. May contain lots of legacy commands.
+% THIS IS SIGPROC-SP.TEX - VERSION 3.1
+% WORKS WITH V3.2SP OF ACM_PROC_ARTICLE-SP.CLS
+% APRIL 2009
+%
+% It is an example file showing how to use the 'acm_proc_article-sp.cls' V3.2SP
+% LaTeX2e document class file for Conference Proceedings submissions.
+% ----------------------------------------------------------------------------------------------------------------
+% This .tex file (and associated .cls V3.2SP) *DOES NOT* produce:
+%       1) The Permission Statement
+%       2) The Conference (location) Info information
+%       3) The Copyright Line with ACM data
+%       4) Page numbering
+% ---------------------------------------------------------------------------------------------------------------
+% It is an example which *does* use the .bib file (from which the .bbl file
+% is produced).
+% REMEMBER HOWEVER: After having produced the .bbl file,
+% and prior to final submission,
+% you need to 'insert'  your .bbl file into your source .tex file so as to provide
+% ONE 'self-contained' source file.
+%
+% Questions regarding SIGS should be sent to
+% Adrienne Griscti ---> griscti@acm.org
+%
+% Questions/suggestions regarding the guidelines, .tex and .cls files, etc. to
+% Gerald Murray ---> murray@hq.acm.org
+%
+% For tracking purposes - this is V3.1SP - APRIL 2009
 
-%\documentclass[times,10pt,twocolumn]{article} 
-\documentclass[conference]{./IEEEtran}
-%\documentclass{./IEEEtran}
-\usepackage{amsmath, amsthm, amssymb, latexsym}
-%\usepackage{latex8}
-%\usepackage{times}
-
-\usepackage[hyphens]{url}
-\usepackage{pgfplots}
-\usepackage{array}
-\usepackage{multirow}
-\usepackage{subfigure}
-\usepackage{color}
-\usepackage{framed}
-\usepackage{graphicx}
-\usepackage{tkz-graph}
-\usepackage{bookmark}
-%\usepackage[pdfstartview=FitH,colorlinks,linkcolor=blue,citecolor=blue]{hyperref}
-
-\newcommand{\mysubsection}[1]{%
-  \medskip
-  \refstepcounter{subsection}%
-    \everypar={%
-      {\setbox0=\lastbox}% Remove the indentation
-      \addcontentsline{toc}{subsection}{#1}%
-      \textbf{{#1}.}
-      \everypar={}%
-    }%
-  \ignorespaces
-  % Dummy text in case there is no following text line (e.g. if the next thing is an itemize)
-  %{\ }
-  % TODO: MAKE SURE NO LINES ARE SWALLOWED BY THIS COMMAND.
-}
-
-\renewenvironment{leftbar}[1][\hsize]
-{%
-    \def\FrameCommand
-    {%
-        {\color{black}\vrule width 1pt}%
-        \hspace{0pt}%must no space.
-        \fboxsep=\FrameSep%
-    }%
-    \MakeFramed{\hsize#1\advance\hsize-\width\FrameRestore}%
-}
-{\endMakeFramed}
+% TODO: Remove these
 
 
-\newcommand{\algorithm}[2]{
-%\begin{left bar}
-\medskip
-{\large \sc {#1}}
-\medskip
-\hrule
-\smallskip
-{#2}
-\smallskip
-\hrule
-\medskip
-%\end{leftbar}
-}
-
-
-\newcommand{\todo}[1]{\textcolor{red}{\textbf{[TODO: #1]}}}
-\newcommand{\td}[2]{\textcolor{red}{\textbf{[TODO: {\it{#1}} #2]}}}
+\newcommand{\todo}[1]{{\textbf{[TODO: #1]}}}
+\newcommand{\td}[2]{{\textbf{[TODO: {\it{#1}} #2]}}}
 
 \newcommand{\site}[1]{\texttt{#1}}
 
@@ -80,48 +47,92 @@
 \newcommand{\sw}{{\site{https://www.\genericsite}}}
 
 
-% Display all indices for development.
-\newcommand{\draftonly}[1]{{\textcolor{orange}{#1}}}
-%\renewcommand{\draftonly}[1]{}
-
-% Theorem definitions
-\theoremstyle{plain} 
-\newtheorem{theorem}{Theorem}
-\newtheorem{definition}{Definition} 
-
-% For dev: page numbers with date.
-\usepackage{fancyhdr}
-\renewcommand{\headrulewidth}{0pt}
-\fancyfoot[C]{Page \thepage\draftonly{\ -- Version: \today}}
-\pagestyle{fancy}
+\documentclass{acm_proc_article-sp}
 
 \begin{document}
 
+\title{
+The State of HSTS Deployment:\\A Survey and Common Pitfalls
+}
+%
+% You need the command \numberofauthors to handle the 'placement
+% and alignment' of the authors beneath the title.
+%
+% For aesthetic reasons, we recommend 'three authors at a time'
+% i.e. three 'name/affiliation blocks' be placed beneath the title.
+%
+% NOTE: You are NOT restricted in how many 'rows' of
+% "name/affiliations" may appear. We just ask that you restrict
+% the number of 'columns' to three.
+%
+% Because of the available 'opening page real-estate'
+% we ask you to refrain from putting more than six authors
+% (two rows with three columns) beneath the article title.
+% More than six makes the first-page appear very cluttered indeed.
+%
+% Use the \alignauthor commands to handle the names
+% and affiliations for an 'aesthetic maximum' of six authors.
+% Add names, affiliations, addresses for
+% the seventh etc. author(s) as the argument for the
+% \additionalauthors command.
+% These 'additional authors' will be output/set for you
+% without further effort on your part as the last section in
+% the body of your article BEFORE References or any Appendices.
 
-\title{The State of HSTS Deployment:\\A Survey and Common Pitfalls}
+\numberofauthors{3} %  in this sample file, there are a *total*
+% of EIGHT authors. SIX appear on the 'first-page' (for formatting
+% reasons) and the remaining two appear in the \additionalauthors section.
+%
+\author{
+% You can go ahead and credit any number of authors here,
+% e.g. one 'row of three' or two rows (consisting of one row of three
+% and a second row of one, two or three).
+%
+% The command \alignauthor (no curly braces needed) should
+% precede each author name, affiliation/snail-mail address and
+% e-mail address. Additionally, tag each line of
+% affiliation/address with \affaddr, and tag the
+% e-mail address with \email.
+%
+% 1st. author
+\alignauthor
+Lucas Garron\\
+       \affaddr{Stanford University}\\
+       \email{lgarron@cs.stanford.edu}
+% 2nd. author
+\alignauthor
+Andrew Bortz\\
+       \affaddr{Dropbox}\\
+       \email{abortz@dropbox.com}
+\alignauthor
+% 3rd. author
+Dan Boneh\\
+       \affaddr{Stanford University}\\
+       \email{dabo@cs.stanford.edu}
+}
+% There's nothing stopping you putting the seventh, eighth, etc.
+% author on the opening page (as the 'third row') but we ask,
+% for aesthetic reasons that you place these 'additional authors'
+% in the \additional authors block, viz.
 
-\author{}
-
-% \author{
-% Roy Frostig, Dan Boneh \\
-% Stanford University \\
-% \{rf,dabo\}@cs.stanford.edu \\
-% \and
-% Nicko van Someren \\
-% Good Technology Inc. \\
-% nicko@good.com
-% }
+\date{October 08, 2013}
+% Just remember to make sure that the TOTAL number of authors
+% is the number that will appear on the first page PLUS the
+% number that will appear in the \additionalauthors section.
 
 \maketitle
-
-\todo{Authors}
-
-% Page numbers on first page.
-\thispagestyle{fancy}
-
 \begin{abstract}
-HSTS (HTTP Strict Transport Security) has gained significant browser and server adoption since reaching IETF proposed status. However, there are several important deployment challenges. A scan of top websites reveals that many HSTS sites have not properly configured the HSTS header, which still leaves them open to some attacks HSTS is meant to solve. We survey the current state of deployment and describe common mistakes and difficulties with HSTS configuration. We conclude with approaches for properly deploying HSTS as effectively as possible.
-\end{abstract}
+HSTS (HTTP Strict Transport Security) has gained significant browser and server adoption since reaching IETF proposed status. However, there are several important deployment challenges. A scan of top websites reveals that many HSTS sites have not properly configured the HSTS header, which still leaves them open to some attacks HSTS is meant to solve. We survey the current state of deployment and describe common mistakes and difficulties with HSTS configuration. We conclude with approaches for properly deploying HSTS as effectively as possible.\end{abstract}
+
+% A category with the (minimum) three required fields
+%\category{H.4}{Information Systems Applications}{Miscellaneous}
+%A category including the fourth, optional field follows...
+%\category{D.2.8}{Software Engineering}{Metrics}[complexity measures, performance measures]
+
+\terms{Theory}
+
+% \keywords{ACM proceedings, \LaTeX, text tagging} % NOT required for Proceedings
+
 
 \section{Introduction}
 \label{sec:intro}
@@ -134,7 +145,7 @@ HSTS (HTTP Strict Transport Security) is a header that a host sends to user agen
 
 There are three significantly distinct ways to send the HSTS header; these are described clearly in RFC 6797\cite{rfc}:
 
-\quotation{\it
+{\quotation{\it
 The HSTS header field below stipulates that the HSTS Policy is to
 remain in effect for one year... and the policy applies only to the domain of the
 HSTS Host issuing it:
@@ -159,7 +170,7 @@ field:
 \quotedcode{
 Strict-Transport-Security: max-age=0
 }
-}
+}}
 
 The specification also states that the HSTS must only be sent and accepted over HTTPS, and that the \iSD~directive is ignored for domains when `max-age=0`.
 
@@ -458,7 +469,7 @@ We note that most of the issues stem from the fact that HSTS can only protect th
 
 \todo{Acknowledgments?}
 
-\bibliographystyle{./IEEEtran}
-\bibliography{hsts}
+\bibliographystyle{abbrv}
+\bibliography{hsts}  % sigproc.bib is the name of the Bibliography in this 
 
 \end{document}
