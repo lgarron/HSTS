@@ -46,6 +46,8 @@
 \newcommand{\hw}{{\site{http://{\allowbreak}www.\genericsite}}}
 \newcommand{\sw}{{\site{https://{\allowbreak}www.\genericsite}}}
 
+\newcommand{\firstsubsectionskip}{{\vspace{1em}}}
+
 
 \documentclass{acm_proc_article-sp}
 
@@ -129,7 +131,7 @@ HSTS (HTTP Strict Transport Security) has gained significant browser and server 
 %A category including the fourth, optional field follows...
 %\category{D.2.8}{Software Engineering}{Metrics}[complexity measures, performance measures]
 
-\terms{Theory}
+%\terms{Theory}
 
 % \keywords{ACM proceedings, \LaTeX, text tagging} % NOT required for Proceedings
 
@@ -138,6 +140,7 @@ HSTS (HTTP Strict Transport Security) has gained significant browser and server 
 \label{sec:intro}
 
 \cite{coderrr-blog}
+\cite{tack}
 
 \section{An Overview of HSTS}
 
@@ -152,17 +155,18 @@ HSTS Host issuing it:
 
 \quotedcode{
 Strict-Transport-Security: max-age=31536000
-}
-
+}}}
+{\quotation{\it
 The HSTS header field below stipulates that the HSTS Policy is to
 remain in effect for approximately six months and that the policy
 applies to the domain of the issuing HSTS Host and all of its
 subdomains:
 
 \quotedcode{
-Strict-Transport-Security: max-age=15768000 ; includeSubDomains
-}
-
+\noindent Strict-Transport-Security:\\
+\indent\indent max-age=15768000 ; includeSubDomains
+}}}
+{\quotation{\it
 The HSTS header field below indicates that the UA must delete the
 entire HSTS Policy associated with the HSTS Host that sent the header
 field:
@@ -172,12 +176,12 @@ Strict-Transport-Security: max-age=0
 }
 }}
 
-The specification also states that the HSTS must only be sent and accepted over HTTPS, and that the {\iSD} directive is ignored for domains when `max-age=0`.
+The specification also states that the HSTS must only be sent and accepted over HTTPS, and that the {\iSD} directive is ignored for domains when \code{max-age=0}.
 
-In addition, all browsers currently supporting HSTS also ship with a ``pre-loaded'' list of known HSTS hosts.
+In addition, all browsers currently supporting HSTS also ship with a list of known HSTS hosts, called the ``pre-loaded'' / ``preload'' list.
 
 \section{Browser Considerations}
-
+\firstsubsectionskip
 \subsection{HSTS Browser Support}
 
 As of September 29, 2013, HSTS is currently supported in the desktop versions of Chrome, Firefox, and Opera. It is not supported in Internet Explorer or Safari.\cite{support}
@@ -223,7 +227,7 @@ The Firefox preload list also includes an expiration time: each script run sets 
 Firefox considers HSTS to be part of ``Site Preferences'' in its ``Clear Recent History'' feature.
 
 \section{Current Deployment}
-
+\firstsubsectionskip
 \subsection{Alexa Top $100000$ Sites}
 
 We automatically surveyed the top $100000$ sites in the Alexa global rankings\cite{alexa} by making \code{GET} requests to four root URLs each:
@@ -234,6 +238,8 @@ We automatically surveyed the top $100000$ sites in the Alexa global rankings\ci
 \item {\s}
 \item {\sw}
 \end{itemize}
+
+(Where {\site{\genericsite}} represents the domain.)
 
 Although sites may use complicated HSTS mechanisms, we assume that front pages are a sufficient proxy of HSTS behavior. If sites are likely to go for maximum protection and/or simplest configuration, this is a fair assumption.
 
@@ -270,7 +276,7 @@ $\#$ top sites & HTTPS & HSTS & incl. sub. & \code{max-age=0} \\
 \label{table:alexa}
 \end{table}%
 
-These numbers were found by using a \code{python} script using the \code{scrapy}\cite{scrapy} library with a current Google Chrome user agent string \code{Mozilla/5.0 (Macintosh; Intel Mac OS X 10\_8\_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36}. All results are from early October 2013. Although we accepted any status code, we only considered initial responses (i.e. no redirects), since a primary goal is to secure the initial landing.
+These numbers were found by using a \code{python} script using the \code{scrapy}\cite{scrapy} library with a current Google Chrome user agent string\footnote{\code{Mozilla/5.0 (Macintosh; Intel Mac OS X 10\_8\_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36}}. All results are from early October 2013. Although we accepted any status code, we only considered initial responses (i.e. no redirects), since a primary goal is to secure the initial landing.
 
 \begin{figure}[h!]
 \begin{center}
@@ -329,7 +335,7 @@ Redirecting through {\s} with HSTS.
 
 \section{Common Mistakes}
 % \todo{Or, as Buzzfeed would call it: 3 Ways Your "Secure" Site is Horribly Broken.}
-
+\firstsubsectionskip
 \subsection{Permanently Insecure Redirects}
 
 A common pattern is to redirect to {\sw} when the user types \site{\genericsite} into their browser. Assuming the parent domain is not on the preload list, the initial redirect is necessarily insecure on a fresh browser. If the site does not set an HSTS header for {\s}, then this insecure redirect occurs \emph{every time} the user types \site{\genericsite} into their browser.
@@ -359,7 +365,7 @@ Sending the header over plain HTTP suggests an unfamiliarity with HSTS, apathy t
 In our scans, we also encountered various occasional mistakes, such as using a comma instead of a semicolon, sending an integer value without \code{max-age=}, including the \code{must-revalidate} directive (thus resembling a cache-control header), or removing the hyphen from \code{max-age}. A few sites, including \code{paypal.com}, also send two HSTS headers in the same request.
 
 \section{Issues with Improving HSTS Configuration}
-
+\firstsubsectionskip
 \subsection{Canonical Subdomain}
 
 If the canonical domain for a site is {\sw}, the user may rarely load a page/resource from {\s}. This makes it more difficult to secure a fresh visit to {\s}, should the user visit it directly later. It also fails to protect any other subdomains.
@@ -465,9 +471,6 @@ We described the current state of HSTS in the specification and browser implemen
 These results remind us that HSTS, while effective, should not be treated like snake oil. Sites must be aware of HSTS details, and we hope this paper provides many of the details helpful for making the correct choices about initial and continued deployment.
 
 We note that most of the issues stem from the fact that HSTS can only protect the current domain and not subdomains. Our survey shows that sites are likely to end up with unintentional security weaknesses given the currently available information. Thus, we hope that future work will either address related domains at the specification level, or that the issues and solutions identified in this paper are clearly available to sites considering HSTS -- leading to a more secure web.
-
-
-\todo{Acknowledgments?}
 
 \bibliographystyle{abbrv}
 \bibliography{hsts}  % sigproc.bib is the name of the Bibliography in this 
