@@ -139,12 +139,21 @@ HSTS (HTTP Strict Transport Security) has gained significant browser and server 
 \section{Introduction}
 \label{sec:intro}
 
-\cite{coderrr-blog}
-\cite{tack}
+Although HTTPS can be fairly effective defense against against passive and active attacks, many sites still accept requests over plain HTTP. The HSTS (HTTP Strict Transport Security) browser mechanism helps sites ensure security by avoiding plain HTTP. HSTS is now implemented in three of five major browsers and has seen significant uptake by security-conscious sites -- such as Google, Paypal, Twitter, Stripe, and iCloud.
 
-\section{An Overview of HSTS}
+The core benefit of HSTS is that it allows any host response to specify a {\code{Strict-Transport-Security} header. This creates an entry in the browser that causes all future resource loads from the domain to be sent over HTTPS. If a browser has an HSTS entry for a host, this mitigates a wide variety of attacks, such as eavesdropping, injection/redirection, HTTPS stripping, and DNS spoofing.
 
-HSTS (HTTP Strict Transport Security) is a header that a host sends to user agents to request heightened security for a domain. In particular, a conform any browser header that has received an HSTS header from {\h} will will automatically load future all requests to the site from {\s} instead. Thus, HSTS generally touted as a mechanism to ``transform insecure URI references\ldots into secure URI references''. However, it also also enforces strict security in related mechanisms, such as preventing mixed content and ``click-through'' certificate overrides\cite{rfc}.
+However, consider the situation where a user types {\site{\genericsite}} into their browser and is redirected to the canonical domain {\sw}. If the site only sends an HSTS header over {\sw}, future requests without \code{www} will not be secured (e.g. when the user types in the same URL or clicks a link to the unsecured domain). Thus, part of the domain is still suffers from the vulnerabilities HSTS was meant to address.
+
+There are several countermeasures to improve the strength and practicality of HSTS: HSTS provides the {\iSD} directive to protect subdomains of responses. In addition, browsers supporting HSTS ship with a list of preloaded HSTS entries that sites may request to be included in. There are also active efforts for related mechanisms, such as TACK\cite{tack} and other pinning mechanisms. However, these do not intrinsically guard against issues like our redirection example. Related domains and URL canonicalization can easily bypass the intention of HSTS, and deployment for a real-world site can benefit from consideration of browser details like HSTS implementation details and the cache mechanism.
+
+Although some of these issues have been noted as early as 2010\cite{coderrr-blog}, they are not discussed in popular descriptions of HSTS, and many sites still appear to be unaware of them.
+
+\subsection{An Overview of HSTS}
+
+HSTS (HTTP Strict Transport Security) is a browser security mechanism introduced as ForceHTTPS in 2008 by Jackson and Barth\cite{forcehttps} and accepted for the IETF Standards Track in 2012\cite{rfc}. The introduction to RFC 6787 provides a good overview and history of HSTS.
+
+HSTS is a header ({\code{Strict-Transport-Security}}) that a host sends to user agents to request heightened security for a domain. In particular, a conform any browser header that has received an HSTS header from {\h} will will automatically load future all requests to the site from {\s} instead. Thus, HSTS generally touted as a mechanism to ``transform insecure URI references\ldots into secure URI references''. However, it also also enforces strict security in related mechanisms, such as preventing mixed content and ``click-through'' certificate overrides\cite{rfc}.
 
 There are three significantly distinct ways to send the HSTS header; these are described clearly in RFC 6797\cite{rfc}:
 
@@ -163,8 +172,7 @@ applies to the domain of the issuing HSTS Host and all of its
 subdomains:
 
 \quotedcode{
-\noindent Strict-Transport-Security:\\
-\indent\indent max-age=15768000 ; includeSubDomains
+\noindent Strict-Transport-Security: max-age=15768000 ; includeSubDomains
 }}}
 {\quotation{\it
 The HSTS header field below indicates that the UA must delete the
