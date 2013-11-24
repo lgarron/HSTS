@@ -34,6 +34,10 @@ def exclude(e, url):
   if print_success: print("[adding to excludes]", url, "[", exceptionName, "]")
   return (None, exceptionName)
 
+
+  [{"status": 301, "index": "10004", "www": "", "protocol": "http", "hsts": null, "url": "instyle.com", "location": "http://www.instyle.com/"},
+items = []
+
 def load(url):
 
   # print("\n###", url)
