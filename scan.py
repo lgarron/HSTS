@@ -126,7 +126,7 @@ def go(domain):
   kind_plain = "".join([brac(" ".join([canon[-1] for canon in chain])) for chain in k])
   kind_hsts = "".join([brac(" ".join(["".join(canon) for canon in chain])) for chain in k])
   sub = "sub" if is_subdomain(domain) else "top"
-  print(kind_end + "," + kind_plain + "," + kind_hsts + "," + sub + "," + domain)
+  print(kind_hsts + "," + sub + "," + domain)
 
 inFile = open("data/hsts_list_test.csv", "r")
 inFile = open("data/hsts_list.csv", "r")
